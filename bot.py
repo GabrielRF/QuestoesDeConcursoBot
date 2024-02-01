@@ -2,12 +2,26 @@ from utils import anuncieaqui
 import os
 import random
 import redis
+import sqlite3
 import telebot
 import time
 import yaml
 
 TOKEN = open('utils/token.conf', 'r').read().strip()
 bot = telebot.TeleBot(TOKEN)
+db = 'utils/usuarios.sqlite'
+
+def verifica_e_adiciona_usuario(user_id):
+    conn = sqlite3.connect(db)
+    cursor = conn.cursor()
+    cursor.execute("SELECT * FROM usuarios WHERE user_id=?", (user_id,))
+    existing_user = cursor.fetchone()
+
+    if not existing_user:
+        cursor.execute("INSERT INTO usuarios (user_id) VALUES (?)", (user_id,))
+        conn.commit()
+
+    conn.close()
 
 def inicia_tempo(user_id):
     redis_set(f'{user_id}_tempo', time.time())
@@ -194,6 +208,7 @@ def parar_questoes(message):
 
 @bot.message_handler(commands=["start", "bancas", "Bancas"])
 def definir_banca(message):
+    verifica_e_adiciona_usuario(message.from_user.id)
     initial_commands(message.from_user.id)
     bancas = os.listdir('questoes')
     button = telebot.types.InlineKeyboardMarkup()
