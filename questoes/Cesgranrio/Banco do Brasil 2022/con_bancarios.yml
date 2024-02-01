@@ -1,0 +1,53 @@
+---
+materia: Conhecimentos Bancários
+questoes:
+- cargo: Agente de tecnologia
+  enunciado: |
+    Ao decidir pela aplicação em um ativo financeiro, os investidores levam em conta a chamada taxa de juros real _ex-ante_.
+    Se eles considerarem a taxa de juros SELIC, o índice da taxa de juros real ex-ante para os próximos 12 meses é entendido como o índice da
+  alternativas:
+    - SELIC nominal esperada para os próximos 12 meses, descontado o índice da inflação esperada para os próximos 12 meses.
+    - SELIC nominal esperada para os próximos 12 meses, descontado o índice da variação cambial esperada para os próximos 12 meses.
+    - SELIC nominal acumulada nos últimos 12 meses, descontado o índice de variação cambial acumulada nos últimos 12 meses.
+    - SELIC nominal acumulada nos últimos 12 meses, descontado o índice da inflação acumulada nos últimos 12 meses.
+    - SELIC nominal acumulada nos últimos 12 meses, descontado o índice de impostos acumulados nos últimos 12 meses, incidentes sobre os rendimentos do ativo.
+- cargo: Agente de tecnologia
+  enunciado: As operações diárias de compra e venda de divisas estrangeiras (dólares, euros, libras esterlinas, dentre outras) são parte integrante do mercado
+  alternativas:
+    - cambial
+    - monetário
+    - acionário
+    - creditício
+    - de trabalho
+- cargo: Agente de tecnologia
+  enunciado: |
+    A equação da paridade dos juros, a descoberto, estabelece que:
+    taxa de juros interna – taxa de juros externa = expectativas de depreciação da moeda nacional em relação ao Dólar americano + risco-país
+    Admita-se que a deterioração de indicadores macroeconômicos fundamentais no Brasil, como o déficit fiscal e o déficit em transações correntes do balanço de pagamentos, provoque o aumento do risco-país e a fuga de capitais estrangeiros do Brasil.
+    Se a equação de paridade dos juros for aplicada ao caso brasileiro, supondo-se que todos os demais indicadores econômicos permaneçam constantes, para que os influxos de capitais estrangeiros no Brasil voltem a se estabilizar, será necessário
+  alternativas:
+    - aumentar a taxa de juros interna.
+    - aumentar o risco-país.
+    - aumentar a taxa de juros externa.
+    - reduzir a taxa de juros interna.
+    - depreciar o Real brasileiro em relação ao Dólar americano.
+- cargo: Agente de tecnologia
+  enunciado: |
+    Considere-se a execução, em determinado ano, do orçamento público consolidado do Brasil.
+    Se, no final desse mesmo ano, o total das despesas primárias relativas a gastos em custeio e investimento – excluídas as despesas de juros incidentes sobre o estoque da dívida pública – tiver sido superior ao total das receitas de impostos arrecadados, o governo brasileiro terá fechado o ano com
+  alternativas:
+    - déficit fiscal primário
+    - déficit fiscal nominal
+    - superávit fiscal primário
+    - superávit fiscal nominal
+    - orçamento equilibrado
+- cargo: Agente de tecnologia
+  enunciado: |
+    Um pesquisador na área de finanças públicas e privadas atua, também, como consultor de negócios. Em determinado momento, recebe proposta para assessorar empresário que deseja constituir sociedade para negociar informações constantes de dados de instituições financeiras. Tal atividade não é autorizada pela legislação.
+    O pesquisador aduz que, consoante a Lei Complementar no 105/2001, devem observar o sigilo em suas operações ativas e passivas e serviços prestados diversas instituições financeiras, dentre as quais administradoras de
+  alternativas:
+    - mercado de balcão organizado
+    - imóveis urbanos
+    - locação de móveis
+    - empréstimo de automóveis
+    - bens antigos de raridade comprovada

@@ -1,0 +1,59 @@
+---
+materia: Língua Inglesa
+questoes:
+- cargo: Agente de tecnologia
+  enunciado: |
+    1. What we call “money” has always been a moving target. It changes appearance and value. Here are five key developments in the history of money that have impacted how we earn, save and spend today.
+    2. Cash Cows - Before humans had money, they had stuff. In ancient times, when you had stuff other people wanted, you bartered it for stuff you wanted. Around 9000 BC, the most popular commodities included things like cattle, sheep and camels. This was fine when people bartered close to home, but bulky creatures are cumbersome and difficult to transport. As people started to venture farther afield to trade, a more portable option became essential.
+    3. In 1200 BC people started using cowries—the shells of marine mollusks taken from oceans. They were recognized as precious, and their use spread across Asia, Africa, Oceania and Europe. Having been in use for centuries — even into the 20th century in some places—cowries win the prize as the world’s longest-running currency. 
+    4. Three Coins in the Fountain - The issue with bartering became assigning value: Just how much was a cowrie or a cow worth? So, agreeing on the value of money became essential. It was the Lydians, around 600 BC, who get credit for a critical step in this process: fashioning the first known coins, which were made of a gold and silver alloy.
+    5. The metal used to make a coin—along with its weight—was important, as it denoted the money’s value. Moreover, as coins gained popularity, so did the idea of adorning them with locally inspired designs. Coins were money, but they now doubled as a historic record. Eventually, they took on even more uses: People flipped them to make decisions and tossed them into wells while making wishes. They may be used less in 2020, but coins have been an integral part of our culture for centuries.
+    6. The Paper Chase - Coins were obviously lighter and easier to transport than cows, but carrying bags of heavy metal still wasn’t very practical. China’s Tang Dynasty, in the seventh century, came up with a smart solution, namely, paper money. It was super-light and could feature even richer designs than coins, and it promised a certain amount of purchasing power.
+    7. Gold Rush - One of the problems, though, was that counterfeiters had great success with paper bills. The bigger problem came when governments faced economic crises; it was far too easy to print more paper money, which led to skyrocketing inflation. Paper needed a backup—something universally valued yet not easily replicated. Something like gold.
+    8. The “gold standard” let governments create a fixed price for this precious metal that was tied directly to the value of their currency. In the United States, the idea took root in the late 17th century, and it spread to Europe in the 19th century. But confidence in the gold standard crumbled during World War I, and it soon became apparent that in order to thrive, currencies needed the freedom to fluctuate dynamically against each other. The gold standard was dropped in the United States in 1933, and a global economy started to take shape.
+    9. The E-Buck Stops Here? - Cows, cowries, coins, paper, gold: Money has always had a physical presence. But today, it is quickly evolving into numbers that float through the ether. This modern era of money began in 1946 with the first bank-issued charge card. Credit cards followed some 12 years later, still related to dollars. However, technology, with cryptocurrencies like Bitcoin, is changing the world’s definition of “money.”
+    10. Now, social media companies and entire countries are considering digital currencies of their own. Meanwhile, artificial intelligence is growing eversmarter, and perhaps one day soon your budget and expenses will be managing themselves. The debate rages about exactly where we are headed, but with history as our guide, the one thing we can absolutely count on is the inevitability of change.
+    `Available at: https://www.synchronybank.com/blog/brief-history--of-money/. Retrieved on: Sept 10, 2022. Adapted`
+
+    _The main purpose of the text is to:_
+  alternativas:
+    - present a brief history of money.
+    - relate the history of money with wars.
+    - regret society’s attitude regarding money.
+    - deny the importance of money to humankind.
+    - describe the relevance of money in the world.
+  explicacao: Copiei do Gabarito.
+- cargo: Agente de tecnologia
+  enunciado: |
+    In the fragment in the fourth paragraph of the text,
+
+    It was the Lydians, around 600 BC, *who* get credit for a critical step in this process: fashioning the first known coins, *which* were made of a gold and silver alloy
+
+    the words in bold refer respectively to:
+  alternativas:
+    - Lydians – coins
+    - BC – coins
+    - 600 BC – first
+    - 600 BC – coins
+    - Lydians – known
+- cargo: Agente de tecnologia
+  enunciado: |
+    In the paragraph below, the author mentions that paper money circulated in
+    ```
+    The Paper Chase - Coins were obviously lighter and easier to transport than cows, but carrying bags of heavy metal still wasn’t very practical. China’s Tang Dynasty, in the seventh century, came up with a smart solution, namely, paper money. It was super-light and could feature even richer designs than coins, and it promised a certain amount of purchasing power.
+    ```
+  alternativas:
+    - China
+    - Italy
+    - England
+    - Australia
+    - Germany
+- cargo: Agente de tecnologia
+  enunciado: |
+    In the fragment in the seventh paragraph of the text “One of the problems, *though*, was that counterfeiters had great success with paper bills”, the word in *bold* is associated with the idea of
+  alternativas:
+    - avoid inflation and corruption
+    - manage bank accounts.
+    - prevent money changes.
+    - eliminate exchange rates.
+    - control financial resources.
