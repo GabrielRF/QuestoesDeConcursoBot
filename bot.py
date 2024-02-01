@@ -126,7 +126,7 @@ def bancas_query(query):
     banca = f'{query.data.replace("Banca ", "")}'
     concursos = os.listdir(f'questoes/{banca}')
     button = telebot.types.InlineKeyboardMarkup()
-    for concurso in sorted(concursos):
+    for concurso in reversed(sorted(concursos)):
         button.row(
             telebot.types.InlineKeyboardButton(
                 concurso,
@@ -184,7 +184,7 @@ def informacoes(message):
         '📚 <b>@QuestoesDeConcursoBot</b>\n\n'
         '🔧 Código fonte e envio questões:\n' +
         'https://github.com/GabrielRF/QuestoesDeConcursoBot\n\n' +
-        '🤖 Author: @GabrielRF'
+        '🤖 Autor: @GabrielRF'
     )
     bot.send_message(
         message.from_user.id,

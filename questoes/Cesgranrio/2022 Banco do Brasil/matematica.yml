@@ -17,7 +17,6 @@ questoes:
     - coordenadora, presidente e gerente
     - presidente, gerente e coordenadora
     - presidente, coordenadora e gerente
-  explicacao: É legal sim.
 - cargo: Agente de tecnologia
   enunciado: Agora, são H horas e M minutos. Considerando-se apenas as 24 horas do dia de hoje, 3/7 do tempo que já se passou correspondem exatamente ao tempo que falta para a meia noite. Dessa forma, H+M é igual a
   alternativas:
@@ -26,7 +25,6 @@ questoes:
     - 24
     - 37
     - 96
-  explicacao: Resposta é 64.
 - cargo: Agente de tecnologia
   enunciado: Uma fábrica vende mensalmente 200 malas a R$ 300,00 cada. O departamento de vendas trabalha com a hipótese de que cada aumento de R$ 10,00 no preço de cada mala implica a venda mensal de 20 malas a menos. Por exemplo, em um mês em que cada mala foi vendida por R$ 320,00, foram vendidas 160 malas. Suponha que a hipótese esteja correta e que, em um determinado mês, cada mala foi vendida por (300 + 10x) reais, sendo x o número inteiro de aumentos de R$ 10,00, tal que 0 < x < 10. Nesse mês, com a venda dessas malas, o valor y, em reais, arrecadado, em função de x, é dado por
   alternativas:
@@ -35,4 +33,3 @@ questoes:
     - y = - 200x2 - 4000x + 63600
     - y = - 200x2 - 5800x + 60000
     - y = - 200x2 - 4800x + 60800
-  explicacao: Não tem explicação

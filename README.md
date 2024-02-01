@@ -15,14 +15,14 @@ A organização das questões segue o esquema abaixo:
 ```
     📂 questoes
         📂 <Banca 1>
-            📂 <Nome do Concurso e ano>
+            📂 <Ano e Nome do Concurso>
                 📝 <Matéria 1.yml>
                 📝 <Matéria 2.yml>
         📂 <Banca 2>
-            📂 <Nome do concurso 1 e ano>
+            📂 <Ano e Nome do concurso 1>
                 📝 <Matéria 1.yml>
                 📝 <Matéria 2.yml>
-            📂 <Nome do concurso 2 e ano>
+            📂 <Ano e Nome do concurso 2>
                 📝 <Matéria 1.yml>
                 🖼 <Imagem Questão 1.jpg>
                 📝 <Matéria 2.yml>
