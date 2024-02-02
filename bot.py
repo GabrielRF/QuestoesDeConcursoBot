@@ -10,6 +10,7 @@ import yaml
 TOKEN = open('utils/token.conf', 'r').read().strip()
 bot = telebot.TeleBot(TOKEN)
 db = 'utils/usuarios.sqlite'
+paginacao = 4
 
 def verifica_e_adiciona_usuario(user_id):
     conn = sqlite3.connect(db)
@@ -96,13 +97,20 @@ def get_materia_name(caminho):
         materia_nome_completo=caminho.split('#')[-1]
     return materia_nome_completo
 
-def concurso_query(query):
-    remove_button_and_edit(query)
-    banca, concurso = query.data.split('#')
-    redis_set(query.from_user.id, f'{banca}#{concurso}')
+def concurso_query(query, page=0):
+    try:
+        banca, concurso = query.data.split('#')
+        redis_set(query.from_user.id, f'{banca}#{concurso}')
+        remove_button_and_edit(query)
+    except ValueError:
+        banca, concurso = redis_get(query.from_user.id).split('#')
+        bot.delete_message(query.from_user.id, query.message.id)
     button = telebot.types.InlineKeyboardMarkup()
     materias = os.listdir(f'questoes/{banca}/{concurso}')
-    for materia in sorted(materias):
+    materias = sorted(materias)
+    start = page*paginacao
+    end = (page+1)*paginacao
+    for materia in sorted(materias)[start:end]:
         with open(f'questoes/{banca}/{concurso}/{materia}', 'r') as arquivo:
             arquivo_questoes = yaml.safe_load(arquivo)
         materia_nome_completo = get_materia_name(f'{banca}/{concurso}/{materia}')
@@ -114,6 +122,21 @@ def concurso_query(query):
                 callback_data=f'{banca}#{concurso}#{materia}'
             )
         )
+    botao_voltar = telebot.types.InlineKeyboardButton(
+        '« Anterior',
+        callback_data=f'page_materia {page-1}'
+    )
+    botao_avancar = telebot.types.InlineKeyboardButton(
+        'Próxima »',
+        callback_data=f'page_materia {page+1}'
+    )
+    if len(materias) > paginacao:
+        if start == 0:
+            button.row(botao_avancar)
+        elif end >= len(materias):
+            button.row(botao_voltar)
+        else:
+            button.row(botao_voltar, botao_avancar)
     materia_msg = bot.send_message(
         query.from_user.id,
         'Escolha a matéria:',
@@ -160,6 +183,9 @@ def banca_query(query):
         pass
     if 'Banca ' in query.data:
         bancas_query(query)
+    elif 'page_materia ' in query.data:
+        page = query.data.split(' ')[1]
+        concurso_query(query,int(page))
     elif len(query.data.split('#')) == 2:
         concurso_query(query)
     else:
