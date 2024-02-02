@@ -44,6 +44,13 @@ def remove_button(user_id):
         redis_get(f'{user_id}#botao_id')
     )
 
+def new_button_and_edit(user_id, message_id, button):
+    return bot.edit_message_reply_markup(
+        user_id,
+        message_id,
+        reply_markup=button
+    )
+
 def remove_button_and_edit(query):
     clicked_data = query.data
     for data in query.json['message']['reply_markup']['inline_keyboard']:
@@ -102,9 +109,11 @@ def concurso_query(query, page=0):
         banca, concurso = query.data.split('#')
         redis_set(query.from_user.id, f'{banca}#{concurso}')
         remove_button_and_edit(query)
+        editar=False
     except ValueError:
         banca, concurso = redis_get(query.from_user.id).split('#')
-        bot.delete_message(query.from_user.id, query.message.id)
+        editar=True
+        #bot.delete_message(query.from_user.id, query.message.id)
     button = telebot.types.InlineKeyboardMarkup()
     materias = os.listdir(f'questoes/{banca}/{concurso}')
     materias = sorted(materias)
@@ -137,11 +146,19 @@ def concurso_query(query, page=0):
             button.row(botao_voltar)
         else:
             button.row(botao_voltar, botao_avancar)
-    materia_msg = bot.send_message(
-        query.from_user.id,
-        'Escolha a matéria:',
-        reply_markup=button
-    )
+    message_text = 'Escolha uma matéria:'
+    if editar:
+        materia_msg = new_button_and_edit(
+            query.from_user.id,
+            query.message.id,
+            button
+        )
+    else:
+        materia_msg = bot.send_message(
+            query.from_user.id,
+            message_text,
+            reply_markup=button
+        )
     redis_set(f'{query.from_user.id}#botao_id', materia_msg.id)
 
 def bancas_query(query):
