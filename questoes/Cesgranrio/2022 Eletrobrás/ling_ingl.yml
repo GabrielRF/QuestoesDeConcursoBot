@@ -1,111 +1,102 @@
 ---
 materia: Língua Inglesa
 questoes:
-- cargo: Engenheiro de Telecomunicações
-  enunciado: |
-    The controversial future of nuclear power in the U.S.
-    Lois Parshley
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      The controversial future of nuclear power in the U.S.
+      Lois Parshley
 
-    1. President Joe Biden has set ambitious goals for fighting climate change: To cut U.S. carbon emissions in half by 2030 and to have a net-zero carbon economy by 2050. The plan requires electricity generation – the easiest economic sector to green, analysts say – to be carbon-free by 2035.
-    2. A few figures from the U.S. Energy Information Administration (EIA) illustrate the challenge. In 2020 the United States generated about four trillion kilowatt-hours of electricity. Some 60 percent of that came from burning fossil fuels, mostly natural gas, in some 10,000 generators, large and small, around the country. All of that electricity will need to be replaced - and more, because demand for electricity is expected to rise, especially if we power more cars with it.
-    3. Renewable energy sources like solar and wind have grown faster than expected; together with hydroelectric, they surpassed coal for the first time ever in 2019 and now produce 20 percent of U.S. electricity. In February the EIA projected that renewables were on track to produce more than 40 percent by 2050 - remarkable growth, perhaps, but still well short of what’s needed to decarbonize the grid by 2035 and forestall the climate crisis.
-    4. This daunting challenge has recently led some environmentalists to reconsider an alternative they had long been wary of: nuclear power.
-    5. Nuclear power has a lot going for it. Its carbon footprint is equivalent to wind, less than solar, and orders of magnitude less than coal. Nuclear power plants take up far less space on the landscape than solar or wind farms, and they produce power even at night or on calm days. In 2020 they generated as much electricity in the U.S. as renewables did, a fifth of the total.
-    6. But debates rage over whether nuclear should be a big part of the climate solution in the U.S. The majority of American nuclear plants today are approaching the end of their design life, and only one has been built in the last 20 years. Nuclear proponents are now banking on next-generation designs, like small, modular versions of conventional light-water reactors, or advanced reactors designed to be safer, cheaper, and more flexible.
-    7. “We’ve innovated so little in the past half-century, there’s a lot of ground to gain,” says Ashley Finan, the director of the National Reactor Innovation Center at the Idaho National Laboratory. Yet an expansion of nuclear power faces some serious hurdles, and the perennial concerns about safety and long-lived radioactive waste may not be the biggest: Critics also say nuclear reactors are simply too expensive and take too long to build to be of much help with the climate crisis.
-    8. While environmental opposition may have been the primary force hindering nuclear development in the 1980s and 90s, now the biggest challenge may be costs. Few nuclear plants have been built in the U.S. recently because they are very expensive to build here, which makes the price of their energy high.
-    9. Jacopo Buongiorno, a professor of nuclear science and engineering at MIT, led a group of scientists who recently completed a two-year study examining the future of nuclear energy in the U.S. and western Europe. They found that “without cost reductions, nuclear energy will not play a significant role” in decarbonizing the power sector.
-    10. “In the West, the nuclear industry has substantially lost its ability to build large plants,” Buongiorno says, pointing to Southern Company’s effort to add two new reactors to Plant Vogtle in Waynesboro, Georgia. They have been under construction since 2013, are now billions of dollars over budget - the cost has more than doubled - and years behind schedule. In France, ranked second after the U.S. in nuclear generation, a new reactor in Flamanville is a decade late and more than three times over budget.
-    11. “We have clearly lost the know-how to build traditional gigawatt-scale nuclear power plants,” Buongiorno says. Because no new plants were built in the U.S. for decades, he and his colleagues found, the teams working on a project like Vogtle haven’t had the learning experiences needed to do the job efficiently. That leads to construction delays that drive up costs.
-    12. Elsewhere, reactors are still being built at lower cost, “largely in places where they build projects on budget, and on schedule,” Finan explains. China and South Korea are the leaders. (To be fair, several of China’s recent large-scale reactors have also had cost overruns and delays.)
-    13. “The cost of nuclear power in Asia has been a quarter, or less, of new builds in the West,” Finan says. Much lower labor costs are one reason, according to both Finan and the MIT report, but better project management is another.
-    `Available at: https://www.nationalgeographic.com/environment/article/nuclear-plants-are-closing-in-the-us-should-we-build-more. Retrieved on: Feb. 3, 2022. Adapted.`
+      1. President Joe Biden has set ambitious goals for fighting climate change: To cut U.S. carbon emissions in half by 2030 and to have a net-zero carbon economy by 2050. The plan requires electricity generation – the easiest economic sector to green, analysts say – to be carbon-free by 2035.
+      2. A few figures from the U.S. Energy Information Administration (EIA) illustrate the challenge. In 2020 the United States generated about four trillion kilowatt-hours of electricity. Some 60 percent of that came from burning fossil fuels, mostly natural gas, in some 10,000 generators, large and small, around the country. All of that electricity will need to be replaced - and more, because demand for electricity is expected to rise, especially if we power more cars with it.
+      3. Renewable energy sources like solar and wind have grown faster than expected; together with hydroelectric, they surpassed coal for the first time ever in 2019 and now produce 20 percent of U.S. electricity. In February the EIA projected that renewables were on track to produce more than 40 percent by 2050 - remarkable growth, perhaps, but still well short of what’s needed to decarbonize the grid by 2035 and forestall the climate crisis.
+      4. This daunting challenge has recently led some environmentalists to reconsider an alternative they had long been wary of: nuclear power.
+      5. Nuclear power has a lot going for it. Its carbon footprint is equivalent to wind, less than solar, and orders of magnitude less than coal. Nuclear power plants take up far less space on the landscape than solar or wind farms, and they produce power even at night or on calm days. In 2020 they generated as much electricity in the U.S. as renewables did, a fifth of the total.
+      6. But debates rage over whether nuclear should be a big part of the climate solution in the U.S. The majority of American nuclear plants today are approaching the end of their design life, and only one has been built in the last 20 years. Nuclear proponents are now banking on next-generation designs, like small, modular versions of conventional light-water reactors, or advanced reactors designed to be safer, cheaper, and more flexible.
+      7. “We’ve innovated so little in the past half-century, there’s a lot of ground to gain,” says Ashley Finan, the director of the National Reactor Innovation Center at the Idaho National Laboratory. Yet an expansion of nuclear power faces some serious hurdles, and the perennial concerns about safety and long-lived radioactive waste may not be the biggest: Critics also say nuclear reactors are simply too expensive and take too long to build to be of much help with the climate crisis.
+      8. While environmental opposition may have been the primary force hindering nuclear development in the 1980s and 90s, now the biggest challenge may be costs. Few nuclear plants have been built in the U.S. recently because they are very expensive to build here, which makes the price of their energy high.
+      9. Jacopo Buongiorno, a professor of nuclear science and engineering at MIT, led a group of scientists who recently completed a two-year study examining the future of nuclear energy in the U.S. and western Europe. They found that “without cost reductions, nuclear energy will not play a significant role” in decarbonizing the power sector.
+      10. “In the West, the nuclear industry has substantially lost its ability to build large plants,” Buongiorno says, pointing to Southern Company’s effort to add two new reactors to Plant Vogtle in Waynesboro, Georgia. They have been under construction since 2013, are now billions of dollars over budget - the cost has more than doubled - and years behind schedule. In France, ranked second after the U.S. in nuclear generation, a new reactor in Flamanville is a decade late and more than three times over budget.
+      11. “We have clearly lost the know-how to build traditional gigawatt-scale nuclear power plants,” Buongiorno says. Because no new plants were built in the U.S. for decades, he and his colleagues found, the teams working on a project like Vogtle haven’t had the learning experiences needed to do the job efficiently. That leads to construction delays that drive up costs.
+      12. Elsewhere, reactors are still being built at lower cost, “largely in places where they build projects on budget, and on schedule,” Finan explains. China and South Korea are the leaders. (To be fair, several of China’s recent large-scale reactors have also had cost overruns and delays.)
+      13. “The cost of nuclear power in Asia has been a quarter, or less, of new builds in the West,” Finan says. Much lower labor costs are one reason, according to both Finan and the MIT report, but better project management is another.
+      `Available at: https://www.nationalgeographic.com/environment/article/nuclear-plants-are-closing-in-the-us-should-we-build-more. Retrieved on: Feb. 3, 2022. Adapted.`
 
-    In the fragment of paragraph 1 “The plan requires electricity generation – the easiest economic sector to green, analysts say – to be carbon-free by 2035”, *to green* means to
-  alternativas:
-    - become less harmful or more sensitive to the environment.
-    - be adapted to the political goals of ambitious rulers.
-    - generate more electricity using non renewable sources.
-    - boost the consumption of fossil fuels such as natural gas.
-    - reduce greenhouse gas emissions by promoting the use of nuclear power.
-- cargo: Engenheiro de Telecomunicações
-  enunciado: |
-    In the fragment of paragraph 2 “because demand for electricity is expected to rise, especially if we power more cars with it”, *is expected to rise* is used to
-  alternativas:
-    - anticipate a probable event.
-    - give strong advice.
-    - express lack of necessity.
-    - warn about a clear obligation.
-    - communicate absolute certainty.
-- cargo: Engenheiro de Telecomunicações
-  enunciado: |
-    “This daunting challenge”, in paragraph 4, refers to the
-  alternativas:
-    - goal of achieving a carbon-free electricity grid in the U.S. by 2035 to fight the climate crisis.
-    - use of solar and wind power to produce 20% of the U.S. electricity.
-    - exclusive use of renewables to generate electricity in the U.S. by 2050.
-    - sudden rise of renewable energy sources in the U.S. in the last decade.
-    - insertion of nuclear power in the U.S. electricity grid in the next fifty years.
-- cargo: Engenheiro de Telecomunicações
-  enunciado: |
-    In the fragment of paragraph 5 “Nuclear power has a lot going for it” means that the use of nuclear power
-  alternativas:
-    - presents many advantageous qualities.
-    - generates some doubts about its efficiency.
-    - constitutes a real threat to national security.
-    - raises severe concerns about potential accidents.
-    - provokes negative reactions among environmentalists.
-- cargo: Engenheiro de Telecomunicações
-  enunciado: |
-    In the fragment of paragraph 5 “and they produce power even at night or on calm days”, *they* refers to
-  alternativas:
-    - “nuclear power plants” (paragraph 5)
-    - “environmentalists” (paragraph 4)
-    - “solar or wind farms” (paragraph 5)
-    - “calm days” (paragraph 5)
-    - “renewables” (paragraph 5)
-- cargo: Engenheiro de Telecomunicações
-  enunciado: |
-    Based on the meanings in the text, the two items that express synonymous ideas are
-  alternativas:
-    - remarkable (paragraph 3) – extraordinary
-    - surpassed (paragraph 3) – fell behind
-    - wary (paragraph 4) – careless
-    - proponents (paragraph 6) – critics
-    - hurdles (paragraph 7) – advantages
-- cargo: Engenheiro de Telecomunicações
-  enunciado: |
-    In the fragment of paragraph 7 “and the perennial concerns about safety and long-lived radioactive waste may not be the biggest”, *may not be* expresses a(n)
-  alternativas:
-    - possibility
-    - obligation
-    - necessity
-    - certainty
-    - ability
-- cargo: Engenheiro de Telecomunicações
-  enunciado: |
-    According to Jacopo Buongiorno, one of the reasons why it is more expensive to build large nuclear plants in the West is that
-  alternativas:
-    - their construction faces constant delays that increase costs.
-    - their cost has more than doubled in European countries.
-    - most of the teams working on the projects are effectively trained.
-    - a group of MIT scientists has lost the expertise to build these plants.
-    - new nuclear plants are difficult to build because of complex Asian technologies.
-- cargo: Engenheiro de Telecomunicações
-  enunciado: |
-    In paragraph 12, the author affirms “(To be fair, several of China’s recent large-scale reactors have also had cost overruns and delays)”, in order to
-  alternativas:
-    - clarify that China has also faced problems with the construction of large-scale nuclear reactors.
-    - praise China’s capacity of building large-scale nuclear reactors fast and effectively.
-    - explain that China is more efficient that South Korea when building large-scale nuclear reactors.
-    - support the view that China and South Korea can build projects on budget and on schedule.
-    - discuss the reasons why China and South Korea can build nuclear reactors at a lower cost.
-- cargo: Engenheiro de Telecomunicações
-  enunciado: |
-    In the last paragraph, the author states that “Much lower labor costs are one reason, according to both Finan and the MIT report, but better project management is another.” because he believes that
-  alternativas:
-    - lower labor costs are just part of the reason why nuclear power is less expensive in Asia.
-    - both Finan and the MIT report are absolutely wrong in their conclusions.
-    - it is difficult to determine the reasons why nuclear power costs less in Asia.
-    - nuclear power is cheaper in Asia just because of better project management.
-    - neither project management nor labor costs explain the low cost of nuclear energy in Asia.
+      In the fragment of paragraph 1 “The plan requires electricity generation – the easiest economic sector to green, analysts say – to be carbon-free by 2035”, *to green* means to
+    alternativas:
+      - become less harmful or more sensitive to the environment.
+      - be adapted to the political goals of ambitious rulers.
+      - generate more electricity using non renewable sources.
+      - boost the consumption of fossil fuels such as natural gas.
+      - reduce greenhouse gas emissions by promoting the use of nuclear power.
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: In the fragment of paragraph 2 “because demand for electricity is expected to rise, especially if we power more cars with it”, *is expected to rise* is used to
+    alternativas:
+      - anticipate a probable event.
+      - give strong advice.
+      - express lack of necessity.
+      - warn about a clear obligation.
+      - communicate absolute certainty.
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: “This daunting challenge”, in paragraph 4, refers to the
+    alternativas:
+      - goal of achieving a carbon-free electricity grid in the U.S. by 2035 to fight the climate crisis.
+      - use of solar and wind power to produce 20% of the U.S. electricity.
+      - exclusive use of renewables to generate electricity in the U.S. by 2050.
+      - sudden rise of renewable energy sources in the U.S. in the last decade.
+      - insertion of nuclear power in the U.S. electricity grid in the next fifty years.
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: In the fragment of paragraph 5 “Nuclear power has a lot going for it” means that the use of nuclear power
+    alternativas:
+      - presents many advantageous qualities.
+      - generates some doubts about its efficiency.
+      - constitutes a real threat to national security.
+      - raises severe concerns about potential accidents.
+      - provokes negative reactions among environmentalists.
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: In the fragment of paragraph 5 “and they produce power even at night or on calm days”, *they* refers to
+    alternativas:
+      - “nuclear power plants” (paragraph 5)
+      - “environmentalists” (paragraph 4)
+      - “solar or wind farms” (paragraph 5)
+      - “calm days” (paragraph 5)
+      - “renewables” (paragraph 5)
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: Based on the meanings in the text, the two items that express synonymous ideas are
+    alternativas:
+      - remarkable (paragraph 3) – extraordinary
+      - surpassed (paragraph 3) – fell behind
+      - wary (paragraph 4) – careless
+      - proponents (paragraph 6) – critics
+      - hurdles (paragraph 7) – advantages
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: In the fragment of paragraph 7 “and the perennial concerns about safety and long-lived radioactive waste may not be the biggest”, *may not be* expresses a(n)
+    alternativas:
+      - possibility
+      - obligation
+      - necessity
+      - certainty
+      - ability
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: According to Jacopo Buongiorno, one of the reasons why it is more expensive to build large nuclear plants in the West is that
+    alternativas:
+      - their construction faces constant delays that increase costs.
+      - their cost has more than doubled in European countries.
+      - most of the teams working on the projects are effectively trained.
+      - a group of MIT scientists has lost the expertise to build these plants.
+      - new nuclear plants are difficult to build because of complex Asian technologies.
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: In paragraph 12, the author affirms “(To be fair, several of China’s recent large-scale reactors have also had cost overruns and delays)”, in order to
+    alternativas:
+      - clarify that China has also faced problems with the construction of large-scale nuclear reactors.
+      - praise China’s capacity of building large-scale nuclear reactors fast and effectively.
+      - explain that China is more efficient that South Korea when building large-scale nuclear reactors.
+      - support the view that China and South Korea can build projects on budget and on schedule.
+      - discuss the reasons why China and South Korea can build nuclear reactors at a lower cost.
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: In the last paragraph, the author states that “Much lower labor costs are one reason, according to both Finan and the MIT report, but better project management is another.” because he believes that
+    alternativas:
+      - lower labor costs are just part of the reason why nuclear power is less expensive in Asia.
+      - both Finan and the MIT report are absolutely wrong in their conclusions.
+      - it is difficult to determine the reasons why nuclear power costs less in Asia.
+      - nuclear power is cheaper in Asia just because of better project management.
+      - neither project management nor labor costs explain the low cost of nuclear energy in Asia.

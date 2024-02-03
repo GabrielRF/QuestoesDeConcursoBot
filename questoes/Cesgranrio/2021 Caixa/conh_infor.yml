@@ -1,42 +1,39 @@
 ---
 materia: Conhecimentos de Informática
 questoes:
-- cargo: Advogado
-  enunciado: |
-    Muito usados na internet, os pequenos programas que, entre outros serviços, fornecem barras de ferramentas, vídeo e conteúdo animado, mas que também podem funcionar mal ou ainda fornecer conteúdo indesejado são denominados
-  alternativas:
-    - controles ActiveX
-    - códigos Fonte
-    - filtros SmartScreen
-    - Banners
-    - Spammers
-- cargo: Advogado
-  enunciado: |
-    Nos sistemas operacionais Microsoft Windows, os aplicativos como Word, Excel e PowerPoint são instalados no disco rígido do computador como arquivos
-  alternativas:
-    - executáveis
-    - sequenciais
-    - indexados
-    - de textos
-    - de dados
-- cargo: Advogado
-  enunciado: |
-    *Considere as suítes Microsoft Office 2007 e BrOffice.org 3.2 para responder às duas questões a seguir*
+  - cargo: Advogado
+    enunciado: Muito usados na internet, os pequenos programas que, entre outros serviços, fornecem barras de ferramentas, vídeo e conteúdo animado, mas que também podem funcionar mal ou ainda fornecer conteúdo indesejado são denominados
+    alternativas:
+      - controles ActiveX
+      - códigos Fonte
+      - filtros SmartScreen
+      - Banners
+      - Spammers
+  - cargo: Advogado
+    enunciado: Nos sistemas operacionais Microsoft Windows, os aplicativos como Word, Excel e PowerPoint são instalados no disco rígido do computador como arquivos
+    alternativas:
+      - executáveis
+      - sequenciais
+      - indexados
+      - de textos
+      - de dados
+  - cargo: Advogado
+    enunciado: |
+      *Considere as suítes Microsoft Office 2007 e BrOffice.org 3.2 para responder às duas questões a seguir*
 
-    Comparando-se as suítes Microsoft Office e BrOffice.org,
-conclui-se que apenas a suíte
-  alternativas:
-    - BrOffice.org é baseada em padrões abertos, podendo ser obtida de forma gratuita.
-    - Microsoft Office pode ser instalada em plataformas Linux.
-    - Microsoft Office permite inserir hiperlinks em planilhas de cálculos.
-    - Microsoft Office contém um aplicativo que auxilia na apresentação de palestras fornecendo recursos de imagens, sons, textos e vídeos.
-    - BrOffice.org permite a criação de tabelas em seu editor de textos.
-- cargo: Advogado
-  enunciado: |
-    O Math é um aplicativo que pode ser usado como um(a)
-  alternativas:
-    - editor de equações para documentos de texto
-    - apresentador de objetos multimídia em 3D
-    - digital reader de textos e imagens gráfica
-    - manipulador de bancos de dados descomplicados
-    - ferramenta de comunicação por meio de gráficos e diagramas
+      Comparando-se as suítes Microsoft Office e BrOffice.org, conclui-se que apenas a suíte
+    alternativas:
+      - BrOffice.org é baseada em padrões abertos, podendo ser obtida de forma gratuita.
+      - Microsoft Office pode ser instalada em plataformas Linux.
+      - Microsoft Office permite inserir hiperlinks em planilhas de cálculos.
+      - Microsoft Office contém um aplicativo que auxilia na apresentação de palestras fornecendo recursos de imagens, sons, textos e vídeos.
+      - BrOffice.org permite a criação de tabelas em seu editor de textos.
+  - cargo: Advogado
+    enunciado: |
+      O Math é um aplicativo que pode ser usado como um(a)
+    alternativas:
+      - editor de equações para documentos de texto
+      - apresentador de objetos multimídia em 3D
+      - digital reader de textos e imagens gráfica
+      - manipulador de bancos de dados descomplicados
+      - ferramenta de comunicação por meio de gráficos e diagramas

@@ -1,45 +1,45 @@
+---
 materia: Atualidades do Mercado Financeiro
 questoes:
-- cargo: Agente de tecnologia
-  enunciado: A principal característica dos bancos exclusivamente digitais é a
-  alternativas:
-    - oferta de produtos e serviços por meio digital.
-    - oferta de serviços por meio de agências bancárias.
-    - oferta de todos os serviços operados pelos bancos múltiplos.
-    - ausência de operações com moeda estrangeira.
-    - cobrança de taxas similares às cobradas pelos bancos tradicionais.
-- cargo: Agente de tecnologia
-  enunciado: No Sistema Financeiro Nacional, identificam-se os bancos-sombra (shadow banks) como bancos que
-  alternativas:
-    - realizam operações financeiras à margem do sistema de regulação e supervisão do Banco Central do Brasil.
-    - possuem diversos tipos de carteiras em suas operações ativas.
-    - se especializam em transações financeiras como bancos estrangeiros.
-    - se concentram em transações financeiras no mercado local.
-    - se originam a partir de indivíduos que se associam para prestar serviços financeiros a seus associados.
-- cargo: Agente de tecnologia
-  enunciado: |
-    Ao longo das crises financeiras agudas, em que se observam elevada incerteza e temor em relação à solvência de empresas e bancos, a extrema preferência por liquidez tende a fazer com que os agentes econômicos aumentem as práticas de entesouramento.
-    Nesse contexto, a moeda assume, precipuamente, a função de
-  alternativas:
-    - reserva de valor
-    - meio de financiamento dos investimentos
-    - meio de troca
-    - unidade de conta
-    - escambo
-- cargo: Agente de tecnologia
-  enunciado: |
-    A economia digital propiciou a criação de um modelo de negócios em que uma empresa gerencia uma plataforma digital por meio da qual diversas empresas, concorrentes ou não, ofertam e vendem produtos e serviços on-line num ambiente que se assemelha a um shopping virtual. A plataforma digital descrita acima é denominada
-  alternativas:
-    - marketplace
-    - startup
-    - fintech
-    - mobile banking
-    - internet banking
-- cargo: Agente de tecnologia
-  enunciado: No sistema financeiro contemporâneo, o uso de tecnologias blockchain é considerado revolucionário, porque
-  alternativas:
-    - possibilita o armazenamento e compartilhamento de dados de forma distribuída, criptografada e sem a intermediação de terceiros.
-    - envolve múltiplos intermediários financeiros, mas mantém a centralização das informações em apenas um deles. 
-    - permite a quebra do sigilo inerente às transações financeiras.
-    - elimina as práticas ilegais em curso nas transações financeiras, por meio do uso de linguagem criptografada.
-    - privilegia a linguagem analógica, em detrimento da digital.
+  - cargo: Agente de tecnologia
+    enunciado: A principal característica dos bancos exclusivamente digitais é a
+    alternativas:
+      - oferta de produtos e serviços por meio digital.
+      - oferta de serviços por meio de agências bancárias.
+      - oferta de todos os serviços operados pelos bancos múltiplos.
+      - ausência de operações com moeda estrangeira.
+      - cobrança de taxas similares às cobradas pelos bancos tradicionais.
+  - cargo: Agente de tecnologia
+    enunciado: No Sistema Financeiro Nacional, identificam-se os bancos-sombra (shadow banks) como bancos que
+    alternativas:
+      - realizam operações financeiras à margem do sistema de regulação e supervisão do Banco Central do Brasil.
+      - possuem diversos tipos de carteiras em suas operações ativas.
+      - se especializam em transações financeiras como bancos estrangeiros.
+      - se concentram em transações financeiras no mercado local.
+      - se originam a partir de indivíduos que se associam para prestar serviços financeiros a seus associados.
+  - cargo: Agente de tecnologia
+    enunciado: |
+      Ao longo das crises financeiras agudas, em que se observam elevada incerteza e temor em relação à solvência de empresas e bancos, a extrema preferência por liquidez tende a fazer com que os agentes econômicos aumentem as práticas de entesouramento.
+      Nesse contexto, a moeda assume, precipuamente, a função de
+    alternativas:
+      - reserva de valor
+      - meio de financiamento dos investimentos
+      - meio de troca
+      - unidade de conta
+      - escambo
+  - cargo: Agente de tecnologia
+    enunciado: A economia digital propiciou a criação de um modelo de negócios em que uma empresa gerencia uma plataforma digital por meio da qual diversas empresas, concorrentes ou não, ofertam e vendem produtos e serviços on-line num ambiente que se assemelha a um shopping virtual. A plataforma digital descrita acima é denominada
+    alternativas:
+      - marketplace
+      - startup
+      - fintech
+      - mobile banking
+      - internet banking
+  - cargo: Agente de tecnologia
+    enunciado: No sistema financeiro contemporâneo, o uso de tecnologias blockchain é considerado revolucionário, porque
+    alternativas:
+      - possibilita o armazenamento e compartilhamento de dados de forma distribuída, criptografada e sem a intermediação de terceiros.
+      - envolve múltiplos intermediários financeiros, mas mantém a centralização das informações em apenas um deles.
+      - permite a quebra do sigilo inerente às transações financeiras.
+      - elimina as práticas ilegais em curso nas transações financeiras, por meio do uso de linguagem criptografada.
+      - privilegia a linguagem analógica, em detrimento da digital.
