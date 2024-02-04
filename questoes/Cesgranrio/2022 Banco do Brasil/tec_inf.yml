@@ -1,116 +1,116 @@
 ---
 materia: Tecnologia da Informação
 questoes:
-- cargo: Agente de tecnologia
-  enunciado: |
-    Analise o código a seguir, feito em Python com o Scikit-learn.
-    ```python
-    import numpy as np
-    import sklearn.linear_model as skl
-    base = np.array([1, 2, 3, 4, 5, 6])
-    x = base.reshape((-1, 1))
-    y = base*2+3
-    # a fazer
-    print('a', model.coef_[0])
-    print('b', model.intercept_)
-    ```
-    A partir desse código, um programador quer obter os parâmetros a e b da equação y = ax + b, por meio de uma regressão linear, usando, para isso, os dados nos vetores x e y definidos no programa.
-    Qual linha de código deve substituir o comentário # a fazer de modo a realizar essa regressão linear?
-  alternativas:
-    - model = skl.LinearRegression().fit(x, y)
-    - model = skl.lr(x, y)
-    - model = skl.lr().fit(x, y)
-    - model = skl.LinearRegression(x, y)
-    - model = skl.LinearRegression([x, y])
-- cargo: Agente de tecnologia
-  enunciado: |
-    Em um programa em Swift, o programador deseja incluir o resultado de uma operação dentro de uma string. Nesse contexto, considere o seguinte código:
-    ```swift
-    let quantidade = 4
-    let valor = 10
-    ```
-    Dado o código acima, o programador deseja uma string saida cujo valor seja `valor total = 40`
-    Para isso, o programador deve utilizar o seguinte fragmento de código Swift:
-  alternativas:
-    - let saida = "valor total = \(quantidade*valor)"
-    - let saida := "valor total = \(quantidade*valor)"
-    - let saida := "valor total = \{quantidade*valor}"
-    - let saida = "valor total = %[quantidade*valor]" 
-    - let saida = "valor total = \[quantidade*valor]"
-- cargo: Agente de tecnologia
-  enunciado: |
-    Um programador foi instruído pelo seu gerente a implementar, em Java, uma classe MemoriaCalculoVenda que implementasse a interface MemoriaCalculo, já criada pela organização e que representa as exigências da organização para classes que implementam memórias de cálculo.
-    Nesse cenário, com que fragmento de código o programador deve começar, de forma correta, a implementação da classe?
-  alternativas:
-    - class MemoriaCalculoVenda implements MemoriaCalculo
-    - class MemoriaCalculoVenda extends MemoriaCalculo
-    - class MemoriaCalculoVenda imports MemoriaCalculo
-    - class MemoriaCalculoVenda inherits MemoriaCalculo
-    - class MemoriaCalculoVenda uses MemoriaCalculo
-- cargo: Agente de tecnologia
-  enunciado: |
-    No processo de aprendizagem de máquina, busca-se identificar padrões compreensíveis em bases de dados. Desse modo, supõe-se a existência de uma hierarquia de três níveis: a base, com os itens elementares, captados e armazenados por recursos de Tecnologia da Informação; o nível intermediário, no qual esses itens são processados, com significados e contextos bem definidos; e o nível mais alto, contendo os padrões ou os conjuntos cuja formulação pode envolver ou relacionar os níveis inferiores.
-    Os três níveis dessa hierarquia, listados, respectivamente, da base para o nível mais alto, são:
-  alternativas:
-    - dado, informação e conhecimento
-    - conhecimento, informação e dado
-    - dado, conhecimento e informação
-    - informação, conhecimento e dado
-    - informação, dado e conhecimento
-- cargo: Agente de tecnologia
-  enunciado: |
-    Analise com atenção o código a seguir, escrito em
-    TypeScript 4.0.
-    ```typescript
-    function segredo(a: number[]) {
-        return a.map(x=>x*2);
-    }
-    console.log(segredo([1,2,3]));
-    ```
-    O que será exibido no console quando o código acima for executado?
-  alternativas:
-    - [2, 4, 6]
-    - "Executed JavaScript Failed:"
-    - [6]
-    - 6
-    - 12
-- cargo: Agente de tecnologia
-  enunciado: |
-    Uma organização decidiu monitorar a opinião do público sobre ela nas redes sociais. Para isso, processou as mensagens com referências ao seu nome, a fim de possibilitar o uso de uma técnica de processamento de linguagem natural conhecida como análise de sentimentos.
-    Após transformar cada mensagem em uma string, um dos passos importantes nessa técnica é a tokenização, que consiste em
-  alternativas:
-    - dividir o texto da mensagem em palavras isoladas.
-    - colocar todos os caracteres da mensagem em minúsculas.
-    - colocar todos os verbos da mensagem no infinitivo.
-    - eliminar todos os marcadores HTML ou XML da mensagem.
-    - substituir todos os caracteres acentuados da mensagem por suas versões sem acento
-- cargo: Agente de tecnologia
-  enunciado: |
-    Sabendo que existe, na organização em que trabalha, uma base de dados formada por uma grande tabela que contém apenas o id do cliente e colunas do tipo booleano indicando se um cliente possuía ou já tinha possuído cada produto da organização, um funcionário de TI resolveu dividir os clientes em grupos apenas com base nessa informação, utilizando aprendizado de máquina.
-    Para essa tarefa, o funcionário de TI deve utilizar o aprendizado de máquina
-  alternativas:
-    - não supervisionado
-    - independente
-    - por recompensa
-    - por reforço
-    - supervisionado
-- cargo: Agente de tecnologia
-  enunciado: |
-    Organizações modernas estão sujeitas a uma grande quantidade de dados, principalmente se tratam com grandes quantidades de clientes. Muitas das demandas de tecnologia de informação a que essas organizações estão submetidas passaram a ser organizadas e tratadas dentro do conceito de Big Data.
-    Além do grande volume de dados, o Big Data, em sua definição original, considera também a(s) seguinte(s) propriedade(s):
-  alternativas:
-    - variedade e velocidade
-    - falta de qualidade, apenas
-    - variedade, apenas
-    - velocidade, apenas
-    - velocidade e falta de qualidade
-- cargo: Agente de tecnologia
-  enunciado: |
-    Ao fazer a preparação para analisar dados em um banco de dados típico de Big Data, um profissional de TI percebeu que o número de atributos, ou colunas, era muito maior do que poderia processar com a ferramenta de análise disponível, sendo necessário, portanto, utilizar uma técnica de redução de dados para prepará-los para análise.
-    Uma técnica indicada, nesse caso, é a
-  alternativas:
-    - Análise de Componentes Principais
-    - Amostragem Aleatória
-    - Amostragem Estratificada
-    - Deduplicação
-    - Imputação
+  - cargo: Agente de tecnologia
+    enunciado: |
+      Analise o código a seguir, feito em Python com o Scikit-learn.
+      ```python
+      import numpy as np
+      import sklearn.linear_model as skl
+      base = np.array([1, 2, 3, 4, 5, 6])
+      x = base.reshape((-1, 1))
+      y = base*2+3
+      # a fazer
+      print('a', model.coef_[0])
+      print('b', model.intercept_)
+      ```
+      A partir desse código, um programador quer obter os parâmetros a e b da equação y = ax + b, por meio de uma regressão linear, usando, para isso, os dados nos vetores x e y definidos no programa.
+      Qual linha de código deve substituir o comentário # a fazer de modo a realizar essa regressão linear?
+    alternativas:
+      - model = skl.LinearRegression().fit(x, y)
+      - model = skl.lr(x, y)
+      - model = skl.lr().fit(x, y)
+      - model = skl.LinearRegression(x, y)
+      - model = skl.LinearRegression([x, y])
+  - cargo: Agente de tecnologia
+    enunciado: |
+      Em um programa em Swift, o programador deseja incluir o resultado de uma operação dentro de uma string. Nesse contexto, considere o seguinte código:
+      ```swift
+      let quantidade = 4
+      let valor = 10
+      ```
+      Dado o código acima, o programador deseja uma string saida cujo valor seja `valor total = 40`
+      Para isso, o programador deve utilizar o seguinte fragmento de código Swift:
+    alternativas:
+      - let saida = "valor total = \(quantidade*valor)"
+      - let saida := "valor total = \(quantidade*valor)"
+      - let saida := "valor total = \{quantidade*valor}"
+      - let saida = "valor total = %[quantidade*valor]"
+      - let saida = "valor total = \[quantidade*valor]"
+  - cargo: Agente de tecnologia
+    enunciado: |
+      Um programador foi instruído pelo seu gerente a implementar, em Java, uma classe MemoriaCalculoVenda que implementasse a interface MemoriaCalculo, já criada pela organização e que representa as exigências da organização para classes que implementam memórias de cálculo.
+      Nesse cenário, com que fragmento de código o programador deve começar, de forma correta, a implementação da classe?
+    alternativas:
+      - class MemoriaCalculoVenda implements MemoriaCalculo
+      - class MemoriaCalculoVenda extends MemoriaCalculo
+      - class MemoriaCalculoVenda imports MemoriaCalculo
+      - class MemoriaCalculoVenda inherits MemoriaCalculo
+      - class MemoriaCalculoVenda uses MemoriaCalculo
+  - cargo: Agente de tecnologia
+    enunciado: |
+      No processo de aprendizagem de máquina, busca-se identificar padrões compreensíveis em bases de dados. Desse modo, supõe-se a existência de uma hierarquia de três níveis: a base, com os itens elementares, captados e armazenados por recursos de Tecnologia da Informação; o nível intermediário, no qual esses itens são processados, com significados e contextos bem definidos; e o nível mais alto, contendo os padrões ou os conjuntos cuja formulação pode envolver ou relacionar os níveis inferiores.
+      Os três níveis dessa hierarquia, listados, respectivamente, da base para o nível mais alto, são:
+    alternativas:
+      - dado, informação e conhecimento
+      - conhecimento, informação e dado
+      - dado, conhecimento e informação
+      - informação, conhecimento e dado
+      - informação, dado e conhecimento
+  - cargo: Agente de tecnologia
+    enunciado: |
+      Analise com atenção o código a seguir, escrito em
+      TypeScript 4.0.
+      ```typescript
+      function segredo(a: number[]) {
+          return a.map(x=>x*2);
+      }
+      console.log(segredo([1,2,3]));
+      ```
+      O que será exibido no console quando o código acima for executado?
+    alternativas:
+      - [2, 4, 6]
+      - "Executed JavaScript Failed:"
+      - [6]
+      - 6
+      - 12
+  - cargo: Agente de tecnologia
+    enunciado: |
+      Uma organização decidiu monitorar a opinião do público sobre ela nas redes sociais. Para isso, processou as mensagens com referências ao seu nome, a fim de possibilitar o uso de uma técnica de processamento de linguagem natural conhecida como análise de sentimentos.
+      Após transformar cada mensagem em uma string, um dos passos importantes nessa técnica é a tokenização, que consiste em
+    alternativas:
+      - dividir o texto da mensagem em palavras isoladas.
+      - colocar todos os caracteres da mensagem em minúsculas.
+      - colocar todos os verbos da mensagem no infinitivo.
+      - eliminar todos os marcadores HTML ou XML da mensagem.
+      - substituir todos os caracteres acentuados da mensagem por suas versões sem acento
+  - cargo: Agente de tecnologia
+    enunciado: |
+      Sabendo que existe, na organização em que trabalha, uma base de dados formada por uma grande tabela que contém apenas o id do cliente e colunas do tipo booleano indicando se um cliente possuía ou já tinha possuído cada produto da organização, um funcionário de TI resolveu dividir os clientes em grupos apenas com base nessa informação, utilizando aprendizado de máquina.
+      Para essa tarefa, o funcionário de TI deve utilizar o aprendizado de máquina
+    alternativas:
+      - não supervisionado
+      - independente
+      - por recompensa
+      - por reforço
+      - supervisionado
+  - cargo: Agente de tecnologia
+    enunciado: |
+      Organizações modernas estão sujeitas a uma grande quantidade de dados, principalmente se tratam com grandes quantidades de clientes. Muitas das demandas de tecnologia de informação a que essas organizações estão submetidas passaram a ser organizadas e tratadas dentro do conceito de Big Data.
+      Além do grande volume de dados, o Big Data, em sua definição original, considera também a(s) seguinte(s) propriedade(s):
+    alternativas:
+      - variedade e velocidade
+      - falta de qualidade, apenas
+      - variedade, apenas
+      - velocidade, apenas
+      - velocidade e falta de qualidade
+  - cargo: Agente de tecnologia
+    enunciado: |
+      Ao fazer a preparação para analisar dados em um banco de dados típico de Big Data, um profissional de TI percebeu que o número de atributos, ou colunas, era muito maior do que poderia processar com a ferramenta de análise disponível, sendo necessário, portanto, utilizar uma técnica de redução de dados para prepará-los para análise.
+      Uma técnica indicada, nesse caso, é a
+    alternativas:
+      - Análise de Componentes Principais
+      - Amostragem Aleatória
+      - Amostragem Estratificada
+      - Deduplicação
+      - Imputação

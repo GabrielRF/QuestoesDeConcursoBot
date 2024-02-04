@@ -1,59 +1,59 @@
 ---
 materia: Probabilidade e Estatística
 questoes:
-- cargo: Agente de tecnologia
-  enunciado: |
-    A distribuição das alturas dos atletas de vôlei de uma determinada seleção é normal. Sabe-se que 5% dos atletas têm altura superior a 200 cm, e 2,5% têm altura inferior a 192,8 cm. O desvio padrão, em centímetros, dessa distribuição é de, aproximadamente,
-    ```
-    Dado
-    Considere que:
-    - a variável aleatória Z tem distribuição normal padrão (Z ~ N(0;1));
-    - Prob (Z > 1,64) = 5%; e
-    - Prob (Z > 1,96) = 2,5% .
-    ```
-  alternativas:
-    - 2
-    - 4
-    - 8
-    - 16
-    - 64
-- cargo: Agente de tecnologia
-  enunciado: |
-    Uma população é formada por quatro números, quais sejam, 2, 5, 10, 15, de modo que a média vale 8, e a variância, 24,5.
-    Considerando-se todas as possíveis amostras aleatórias simples, com reposição, de tamanho 2 dessa população, a variância da distribuição amostral das médias é de
-  alternativas:
-    - 12,25
-    - 3,50
-    - 4,94
-    - 24,50
-    - 32,67
-- cargo: Agente de tecnologia
-  enunciado: |
-    Após uma festa de casamento, a anfitriã percebeu que foram esquecidos quatro telefones celulares. Na manhã seguinte, enviou uma mensagem para o grupo de convidados pelo WhatsApp sobre o esquecimento, e apenas quatro pessoas não responderam, fazendo com que ela presumisse, corretamente, que estas quatro pessoas seriam os proprietários dos telefones. Para devolvê-los, a anfitriã preparou quatro envelopes, cada um contendo um dos endereços desses quatro proprietários. Ato contínuo, colocou aleatoriamente cada celular em um envelope e os despachou para uma entrega expressa.
-    A probabilidade de que apenas um desses quatro convidados tenha recebido o seu próprio celular é de
-  alternativas:
-    - 1/3
-    - 3/4
-    - 2/3
-    - 1/2
-    - 3/8
-- cargo: Agente de tecnologia
-  enunciado: |
-    Considere que, em uma agência bancária, o tempo médio que um cliente aguardou para começar a ser atendido, na primeira semana de um determinado mês de 2022, foi de 8min 30s e, na semana seguinte, esse tempo médio passou para 5min 30s. Considere, ainda, que na primeira semana foram atendidos 2.700 clientes, e na segunda semana, 1.350 clientes.
-    O tempo médio de espera para um cliente começar a ser atendido no caixa, considerando essas duas semanas, foi de, aproximadamente,
-  alternativas:
-    - 7min 30s
-    - 5min 50s
-    - 6min 30s
-    - 6min 50s
-    - 7min 50s
-- cargo: Agente de tecnologia
-  enunciado: |
-    Para melhorar a educação financeira de seus clientes quanto ao uso do crédito, um banco contratou uma empresa de análise de risco, que classifica os clientes quanto à propensão de usar o cheque especial, em dois tipos: A e B, sendo o tipo A propenso a usar o cheque especial, e o tipo B, a não usar o cheque especial. Para uma determinada agência, um estudo da empresa mostrou que a probabilidade de um cliente tipo A usar o cheque especial, em um intervalo de um ano, é de 80%. Já para o tipo B, a probabilidade de usar é de 10%, no mesmo intervalo de tempo. Considere que, nessa agência, 30% dos clientes são considerados do tipo A.
-    Nesse contexto, se um cliente entrou no cheque especial, a probabilidade de que seja do tipo A, é de, aproximadamente,
-  alternativas:
-    - 77%
-    - 65%
-    - 70%
-    - 82%
-    - 85%
+  - cargo: Agente de tecnologia
+    enunciado: |
+      A distribuição das alturas dos atletas de vôlei de uma determinada seleção é normal. Sabe-se que 5% dos atletas têm altura superior a 200 cm, e 2,5% têm altura inferior a 192,8 cm. O desvio padrão, em centímetros, dessa distribuição é de, aproximadamente,
+      ```
+      Dado
+      Considere que:
+      - a variável aleatória Z tem distribuição normal padrão (Z ~ N(0;1));
+      - Prob (Z > 1,64) = 5%; e
+      - Prob (Z > 1,96) = 2,5% .
+      ```
+    alternativas:
+      - 2
+      - 4
+      - 8
+      - 16
+      - 64
+  - cargo: Agente de tecnologia
+    enunciado: |
+      Uma população é formada por quatro números, quais sejam, 2, 5, 10, 15, de modo que a média vale 8, e a variância, 24,5.
+      Considerando-se todas as possíveis amostras aleatórias simples, com reposição, de tamanho 2 dessa população, a variância da distribuição amostral das médias é de
+    alternativas:
+      - 12,25
+      - 3,50
+      - 4,94
+      - 24,50
+      - 32,67
+  - cargo: Agente de tecnologia
+    enunciado: |
+      Após uma festa de casamento, a anfitriã percebeu que foram esquecidos quatro telefones celulares. Na manhã seguinte, enviou uma mensagem para o grupo de convidados pelo WhatsApp sobre o esquecimento, e apenas quatro pessoas não responderam, fazendo com que ela presumisse, corretamente, que estas quatro pessoas seriam os proprietários dos telefones. Para devolvê-los, a anfitriã preparou quatro envelopes, cada um contendo um dos endereços desses quatro proprietários. Ato contínuo, colocou aleatoriamente cada celular em um envelope e os despachou para uma entrega expressa.
+      A probabilidade de que apenas um desses quatro convidados tenha recebido o seu próprio celular é de
+    alternativas:
+      - 1/3
+      - 3/4
+      - 2/3
+      - 1/2
+      - 3/8
+  - cargo: Agente de tecnologia
+    enunciado: |
+      Considere que, em uma agência bancária, o tempo médio que um cliente aguardou para começar a ser atendido, na primeira semana de um determinado mês de 2022, foi de 8min 30s e, na semana seguinte, esse tempo médio passou para 5min 30s. Considere, ainda, que na primeira semana foram atendidos 2.700 clientes, e na segunda semana, 1.350 clientes.
+      O tempo médio de espera para um cliente começar a ser atendido no caixa, considerando essas duas semanas, foi de, aproximadamente,
+    alternativas:
+      - 7min 30s
+      - 5min 50s
+      - 6min 30s
+      - 6min 50s
+      - 7min 50s
+  - cargo: Agente de tecnologia
+    enunciado: |
+      Para melhorar a educação financeira de seus clientes quanto ao uso do crédito, um banco contratou uma empresa de análise de risco, que classifica os clientes quanto à propensão de usar o cheque especial, em dois tipos: A e B, sendo o tipo A propenso a usar o cheque especial, e o tipo B, a não usar o cheque especial. Para uma determinada agência, um estudo da empresa mostrou que a probabilidade de um cliente tipo A usar o cheque especial, em um intervalo de um ano, é de 80%. Já para o tipo B, a probabilidade de usar é de 10%, no mesmo intervalo de tempo. Considere que, nessa agência, 30% dos clientes são considerados do tipo A.
+      Nesse contexto, se um cliente entrou no cheque especial, a probabilidade de que seja do tipo A, é de, aproximadamente,
+    alternativas:
+      - 77%
+      - 65%
+      - 70%
+      - 82%
+      - 85%

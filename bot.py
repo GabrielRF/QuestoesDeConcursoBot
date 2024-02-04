@@ -162,22 +162,54 @@ def concurso_query(query, page=0):
     redis_set(f'{query.from_user.id}#botao_id', materia_msg.id)
 
 def bancas_query(query):
-    remove_button_and_edit(query)
-    banca = f'{query.data.replace("Banca ", "")}'
+    if '#' not in query.data:
+        remove_button_and_edit(query)
+        editar=False
+        page=0
+        banca = f'{query.data.replace("Banca ", "")}'
+    else:
+        page = int(query.data.split('#')[1])
+        editar=True
+        banca = f'{query.data.replace("Banca ", "")}'.split('#')[0]
     concursos = os.listdir(f'questoes/{banca}')
     button = telebot.types.InlineKeyboardMarkup()
-    for concurso in reversed(sorted(concursos)):
+    start = page*paginacao
+    end = (page+1)*paginacao
+    for concurso in reversed(sorted(concursos)[start:end]):
         button.row(
             telebot.types.InlineKeyboardButton(
                 concurso,
                 callback_data=f'{banca}#{concurso}'
             )
         )
-    concurso_msg = bot.send_message(
-        query.from_user.id,
-        'Escolha o concurso:',
-        reply_markup=button
+    botao_voltar = telebot.types.InlineKeyboardButton(
+        '« Anterior',
+        callback_data=f'Banca {banca}#{page-1}'
     )
+    botao_avancar = telebot.types.InlineKeyboardButton(
+        'Próxima »',
+        callback_data=f'Banca {banca}#{page+1}'
+    )
+    if len(concursos) > paginacao:
+        if start == 0:
+            button.row(botao_avancar)
+        elif end >= len(concursos):
+            button.row(botao_voltar)
+        else:
+            button.row(botao_voltar, botao_avancar)
+    message_text='Escolha o concurso:'
+    if editar:
+        concurso_msg = new_button_and_edit(
+            query.from_user.id,
+            query.message.id,
+            button
+        )
+    else:
+        concurso_msg = bot.send_message(
+            query.from_user.id,
+            message_text,
+            reply_markup=button
+        )
     redis_set(f'{query.from_user.id}#botao_id', concurso_msg.id)
 
 @bot.callback_query_handler(lambda q: q.data == 'Pular')

@@ -34,27 +34,26 @@ Os arquivos das matérias, `Matéria.yml`, têm a seguinte estrutura:
 ---
 materia: <Nome completo da matéria>
 questoes:
-- cargo: <Cargo> # Questão 1
-  enunciado: |
-    <Linha 1 do enunciado>
-  alternativas:
-    - <Alternativa certa>
-    - <Alternativa errada>
+  - cargo: <Cargo> # Questão 1
+    enunciado: <Enunciado em uma linha só>
+    alternativas:
+      - <Alternativa certa>
+      - <Alternativa errada>
 
 ...
 
-- cargo: <Cargo> # Questão n
-  enunciado: |
-    <Linha 1 do enunciado>
-    ...
-    <Linha n do enunciado>
-  alternativas:
-    - <Alternativa certa>
-    - <Alternativa errada 1>
-    - ...
-    - <Alternativa errada n>
-  explicacao: <Explicacao da resposta>
-  imagem: <Imagem da questão>
+  - cargo: <Cargo> # Questão n
+    enunciado: |
+      <Linha 1 do enunciado>
+      ...
+      <Linha n do enunciado>
+    alternativas:
+      - <Alternativa certa>
+      - <Alternativa errada 1>
+      - ...
+      - <Alternativa errada n>
+    explicacao: <Explicacao da resposta>
+    imagem: <Imagem da questão>
 ```
 Sendo:
 * `cargo`: Cargo da prova da questão.
