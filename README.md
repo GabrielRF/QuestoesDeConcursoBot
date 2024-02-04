@@ -37,8 +37,8 @@ questoes:
   - cargo: <Cargo> # Questão 1
     enunciado: <Enunciado em uma linha só>
     alternativas:
-      - <Alternativa certa>
-      - <Alternativa errada>
+      - '<Alternativa certa>'
+      - '<Alternativa errada>'
 
 ...
 
@@ -48,10 +48,10 @@ questoes:
       ...
       <Linha n do enunciado>
     alternativas:
-      - <Alternativa certa>
-      - <Alternativa errada 1>
+      - '<Alternativa certa>'
+      - '<Alternativa errada 1>'
       - ...
-      - <Alternativa errada n>
+      - '<Alternativa errada n>'
     explicacao: <Explicacao da resposta>
     imagem: <Imagem da questão>
 ```
