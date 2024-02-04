@@ -12,8 +12,9 @@ jobs:
         uses: ibiqlik/action-yamllint@v3
         with:
           file_or_dir: questoes/
-          config_file: utils/yamllink-conf.yaml
+          config_file: utils/yamllint-conf.yaml
   verifica_questoes:
+    needs: yamllint
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
