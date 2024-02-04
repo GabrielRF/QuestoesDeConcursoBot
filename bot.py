@@ -78,7 +78,10 @@ def redis_set(chatid, val): # Redis - Escrever valor
 def poll_options(questoes):
     opcoes = []
     for opcao in questoes['alternativas']: opcoes.append(str(opcao))
-    random.shuffle(opcoes)
+    if len(questoes['alternativas']) > 2:
+        random.shuffle(opcoes)
+    else:
+        opcoes = sorted(opcoes)
     correta = opcoes.index(str(questoes['alternativas'][0]))
     return opcoes, correta
 
@@ -120,11 +123,11 @@ def concurso_query(query, page=0):
     start = page*paginacao
     end = (page+1)*paginacao
     for materia in sorted(materias)[start:end]:
+        if materia[0] == '.' or '.yml' not in materia:
+            continue
         with open(f'questoes/{banca}/{concurso}/{materia}', 'r') as arquivo:
             arquivo_questoes = yaml.safe_load(arquivo)
         materia_nome_completo = get_materia_name(f'{banca}/{concurso}/{materia}')
-        if '.yml' not in materia:
-            continue
         button.row(
             telebot.types.InlineKeyboardButton(
                 materia_nome_completo.replace('.yml', '')[:30],
@@ -176,6 +179,8 @@ def bancas_query(query):
     start = page*paginacao
     end = (page+1)*paginacao
     for concurso in reversed(sorted(concursos)[start:end]):
+        if '.swp' in concurso:
+            continue
         button.row(
             telebot.types.InlineKeyboardButton(
                 concurso,
