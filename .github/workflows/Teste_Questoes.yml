@@ -1,0 +1,28 @@
+name: Teste Questões
+on:
+  pull_request:
+
+jobs:
+  yamllint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Yamllint questoes
+        uses: ibiqlik/action-yamllint@v3
+        with:
+          file_or_dir: questoes/
+          config_file: utils/yamllink-conf.yaml
+  verifica_questoes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.8'
+      - name: Install Requirements
+        run: pip install -r requirements.txt
+      - name: Run VerificaQuestoes
+        run: python utils/verificaquestoes.py
