@@ -5,6 +5,7 @@
 📚 Estude no Telegram!
 
 [![Deploy](https://github.com/GabrielRF/QuestoesDeConcursoBot/actions/workflows/deploy.yml/badge.svg)](https://github.com/GabrielRF/QuestoesDeConcursoBot/actions/workflows/deploy.yml)
+[![Yaml Lint](https://github.com/GabrielRF/QuestoesDeConcursoBot/actions/workflows/yamllint.yml/badge.svg)](https://github.com/GabrielRF/QuestoesDeConcursoBot/actions/workflows/yamllint.yml)
 
 ## Adicionar questões
 
