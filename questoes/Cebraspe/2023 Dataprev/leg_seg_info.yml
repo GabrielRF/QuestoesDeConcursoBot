@@ -1,0 +1,50 @@
+---
+materia: Legislação Acerca de Segurança de Informações e Proteção de Dados
+questoes:
+  - cargo: Nível Superior
+    enunciado: |
+      Considerando o disposto na legislação referente à segurança da informação e à proteção de dados, julgue os próximos itens.
+      Apesar de, nos termos da Lei de Acesso à Informação, o serviço de busca e fornecimento de informação ser gratuito, o órgão ou a entidade consultada poderá cobrar do solicitante o valor necessário ao ressarcimento de custos quando esse serviço demandar a reprodução de documentos.
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Nível Superior
+    enunciado: De acordo com a Lei n.º 12.737/2012, que dispõe sobre delitos informáticos, quem produz dispositivo ou programa de computador com o intuito de permitir a prática de invasão de dispositivo informático incorre na mesma pena de quem efetivamente procede à conduta de invadir dispositivo informático alheio.
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Nível Superior
+    enunciado: De acordo com o que dispõe a Lei n.º 12.965/2014 — Marco Civil da Internet —, o provedor responsável pela guarda dos registros de conexão e de acesso a aplicativos de Internet está impedido de disponibilizar, sem expressa ordem judicial, quaisquer dados cadastrais de seus usuários, inclusive a entidades ou autoridades administrativas que detenham competência legal para requisitá-los.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Nível Superior
+    enunciado: De acordo com a Lei Geral de Proteção de Dados Pessoais, o tratamento de dados pessoais de crianças deverá ser realizado com o consentimento específico de um dos pais ou responsável legal, devendo o controlador realizar todos os esforços razoáveis, consideradas as tecnologias disponíveis, para verificar que o consentimento foi dado pelo responsávelpela criança.
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Nível Superior
+    enunciado: No âmbito da Estratégia Nacional de Segurança Cibernética, a ação da indústria de adotar padrões internacionais de segurança e privacidade no desenvolvimento de novos produtos tecnológicos desde a sua concepção está vinculada à ação estratégica de incentivar a concepção de soluções inovadoras em segurança cibernética.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Nível Superior
+    enunciado: Segundo o Decreto n.º 10.748/2021, a Rede Federal de Gestão de Incidentes Cibernéticos deve ser coordenada por um colegiado técnico composto por representantes dos órgãos e das entidades da administração pública federal direta, autárquica e fundacional.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Nível Superior
+    enunciado: Entre as ações de prevenção destacadas no Plano de Gestão de Incidentes Cibernéticos para a administração pública federal incluem-se a implementação de controles de segurança; o gerenciamento de vulnerabilidades; e a conscientização e capacitação.
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Nível Superior
+    enunciado: Segundo o disposto no Decreto n.º 11.200/2022 — Plano Nacional de Segurança de Infraestruturas Críticas —, dos órgãos e das entidades que atuam na segurança de infraestruturas críticas requer-se que acompanhem e avaliem continuamente a situação das infraestruturas críticas e que implementem, quando necessário, medidas de proteção a elas.
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Nível Superior
+    enunciado: No âmbito da Instrução Normativa GSI n.º 1, a segurança da informação abrange, entre outros aspectos, a segurança pública lógica, a defesa aeroespacial digital e a segurança das infraestruturas de comunicação.
+    alternativas:
+      - Errado
+      - Certo
