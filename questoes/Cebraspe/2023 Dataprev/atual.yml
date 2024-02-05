@@ -1,0 +1,31 @@
+---
+materia: Atualidades
+questoes:
+  - cargo: Nível Superior
+    enunciado: |
+      No que se refere a temas atuais no Brasil e no mundo, julgue os itens a seguir.
+
+      Em 2023, um incêndio no Havaí devastou boa parte da ilha, mas a tecnologia utilizada nas buscas por sobreviventes mapeou de imediato o tamanho da tragédia e a classificou como a mais mortal dos Estados Unidos da América.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Nível Superior
+    enunciado: O contexto da invasão militar da Ucrânia pela Rússia provocou instabilidade na política interna do grupo formado por Brasil, Rússia, Índia, China e África do Sul (BRICS), o que levou o presidente russo Vladimir Putin a solicitar seu afastamento do bloco.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Nível Superior
+    enunciado: Uma vez que o modelo de gerenciamento e transmissão de energia utilizado no Brasil é o Sistema Interligado Nacional (SIN), em caso de queda de energia elétrica nesse sistema, todas as unidades federativas conectadas a ele são impactadas.
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Nível Superior
+    enunciado: No Brasil, houve aumento, em 2023, da taxa do Sistema Especial de Liquidação e de Custódia (SELIC) pelo Comitê de Política Monetária (COPOM) do Banco Central, o que provocou um aumento do empréstimo pessoal, do consumo e da inadimplência entre a população brasileira.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Nível Superior
+    enunciado: Na Argentina, em agosto de 2023, período em que se executaram as eleições primárias — cujo objetivo é definir os candidatos que concorrerão à Presidência da República —, a inflação ao consumidor cresceu mais de 100% em comparação ao mesmo mês do ano anterior.
+    alternativas:
+      - Certo
+      - Errado

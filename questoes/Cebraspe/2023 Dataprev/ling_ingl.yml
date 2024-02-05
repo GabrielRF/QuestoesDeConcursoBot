@@ -1,0 +1,103 @@
+---
+materia: Língua Inglesa
+questoes:
+  - cargo: Nível Superior
+    enunciado: |
+      *Welcome To the Next Generation Of Business Intelligence*
+
+      1. The Business Intelligence (BI) industry has long promised a future where every worker can use data to make smarter business decisions. Although that promise continues to be out of reach for most companies, the industry has come a long way over the past few decades, and we believe we are on the cusp of a new generation of BI that will finally turn that promise into reality.
+      2. Business Intelligence is built on an old data culture that relies on technical experts. In the early days of reporting, those experts were called IT. As technology evolved and tools became easier, the progression of BI moved to reports and dashboards delivered by new experts—analysts. This made analytics more accessible, but still didn’t make self-service data insights a reality across the business. Here’s why: Instead of using technology to put data in front of people where they already are working, we continue to ask people to leave their business apps and turn to dedicated tools or dashboards for answers.
+      3. This process is disruptive and inefficient, and often causes users to write it off completely. Dashboards don’t have built-in analytics processes; they share information but do not provide recommended courses of action at the right moment or in a decision maker’s workflow. Business professionals want exactly that: They want a final answer and recommendations on what to do next. They would rather have data and actionable insights come in easily digestible bites versus needing to dig for answers in dashboards and reports. And the truth is they are digging; dashboards are often too broad to address multiple questions, too difficult to customize, and frankly, have too many insights.
+      4. For analytics to advance, we must extend dashboards or deliver personalized intelligence to more decision makers. In fact, experts predict that “dashboards will be replaced with automated, conversational, mobile and dynamically generated insights customized to a user’s needs and delivered to their point of consumption. This shifts the insight knowledge from a handful of data experts to anyone in the organization.” Now, instead of wasting time jumping from where the data resides (in dashboards) to where work is done, embedded analytics enables users to do both simultaneously: get insights and take action.
+      `Internet: <www.forbes.com> (adapted).`
+
+      Based on the preceding text, judge the following items.
+
+      The promise that the Business Intelligence industry has made about workers being able to use data to make smarter decisions has already become reality.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Nível Superior
+    enunciado: Technical experts, who were previously called IT, had no influence in the construction of BI.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Nível Superior
+    enunciado: Embedded analytics do not allow users to get insights and take action at the same time.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Nível Superior
+    enunciado: The evolution of technology and the emergence of easier tools helped Business Intelligence to progress, and made analytics more accessible.
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Nível Superior
+    enunciado: Business professionals would prefer receiving data and practical insights in easily understandable portions, as opposed to having to search for answers within complex dashboards and reports.
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Nível Superior
+    enunciado: |
+      *Microplastics found in human heart for first time*
+
+      1. A new study suggests invasive medical procedures may be an overlooked route of microplastics exposure, raising concerns about potential health risks. Minute particles of plastic (called microplastics) are everywhere. They’ve been found in our water, in our food, and in the air we breathe, according to a 2021 scientific review. Just a year later, another study found microplastics in the human bloodstream. Now, in what researchers are calling a first, microplastics have been detected in the heart tissues of individuals who underwent cardiac surgery.
+      2. According to the author of the research, the detection of microplastics _in vivo_ is alarming, and more studies are necessary to investigate how the microparticles enter the cardiac tissues and the potential effects of microplastics on long-term prognosis after cardiac surgery. The author and his team used direct infrared imaging, and identified 20 to 500 micrometer-wide particles made from eight types of plastic. The scientists also found plastic particles in blood samples collected from participants. They added that “microplastics are highly likely to distribute in various organs throughout the body.”
+      3. A fraction of the plastic pieces identified had a diameter too large to likely enter the body through inhalation or ingestion, according to the analysis. This indicated that the heart operation itself may permit direct access of microplastics to the bloodstream and tissues. The researchers cited previous scientific investigation showing that microplastics have been detected in the air in operating rooms and could directly enter a patient whose organs are exposed to the air during surgery.
+      4. Such large particles may also come from equipment and materials used in a heart operation, including surgical incision protective film, intravenous therapy bags, tubing, and syringes. The types of plastics detected might also offer evidence that microplastics could be introduced during surgery, which may raise the risk of heart disease.
+      `Internet: <www.everydayhealth.com> (adapted).`
+
+      Based on the preceding text, judge the following items.
+
+      Besides being in all places, microplastics were found, according to a 2022 study, in the human bloodstream.
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Nível Superior
+    enunciado: The text suggests that the possibility of exposure to microplastics during surgery could increase the risk of heart disease.
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Nível Superior
+    enunciado: The text informs that microplastics were detected in the body of patients who died during heart surgeries.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Nível Superior
+    enunciado: Because of the size of some of the plastic pieces found, the researchers believe that they probably could not have entered the patients’ bodies through their mouth or nose.
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Nível Superior
+    enunciado: |
+      P1: “Se houver resistência de populares ou depredação de patrimônio, a polícia agirá.”
+      P2: “Se a polícia agir, a ambulância será necessária.”
+      P3: “Não houve depredação de patrimônio, mas a ambulância foi necessária.”
+      C: “Houve resistência de populares.”
+
+      Tomando por referência as proposições precedentes, julgue os itens seguintes.
+
+      O argumento que tem por premissas as proposições P1, P2 e P3, e, por conclusão, a proposição C, é válido.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Nível Superior
+    enunciado: A tabela-verdade da proposição P1 tem menos de 6 linhas.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Nível Superior
+    enunciado: A proposição P2 é equivalente à proposição “Se a polícia não agir, a ambulância não será necessária.”.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Nível Superior
+    enunciado: A negação de P1 pode ser escrita como “Houve depredação de patrimônio ou a ambulância não foi necessária.”.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Nível Superior
+    enunciado: Caso seja verdadeira a proposição “A ambulância será necessária.”, a proposição P2 será também verdadeira, independentemente do valor lógico de sua outra proposição simples constituinte.
+    alternativas:
+      - Certo
+      - Errado
