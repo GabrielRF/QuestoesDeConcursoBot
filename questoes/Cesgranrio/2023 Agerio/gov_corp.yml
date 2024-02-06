@@ -1,0 +1,53 @@
+---
+materia: Governança Corporativa e Compliance
+questoes:
+  - cargo: Tecnologia da Informação
+    enunciado: |
+      Uma equipe está desenvolvendo a gestão de riscos de um empreendimento de seu departamento, partindo da identificação de potenciais fontes de impacto negativo para o negócio.
+      Algumas perguntas podem ser feitas para auxiliar na identificação dos riscos, *EXCETO* a seguinte:
+    alternativas:
+      - Quais pontos fortes da organização o projeto explora?
+      - Com que frequência os riscos devem ser monitorados?
+      - Qual a probabilidade e o impacto de cada evento adverso identificado?
+      - Que fragilidades e ameaças podem afetar o empreendimento?
+      - Quem deve ser comunicado dos riscos e do controle?
+  - cargo: Tecnologia da Informação
+    enunciado: |
+      O modelo das três linhas de defesa apresenta uma forma de estabelecer os papéis e responsabilidades essenciais de cada gestor dentro da organização para protegê-la dos riscos por meio de uma estrutura adequada de governança.
+      Nesse modelo, as linhas de defesa são, respectivamente,
+    alternativas:
+      - execução; supervisão e monitoramento; avaliação
+      - amplitude de controle; priorização; supervisão e monitoramento
+      - coordenação; unidade de comando; controle
+      - mapeamento; implementação; avaliação
+      - planejamento; execução; coopetição
+  - cargo: Tecnologia da Informação
+    enunciado: |
+      O modelo COSO foi desenvolvido com a ideia de que o gestor possa gerenciar os riscos de modo eficaz, no contexto dos objetivos e da estrutura de cada organização. Adicionalmente, o modelo passou a visar o alinhamento da gestão de risco à estratégia e ao desempenho.
+      Nessa revisão, a dimensão de comunicação e reporte é desenvolvida por meio de
+    alternativas:
+      - adoção de ações que permitam aos integrantes conhecer, coletar e transmitir as informações, visando ao desempenho de responsabilidades frente a riscos.
+      - análise do contexto de negócio, definição do apetite ao risco, avaliação de estratégias alternativas e elaboração de objetivos de negócio.
+      - avaliação, certificação e revisão da estrutura de gestão de riscos e controles internos, visando a melhorar desempenho, corrigir funcionamento e aprimorar atividades.
+      - desenvolvimento de políticas e procedimentos na implementação das políticas de gestão de riscos para assegurar que as respostas aos riscos sejam executadas.
+      - melhoria no gerenciamento de riscos corporativos por meio de avaliação de mudanças substanciais, revisão de riscos e desempenho.
+  - cargo: Tecnologia da Informação
+    enunciado: |
+      Um professor de Contabilidade irá assumir uma posição de membro do Conselho de Administração de uma instituição do sistema financeiro. O que ele não sabe é que a Resolução CMN no 4.968/2021 dispõe sobre os sistemas de controles internos das instituições financeiras, distinguindo as responsabilidades e os papéis dos membros do Conselho de Administração dos papéis dos integrantes da Diretoria da instituição.
+      Dessa forma, o novo membro do Conselho de Administração poderá
+    alternativas:
+      - cobrar que riscos identificados sejam tempestivamente mitigados.
+      - coordenar recursos físicos, financeiros e de pessoal nas atividades de controle interno
+      - implementar diretrizes relativas aos sistemas de controles internos.
+      - elaborar relatório de acompanhamento do controle interno em conjunto com auditorias interna e externa
+      - desempenhar funções na instituição, garantindo seus interesses particulares.
+  - cargo: Tecnologia da Informação
+    enunciado: |
+      Um colaborador da AgeRio está acompanhando uma situação em que percebeu a falta de ética de um colega. Ele pretende denunciar a situação no canal apropriado, entretanto desconhece os possíveis desdobramentos.
+      De acordo com o Código de Ética e Conduta da AgeRio, um possível desdobramento do caso está descrito a seguir:
+    alternativas:
+      - ocorrerá a aplicação de diversas penalidades, inclusive a responsabilização em esfera administrativa e judicial.
+      - será realizada a análise de questões éticas pelo Comitê de Auditoria e Controle Interno, por ser o órgão responsável por tais questões.
+      - será garantida a ampla divulgação do nome dos envolvidos, tanto do denunciado quanto do denunciante.
+      - será feito o exame da situação inicialmente por instâncias deliberativas externas à AgeRio e procedimentos definidos por normas também externas.
+      - haverá um limite estreito das penalidades para todo caso de infração ao código de ética e abertura de processo administrativo.
