@@ -1,0 +1,93 @@
+---
+materia: Sistema Financeiro Nacional e Conhecimentos Bancários
+questoes:
+  - cargo: Tecnologia da Informação
+    enunciado: Como integrante do Sistema Financeiro Nacional, cabe ao Conselho Monetário Nacional
+    alternativas:
+      - definir as metas anuais de inflação.
+      - determinar as taxas básicas de juros da economia brasileira.
+      - atuar como emprestador de última instância.
+      - calcular o Índice Nacional de Preços ao Consumidor Amplo (IPCA).
+      - executar a política fiscal.
+  - cargo: Tecnologia da Informação
+    enunciado: |
+      O Conselho de Recursos do Sistema Financeiro Nacional (CRSFN) se encarrega do julgamento, não apenas dos recursos contra as sanções aplicadas pelo Banco Central do Brasil e Comissão de Valores Mobiliários, mas, também, dos processos relacionados à “lavagem” de dinheiro, dos recursos contra as sanções aplicadas pelo Coaf, Susep e demais autoridades competentes.
+      Os julgamentos e eventuais penalidades determinadas pelo CRSFN são de caráter
+    alternativas:
+      - administrativo
+      - tributário
+      - penal
+      - civil
+      - internacional
+  - cargo: Tecnologia da Informação
+    enunciado: De acordo com a legislação brasileira, uma instituição financeira pode ser enquadrada na categoria de banco múltiplo se
+    alternativas:
+      - possuir, pelo menos, duas carteiras, sendo uma delas, obrigatoriamente, a carteira comercial ou a carteira de investimento.
+      - for organizada sob a forma de sociedade de responsabilidade limitada.
+      - for organizada exclusivamente como instituição financeira privada.
+      - suas operações envolverem quaisquer tipos de carteiras, exceto a de desenvolvimento.
+      - possuir, pelo menos, três carteiras, sendo duas delas, obrigatoriamente, as carteiras comercial e de crédito.
+  - cargo: Tecnologia da Informação
+    enunciado: A garantia real em que o devedor detém a posse de um bem, mas transfere, temporariamente, ao credor a propriedade desse mesmo bem, dado como garantia, até que a dívida seja totalmente quitada, é denominada
+    alternativas:
+      - alienação fiduciária
+      - fiança
+      - aval
+      - penhor civil
+      - penhor mercantil
+  - cargo: Tecnologia da Informação
+    enunciado: |
+      Em seu _website_, a Agência Estadual de Fomento do Rio de Janeiro (AgeRio) estabelece como missão “fomentar, por meio de soluções financeiras, o desenvolvimento sustentável do Estado do Rio de Janeiro, com excelência na prestação de serviços”.
+      Nesse contexto, *NÃO* está sob o alcance de agências de fomento adotar instrumentos para
+    alternativas:
+      - controlar a inflação.
+      - fomentar o emprego e a renda.
+      - prover suporte financeiro às micro, pequenas e médias empresas.
+      - estimular as inovações.
+      - estimular o desenvolvimento de tecnologias com baixa emissão de dióxido de carbono.
+  - cargo: Tecnologia da Informação
+    enunciado: |
+      Considere que uma agência de fomento, como a AgeRio, aprove uma linha de crédito de longo prazo para uma empresa de pequeno porte, que atua no segmento de produtos lácteos, financiar, exclusivamente, os bens de capital requeridos para o investimento inicial.
+      Nesse caso, a linha de crédito poderá cobrir as despesas com aquisição de produtos diversos, *EXCETO* de
+    alternativas:
+      - insumos diversos
+      - máquinas
+      - equipamentos produtivos diversos
+      - veículos para transporte e entrega dos produtos aos distribuidores
+      - refrigeradores industriais
+  - cargo: Tecnologia da Informação
+    enunciado: Na estrutura do Sistema Financeiro Nacional, o Banco Central do Brasil (BCB) é considerado emprestador de última instância, porque uma de suas principais operações ativas é fornecer
+    alternativas:
+      - crédito a instituições financeiras que enfrentam problemas de liquidez.
+      - crédito direto aos consumidores.
+      - crédito destinado ao financiamento de capital de giro.
+      - crédito de longo prazo destinado ao financiamento do investimento.
+      - crédito de longo prazo destinado ao financiamento da compra da casa própria.
+  - cargo: Tecnologia da Informação
+    enunciado: De acordo com a Resolução no 2.828, de 30 de março de 2001, do Conselho Monetário Nacional, a constituição e o funcionamento de agências de fomento, como a Agência Estadual de Fomento do Rio de Janeiro (AgeRio), dependem de autorização prévia do
+    alternativas:
+      - Banco Central do Brasil (BCB)
+      - governo estadual
+      - governo municipal
+      - Tesouro Nacional
+      - Banco Nacional de Desenvolvimento Econômico e Social (BNDES)
+  - cargo: Tecnologia da Informação
+    enunciado: |
+      J é economista e atua em instituição financeira ocupando cargo de gerência. No curso de sua atividade como bancário, realizou diversos treinamentos em legislação e obteve valiosos conselhos dos funcionários mais experientes. Um dos temas mais debatidos internamente relacionava-se à prevenção no concernente à lavagem de dinheiro.
+      De acordo com os termos da Circular BACEN no 3.978/2020, a política de prevenção deve ser compatível em relação aos clientes com o seu perfil
+    alternativas:
+      - de risco
+      - social
+      - financeiro
+      - societário
+      - econômico
+  - cargo: Tecnologia da Informação
+    enunciado: |
+      JON é Diretor Executivo de instituição financeira, sendo responsável pela observância das normas regulamentares emitidas pelo Banco Central do Brasil, buscando diminuir custos na realização de políticas determinadas.
+      De acordo com os termos da Circular BACEN no 3.978/2020, admite-se a adoção de política de prevenção à lavagem de dinheiro única por conglomerado
+    alternativas:
+      - prudencial
+      - coletivo
+      - empresarial
+      - federativo
+      - associativo
