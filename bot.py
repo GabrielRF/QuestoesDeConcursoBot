@@ -264,7 +264,7 @@ def informacoes(message):
         '📚 <b>@QuestoesDeConcursoBot</b>\n\n'
         '🔧 Código fonte e envio questões:\n' +
         'https://github.com/GabrielRF/QuestoesDeConcursoBot\n\n' +
-        '🤖 Autor: @GabrielRF'
+        '🤖 Autor: @GabRF'
     )
     bot.send_message(
         message.from_user.id,
