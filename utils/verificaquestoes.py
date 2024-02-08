@@ -39,6 +39,8 @@ if __name__ == "__main__":
             print(f'\t{concurso}')
             provas = lista_provas(banca, concurso)
             for prova in provas:
+                if '.yml' not in prova:
+                    continue
                 print(f'\t\t{prova}')
                 with open(f'questoes/{banca}/{concurso}/{prova}') as arquivo:
                     arquivo_prova = yaml.safe_load(arquivo)
