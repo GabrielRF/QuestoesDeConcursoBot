@@ -5,6 +5,7 @@ import redis
 import sqlite3
 import telebot
 import time
+import urllib
 import yaml
 
 TOKEN = open('utils/token.conf', 'r').read().strip()
@@ -385,7 +386,7 @@ def send_poll(user_id, query_data=None):
         f"{questoes['enunciado']}"
     )
     if imagem:
-        enunciado = f'[ ]({imagem}){enunciado}'
+        enunciado = f'[ ]({urllib.parse.quote_plus(imagem)}){enunciado}'
     opcoes, correta = poll_options(questoes)
 
     try:
