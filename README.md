@@ -71,5 +71,5 @@ O campo `imagem` em uma questão é totalmente opcional, não devendo ser usado 
 ```
 Use no campo imagem o valor
 ```
-https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/<BANCA>/<PROVA>/<ARQUIVO DA IMAGEM>?raw=true
+https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/<BANCA>/<PROVA>/imagens/<ARQUIVO DA IMAGEM>?raw=true
 ```

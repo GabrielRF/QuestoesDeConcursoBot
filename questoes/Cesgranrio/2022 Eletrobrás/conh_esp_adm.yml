@@ -201,7 +201,7 @@ questoes:
     enunciado: |
       Os investimentos de longo prazo compreendem desembolsos substanciais de fundos de uma empresa. Assim, é preciso ter critérios claros para analisar e selecionar que investimento fazer e que investimento rejeitar a partir do objetivo de maximizar o retorno do acionista e dos critérios de decisão utilizados em finanças corporativas: payback, Valor Presente Líquido (VPL) e Taxa Interna de Retorno (TIR), utilizando a mesma taxa de desconto. Considere os dados do Quadro abaixo, para projetos mutuamente excludentes, com o mesmo investimento inicial.
       Que projeto a empresa deve escolher, a partir da melhor combinação dos três critérios acima mencionados?
-    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_adm 47.png?raw=true"
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/imagens/conh_esp_adm 47.png?raw=true"
     alternativas:
       - Projeto R
       - Projeto P
@@ -243,7 +243,7 @@ questoes:
       Um operador de uma máquina industrial que produz peças para motores de automóveis está implantando um programa de autocontrole de qualidade. Ele deseja acompanhar a percentagem de peças defeituosas em sua operação. Devido à especificação da máquina, uma percentagem de 3% de peças defeituosas é esperada com alguma variação ocasional.
       Para fazer um gráfico p com limites de controle de 3 desvios padrões, o operador preparou 10 amostras diárias, com 300 peças cada, apresentadas na Tabela abaixo.
       Se a variação do intervalo de controle de 3 desvios padrões, em torno da média, é de 2,954%, quantas amostras ficaram fora dos limites de controle?
-    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_adm 51.png?raw=true"
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/imagens/conh_esp_adm 51.png?raw=true"
     alternativas:
       - 5
       - 2
@@ -254,7 +254,7 @@ questoes:
     enunciado: |
       O total de vendas a prazo durante o ano de 2021 foi de R$ 50.000,00, e o custo da mercadoria vendida no mesmo ano foi de R$ 30.000,00.
       Quais os períodos aproximados, em dias (ano de 365 dias), do ciclo operacional e do ciclo de caixa, respectivamente?
-    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_adm 52.png?raw=true"
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/imagens/conh_esp_adm 52.png?raw=true"
     alternativas:
       - 175,2 e 152,4
       - 116,8 e 94,0
@@ -266,7 +266,7 @@ questoes:
       Uma das decisões relevantes no Planejamento de Cadeias de Suprimento é a decisão de comprar ou fabricar uma determinada peça a ser utilizada na produção de um produto. Por exemplo, fabricar ou comprar um parafuso utilizado na fabricação de um motor.
       Dentro do planejamento da fabricação de um motor por uma empresa, três alternativas (Tabela abaixo) de mesma qualidade foram propostas pelo departamento de engenharia para um determinado volume anual.
       Baseado no custo total para um determinado volume de produção, para
-    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_adm 53.png?raw=true"
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/imagens/conh_esp_adm 53.png?raw=true"
     alternativas:
       - 10.000 unidades, a melhor opção é comprar de fornecedor.
       - 7.500 unidades, a melhor opção é fabricar pelo Processo A.
@@ -307,7 +307,7 @@ questoes:
     enunciado: |
       O esquema abaixo apresenta a lista de materiais utilizados na fabricação do liquidificador (Y) de uma empresa.
       Qual é, respectivamente, o número de parafusos (B) e de porcas (C) necessário para essa empresa ter a capacidade de produzir 100 liquidificadores?
-    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_adm 57.png?raw=true"
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/imagens/conh_esp_adm 57.png?raw=true"
     alternativas:
       - 1.400 e 600
       - 600 e 200

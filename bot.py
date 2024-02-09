@@ -120,11 +120,13 @@ def concurso_query(query, page=0):
     button = telebot.types.InlineKeyboardMarkup()
     materias = os.listdir(f'questoes/{banca}/{concurso}')
     materias = sorted(materias)
+    try:
+        materias.remove('imagens')
+    except ValueError:
+        pass
     start = page*paginacao
     end = (page+1)*paginacao
     for materia in sorted(materias)[start:end]:
-        if materia[0] == '.' or '.yml' not in materia:
-            continue
         with open(f'questoes/{banca}/{concurso}/{materia}', 'r') as arquivo:
             arquivo_questoes = yaml.safe_load(arquivo)
         materia_nome_completo = get_materia_name(f'{banca}/{concurso}/{materia}')

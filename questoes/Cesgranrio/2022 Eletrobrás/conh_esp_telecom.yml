@@ -117,7 +117,7 @@ questoes:
       - √(km)
       - km
   - cargo: Engenheiro de Telecomunicações
-    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 39.png?raw=true"
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/imagens/conh_esp_telecom 39.png?raw=true"
     enunciado: |
       Considere a matriz de rotação R de um ângulo ψ ǂ 0 em torno do eixo Z.
       Essa matriz de rotação é tal que
@@ -183,7 +183,7 @@ questoes:
     enunciado: |
       Deseja-se estabelecer um enlace Wi-Fi, na frequência de 2,4 GHz, entre duas localidades, afastadas por 800 m. Esse enlace irá atravessar uma região da cidade, cujo gabarito para os prédios permite uma altura máxima de 10 m. Sabe-se que, para um enlace ser considerado em visibilidade, é necessário que um determinado percentual de uma das zonas de Fresnel esteja livre de obstáculos. Para esse enlace, a Terra pode ser considerada plana.
       Considerando-se que as antenas ficarão a mesma altura, qual deve ser a altura mínima, em m, para que esse enlace possa ser considerado em visibilidade?
-    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 45.png?raw=true"
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/imagens/conh_esp_telecom 45.png?raw=true"
     alternativas:
       - 13,00
       - 3,00
@@ -195,7 +195,7 @@ questoes:
       Os diferentes padrões do grupo IEEE 802.11 (a, b, g, n, ac e ax) apresentam diferenças em suas especificações para as redes Wi-Fi, particularmente em relação aos seus esquemas de modulação e codificação que, algumas vezes, são chamados de MCS (Modulation and Coding Scheme).
       A Figura abaixo ilustra uma medida feita, em analisador de espectro, de um sinal codificado e modulado, segundo o padrão IEEE 802.11b. Pode-se observar que a frequência central do canal é 2,412 GHz, com uma potência média em torno de -50 dBm.
       Sabendo-se disso, em relação ao sinal medido no padrão IEEE 802.11b, verifica-se que é uma modulação/codificação do tipo
-    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 46.png?raw=true"
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/imagens/conh_esp_telecom 46.png?raw=true"
     alternativas:
       - DSSS (Direct Sequence Spread Spectrum), e o sinal foi transmitido no canal 1.
       - DSSS (Direct Sequence Spread Spectrum), e o sinal foi transmitido no canal 2.
@@ -227,7 +227,7 @@ questoes:
     enunciado: |
       A Figura abaixo ilustra o diagrama de blocos de uma conversão A/D para a transmissão digital, em banda básica, de um sinal analógico.
       Considerando-se que o codificador de fonte emprega um número fixo de bits para representar cada um dos 64 níveis de quantização, qual a taxa de bits mínima, em kbps, gerada ao final do processo de conversão analógico digital?
-    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 49.png?raw=true"
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/imagens/conh_esp_telecom 49.png?raw=true"
     alternativas:
       - 180
       - 30
@@ -239,7 +239,7 @@ questoes:
       A Figura abaixo ilustra a propagação da luz, pela Teoria de Raios, em três tipos de fibras ópticas diferentes, numeradas de I a III.
       Na Figura, pode-se observar os raios de luz sendo propagados pelo núcleo e refletidos ou não na interface do núcleo com a casca.
       Sabendo-se disso, identificam-se em I, II e III, respectivamente, as seguintes fibras ópticas:
-    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 50.png?raw=true"
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/imagens/conh_esp_telecom 50.png?raw=true"
     alternativas:
       - "I: multimodo índice degrau; II: multimodo índice gradual; III: monomodo."
       - "I: monomodo; II: multimodo índice gradual; III: multimodo índice degrau."
@@ -251,7 +251,7 @@ questoes:
       A Figura abaixo ilustra uma medida, em um cabo de fibra óptica, com um OTDR. Esse cabo é vendido em rolos de 2,5 km de comprimento e foi usado por uma empresa, para transmitir um sinal da matriz até uma filial, a 22 km de distância.
       Sabe-se que cada emenda nesse cabo apresenta uma perda de 0,25 dB e que, em cada extremidade do enlace (matriz e filial), deve ser adicionado um conector, que possui 1 dB de perda (já incluindo as perdas no processo de conectorização). O receptor é um diodo PIN, cuja sensibilidade de -25 dBm garante a relação sinal-ruído (SNR) desejada.
       Sabendo-se disso, qual a potência mínima do transmissor desse sistema, em dBm, para que o enlace de comunicação óptica seja estabelecido?
-    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 51.png?raw=true"
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/imagens/conh_esp_telecom 51.png?raw=true"
     alternativas:
       - -10,00
       - -12,25
@@ -262,7 +262,7 @@ questoes:
     enunciado: |
       A Figura abaixo ilustra um multiplexador TDM óptico, baseado em linhas de retardo. Um laser gera o trem de pulsos inicial a uma taxa de B bps (bits por segundo), que é a taxa de dados de um único usuário. Esse trem é dividido para os N usuários, que inserem seus bits de informação por meio de moduladores ópticos (mod.), bloqueando ou deixando passar o pulso original. Cada um dos N usuários sofre diferentes retardos e é inserido no seu espaço (slot) de tempo adequado a intervalos de 1/NB.
       Considerando-se que o usuário de índice n (n = 1, ..., N) ocupa o n-ésimo slot de tempo, qual é a expressão para o retardo inserido pela linha de retardo do n-ésimo usuário?
-    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 52.png?raw=true"
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/imagens/conh_esp_telecom 52.png?raw=true"
     alternativas:
       - (n-1)/NB
       - (n-1)/B
@@ -284,7 +284,7 @@ questoes:
       A Figura a seguir mostra um sinal v(t), periódico no tempo, formando um trem de pulsos retangulares de tensão, em volts, onde a variável T é definida como o período.
       A potência média desse sinal, quando aplicado a um resistor unitário, é calculada pela integral definida no intervalo de um período [ T ], dada a seguir:
       Considerando-se os dados mostrados na Figura, o valor da potência média deste sinal, em watts, é
-    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 56.png?raw=true"
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/imagens/conh_esp_telecom 56.png?raw=true"
     alternativas:
       - 20,00
       - 50,00
@@ -301,7 +301,7 @@ questoes:
       f0 = 250 kHZ;
       FPB - Filtro Passa-Baixa ideal com largura de banda igual a 4 kHz;
       O misturador possui ganho unitário
-    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 57.png?raw=true"
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/imagens/conh_esp_telecom 57.png?raw=true"
     alternativas:
       - √2/4 e √2/4
       - √2/2 e √2/2
