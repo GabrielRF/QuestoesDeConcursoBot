@@ -50,11 +50,11 @@ questoes:
       Considere um desenho inicialmente na escala 1:1. Após sofrer uma ampliação de 1000%, o desenho ampliado foi reduzido a 20%, e o desenho resultante foi novamente reduzido a 50%.
       A escala final do desenho ficou em
     alternativas:
-      - 1:1
-      - 1:2
-      - 1:5
-      - 1:0,1
-      - 1:0,5
+      - "1:1"
+      - "1:2"
+      - "1:5"
+      - "1:0,1"
+      - "1:0,5"
   - cargo: Engenheiro de Telecomunicações
     enunciado: "Usando somente os algarismos significativos, o registro 0,007500 m é equivalente a"
     alternativas:
