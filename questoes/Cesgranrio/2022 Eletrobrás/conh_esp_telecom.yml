@@ -300,7 +300,8 @@ questoes:
       s(t) = sen(2pi f0 t + (3pi/4));
       f0 = 250 kHZ;
       FPB - Filtro Passa-Baixa ideal com largura de banda igual a 4 kHz;
-      O misturador possui ganho unitário
+      O misturador possui ganho unitário.
+      ```
     imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/imagens/conh_esp_telecom 57.png?raw=true"
     alternativas:
       - √2/4 e √2/4
