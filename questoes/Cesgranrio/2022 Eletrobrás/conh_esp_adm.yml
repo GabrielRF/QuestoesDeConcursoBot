@@ -2,7 +2,7 @@
 materia: Administrador - Conhecimentos Específicos
 questoes:
   - cargo: Administrador
-    enunciado: No contexto das diretrizes de gestão de riscos, apresentadas na norma ABNT NBR ISO 31000:2018, o processo de avaliação de um risco engloba as três seguintes etapas:
+    enunciado: "No contexto das diretrizes de gestão de riscos, apresentadas na norma ABNT NBR ISO 31000:2018, o processo de avaliação de um risco engloba as três seguintes etapas:"
     alternativas:
       - identificação de risco; análise de risco; avaliação de risco
       - escopo, contexto e critério; análise de risco; tratamento de riscos
@@ -10,7 +10,7 @@ questoes:
       - identificação de risco; análise de risco; tratamento de risco
       - análise de risco; avaliação de riscos; tratamento de risco
   - cargo: Administrador
-    enunciado: No contexto da norma ABNT NBR ISO 31000:2018, a análise de riscos tem como propósito compreender a natureza do risco, sendo conveniente que nessa análise sejam considerados fatores como os enumerados a seguir:
+    enunciado: "No contexto da norma ABNT NBR ISO 31000:2018, a análise de riscos tem como propósito compreender a natureza do risco, sendo conveniente que nessa análise sejam considerados fatores como os enumerados a seguir:"
     alternativas:
       - probabilidade de eventos e consequências; complexidade e conectividade; sensibilidade e níveis de confiança
       - probabilidade de eventos e consequências; simplicidade e interdependências; sensibilidade e níveis de confiança
@@ -108,7 +108,7 @@ questoes:
     alternativas:
       - Identificação do problema; Diagnóstico; Verificação das alternativas; Tomada de decisão e Avaliação final
       - Diagnóstico; Recuperação de histórico; Análise de soluções; Verificação de alternativas e Avaliação final
-      - Identificação do problema; Avaliação de soluções; Workflow de tarefas; Tomada de decisão e Controle de tarefas 
+      - Identificação do problema; Avaliação de soluções; Workflow de tarefas; Tomada de decisão e Controle de tarefas
       - Recuperação de histórico; Análise de soluções; Designação de responsabilidades; Execução e Tomada de decisão
       - Workflow de tarefas; Designação de responsabilidades; Tomada de decisão; Execução e Controle de tarefas
   - cargo: Administrador
@@ -250,3 +250,97 @@ questoes:
       - 3
       - 4
       - 6
+  - cargo: Administrador
+    enunciado: |
+      O total de vendas a prazo durante o ano de 2021 foi de R$ 50.000,00, e o custo da mercadoria vendida no mesmo ano foi de R$ 30.000,00.
+      Quais os períodos aproximados, em dias (ano de 365 dias), do ciclo operacional e do ciclo de caixa, respectivamente?
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_adm 52.png?raw=true"
+    alternativas:
+      - 175,2 e 152,4
+      - 116,8 e 94,0
+      - 145,0 e 128,6
+      - 172,8 e 150,3
+      - 205,4 e 176,2
+  - cargo: Administrador
+    enunciado: |
+      Uma das decisões relevantes no Planejamento de Cadeias de Suprimento é a decisão de comprar ou fabricar uma determinada peça a ser utilizada na produção de um produto. Por exemplo, fabricar ou comprar um parafuso utilizado na fabricação de um motor.
+      Dentro do planejamento da fabricação de um motor por uma empresa, três alternativas (Tabela abaixo) de mesma qualidade foram propostas pelo departamento de engenharia para um determinado volume anual.
+      Baseado no custo total para um determinado volume de produção, para
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_adm 53.png?raw=true"
+    alternativas:
+      - 10.000 unidades, a melhor opção é comprar de fornecedor.
+      - 7.500 unidades, a melhor opção é fabricar pelo Processo A.
+      - 12.500 unidades, a melhor opção é fabricar pelo Processo B.
+      - 15.000 unidades, a melhor opção é fabricar pelo Processo B.
+      - 20.000 unidades, a melhor opção é fabricar pelo Processo A.
+  - cargo: Administrador
+    enunciado: |
+      Dentre os conceitos financeiros fundamentais, um administrador financeiro deve saber interpretar as demonstrações financeiras de uma empresa. A utilização de índices financeiros para fins de comparação de empresas é de extrema utilidade. Esses são agrupados em diversas categorias, como as de solvência de curto e longo prazos, de valor de mercado, entre outros.
+      Um exemplo de índice financeiro na categoria de solvência de curto prazo é
+    alternativas:
+      - Índice de caixa
+      - Retorno do ativo (ROA)
+      - Margem de lucro
+      - Giro de estoques
+      - Índice preço/lucro (P/L)
+  - cargo: Administrador
+    enunciado: |
+      Uma loja de materiais de construção está estudando o tamanho do pedido de sacos de cimento de 50 quilos que deve ser feito, considerando o método do lote econômico.
+      Se a demanda mensal do produto é de 100 unidades, o custo unitário de manutenção anual é de R$ 10,00, e o custo de colocação do pedido é de R$ 60,00, qual o tamanho do pedido a ser feito?
+    alternativas:
+      - 120
+      - 35
+      - 100
+      - 170
+      - 200
+  - cargo: Administrador
+    enunciado: |
+      Uma empresa tem 100.000 itens em seu estoque. A empresa utiliza o método ABC para classificar seu estoque na proporção 20%-30%-50% para as classes A-B-C, respectivamente. A empresa requer que seja feita a contagem de cada item da classe A, mensalmente; a de cada item da classe B, trimestralmente; e a de cada item da classe C, semestralmente.
+      Se a empresa trabalha 250 dias no ano, quantos itens, aproximadamente, devem ser contados por dia?
+    alternativas:
+      - 1.840
+      - 3.040
+      - 400
+      - 365
+      - 274
+  - cargo: Administrador
+    enunciado: |
+      O esquema abaixo apresenta a lista de materiais utilizados na fabricação do liquidificador (Y) de uma empresa.
+      Qual é, respectivamente, o número de parafusos (B) e de porcas (C) necessário para essa empresa ter a capacidade de produzir 100 liquidificadores?
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_adm 57.png?raw=true"
+    alternativas:
+      - 1.400 e 600
+      - 600 e 200
+      - 1.100 e 500
+      - 1.300 e 500
+      - 2.400 e 200
+  - cargo: Administrador
+    enunciado: |
+      O presidente de uma companhia pretende participar de licitações para a realização de diversas obras que possuem alto valor comercial.
+      Nos termos das normas aplicáveis, as obras de valores expressivos devem ser licitadas através da
+    alternativas:
+      - concorrência
+      - tomada de preços
+      - competição
+      - tradição
+      - concessão
+  - cargo: Administrador
+    enunciado: |
+      Determinada pessoa jurídica obteve contrato para fornecimento de bens para a administração pública. Dentre as cláusulas previstas no contrato, constam as de modificação unilateral e a de fiscalização.
+      Tais cláusulas típicas das avenças com o Estado são consideradas
+    alternativas:
+      - exorbitantes
+      - reais
+      - pessoais
+      - normais
+      - civis
+  - cargo: Administrador
+    enunciado: |
+      O superintendente de contratos de um órgão público organiza vários procedimentos de aquisição de materiais através da modalidade pregão.
+      Nos termos das normas aplicáveis à fase preparatória do pregão, a autoridade competente designará, dentre os servidores do órgão ou entidade promotora da licitação, o
+    alternativas:
+      - pregoeiro
+      - administrador
+      - representante
+      - responsável
+      - mandatário
