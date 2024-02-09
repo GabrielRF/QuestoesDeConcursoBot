@@ -1,0 +1,346 @@
+---
+materia: Administrador - Conhecimentos Específicos
+questoes:
+  - cargo: Administrador
+    enunciado: "No contexto das diretrizes de gestão de riscos, apresentadas na norma ABNT NBR ISO 31000:2018, o processo de avaliação de um risco engloba as três seguintes etapas:"
+    alternativas:
+      - identificação de risco; análise de risco; avaliação de risco
+      - escopo, contexto e critério; análise de risco; tratamento de riscos
+      - escopo, contexto e critério; identificação de risco; análise de risco
+      - identificação de risco; análise de risco; tratamento de risco
+      - análise de risco; avaliação de riscos; tratamento de risco
+  - cargo: Administrador
+    enunciado: "No contexto da norma ABNT NBR ISO 31000:2018, a análise de riscos tem como propósito compreender a natureza do risco, sendo conveniente que nessa análise sejam considerados fatores como os enumerados a seguir:"
+    alternativas:
+      - probabilidade de eventos e consequências; complexidade e conectividade; sensibilidade e níveis de confiança
+      - probabilidade de eventos e consequências; simplicidade e interdependências; sensibilidade e níveis de confiança
+      - simplicidade e interdependências; fatores temporais; sensibilidade e níveis de confiança
+      - probabilidade de eventos e consequências; fatores temporais; eficácia de medidas de controle futuras
+      - simplicidade e interdependências; fatores temporais; eficácia de medidas de controle futuras
+  - cargo: Administrador
+    enunciado: Entre os conceitos apresentados na norma ABNT ISO 31000:2018, encontra-se o de gestão de riscos, que envolve um(a)
+    alternativas:
+      - análise de riscos, que pode ser realizada em vários graus de detalhamento e complexidade, dependendo do propósito, da disponibilidade e da confiabilidade da informação.
+      - tratamento de riscos, o qual deve ser implementado para que os agentes atuem no controle da probabilidade simultaneamente ao controle de consequências.
+      - controle de riscos, que é uma medida que inclui o histórico de acidentes, não se limitando a qualquer processo, política, dispositivo ou prática.
+      - avaliação de riscos, em que se comparam os resultados advindos da identificação dos riscos com os critérios estabelecidos para os níveis de ação.
+      - identificação dos riscos, que tem como objetivo decrescer o número de acidentes ocorridos no passado, estabelecendo séries históricas e taxas de frequência.
+  - cargo: Administrador
+    enunciado: |
+      Um empreendedor, que pretende apresentar projetos de pequeno e médio valores para a Administração Pública, analisa quais seriam os requisitos para atingir seu objetivo.
+      Ele, então, verifica que, nos termos da Lei no 13.303/2016, é dispensável a realização de licitação por empresas públicas e sociedades de economia mista para obras e serviços de engenharia no valor de até R$ 100.000,00 (cem mil reais), desde que não se refiram a parcelas de uma mesma
+    alternativas:
+      - obra
+      - fração
+      - unidade
+      - integridade
+      - relação
+  - cargo: Administrador
+    enunciado: |
+      Um engenheiro gerencia uma pequena empresa de construção que vem crescendo com a realização de projetos públicos e privados.
+      Com um novo projeto em vista, ele toma conhecimento de que, nos termos da Lei no 13.303/2016, o orçamento de referência do custo global de obras e serviços de engenharia deverá ser obtido a partir de custos unitários de insumos ou serviços menores ou iguais à mediana de seus correspondentes no Sistema Nacional de Pesquisa de Custos e
+    alternativas:
+      - Índices da Construção Civil
+      - Referências de Obras
+      - Parâmetros da Construção
+      - Normas das Obras
+      - Permissões de Construção
+  - cargo: Administrador
+    enunciado: Na avaliação dos fatores que determinam a motivação para o bom resultado de um treinamento, um supervisor identificou que
+    alternativas:
+      - a personalidade é importante, pois participantes com locus de controle interno, alta conscienciosidade, grande habilidade cognitiva e alta eficácia aprendem mais em programas de treinamento.
+      - as características pessoais dos participantes, como motivação e cargo, são mais importantes para a aprendizagem do que as características do treinamento.
+      - os participantes, que têm uma expectativa positiva em uma classe divertida e animada, sempre aprendem muito e justificam o custo de treinamento.
+      - os participantes, quando acreditam que há oportunidade e recursos suficientes para aplicar suas habilidades recém-aprendidas, ficam menos motivados a aprender.
+      - os métodos de treinamento são todos igualmente eficazes, já que o sucesso do treinamento depende do indivíduo e do suporte organizacional.
+  - cargo: Administrador
+    enunciado: |
+      A estratégia escolhida por um profissional para gerenciar o ambiente externo de sua organização foi estabelecer relações favoráveis com elementos críticos.
+      Para tanto, ele desenvolveu um(a)
+    alternativas:
+      - processo de integração vertical e criou conselhos de administração interligados.
+      - processo de descentralização da tomada de decisões do nível superior para os níveis inferiores e criou um programa de comprometimento.
+      - modelo administrativo embasado na discrição limitada, indicando que as ótimas soluções não representam, algumas vezes, cursos de ações factíveis.
+      - programa para aumentar o nível de amplitude de controle da organização, mudando as unidades e cadeias de comando.
+      - estrutura funcional com pessoal e atividades de acordo com os recursos essenciais ao processo de produção.
+  - cargo: Administrador
+    enunciado: |
+      Num cenário global em rápida alteração, um gestor buscou monitorar o macroambiente político-legal de sua organização.
+      Para tanto ele deve identificar que
+    alternativas:
+      - o aumento de negócios realizados no ciberespaço demanda uma regulamentação mais rigorosa e exige que os profissionais conheçam as principais leis que protegem a concorrência, os consumidores e a sociedade.
+      - o maior crescimento populacional de camadas da população rural de menor renda no Brasil leva a maiores despesas com o custeio de serviços públicos geridos pelo Estado.
+      - o aumento da população carente no campo aumenta os fluxos migratórios para as cidades grandes, ou eleva a ocupação desordenada de áreas florestais ou de preservação.
+      - o aumento da taxa de crescimento da população eleva a distribuição das faixas etárias e sua composição étnica, os seus níveis de instrução e os seus arranjos familiares.
+      - as novas soluções tecnológicas na área de saúde e os novos métodos de planejamento familiar auxiliam na redução do número de filhos por mulher nesses grupos.
+  - cargo: Administrador
+    enunciado: |
+      Para a avaliação de desempenho de um subordinado, um gerente escreveu uma narrativa descrevendo suas forças e fraquezas, desempenhos anteriores, potenciais e sugestões de melhoria.
+      Esse método de avaliação de desempenho é denominado
+    alternativas:
+      - ensaio crítico
+      - incidente crítico
+      - lista de verificação
+      - escala de classificação adjetiva
+      - escala de classificação ancorada no comportamento
+  - cargo: Administrador
+    enunciado: Dos mitos e realidades referentes ao custo de remuneração de uma organização deve ser contestado que
+    alternativas:
+      - o valor da remuneração e o custo da mão de obra são sempre a mesma coisa.
+      - nem sempre é possível baixar o custo da mão de obra diminuindo-se salários.
+      - nem sempre o custo de mão de obra é um componente determinante dos custos totais.
+      - nem sempre baixo custo de mão de obra é um fator importante e sustentável de competitividade.
+      - muitas vezes, incentivos individuais diminuem o desempenho, desencorajando o espírito de equipe e priorizando o curto prazo.
+  - cargo: Administrador
+    enunciado: |
+      Um dos modelos mais utilizados para o diagnóstico cultural de uma organização é o modelo dos valores concorrentes ou valores competitivos. Um gerente aplicou esse modelo de diagnóstico na sua empresa e identificou: um forte valor atribuído à flexibilidade e à liberdade de ação, com foco para dentro da organização; eficácia valorizada em termos da coesão e do moral dos indivíduos; líderes mentores e conselheiros; lugar amigável para se trabalhar, com uma grande parcela de comprometimento e lealdade.
+      Nesse contexto, identifica-se que nessa empresa há aspectos de uma cultura organizacional denominada
+    alternativas:
+      - clã
+      - mercado
+      - hierárquica
+      - exigente
+      - adhocracia ou inovadora
+  - cargo: Administrador
+    enunciado: |
+      Um projeto de sistema de informações para apoio decisório foi encomendado por um órgão público. Esse sistema deve possuir 5 módulos principais, representando as 5 etapas de um processo decisório.
+      Por conta desse requisito, esse sistema deve possuir os módulos de
+    alternativas:
+      - Identificação do problema; Diagnóstico; Verificação das alternativas; Tomada de decisão e Avaliação final
+      - Diagnóstico; Recuperação de histórico; Análise de soluções; Verificação de alternativas e Avaliação final
+      - Identificação do problema; Avaliação de soluções; Workflow de tarefas; Tomada de decisão e Controle de tarefas
+      - Recuperação de histórico; Análise de soluções; Designação de responsabilidades; Execução e Tomada de decisão
+      - Workflow de tarefas; Designação de responsabilidades; Tomada de decisão; Execução e Controle de tarefas
+  - cargo: Administrador
+    enunciado: |
+      Uma empresa instalou um sistema de informação do tipo Sistema de Informações Gerenciais.
+      O sistema instalado foi baseado no modelo hierarquizado. Isto significa que esse sistema
+    alternativas:
+      - é composto de um sistema principal que distribui informações para os sistemas dos níveis inferiores imediatamente precedentes.
+      - divide os recursos computacionais pela empresa, de modo que cada parte tem sua estrutura e seu centro de processamento próprio.
+      - funciona com base em um superservidor único, que concentra o foco de todo processamento da rede.
+      - possui computadores independentes que fornecem os dados a outros servidores de rede, permitindo interações entre si.
+      - possui uma estrutura toda redundante, de modo que todo o sistema computacional da empresa funcione como um único sistema.
+  - cargo: Administrador
+    enunciado: |
+      O diretor de uma cadeia de lanchonetes X se associou à empresa de transporte Y, que o atende, em busca de aumentar, conjuntamente, a sustentabilidade de suas operações. Assim, os caminhões que levam os alimentos para as lanchonetes X passaram a recolher o óleo utilizado nas cozinhas das lanchonetes, encaminhando-o para uma usina que transforma o óleo usado em biocombustível, que é utilizado para abastecer os veículos da empresa de transporte Y.
+      Nesse caso, observa-se que as empresas X e Y desenvolveram juntas uma técnica baseada nos princípios de
+    alternativas:
+      - logística reversa
+      - desnatamento
+      - desintegração
+      - integração horizontal
+      - deseconomia de escala
+  - cargo: Administrador
+    enunciado: |
+      Como desdobramento das conferências mundiais sobre meio-ambiente e desenvolvimento, a cúpula das Nações Unidas para o Desenvolvimento Sustentável apresentou, em 2015, os Objetivos de Desenvolvimento Sustentável (ODS). Os ODS servem como princípios que devem nortear as empresas, as cidades e a sociedade em geral em busca da sustentabilidade.
+      Identifica-se como um dos Objetivos de Desenvolvimento Sustentável
+    alternativas:
+      - reduzir a desigualdade dentro dos países e entre eles.
+      - aumentar a riqueza das empresas mais produtivas.
+      - diminuir o controle dos Estados sobre a biodiversidade.
+      - controlar disputas de caráter comercial entre países poluidores.
+      - impedir relações comerciais entre países que poluem o meio ambiente.
+  - cargo: Administrador
+    enunciado: Os gerentes da empresa X relataram ao diretor que estavam ocorrendo constantes interrupções nas entregas de seus produtos. Seria necessário alterar o sistema de distribuição e, para isso, o diretor destacou uma equipe para observar, por um período de tempo, as atividades das empresas consideradas as melhores desse setor. Essa equipe identificou as melhores práticas das empresas concorrentes, e o diretor decidiu que o novo sistema de distribuição seria desenvolvido com base nessas práticas. O processo realizado pela empresa X é denominado
+    alternativas:
+      - Benchmarking
+      - SWOT
+      - Stakeholder
+      - Diversificação
+      - Rede de Valor
+  - cargo: Administrador
+    enunciado: |
+      A crescente preocupação com o desenvolvimento sustentável trouxe à tona o conceito de _triple bottom line_.
+      Esse conceito está baseado na ideia de que as empresas devem incorporar às suas decisões e ações três dimensões, a saber:
+    alternativas:
+      - econômica, social e ambiental
+      - discursiva, utilitária e processual
+      - democrática, plural e empresarial
+      - lucrativa, societária e comunitária
+      - corporativa, rentável e competente
+  - cargo: Administrador
+    enunciado: |
+      O Instituto Brasileiro de Geografia e Estatística (IBGE) inclui, entre suas publicações, os Indicadores de Desenvolvimento Sustentável – Brasil (IDS), que reúne um conjunto de diversos indicadores, agrupados em quatro dimensões.
+      No IDS-2008, os indicadores trabalho e rendimento, educação, habitação e segurança estão listados na dimensão
+    alternativas:
+      - social
+      - institucional
+      - econômica
+      - ambiental
+      - formal
+  - cargo: Administrador
+    enunciado: |
+      Normas certificadoras servem para que a empresa aperfeiçoe o funcionamento do negócio, uma vez que podem auxiliá-la na melhora da imagem, na geração de crescimento rentável e no aumento da produtividade.
+      A Norma que estabelece a criação, manutenção e melhoria do sistema de gestão ambiental e serve para que se verifique se a empresa está em conformidade com sua própria política ambiental é denominada
+    alternativas:
+      - ISO 14000
+      - ECO 92
+      - ABNT 247
+      - SNELL B-95
+      - OHSAS 18001
+  - cargo: Administrador
+    enunciado: A direção de uma empresa de energia está avaliando o ambiente externo da empresa e observa que o poder de negociação de seu fornecedor é mais forte porque
+    alternativas:
+      - a empresa incorre em custos altos para utilizar alternativas.
+      - há muitos fornecedores do insumo específico no mercado.
+      - há aumento de disponibilidade de insumos e há insumos substitutos.
+      - a empresa pode realizar integração vertical reversa.
+      - o volume de vendas para a empresa é importante para a sobrevivência do fornecedor.
+  - cargo: Administrador
+    enunciado: |
+      Um consultor analisou as relações entre a empresa X e seus clientes e concluiu que a empresa é orientada para produção.
+      Isso significa que
+    alternativas:
+      - os gerentes da empresa X buscam alcançar alta eficiência na fabricação dos produtos, com baixos custos e distribuição em massa.
+      - a empresa X é centrada no cliente e busca ser mais eficaz do que seus concorrentes na criação, entrega e comunicação de seus produtos.
+      - a empresa X dedica esforços agressivos de vendas e promoção porque os consumidores não compram produtos em quantidades suficientes.
+      - a maior preocupação dos gerentes da empresa X é construir relacionamentos com os consumidores dos produtos produzidos pela empresa.
+      - os produtos oferecidos pela empresa X têm qualidade e desempenho superiores e características inovadoras.
+  - cargo: Administrador
+    enunciado: |
+      Os investimentos de longo prazo compreendem desembolsos substanciais de fundos de uma empresa. Assim, é preciso ter critérios claros para analisar e selecionar que investimento fazer e que investimento rejeitar a partir do objetivo de maximizar o retorno do acionista e dos critérios de decisão utilizados em finanças corporativas: payback, Valor Presente Líquido (VPL) e Taxa Interna de Retorno (TIR), utilizando a mesma taxa de desconto. Considere os dados do Quadro abaixo, para projetos mutuamente excludentes, com o mesmo investimento inicial.
+      Que projeto a empresa deve escolher, a partir da melhor combinação dos três critérios acima mencionados?
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_adm 47.png?raw=true"
+    alternativas:
+      - Projeto R
+      - Projeto P
+      - Projeto T
+      - Projeto Q
+      - Projeto S
+  - cargo: Administrador
+    enunciado: |
+      É comum que organizações (por exemplo, empresas, órgãos governamentais e entidades sem fins de lucro) maduras e organizadas utilizem um ou mais sistemas de informação para apoio às suas atividades.
+      Nessas organizações, os sistemas de informação são criados, adquiridos e utilizados principalmente para
+    alternativas:
+      - coletar, processar, armazenar e disseminar informações úteis para a organização.
+      - atender a estatísticos, matemáticos e contadores, pois tais sistemas têm grande poder de computação.
+      - garantir a distribuição homogênea de informações dentro da organização.
+      - informar possíveis órgãos reguladores das atividades realizadas na organização.
+      - sistematizar informações institucionais históricas da organização.
+  - cargo: Administrador
+    enunciado: |
+      Nas empresas, os resultados das funções empresariais são materializados por meio da execução de atividades, muitas vezes realizadas no âmbito de processos de negócios.
+      Nesse cenário, os sistemas de informação devem
+    alternativas:
+      - apoiar ao máximo possível as atividades realizadas pelos processos de negócio da empresa.
+      - calcular os valores das custas processuais das funções empresariais.
+      - definir os parâmetros básicos dos processos de negócio da empresa.
+      - determinar que processos de negócio a empresa precisa ter.
+      - garantir a digitalização de todos os produtos da empresa gerados por processos de negócio.
+  - cargo: Administrador
+    enunciado: |
+      Alguns sistemas de informação são especializados para suporte ao processo decisório nas empresas.
+      Nesses sistemas é comum que
+    alternativas:
+      - os dados sejam agregados e apresentados por meio de gráficos gerados pelo sistema.
+      - apenas os resultados do processo decisório sejam registrados no sistema.
+      - as ordens de serviço relativas à infraestrutura necessária para o processo decisório sejam acompanhadas pelo sistema.
+      - os participantes do processo decisório sejam escolhidos pelo sistema.
+      - os possíveis cenários futuros sejam gerados exclusivamente pelo sistema.
+  - cargo: Administrador
+    enunciado: |
+      Um operador de uma máquina industrial que produz peças para motores de automóveis está implantando um programa de autocontrole de qualidade. Ele deseja acompanhar a percentagem de peças defeituosas em sua operação. Devido à especificação da máquina, uma percentagem de 3% de peças defeituosas é esperada com alguma variação ocasional.
+      Para fazer um gráfico p com limites de controle de 3 desvios padrões, o operador preparou 10 amostras diárias, com 300 peças cada, apresentadas na Tabela abaixo.
+      Se a variação do intervalo de controle de 3 desvios padrões, em torno da média, é de 2,954%, quantas amostras ficaram fora dos limites de controle?
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_adm 51.png?raw=true"
+    alternativas:
+      - 5
+      - 2
+      - 3
+      - 4
+      - 6
+  - cargo: Administrador
+    enunciado: |
+      O total de vendas a prazo durante o ano de 2021 foi de R$ 50.000,00, e o custo da mercadoria vendida no mesmo ano foi de R$ 30.000,00.
+      Quais os períodos aproximados, em dias (ano de 365 dias), do ciclo operacional e do ciclo de caixa, respectivamente?
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_adm 52.png?raw=true"
+    alternativas:
+      - 175,2 e 152,4
+      - 116,8 e 94,0
+      - 145,0 e 128,6
+      - 172,8 e 150,3
+      - 205,4 e 176,2
+  - cargo: Administrador
+    enunciado: |
+      Uma das decisões relevantes no Planejamento de Cadeias de Suprimento é a decisão de comprar ou fabricar uma determinada peça a ser utilizada na produção de um produto. Por exemplo, fabricar ou comprar um parafuso utilizado na fabricação de um motor.
+      Dentro do planejamento da fabricação de um motor por uma empresa, três alternativas (Tabela abaixo) de mesma qualidade foram propostas pelo departamento de engenharia para um determinado volume anual.
+      Baseado no custo total para um determinado volume de produção, para
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_adm 53.png?raw=true"
+    alternativas:
+      - 10.000 unidades, a melhor opção é comprar de fornecedor.
+      - 7.500 unidades, a melhor opção é fabricar pelo Processo A.
+      - 12.500 unidades, a melhor opção é fabricar pelo Processo B.
+      - 15.000 unidades, a melhor opção é fabricar pelo Processo B.
+      - 20.000 unidades, a melhor opção é fabricar pelo Processo A.
+  - cargo: Administrador
+    enunciado: |
+      Dentre os conceitos financeiros fundamentais, um administrador financeiro deve saber interpretar as demonstrações financeiras de uma empresa. A utilização de índices financeiros para fins de comparação de empresas é de extrema utilidade. Esses são agrupados em diversas categorias, como as de solvência de curto e longo prazos, de valor de mercado, entre outros.
+      Um exemplo de índice financeiro na categoria de solvência de curto prazo é
+    alternativas:
+      - Índice de caixa
+      - Retorno do ativo (ROA)
+      - Margem de lucro
+      - Giro de estoques
+      - Índice preço/lucro (P/L)
+  - cargo: Administrador
+    enunciado: |
+      Uma loja de materiais de construção está estudando o tamanho do pedido de sacos de cimento de 50 quilos que deve ser feito, considerando o método do lote econômico.
+      Se a demanda mensal do produto é de 100 unidades, o custo unitário de manutenção anual é de R$ 10,00, e o custo de colocação do pedido é de R$ 60,00, qual o tamanho do pedido a ser feito?
+    alternativas:
+      - 120
+      - 35
+      - 100
+      - 170
+      - 200
+  - cargo: Administrador
+    enunciado: |
+      Uma empresa tem 100.000 itens em seu estoque. A empresa utiliza o método ABC para classificar seu estoque na proporção 20%-30%-50% para as classes A-B-C, respectivamente. A empresa requer que seja feita a contagem de cada item da classe A, mensalmente; a de cada item da classe B, trimestralmente; e a de cada item da classe C, semestralmente.
+      Se a empresa trabalha 250 dias no ano, quantos itens, aproximadamente, devem ser contados por dia?
+    alternativas:
+      - 1.840
+      - 3.040
+      - 400
+      - 365
+      - 274
+  - cargo: Administrador
+    enunciado: |
+      O esquema abaixo apresenta a lista de materiais utilizados na fabricação do liquidificador (Y) de uma empresa.
+      Qual é, respectivamente, o número de parafusos (B) e de porcas (C) necessário para essa empresa ter a capacidade de produzir 100 liquidificadores?
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_adm 57.png?raw=true"
+    alternativas:
+      - 1.400 e 600
+      - 600 e 200
+      - 1.100 e 500
+      - 1.300 e 500
+      - 2.400 e 200
+  - cargo: Administrador
+    enunciado: |
+      O presidente de uma companhia pretende participar de licitações para a realização de diversas obras que possuem alto valor comercial.
+      Nos termos das normas aplicáveis, as obras de valores expressivos devem ser licitadas através da
+    alternativas:
+      - concorrência
+      - tomada de preços
+      - competição
+      - tradição
+      - concessão
+  - cargo: Administrador
+    enunciado: |
+      Determinada pessoa jurídica obteve contrato para fornecimento de bens para a administração pública. Dentre as cláusulas previstas no contrato, constam as de modificação unilateral e a de fiscalização.
+      Tais cláusulas típicas das avenças com o Estado são consideradas
+    alternativas:
+      - exorbitantes
+      - reais
+      - pessoais
+      - normais
+      - civis
+  - cargo: Administrador
+    enunciado: |
+      O superintendente de contratos de um órgão público organiza vários procedimentos de aquisição de materiais através da modalidade pregão.
+      Nos termos das normas aplicáveis à fase preparatória do pregão, a autoridade competente designará, dentre os servidores do órgão ou entidade promotora da licitação, o
+    alternativas:
+      - pregoeiro
+      - administrador
+      - representante
+      - responsável
+      - mandatário

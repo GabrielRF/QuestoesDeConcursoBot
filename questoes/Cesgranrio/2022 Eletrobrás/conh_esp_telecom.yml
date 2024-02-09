@@ -1,0 +1,344 @@
+---
+materia: Telecom - Conhecimentos Específicos
+questoes:
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: "No contexto das diretrizes de gestão de riscos, apresentadas na norma ABNT NBR ISO 31000:2018, o processo de avaliação de um risco engloba as três seguintes etapas:"
+    alternativas:
+      - identificação de risco; análise de risco; avaliação de risco
+      - escopo, contexto e critério; análise de risco; tratamento de riscos
+      - escopo, contexto e critério; identificação de risco; análise de risco
+      - identificação de risco; análise de risco; tratamento de risco
+      - análise de risco; avaliação de riscos; tratamento de risco
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: "No contexto da norma ABNT NBR ISO 31000:2018, a análise de riscos tem como propósito compreender a natureza do risco, sendo conveniente que nessa análise sejam considerados fatores como os enumerados a seguir:"
+    alternativas:
+      - probabilidade de eventos e consequências; complexidade e conectividade; sensibilidade e níveis de confiança
+      - probabilidade de eventos e consequências; simplicidade e interdependências; sensibilidade e níveis de confiança
+      - simplicidade e interdependências; fatores temporais; sensibilidade e níveis de confiança
+      - probabilidade de eventos e consequências; fatores temporais; eficácia de medidas de controle futuras
+      - simplicidade e interdependências; fatores temporais; eficácia de medidas de controle futuras
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: "Entre os conceitos apresentados na norma ABNT ISO 31000:2018, encontra-se o de gestão de riscos, que envolve um(a)"
+    alternativas:
+      - análise de riscos, que pode ser realizada em vários graus de detalhamento e complexidade, dependendo do propósito, da disponibilidade e da confiabilidade da informação.
+      - tratamento de riscos, o qual deve ser implementado para que os agentes atuem no controle da probabilidade simultaneamente ao controle de consequências.
+      - controle de riscos, que é uma medida que inclui o histórico de acidentes, não se limitando a qualquer processo, política, dispositivo ou prática.
+      - avaliação de riscos, em que se comparam os resultados advindos da identificação dos riscos com os critérios estabelecidos para os níveis de ação.
+      - identificação dos riscos, que tem como objetivo decrescer o número de acidentes ocorridos no passado, estabelecendo séries históricas e taxas de frequência.
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      Um empreendedor, que pretende apresentar projetos de pequeno e médio valores para a Administração Pública, analisa quais seriam os requisitos para atingir seu objetivo.
+      Ele, então, verifica que, nos termos da Lei no 13.303/2016, é dispensável a realização de licitação por empresas públicas e sociedades de economia mista para obras e serviços de engenharia no valor de até R$ 100.000,00 (cem mil reais), desde que não se refiram a parcelas de uma mesma
+    alternativas:
+      - obra
+      - fração
+      - unidade
+      - integridade
+      - relação
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      Um engenheiro gerencia uma pequena empresa de construção que vem crescendo com a realização de projetos públicos e privados.
+      Com um novo projeto em vista, ele toma conhecimento de que, nos termos da Lei no 13.303/2016, o orçamento de referência do custo global de obras e serviços de engenharia deverá ser obtido a partir de custos unitários de insumos ou serviços menores ou iguais à mediana de seus correspondentes no Sistema Nacional de Pesquisa de Custos e
+    alternativas:
+      - Índices da Construção Civil
+      - Referências de Obras
+      - Parâmetros da Construção
+      - Normas das Obras
+      - Permissões de Construção
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      Considere um desenho inicialmente na escala 1:1. Após sofrer uma ampliação de 1000%, o desenho ampliado foi reduzido a 20%, e o desenho resultante foi novamente reduzido a 50%.
+      A escala final do desenho ficou em
+    alternativas:
+      - 1:1
+      - 1:2
+      - 1:5
+      - 1:0,1
+      - 1:0,5
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: "Usando somente os algarismos significativos, o registro 0,007500 m é equivalente a"
+    alternativas:
+      - 7,500 x 10^-3 m
+      - 0,7500 x 10^-2 m
+      - 0,75 x 10^-2 m
+      - 7,5 x 10^-3 m
+      - 75 x 10^-4 m
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      As lojas L1 e L2 possuem, cada uma delas, N peças em seu estoque, enquanto o estoque da loja L3 está vazio. Metade do estoque de L1 e um quarto do estoque de L2 são transferidos para L3, formando o novo estoque de L3. Esse novo estoque de L3 é dividido em três grupos com a mesma quantidade de peças e, de um desses grupos, é retirado um quinto do total de peças do novo estoque de L3.
+      Quantas peças permaneceram nesse grupo do qual as peças foram retiradas?
+    alternativas:
+      - N/10
+      - 3N/20
+      - N/20
+      - 3N/10
+      - N/5
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: "A derivada no tempo da quantidade de movimento linear de um corpo de massa m e velocidade v é dada por"
+    alternativas:
+      - (dm/dt)v + ma
+      - m(dv/dt) + mv
+      - m(dv/dt) + ma
+      - (dm/dt)v + mv^2
+      - mv + ma
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      O número irracional p está escrito a seguir com 15 casas decimais.
+      pi = 3,141592653589793
+      Truncando pi na 5a casa decimal e arredondando pi na 5a casa decimal, obtêm-se, respectivamente, os registros
+    alternativas:
+      - 3,14159 e 3,14159
+      - 3,14160 e 3,14160
+      - 3,14160 e 3,14159
+      - 3,14159 e 3,14160
+      - 3,14159 e 3,14161
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: "A integral no tempo da potência associada a um corpo de massa m constante, deslocando-se a uma velocidade v e sujeito a uma força resultante F, é dada por"
+    alternativas:
+      - (1/2)mv^2
+      - Fv
+      - ma
+      - mv
+      - mav
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: "A aceleração tangencial máxima de um veículo de massa m = 500 kg, com potência P = 500 kW, deslocando-se em linha reta com velocidade v = 180 km/h, é de, aproximadamente:"
+    alternativas:
+      - 2 g
+      - 0,2 g
+      - 20 g
+      - 1 g
+      - 5 g
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: "O momento de inércia de um corpo de massa m quilogramas e raio de giração k metros em torno de um eixo que passa pelo seu centro de massa é dado por"
+    alternativas:
+      - (k^2)m
+      - m√2
+      - k√m
+      - √(km)
+      - km
+  - cargo: Engenheiro de Telecomunicações
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 39.png?raw=true"
+    enunciado: |
+      Considere a matriz de rotação R de um ângulo ψ ǂ 0 em torno do eixo Z.
+      Essa matriz de rotação é tal que
+    alternativas:
+      - R^-1 = R^T
+      - R^-1 = R
+      - R^T = R
+      - R^-1 = I
+      - R^T = I
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: "Ao representar a função y = x^0,5 em um sistema de eixos ortogonais com escalas logarítmicas (escala log-log), obtém-se um gráfico que é uma"
+    alternativas:
+      - reta com coeficiente angular positivo
+      - parábola com concavidade positiva
+      - hipérbole com concavidade negativa
+      - reta com coeficiente angular negativo
+      - reta com coeficiente angular nulo
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      Em resposta às necessidades que surgiram com a popularização da Internet e a diversificação de seus serviços, o MPLS (MultiProtocol Label Switching) surgiu como uma tecnologia de encaminhamento de pacotes, baseada em rótulos. A RFC 2702 (Requirements for Traffic Engineering over MPLS) descreve a funcionalidade básica de Traffic Engineering (TE) em um sistema autônomo de roteamento, com enfoque em sua utilização em redes MPLS-TE. A aplicação de TE em MPLS concretizou-se pela definição, de início, do plano de controle do MPLS-TE, que consiste basicamente em um protocolo de roteamento IGP, suportando constraining routing e source routing, e de um protocolo de sinalização compatível com esse roteamento.
+      O roteamento e a sinalização no MPLS-TE são funções, respectivamente, dos protocolos:
+    alternativas:
+      - OSPF-TE e RSVP-TE
+      - RSVP-TE e MPLS-OSPF
+      - MPLS-OSPF e OSPF-TE
+      - MPLS-VPN L2 e MPLS-VPN-L3
+      - MPLS-VPN L3 e MPLS-VPN-L2
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      Entre os desafios de um administrador de redes está o conhecimento dos protocolos da arquitetura TCP/IP, de modo a bem gerenciar o funcionamento da rede sob sua responsabilidade.
+      Nesse sentido, o protocolo OSPF tem por característica
+    alternativas:
+      - permitir balanceamento de carga, se existir mais de uma rota para um dado destino, podendo o roteador dividir os datagramas entre eles, de modo a reduzir o tráfego em cada um dos caminhos.
+      - funcionar com base no roteamento estático, sempre buscando o caminho mais curto e não o mais rápido, eliminando qualquer tipo de congestionamento no caminho até o destino.
+      - funcionar com base no roteamento interdomínio, por meio do armazenamento das informações dos roteadores sobre as tabelas com o caminho mais curto, usado para alcançar o destino da informação.
+      - utilizar a porta 520 para realizar o tráfego UDP, enviando aos demais roteadores as tabelas de roteamento a cada 30 minutos, o que aumenta o tráfego na rede.
+      - utilizar roteamento intradomínio de vetor de caminho e um algoritmo vetor-distância, responsável pela construção de uma tabela que informa as rotas possíveis até o destino.
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      Os switches com suporte a VLANs seguem um padrão IEEE 802.1, sendo que a configuração das portas do switch deve seguir o modo de operação da VLAN, conforme a seguir.
+      ```
+      I - TRUNK (tagged) - cada quadro transmitido ou recebido por essa porta deve conter o número da VLAN a que pertence. Esse modo é usado, normalmente, em portas que interligam switches.
+      II - ACESS (untagged) - quadros que entram e saem pela porta não possuem informação sobre a VLAN a que pertencem. Usado, normalmente, para conectar computadores e servidores a switches.
+      ```
+      Nesse contexto, qual é o padrão IEEE?
+    alternativas:
+      - 802.1/q
+      - 802.1/d
+      - 802.1/p
+      - 802.1/s
+      - 802.1/w
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      O protocolo IP pode estar envolvido em tipos de comunicação unicast, anycast, multicast e broadcast.
+      No contexto multicast,
+    alternativas:
+      - cada roteador envolvido precisa construir uma árvore de rota mais curta para cada grupo.
+      - cada roteador no domínio tem uma tabela que define uma árvore de rota mais longa para um destino exclusivo.
+      - o roteador encaminha o pacote recebido por meio exclusivamente de uma única interface.
+      - o roteador encaminha os pacotes recebidos por meio de uma interface única de diversas origens.
+      - os roteadores usam um tipo de comunicação, em que existem exclusivamente uma origem e um destino, numa relação um-para-um.
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      Deseja-se estabelecer um enlace Wi-Fi, na frequência de 2,4 GHz, entre duas localidades, afastadas por 800 m. Esse enlace irá atravessar uma região da cidade, cujo gabarito para os prédios permite uma altura máxima de 10 m. Sabe-se que, para um enlace ser considerado em visibilidade, é necessário que um determinado percentual de uma das zonas de Fresnel esteja livre de obstáculos. Para esse enlace, a Terra pode ser considerada plana.
+      Considerando-se que as antenas ficarão a mesma altura, qual deve ser a altura mínima, em m, para que esse enlace possa ser considerado em visibilidade?
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 45.png?raw=true"
+    alternativas:
+      - 13,00
+      - 3,00
+      - 14,25
+      - 15,00
+      - 17,10
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      Os diferentes padrões do grupo IEEE 802.11 (a, b, g, n, ac e ax) apresentam diferenças em suas especificações para as redes Wi-Fi, particularmente em relação aos seus esquemas de modulação e codificação que, algumas vezes, são chamados de MCS (Modulation and Coding Scheme).
+      A Figura abaixo ilustra uma medida feita, em analisador de espectro, de um sinal codificado e modulado, segundo o padrão IEEE 802.11b. Pode-se observar que a frequência central do canal é 2,412 GHz, com uma potência média em torno de -50 dBm.
+      Sabendo-se disso, em relação ao sinal medido no padrão IEEE 802.11b, verifica-se que é uma modulação/codificação do tipo
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 46.png?raw=true"
+    alternativas:
+      - DSSS (Direct Sequence Spread Spectrum), e o sinal foi transmitido no canal 1.
+      - DSSS (Direct Sequence Spread Spectrum), e o sinal foi transmitido no canal 2.
+      - OFDM (Orthogonal Frequency Division Multplexing), e o sinal foi transmitido no canal 1.
+      - OFDM (Orthogonal Frequency Division Multplexing), e o sinal foi transmitido no canal 2.
+      - OFDM (Orthogonal Frequency Division Multplexing), e o sinal foi transmitido no canal 3.
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      Uma das formas mais fundamentais de se dimensionar um enlace via rádio é através da atenuação no espaço livre. Um enlace ponto a ponto, com linha de visada completamente livre, deve ser estabelecido na frequência de 3,2 GHz. A distância entre os dois pontos do enlace é de 1 km e dispõe-se de duas antenas direcionais com ganho máximo de 15 dBi cada.
+      Sabendo-se que a sensibilidade do receptor é de -80,44 dBm, qual deve ser a potência, em dBm, mínima transmitida, para que haja comunicação?
+      `Dado log(2) = 0,3`
+    alternativas:
+      - 2,00
+      - -1,00
+      - 0,00
+      - 0,44
+      - 1,00
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      As antenas omnidirecionais são comumente usadas em comunicações ponto-área, por não necessitarem de apontamento em um determinado plano. Um dos parâmetros típicos das antenas é a diretividade, que é uma medida comparativa em relação a um radiador isotrópico, podendo ser apresentada como grandeza adimensional ou em dBi.
+      Em relação à diretividade máxima (Dmáx) das antenas omnidirecionais, verifica-se que
+    alternativas:
+      - Dmáx > 0 dBi
+      - Dmáx < 0 dBi
+      - Dmáx = 0 dBi
+      - Dmáx < 1
+      - Dmáx = 1
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      A Figura abaixo ilustra o diagrama de blocos de uma conversão A/D para a transmissão digital, em banda básica, de um sinal analógico.
+      Considerando-se que o codificador de fonte emprega um número fixo de bits para representar cada um dos 64 níveis de quantização, qual a taxa de bits mínima, em kbps, gerada ao final do processo de conversão analógico digital?
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 49.png?raw=true"
+    alternativas:
+      - 180
+      - 30
+      - 64
+      - 150
+      - 1.920
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      A Figura abaixo ilustra a propagação da luz, pela Teoria de Raios, em três tipos de fibras ópticas diferentes, numeradas de I a III.
+      Na Figura, pode-se observar os raios de luz sendo propagados pelo núcleo e refletidos ou não na interface do núcleo com a casca.
+      Sabendo-se disso, identificam-se em I, II e III, respectivamente, as seguintes fibras ópticas:
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 50.png?raw=true"
+    alternativas:
+      - "I: multimodo índice degrau; II: multimodo índice gradual; III: monomodo."
+      - "I: monomodo; II: multimodo índice gradual; III: multimodo índice degrau."
+      - "I: monomodo; II: multimodo índice degrau; III: multimodo índice gradual."
+      - "I: multimodo índice gradual; II: multimodo índice degrau; III monomodo."
+      - "I: multimodo índice degrau; II: monomodo; III: multimodo índice gradual."
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      A Figura abaixo ilustra uma medida, em um cabo de fibra óptica, com um OTDR. Esse cabo é vendido em rolos de 2,5 km de comprimento e foi usado por uma empresa, para transmitir um sinal da matriz até uma filial, a 22 km de distância.
+      Sabe-se que cada emenda nesse cabo apresenta uma perda de 0,25 dB e que, em cada extremidade do enlace (matriz e filial), deve ser adicionado um conector, que possui 1 dB de perda (já incluindo as perdas no processo de conectorização). O receptor é um diodo PIN, cuja sensibilidade de -25 dBm garante a relação sinal-ruído (SNR) desejada.
+      Sabendo-se disso, qual a potência mínima do transmissor desse sistema, em dBm, para que o enlace de comunicação óptica seja estabelecido?
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 51.png?raw=true"
+    alternativas:
+      - -10,00
+      - -12,25
+      - -11,25
+      - -11,00
+      - -10,25
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      A Figura abaixo ilustra um multiplexador TDM óptico, baseado em linhas de retardo. Um laser gera o trem de pulsos inicial a uma taxa de B bps (bits por segundo), que é a taxa de dados de um único usuário. Esse trem é dividido para os N usuários, que inserem seus bits de informação por meio de moduladores ópticos (mod.), bloqueando ou deixando passar o pulso original. Cada um dos N usuários sofre diferentes retardos e é inserido no seu espaço (slot) de tempo adequado a intervalos de 1/NB.
+      Considerando-se que o usuário de índice n (n = 1, ..., N) ocupa o n-ésimo slot de tempo, qual é a expressão para o retardo inserido pela linha de retardo do n-ésimo usuário?
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 52.png?raw=true"
+    alternativas:
+      - (n-1)/NB
+      - (n-1)/B
+      - n/NB
+      - n/B
+      - n/N
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      É sabido que, em um experimento de lançamento de um dado perfeito, considerado ideal, a probabilidade de ocorrer um número, de 1 a 6, é 1/6.
+      No lançamento de dois dados, dado Y e dado Z, considerados perfeitos, qual a probabilidade de que a soma dos resultados seja 8?
+    alternativas:
+      - 5/36
+      - 1/6
+      - 1/8
+      - 2/9
+      - 7/36
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      A Figura a seguir mostra um sinal v(t), periódico no tempo, formando um trem de pulsos retangulares de tensão, em volts, onde a variável T é definida como o período.
+      A potência média desse sinal, quando aplicado a um resistor unitário, é calculada pela integral definida no intervalo de um período [ T ], dada a seguir:
+      Considerando-se os dados mostrados na Figura, o valor da potência média deste sinal, em watts, é
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 56.png?raw=true"
+    alternativas:
+      - 20,00
+      - 50,00
+      - 25,00
+      - 12,50
+      - 6,25
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      Considere o diagrama em blocos de um demodulador diferencial 8-PSK (D8PSK), utilizado para demodular um sinal s(t).
+      Os sinais A e B na saída dos filtros Passa-Baixa ideal, quando o sinal de entrada é igual a s(t), são, respectivamente,
+      Dados:
+      ```
+      s(t) = sen(2pi f0 t + (3pi/4));
+      f0 = 250 kHZ;
+      FPB - Filtro Passa-Baixa ideal com largura de banda igual a 4 kHz;
+      O misturador possui ganho unitário
+    imagem: "https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2022 Eletrobrás/conh_esp_telecom 57.png?raw=true"
+    alternativas:
+      - √2/4 e √2/4
+      - √2/2 e √2/2
+      - √2/2 e -√2/2
+      - -√2/2 e √2/2
+      - -√2/4 e √2/4
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      O satélite Star One C3 da empresa Embratel realiza a cobertura nacional em duas bandas de frequências. A primeira banda de frequência de subida se inicia em 5.850 MHz e possui largura de banda igual a 575 MHz. A segunda banda está compreendida entre 13.750 MHz e 14.500 MHz.
+      Sendo assim, verifica-se que o satélite Star One C3 opera nas bandas
+    alternativas:
+      - C e Ku
+      - L e K
+      - L e Ka
+      - S e Ku
+      - C e K
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      O período de revolução de um satélite em uma órbita circular pode ser determinado, a partir da terceira Lei de Kepler.
+      ```
+      T = 2pi √(r^3/μ)
+      ```
+      onde T é o período de revolução em [s], r é o raio da órbita, em [m], e μ=4×10^14 m^3/s^2 é a constante de Kepler.
+      Considerando-se o raio da Terra igual a 6.400km, qual é o tempo que o satélite demora para dar uma volta completa em torno da Terra, quando se encontra a uma altitude igual a 1.700km?
+    alternativas:
+      - 729pi√10 s
+      - 512pi√10 s
+      - √49130 pi s
+      - 72,9pi ms
+      - 51,2 pi ms
+  - cargo: Engenheiro de Telecomunicações
+    enunciado: |
+      A qualidade de serviço (QoS) de uma rede de pacotes que suporta telefonia IP e videoconferência pode ser garantida implementando-se protocolos de sinalização.
+      Em qual protocolo a requisição do nível de reserva de recursos é realizada pelo receptor?
+    alternativas:
+      - Resource Reservation Protocol (RSVP)
+      - Real-time Transport Protocol (RTP)
+      - Real-time Transport Control Protocol (RTCP)
+      - Meia Gateway Control Protocol (MGCP)
+      - Multiprotocol Label Switching (MPLS)
