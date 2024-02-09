@@ -25,8 +25,9 @@ A organização das questões segue o esquema abaixo:
                 📝 <Matéria 2.yml>
             📂 <Ano e Nome do concurso 2>
                 📝 <Matéria 1.yml>
-                🖼 <Imagem Questão 1.jpg>
                 📝 <Matéria 2.yml>
+                📂 imagens
+                     🖼 <Imagem Questão 1.jpg>
 ```
 
 Os arquivos das matérias, `Matéria.yml`, têm a seguinte estrutura:
