@@ -24,9 +24,9 @@ def testa_campo(questao, campo):
 def testa_questao(questao, i):
     for campo in ['cargo', 'enunciado', 'alternativas']:
         teste = testa_campo(questao, campo)
-    if not teste:
-        print(f'\t\t\tCampo {campo} ausente na questao {i+1}')
-        return 1
+        if not teste:
+            print(f'\t\t\tCampo {campo} ausente na questao {i+1}')
+            return 1
     return 0
 
 if __name__ == "__main__":

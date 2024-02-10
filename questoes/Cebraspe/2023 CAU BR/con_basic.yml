@@ -317,7 +317,8 @@ questoes:
     alternativas:
       - Errado
       - Certo
-  - cargo: |
+  - cargo: Advogado
+    enunciado: |
       Acerca do que dispõe a Lei n.º 8.429/1992 (Lei de Improbidade Administrativa), julgue os próximos itens.
 
       A ação ou a omissão decorrente de divergência interpretativa da lei, com base em jurisprudência, configura ato de improbidade administrativa.
