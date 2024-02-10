@@ -378,6 +378,8 @@ def send_poll(user_id, query_data=None):
     if explicacao: explicacao=explicacao[:200]
     imagem=get_value(arquivo_questoes['questoes'][i], 'imagem')
     cargo=get_value(arquivo_questoes['questoes'][i], 'cargo')
+    if not cargo:
+        cargo=get_value(arquivo_questoes, 'cargo')
     tamanho = len(arquivo_questoes['questoes'])
 
     enunciado = (

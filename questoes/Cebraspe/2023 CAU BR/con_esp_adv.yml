@@ -1,0 +1,375 @@
+---
+materia: Advogado - Conhecimentos Específicos
+cargo: Advogado
+questoes:
+  - cargo: Advogado
+    enunciado: |
+      Acerca da teoria da Constituição e sua classificação, bem como do poder constituinte, julgue os itens a seguir.
+      A Constituição Federal de 1988 pode ser classificada corretamente como escrita, analítica, cesarista, dogmática e rígida.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: "O poder constituinte decorrente refere-se ao poder de os estados-membros e os municípios elaborarem as próprias constituições, respeitando os limites impostos na Constituição Federal de 1988."
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: "Não há possibilidade jurídica de pedido de declaração de inconstitucionalidade pelo Supremo Tribunal Federal (STF) de norma oriunda do poder constituinte originário, uma vez que a tese de que há hierarquia entre normas constitucionais originárias, dando azo à declaração de inconstitucionalidade de umas em face de outras, é incompossível com o sistema de Constituição rígida."
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: |
+      Antony, estrangeiro não domiciliado no Brasil, encontrava-se de férias no país, hospedado em um hotel no Rio de Janeiro. Um agente de polícia que se encontrava no mesmo hotel desconfiou do comportamento de Antony, que andava sempre preocupado, olhando para os lados, então resolveu ingressar no quarto de hotel onde Antony estava hospedado.
+      A partir dessa situação hipotética, julgue os itens seguintes de acordo com a jurisprudência do STF.
+
+      Para fins da inviolabilidade domiciliar, o quarto de hotel, desde que ocupado, é equiparado a domicílio, razão pela qual não é permitido o ingresso do agente sem a permissão de Antony, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "Caso seja preso, Antony não poderá ser paciente de habeas corpus, porquanto tal garantia é exclusiva de brasileiros e estrangeiros residentes no Brasil."
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: |
+      Acerca dos direitos e das garantias fundamentais e da organização do Estado brasileiro, julgue os próximos itens.
+
+      As associações somente poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial com trânsito em julgado.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: "É vedada a instituição de bônus de eficiência e produtividade por lei para servidores públicos que recebem sua remuneração sob a sistemática de vencimentos, porquanto, nesse caso, é vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória."
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: "Compete à União, em caráter geral, e aos estados e ao Distrito Federal, em caráter suplementar, legislar concorrentemente sobre procedimentos em matéria processual."
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: |
+      Quanto à organização dos Poderes e às funções essenciais à justiça, julgue os itens que se seguem.
+
+      Todos os julgamentos dos órgãos do Poder Judiciário serão públicos, assim como todas as suas decisões serão fundamentadas, sob pena de nulidade, podendo a lei limitar a presença, em determinados atos, às próprias partes e a seus advogados, ou somente a estes, desde que a preservação do direito à intimidade do interessado no sigilo não prejudique o interesse público à informação.
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "A criação, a transformação e a extinção de cargos, empregos e funções dos serviços da Câmara dos Deputados e do Senado Federal constituem competência privativa da respectiva Casa Legislativa do Congresso Nacional, contudo a fixação dos vencimentos de seus servidores dependerá de lei, observada sua iniciativa."
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: |
+      A respeito de licitações e contratos administrativos, à luz da Lei n.º 14.133/2021, julgue os seguintes itens.
+
+      Os preços contratados deverão ser alterados caso haja, após a apresentação da proposta, a criação ou extinção de tributos.
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "No âmbito do processo de licitação, a fase de habilitação precede a fase de julgamento."
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: "No caso da venda de bens imóveis, o licitante que estiver ocupando o imóvel objeto da licitação terá direito de preferência, desde que atendidas todas as regras do edital."
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "Empresa controlada não pode participar de disputa licitatória da qual também esteja participando a controladora."
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "No caso de execução indireta de obras e serviços de engenharia, dispensa-se o projeto executivo, sendo admitido o regime de empreitada por preço unitário."
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: |
+      A respeito do ato administrativo e do processo administrativo, julgue os itens a seguir.
+
+      O poder extroverso da administração pública é a premissa basilar do atributo da autoexecutoriedade do ato administrativo, mediante o qual se permite ao poder público a edição de atos que vão além da esfera jurídica do sujeito emitente.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: "Os decretos são atos administrativos de competência exclusiva do chefe do Poder Executivo que estão intimamente relacionados com o processo de deslegalização."
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "A cassação, que é forma de extinção do ato administrativo, deve ocorrer quando o beneficiário deixar de cumprir as condições para a subsistência do referido administrativo."
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "O prazo decadencial para o exercício da autotutela da administração pública deve ser observado mesmo nos casos de flagrante inconstitucionalidade, considerado o primado da segurança jurídica."
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: "É permitida a avocação permanente de competência atribuída a órgão hierarquicamente inferior."
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: |
+      Com relação a domicílio e residência, aos negócios jurídicos, a prescrição e decadência, ao contrato de mandato e a obrigações, julgue os próximos itens, à luz do Código Civil e da jurisprudência do Superior Tribunal de Justiça (STJ).
+
+      Configura-se hipótese de domicílio da pessoa natural a hospedagem decorrente de contrato atípico de hospedagem por temporada de curta duração realizada por meio de plataforma digital.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: "Não prevalecerá o sentido literal da declaração de vontade quando esta não corresponder a exata expressão do consentimento pretendido por quem a exprime."
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "A renúncia ao mandato é considerada existente com a simples manifestação de vontade do renunciante, no entanto, para ter eficácia e surtir os devidos efeitos, o ato depende do encaminhamento e da recepção pelo mandante."
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "A transação feita entre o devedor principal e o credor sem anuência do fiador extingue a fiança."
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "O prazo prescricional para a propositura de ação de indenização promovida pelo mandante contra o mandatário é de cinco anos por se tratar de responsabilidade proveniente de relação extracontratual."
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: |
+      Quanto a prescrição e decadência, contratos, obrigações e responsabilidade civil, julgue os itens a seguir, de acordo com o Código Civil e o entendimento do STJ.
+
+      Não é possível exigir o cumprimento da prestação do devedor, por meio de cobrança judicial ou cobrança extrajudicial do débito, se ocorrer a paralisação da pretensão em razão da prescrição.
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "O fato de o advogado perder o prazo para oferecer contestação enseja sua automática responsabilização civil com base na teoria da perda de uma chance."
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: "O reconhecimento da supressio, por se situar em momento posterior à formação da relação jurídica e interferir em seu exercício, não vulnera o princípio _pacta sunt servanda_."
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "A redução da cláusula penal é, no adimplemento parcial, realizada por avaliação equitativa do juiz, que adota como critério valorativo para a redução o grau de culpa do devedor independentemente de sua situação econômica."
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: "Na hipótese de atraso na entrega de imóvel cuja compra e venda se deu na planta, será cabível cumular os lucros cessantes e a cláusula penal moratória independentemente do valor prefixado de indenização decorrente do adimplemento tardio da obrigação."
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: |
+      Com base no Código de Processo Civil e na jurisprudência do STJ, julgue os itens a seguir, acerca de honorários advocatícios, recursos, mandado de segurança e reconvenção.
+
+      Admite-se a fixação de honorários sucumbenciais por apreciação equitativa quando o proveito econômico obtido pelo vencedor for inestimável ou irrisório.
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "É cabível a fixação de honorários advocatícios, na fase de cumprimento de sentença, em favor da parte que foi vencedora nessa etapa processual, ainda que decorrente do julgamento de ação de mandado de segurança."
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "A interposição de um recurso contra determinada decisão não enseja a inadmissibilidade de eventual segundo recurso interposto pela mesma parte e contra o mesmo julgado, desde que tal recurso posterior seja o adequado para impugnar a decisão e seja interposto antes de decorrido o prazo recursal."
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: "A reconvenção é autônoma em relação à ação originária, de modo que o julgamento improcedente do pedido da ação principal não resulta em perda automática do interesse de agir da reconvenção."
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "Admite-se a impetração de mandado de segurança contra ato judicial por terceiro que tenha sido prejudicado pela decisão judicial impugnada."
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: |
+      Acerca da petição inicial, da denunciação da lide, do agravo de instrumento e da reclamação, julgue os itens seguintes, à luz do Código de Processo Civil e do entendimento do STJ.
+
+      A indicação, na petição inicial, de valor da causa incompatível com o proveito econômico pretendido ensejará, após o acolhimento do pedido em sentença, a alteração da quantia arbitrada pela parte autora, a fim de majorar a base de cálculos de honorários de sucumbência.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: "A denunciação da lide somente se torna obrigatória caso a omissão da parte implique perda do direito de regresso do denunciante."
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "A suspensão de segurança independe da existência de ação cognitiva em curso proposta contra o poder público ou concessionária de serviço público."
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: "As hipóteses de cabimento do agravo de instrumento estão exemplificativas elencadas no Código de Processo Civil, razão pela qual se admite sua interposição quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação."
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: "A suspensão de segurança possui natureza jurídica de recurso."
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: |
+      Em relação às disposições constitucionais sobre finanças públicas, aos princípios orçamentários e à classificação de despesa pública, julgue os itens a seguir.
+
+      As normas acerca de exercício financeiro, vigência, prazos, elaboração e organização do plano plurianual, da lei de diretrizes orçamentárias e da lei orçamentária anual devem ser estabelecidas em lei ordinária.
+    alternativas:
+      - Errado
+      - Certo
+  - cargo: Advogado
+    enunciado: "A Constituição Federal de 1988 (CF) prevê que a lei orçamentária anual engloba o orçamento dos conselhos de fiscalização de profissão regulamentada."
+    alternativas:
+      - Certo
+      - Errado
+  - cargo: Advogado
+    enunciado: "O princípio da unidade estabelece a necessidade de todas as receitas e despesas estarem previstas na lei orçamentária anual (LOA)."
+    alternativas:
+      - Errado
+      - certo
+  - cargo: Advogado
+    enunciado: "Quanto ao motivo do dispêndio, a despesa pública pode ser classificada em despesa corrente, que é aquela que resulta da manutenção das atividades próprias do Estado e acarreta o aumento do patrimônio do Estado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A lei orçamentária anual (LOA) poderá conter previsões de despesas para exercícios seguintes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca da classificação de receita pública, do pagamento das despesas públicas e da Lei Complementar n.º 101/2000 (Lei de Responsabilidade Fiscal – LRF), julgue os itens seguintes.
+
+      As receitas públicas originárias decorrem de uma relação de subordinação estabelecida entre a administração e o administrado, estando sua origem no poder de imposição do Estado em face do particular.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "É permitida a aplicação da receita de capital decorrente da alienação de bens e direitos que integrem o patrimônio público para financiar despesas correntes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Conforme a LRF, a reestimativa de receita pelo Poder Legislativo somente será admitida se comprovado erro ou omissão de ordem técnica ou legal."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os pagamentos devidos, em razão de pronunciamento judicial, pelos conselhos de fiscalização não se submetem ao regime de precatórios."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A LRF se aplica às empresas estatais controladas que recebem do ente controlador recursos financeiros para pagamento de despesas com pessoal ou de custeio em geral ou de capital."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que diz respeito a aspectos do direito do trabalho, julgue os itens a seguir.
+
+      A constatação da insalubridade por meio de laudo pericial não é suficiente para que o empregado tenha direito ao respectivo adicional, uma vez que a classificação da atividade insalubre deve estar prevista no rol elaborado pelo Ministério do Trabalho e Emprego.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Nos termos da Consolidação das Leis do Trabalho (CLT), cláusula de acordo ou convenção coletiva de trabalho pode estabelecer redução do intervalo intrajornada."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Quando a empresa fornece ao empregado instrumentos telemáticos ou informatizados, o uso de tais equipamentos é suficiente para caracterizar o regime de sobreaviso."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O empregado contratado por tempo determinado não goza da garantia provisória do emprego decorrente de acidente do trabalho."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Caso a empresa forneça veículo ao empregado para a realização do trabalho e esse veículo venha a ser utilizado também para atividades particulares, tal benefício passará a integrar o salário."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Empregado eleito como membro suplente da CIPA goza da garantia provisória ao emprego."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O período em que o empregado cumpre o aviso prévio, trabalhado ou indenizado, está sujeito às contribuições do FGTS."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O direito ao aviso prévio é irrenunciável pelo empregado."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A transferência do horário de trabalho de período noturno para diurno não implica na perda do adicional noturno se o empregado trabalhou por mais de um ano na jornada noturna."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Empregado que pedir demissão antes de completar 12 meses de trabalho terá direito às férias proporcionais aos meses que trabalhou."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em 2023, um empregado celetista ajuizou ação individual trabalhista contra determinada autarquia, sem a assistência de advogado, no rito sumaríssimo. O valor da causa indicado na inicial era de 10 mil reais. O juiz julgou improcedente a ação, e o autor interpôs recurso ordinário, que, entretanto, foi desprovido. Dessa decisão o autor interpôs recurso de revista, por entender ter havido contrariedade a súmula do STJ.
+      Acerca dessa situação hipotética e de aspectos pertinentes à lei e à justiça do trabalho, julgue os itens a seguir.
+
+      A lei trabalhista permite o ajuizamento de reclamação trabalhista na justiça do trabalho sem a assistência de advogado.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A ação em questão se enquadra no procedimento sumaríssimo trabalhista, que é aquele aplicável a causas cujo valor não exceda a 40 salários mínimos, tendo-se como base o valor do salário mínimo na data do ajuizamento da ação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A ação de que trata a situação em apreço contém erro de indicação do polo passivo, porquanto a CLT não admite demanda no procedimento sumaríssimo em que autarquia seja parte."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O recurso ordinário é cabível no rito sumaríssimo trabalhista no prazo de 15 dias contra decisões definitivas das varas trabalhistas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O TST não admite a interposição de recurso de revista no _jus postulandi_ das partes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Nas causas sujeitas ao procedimento sumaríssimo, é admitido recurso de revista por contrariedade a súmula do TST, do STJ e do STF."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Caio ajuizou ação trabalhista contra seu ex-empregador, tendo suposto preposto deste comparecido à audiência inaugural. O juízo proferiu sentença aplicando os efeitos da revelia, com base no fato de que o reclamado não compareceu à audiência, uma vez que o referido preposto não comprovou ser empregado da parte reclamada. Transitada em julgado essa decisão, Caio então ajuizou ação rescisória na vara do trabalho sentenciante, pedindo novo julgamento e realizando depósito de 5% sobre o valor da causa.
+      Acerca dessa situação hipotética e de aspectos a ela pertinentes, julgue os itens a seguir com base na CLT e no entendimento do TST.
+
+      Segundo expressa previsão da CLT, o não comparecimento do reclamado à audiência importa revelia, além de confissão quanto à matéria de fato.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na situação considerada, foi correta a sentença, pois o preposto de empregador, que o represente na audiência trabalhista, tem de ser empregado da parte reclamada."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na situação em apreço, foi correto o endereçamento da ação rescisória, uma vez que a competência originária para seu processamento e julgamento é do juiz da vara trabalhista sentenciante."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na situação em apreço, foi correto o ajuizamento da ação rescisória, porquanto o autor de rescisória trabalhista deve pedir a realização de novo julgamento do processo e ainda depositar a importância de 5% sobre o valor da causa."
+    alternativas:
+      - Errado
+      - Certo
