@@ -1,0 +1,335 @@
+---
+cargo: Jornalista
+materia: Jornalista - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      Em relação aos veículos de comunicação de massa no Brasil, sua implantação, suas fases e sua importância, julgue os itens a seguir.
+
+      Nos anos 30 do século passado, a programação radiofônica passou por mudanças, evidenciando-se seu potencial comercial a partir de aportes financeiros provenientes de publicidade, e o rádio tornou-se o primeiro meio de comunicação de massa no Brasil, no lugar do jornalismo impresso, devido ao alto índice de analfabetismo da população no início do século XX.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A invasão dos estudantes à rádio Record durante a Revolução Constitucionalista de 1932 evidenciou o reconhecimento da abrangência e da persuasão do rádio, levando o então presidente Juscelino Kubistschek a criar o programa *A hora do Brasil*."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Brasil foi o primeiro país da América Latina a ter uma emissora de televisão, a denominada TV Tupi, criada por Assis Chateaubriand, em 1950."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O nome de estreia do atual programa *A voz do Brasil* era *Programa Nacional*, o qual foi substituído em 1938, quando o programa passou a ser chamado de *A hora do Brasil*, até que, em 1946, foi rebatizado com o nome mantido até hoje."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A transmissão do programa *A voz do Brasil*, das 19 h às 20 h, em cadeia nacional de rádio é obrigatória."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considerando as técnicas de redação em jornalismo e os princípios de clareza e estilo relacionados ao discurso jornalístico, julgue os próximos itens.
+
+      Chama-se crônica a abertura comumente utilizada no texto jornalístico de caráter noticioso, na qual o redator busca esclarecer seis aspectos que envolvem os fatos noticiados: quem, o quê, quando, onde, como e por quê.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A redação no jornalismo impresso pode ser categorizada, do ponto de vista estrutural, em modalidades narrativas e modalidades argumentativas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No jornalismo impresso, reportagem e notícia são equivalentes, pois apresentam a base interpretativa dos fatos, exigindo do jornalista grande capacidade de observação e de investigação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A principal característica discursiva do texto dissertativo é a abordagem de fatos ou quadros descritivos, pela exploração dos detalhes do que está sendo descrito."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No jornalismo impresso, editoriais, artigos e resenhas críticas são textos dissertativos-argumentativos que destacam o viés interpretativo do seu autor."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No jornalismo impresso, as notas seguem estrutura narrativa."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com referência aos fundamentos do discurso jornalístico e às técnicas de redação aplicadas no jornalismo, bem como às características dos diversos tipos de produção no meio impresso, julgue os seguintes itens.
+
+      A grande reportagem constitui-se de reportagens densas e extensas, que costumam ocupar várias páginas do veículo de comunicação, e exigem do repórter grande capacidade de planejamento e pesquisa, assim como grande tempo de produção e redação.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Classificam-se como oficiais as fontes vinculadas ao poder público (municipal, estadual ou federal), a empresas, a associações de classe e a instituições religiosas, por exemplo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os editorias, nos grandes veículos de comunicação, geralmente são publicados e assinados nas últimas páginas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O editorial é um texto opinativo que apresenta, explicitamente, a opinião do leitor sobre fatos e assuntos da atualidade abordados no jornal da comunidade."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito do jornalismo institucional e de seus produtos, julgue os itens a seguir.
+
+      No jornalismo institucional, o compromisso com a sociedade é mediado pela hierarquia da organização.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A atualidade é um valor-notícia pouco relevante para a produção de notícias institucionais, uma vez que as organizações podem definir os próprios critérios de publicação de textos noticiosos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A divulgação jornalística das instituições tem um caráter intencional e negociado, de maneira que as notícias institucionais são estratégicas para as organizações, contribuindo para a criação ou manutenção da imagem institucional."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na estrutura clássica de uma notícia impressa, o lead pode ser considerado uma proposição completa no sentido aristotélico, ao apresentar um sintagma nominal, um sintagma verbal e sintagmas circunstanciais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Tendo em vista o contexto contemporâneo de atuação dos profissionais de assessoria de imprensa, julgue os itens que se seguem.
+
+      Em situações de crise institucional, é importante que a assessoria de imprensa atenda às demandas dos jornalistas e se prepare para fornecer informações completas, com dados e números atualizados sobre o ocorrido, a fim de esclarecer os fatos e informar as providências adotadas pela organização.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Além das funções tradicionais de produção de releases, atendimento à imprensa e levantamento de pautas, o assessor de imprensa atualmente também atua como gestor e estrategista, gerenciando crises e definindo estratégias para as mídias sociais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O fator decisivo para um jornalista aproveitar um release enviado por email pela assessoria de imprensa é o título do assunto, pois a falta de um título ou um título mal escolhido pode comprometer as chances de publicação do tema de interesse da organização."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A organização de entrevistas exclusivas envolve a convocação de todos os veículos de comunicação mais importantes para os diferentes públicos da organização."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As pautas institucionais produzidas pelas assessorias passam por um processo de seleção nas redações, que têm a prerrogativa de aceitar, rejeitar ou mesmo negociar um tema proposto a partir de perspectivas diferentes das inicialmente destacadas pelas assessorias."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os profissionais de assessoria produzem e disponibilizam conteúdos em diferentes formatos digitais para seus públicos, principalmente na chamada sala de imprensa online, na qual disponibilizam press-kits digitais, releases, guias de fontes, links para redes sociais, documentos confidenciais e bancos de pauta."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de estratégias de comunicação interna, julgue o próximo item.
+
+      Entre as ações mais importantes de comunicação interna, destacam-se a criação de canais de comunicação dirigidos a clientes, como email marketing, e postagens em perfis de redes sociais.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca de publicações jornalísticas empresariais e métodos e técnicas de pesquisa, julgue os itens a seguir.
+
+      A definição do formato das publicações jornalísticas empresariais deve ser feita de acordo com os objetivos buscados, o público, os recursos disponíveis, a cultura organizacional e a evolução dos processos de comunicação na empresa.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Do ponto de vista epistemológico, o método congrega a concepção do mundo e da ciência que embasa a pesquisa e, ao mesmo tempo, as técnicas e os instrumentos de coleta de dados a serem utilizados para realizá-la."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As primeiras publicações jornalísticas de empresas datam das décadas de 30 e 40 do século XX, na Europa, ainda no período da Segunda Guerra Mundial, e tinham o objetivo de se contraporem às publicações sindicais dos operários das fábricas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No Brasil, o jornalismo empresarial ou institucional incorporou características técnicas advindas do campo do jornalismo, como os conceitos de notícia e de objetividade, de forma que nos textos, em geral, procura-se concentrar o conteúdo em fatos e dados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, relativos aos gêneros jornalísticos.
+
+      O editorial, que não costuma ser assinado, expressa a opinião do jornal ou meio de comunicação em relação a determinado assunto, como política, economia e sociedade, entre outros.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Tanto nos artigos de opinião quanto na crônica há compromisso com temas da atualidade e ambos obedecem ao formato de notícia."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A reportagem, um estilo de texto curto que prima pelo factual e não tem o objetivo de aprofundar a notícia, deve começar sempre com um lide."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Nariz de cera é o parágrafo de fechamento do texto, que arremata o assunto específico."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O release, que é um texto elaborado por uma assessoria de imprensa para divulgação aos jornalistas, deve ter tratamento jornalístico, mas, para escrevê-lo, as perguntas básicas devem ser reduzidas às seguintes: o que, quem, como e por que."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Os tipos de mídia diferem entre si por características particulares. Rádio, TV e Internet, por exemplo, possuem formas de produção de conteúdo específicas. Em relação a esse assunto, julgue os itens que se seguem.
+
+      A revista, em comparação ao jornal, possui textos mais interpretativos e analíticos e dispensa a construção de um lide objetivo e direto.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na Internet, os textos tendem a ser mais extensos para dar a possibilidade ao leitor de navegar pelos hiperlinks."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os próximos itens, relativos aos critérios de seleção, redação e edição de notícias.
+
+      Diante da imprevisibilidade dos acontecimentos, torna-se impossível cumprir um modo de produção de notícias, o que os estudiosos definem como newsmaking.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O controlador de notícias, ou gatekeeper, regula a entrada e saída do fluxo de conteúdo em uma redação e funciona como um editor-chefe, podendo a área de atuação do gatekeeper ser chamada de zona-filtro."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Entre os métodos de impressão, estão a serigrafia, a tipografia, a impressão digital e o offset. Acerca dessas técnicas, julgue os itens a subsequentes.
+
+      No processo de impressão, usam-se as três cores básicas RGB (red, green, blue); ou seja, vermelho, verde e azul.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Serigrafia, também conhecida como silkscreen, é o processo que utiliza cera de abelha para a impressão em superfícies como metal, vidro, cerâmica, madeira, tecido e cartões."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O processo de impressão Offset caiu em desuso devido ao seu alto custo e à sua baixa eficiência."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Impressão digital significa que o trabalho é feito de forma eletrônica e sem utilização de chapa."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Tendo em vista que, entre as técnicas de elaboração de um texto jornalístico, a pirâmide invertida é o estilo mais usual e constitui um padrão nos meios de comunicação ocidentais, julgue os próximos itens, relativos a esse tema.
+
+      Na fórmula da pirâmide invertida, a partir do lide, pode ser adotada uma narrativa não linear e em sequência atemporal.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma opção para tornar o texto da pirâmide invertida mais dinâmico é fazer um contraponto entre presente e passado, alternando-se os parágrafos com ritmo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O lide comum apresenta os fatos mais importantes da notícia e a matéria se resume a isso."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O lide dá ênfase à parte principal da notícia; já o sublide é uma introdução supérflua que pode ser descartada."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O lide deve ser redigido na ordem indireta (predicado, sujeito, objeto e complemento), já que se trata de uma pirâmide invertida."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens que se seguem, relativos à entrevista jornalística.
+
+      Toda entrevista feita off the record deve ser publicada na íntegra.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na entrevista jornalística, o repórter assume a função de mediador, fazendo o papel de intérprete de quem concede a entrevista."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca das interfaces digitais do jornalismo e das pesquisas de comunicação, julgue os itens a seguir.
+
+      A presença de redes sociais no webjornalismo é uma estratégia de distribuição de notícias que não causa impacto na construção da narrativa jornalística.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Quando o objetivo é capturar as complexidades inerentes às preferências do público, pesquisas quantitativas são mais eficazes que pesquisas qualitativas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para analisar as interações e conexões sociais nas redes, são relevantes os recursos sociais formados a partir das relações interpessoais, pois eles afetam a disseminação de informação e a construção de uma reputação online."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A amostragem por conveniência é uma estratégia confiável para pesquisas de comunicação, uma vez que facilita a coleta eficaz de dados de grupos focais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A teoria do gatekeeping, que destaca o papel dos editores na seleção e na filtragem de notícias, é fundamental para compreender a dinâmica do webjornalismo atual."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere às práticas e às estratégias de assessoria de imprensa, bem como ao marketing institucional, julgue os itens que se seguem.
+
+      O presskit é uma ferramenta ultrapassada, sendo atualmente substituído por métodos mais eficazes de distribuição de informações para os veículos de comunicação, como o email marketing.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O marketing institucional é uma estratégia que compete exclusivamente ao departamento de publicidade da instituição."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Entrevistas coletivas são evitadas pela assessoria de imprensa, pois podem culminar em perguntas difíceis para a instituição."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Integrar estratégias de gamificação a campanhas de marketing institucional pode potencializar o engajamento do público, o que transforma a promoção institucional em uma experiência interativa."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "É essencial saber quem são os stakeholders de uma instituição para identificar e compreender as necessidades dos diversos públicos envolvidos, de modo a permitir a construção de uma imagem institucional mais alinhada e efetiva."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando a complexidade do cenário de comunicação contemporâneo e a importância da interseção entre jornalismo, relações públicas e comunicação dirigida, julgue os itens subsequentes.
+
+      A Análise SWOT é uma ferramenta do jornalismo utilizada para avaliar o ambiente interno e externo da instituição, proporcionando a elaboração de planos de comunicação mais eficientes.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A gestão de crise deve ser pautada pela transparência, devendo ser priorizadas informações detalhadas sobre eventos adversos, mesmo que isso possa gerar desconforto."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A comunicação dirigida implica, necessariamente, a segmentação do público-alvo, levando-se em consideração características demográficas e socioculturais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A comunicação dirigida, quando aplicada a públicos internos à organização, não necessita de adaptações em relação à comunicação externa, pois os princípios fundamentais permanecem os mesmos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação ao planejamento de comunicação organizacional e às interfaces entre relações públicas e administração empresarial, bem como aos instrumentos de comunicação interna, julgue os itens que se seguem.
+
+      Teoria do caos é uma teoria de comunicação organizacional que visa à previsibilidade do planejamento comunicacional e permite a formulação de estratégias estáticas e predefinidas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No planejamento de comunicação, a abordagem de storytelling é evitada, pois cria narrativas subjetivas que podem distorcer a imagem institucional."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma gestão de comunicação interna alinhada à teoria da contingência sugere que as estratégias devam ser padronizadas para garantir consistência e estabilidade."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Estratégias de relações públicas integram a análise de métricas de comunicação interna, possibilitando a avaliação contínua do impacto das mensagens e a otimização das estratégias conforme os resultados obtidos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A comunicação interna deve ser direcionada principalmente aos níveis hierárquicos superiores, priorizando-se a disseminação de informações estratégicas entre líderes e gestores."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A gestão de crises deve ser integralmente conduzida pelo departamento de relações públicas, dispensando-se intervenções de outras áreas administrativas, para garantir a coerência na comunicação em momentos sensíveis."
+    alternativas:
+      - Certo
+      - Errado
