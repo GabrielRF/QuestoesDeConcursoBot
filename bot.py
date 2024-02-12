@@ -11,6 +11,10 @@ TOKEN = open('utils/token.conf', 'r').read().strip()
 bot = telebot.TeleBot(TOKEN)
 db = 'utils/usuarios.sqlite'
 paginacao = 4
+botao_inicio = telebot.types.InlineKeyboardButton(
+    '⌂ Voltar ao Início',
+    callback_data=f'Voltar_ao_inicio'
+)
 
 def verifica_e_adiciona_usuario(user_id):
     conn = sqlite3.connect(db)
@@ -151,6 +155,7 @@ def concurso_query(query, page=0):
             button.row(botao_voltar)
         else:
             button.row(botao_voltar, botao_avancar)
+    button.row(botao_inicio)
     message_text = 'Escolha uma matéria:'
     if editar:
         materia_msg = new_button_and_edit(
@@ -204,6 +209,7 @@ def bancas_query(query):
             button.row(botao_voltar)
         else:
             button.row(botao_voltar, botao_avancar)
+    button.row(botao_inicio)
     message_text='Escolha o concurso:'
     if editar:
         concurso_msg = new_button_and_edit(
@@ -237,7 +243,10 @@ def banca_query(query):
         bot.answer_callback_query(query.id)
     except:
         pass
-    if 'Banca ' in query.data:
+    if 'Voltar_ao_inicio' in query.data:
+        bot.delete_message(query.from_user.id, query.message.id)
+        definir_banca(query)
+    elif 'Banca ' in query.data:
         bancas_query(query)
     elif 'page_materia ' in query.data:
         page = query.data.split(' ')[1]
