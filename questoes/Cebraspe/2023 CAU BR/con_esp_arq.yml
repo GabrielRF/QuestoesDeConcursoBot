@@ -1,0 +1,335 @@
+---
+materia: Arquiteto - Conhecimentos Específicos
+cargo: Arquiteto e Urbanista
+questoes:
+  - enunciado: |
+      Com relação ao parcelamento de solo urbano, observada a disciplina da Lei n.º 6.766/1979, julgue os itens a seguir.
+
+      O parcelamento do solo urbano compreende duas modalidades, quais sejam, o loteamento e o desmembramento, admitindo-se, em relação à primeira, a abertura de novos logradouros públicos.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma vez aprovado projeto de loteamento, o loteador deverá submetê-lo a registro imobiliário, no prazo legalmente previsto, sob pena de caducidade da aprovação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "É vedada a venda de parcela de loteamento não registrado, situação que, se desrespeitada, é passível da configuração de crime contra a administração pública."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "É possível que um lote esteja situado em mais de uma circunscrição, desde que o loteador processe, simultaneamente, perante as respectivas circunscrições, os pedidos de registro do mesmo loteamento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os bens e direitos integrantes do loteamento não podem ser objeto de garantia real em operação de crédito, exceto se o produto desta última estiver integralmente direcionado à implementação da infraestrutura correspondente e à entrega dos lotes urbanizados aos respectivos adquirentes"
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando as disposições do Estatuto das Cidades (Lei n.º 10.257/2001), julgue os seguintes itens.
+
+      Na elaboração do plano diretor, deve ser garantido, pelos Poderes Executivo e Legislativo, a qualquer interessado o acesso aos dados e às informações produzidos por ocasião da feitura daquele documento.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A edição de normas gerais em direito urbanístico é de competência da União."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A transmissão de imóvel sobre o qual tenha recaído determinação de edificação compulsória exonera o novo proprietário do cumprimento dessa obrigação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O proprietário de imóvel urbano pode conceder a terceiro o direito de superfície do seu terreno, desde que o faça por tempo determinado e mediante escritura pública registrada no pertinente cartório de registro de imóveis."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No caso de empreendimento privado em que haja construção condicionada, por determinação legal, à realização de estudo prévio de impacto de vizinhança, a elaboração desse estudo substitui a exigência de formulação de estudo prévio de impacto ambiental."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "É vedada, no âmbito do plano diretor, a inserção de áreas nas quais o direito de construir seja exercido acima do coeficiente de aproveitamento básico fixado naquele documento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      À luz do disposto na Lei n.º 10.098/2000, julgue os itens que se seguem, acerca das normas e dos critérios de promoção da acessibilidade às pessoas portadoras de deficiência e mobilidade reduzida.
+
+      Para a construção ou reforma de edifícios destinados ao uso coletivo, sejam eles públicos ou privados, deve-se levar em conta a acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os estabelecimentos comerciais são obrigados a fornecer carros ou cadeiras de rodas para o atendimento das pessoas com deficiência ou mobilidade reduzida."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No âmbito dos edifícios de uso privado, é vedada a ingerência do poder público com vistas à reserva de percentual mínimo do total das habitações para o atendimento da demanda de pessoas portadoras de deficiência ou com mobilidade reduzida."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsequentes, com base na Lei n.º 11.124/2005, que dispõe sobre o Sistema Nacional de Habitação de Interesse Social (SNHIS) e na Lei n.º 13.089/2015, que institui o Estatuto da Metrópole.
+
+      No âmbito da gestão e do desenvolvimento urbano integrado de regiões metropolitanas e aglomerações urbanas, não se admite a formalização de consórcios públicos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Entre as fontes de financiamento do SNHIS estão os recursos do fundo de garantia do tempo de serviço (FGTS)."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No âmbito do Fundo Nacional de Habitação de Interesse Social, responsável por gerir os recursos orçamentários do SNHIS, é vedada a criação de fundos e conselhos regionais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A criação de aglomeração urbana, ao contrário do que ocorre em relação à criação de região metropolitana, dispensa a realização de estudos técnicos, bastando a formalização de audiência pública que envolva os municípios limítrofes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A instituição de região metropolitana que envolva municípios pertencentes a mais de um estado é condicionada à aprovação de leis complementares pelas assembleias legislativas de pelos menos um dos estados envolvidos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A governança interfederativa das regiões metropolitanas deve observar, como princípio, a busca do desenvolvimento sustentável."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base na Resolução CAU/BR n.º 18/2012, que dispõe sobre os registros definitivos e temporários de profissionais no Conselho de Arquitetura e Urbanismo (CAU), julgue os itens seguintes.
+
+      O registro pode ser requerido por profissional diplomado em instituição de ensino superior estrangeira, desde que brasileiro ou estrangeiro portador de visto permanente, por meio do formulário próprio disponível no sistema de informação e comunicação do CAU (SICCAU).
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A alteração de informações tais como o endereço do profissional pode ser executada diretamente no sistema de informação e comunicação do CAU (SICCAU), bastando, para isso, acessar a aba relativa aos dados cadastrais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na apreciação do requerimento do registro profissional, caso haja necessidade de confirmação da autenticidade do diploma ou certificado, o CAU/UF deve solicitar à instituição de ensino superior expedidora do documento a emissão de prova, por meio de atestado digital com certificação do emitente, que deverá ser acompanhada do original do diploma."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base na Resolução CAU/BR n.º 21/2012, que dispõe sobre as atividades e atribuições profissionais do arquiteto e urbanista, julgue os itens seguintes.
+
+      O relatório ambiental simplificado (RAS) é o documento a ser apresentado para o licenciamento de empreendimentos ou atividades que envolvam uso de recursos ambientais, nos casos em que a legislação permite a dispensa do estudo de impacto ambiental e respectivo relatório de impacto no meio ambiente (EIA/RIMA).
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O estudo de impacto de vizinhança (EIV) é o instrumento executado de modo a contemplar os efeitos positivos e negativos de empreendimento ou atividade no que se refere à qualidade de vida da população residente na área e em suas proximidades."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A região integrada de desenvolvimento (RIDE), criada por meio de legislação federal específica, corresponde à região metropolitana brasileira situada em mais de uma unidade da Federação que delimita os municípios que a integram e fixa as competências assumidas pelo colegiado destes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Requalificação corresponde ao conjunto de operações destinado a aumentar os níveis de qualidade de um edifício, de modo a atingir a conformidade com exigências funcionais para as quais o edifício foi concebido."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      De acordo com a Resolução CAU/BR n.º 51/2013, que dispõe sobre as áreas de atuação dos arquitetos e urbanistas, julgue os itens subsequentes.
+
+      Avaliação é a atividade técnica que compreende minuciosa verificação quanto à obediência de condições formais estabelecidas para o controle de processos e a lisura de procedimentos relacionados à elaboração de projetos ou à execução de obra ou serviço técnico.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Preservação consiste no conjunto de práticas, com base em medidas de manutenção continuada e de prevenção, com o objetivo de utilizar recursos naturais, construtivos e tecnológicos, de modo a permitir que esses recursos se renovem."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A atividade técnica que abrange o comando ou a chefia de equipe de trabalho referente à elaboração de projeto ou à execução de obra ou serviço técnico no campo da arquitetura e do urbanismo é denominada condução."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Plano setorial urbano é o instrumento técnico que serve de base para a política de ordenamento e desenvolvimento do uso do solo e da ocupação urbana, das normas urbanísticas e edilícias, da mobilidade, do transporte ou da drenagem pluvial, em áreas de município ou em regiões metropolitanas, nos termos da legislação em vigor."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Perícia é a atividade de apuração das causas de determinado evento, na qual profissional legalmente habilitado realiza, por conta própria ou a serviço de terceiros, trabalho para fins de emissão de conclusão tecnicamente embasada."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Denomina-se memorial descritivo o documento que consiste na discriminação das atividades técnicas, das especificações e dos métodos construtivos a serem empregados na execução de obra ou serviço técnico em conformidade com o projeto."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base no Código de Ética e Disciplina do Conselho de Arquitetura e Urbanismo do Brasil, aprovado pela Resolução CAU/BR n.º 52/2013, julgue os itens a seguir.
+
+      É facultado ao arquiteto e urbanista responsável pela direção, fiscalização ou assistência técnica à execução de obra projetada por outro colega realizar ou permitir modificações nas dimensões, configurações e especificações da obra projetada, mesmo sem a prévia concordância do autor.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O arquiteto e urbanista pode receber honorários, remunerações, comissões, vantagens ou presentes, oferecidos pelos fornecedores de produtos e serviços de seus contratantes, desde que observado o valor financeiro máximo estabelecido em lei."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com base na Resolução n.º 67/2013 do CAU/BR, que, entre outras providências, dispõe sobre os direitos autorais na arquitetura e urbanismo e estabelece normas e condições para o registro de obras intelectuais no CAU, julgue os itens seguintes.
+
+      Considera-se repetição indevida quando um projeto ou outro trabalho técnico de criação em arquitetura e urbanismo é reproduzido integralmente por pessoa física ou jurídica que não seja titular de nenhum direito patrimonial no que concerne a obra intelectual.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O requerimento de registro de projeto ou de outro trabalho técnico fará parte de processo administrativo que será submetido à apreciação da Comissão de Exercício Profissional do Conselho de Arquitetura e Urbanismo da Unidade da Federação (CEP-CAU/UF) correspondente, a qual, após o exame dos autos, deliberará sobre o registro requerido."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Conforme recomendação da mencionada resolução, em caso de cópia de projeto de arquitetura e urbanismo, o responsável pelo ilícito deverá ser condenado a pagar, em favor do titular do direito autoral moral violado, indenização mínima de três vezes o valor dos honorários profissionais referentes à elaboração da obra intelectual."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando a Resolução n.º 91/2014 do CAU/BR, que dispõe sobre o registro de responsabilidade técnica (RRT) referente a projetos, obras e demais serviços técnicos no âmbito da arquitetura e urbanismo, julgue os itens a seguir.
+
+      Antes do cancelamento de RRT, deve ser instaurado processo administrativo, o qual será submetido à apreciação do CAU/UF, que deliberará acerca da matéria, podendo, quando for o caso, efetuar diligências ou requisitar outros documentos e informações com vistas a fundamentar sua decisão.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Para fins de efetivação de RRT referente a atividade técnica de arquitetura e urbanismo realizada no exterior, incluindo-se a desempenhada em país membro do MERCOSUL, toda documentação apresentada em língua estrangeira deverá ser autenticada, de acordo com a leinacional da pessoa jurídica estrangeira, legalizada ou apostilada pela autoridade competente no país de origem."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Quando houver a baixa de RRT, as atividades técnicas que o compõem serão excluídas do acervo técnico do arquiteto e urbanista responsável, deixando de constar na certidão de acervo técnico (CAT) eventualmente emitida em seu nome."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere à condução do processo ético-disciplinar no âmbito dos CAU/UF e CAU/BR, à aplicação e execução das sanções de mesma natureza, e ao pedido de revisão e reabilitação profissional, julgue os itens seguintes, de acordo com a Resolução CAU/BR n.º 143/2017.
+
+      Nos procedimentos de instrução do processo ético-disciplinar, a fim de se formar convicção e esclarecer fatos, é cabível a realização de diligências, que serão aceitas como provas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "É competência da Comissão de Ética e Disciplina do CAU/BR o julgamento dos recursos interpostos contra as decisões dessa comissão proferidas no exercício de competência judicante originária."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Caracteriza infração leve ao regramento estabelecido no Código de Ética e Disciplina do CAU/BR a ocorrência de conduta reprovável com danos à integridade moral das pessoas ou com danos materiais reversíveis em tempo e com recursos consideráveis."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A suspensão é a punição ético-disciplinar que consiste na interrupção obrigatória do registro profissional do infrator por tempo determinado, período em que ele não poderá exercer a profissão de arquiteto e urbanista em todo o território nacional."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base no Regimento Geral do CAU e no Regimento Interno do CAU/BR, julgue os itens seguintes.
+
+      Os CAU/UF e o CAU/BR são autarquias privadas e dependentes, dotadas de personalidade jurídica de direito privado, com dependência administrativa, financeira e estrutura federativa.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O CAU/BR, com jurisdição em todo o território nacional, tem por finalidade orientar, disciplinar e fiscalizar o exercício da profissão de arquitetura e urbanismo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Compete ao CAU/BR, com exclusividade, promover plenárias colegiadas para compreender o posicionamento da maioria dos seus inscritos quanto a matérias de caráter legislativo, normativo ou contencioso em tramitação nos órgãos dos Poderes Executivo, Legislativo e Judiciário."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A Comissão Ordinária de Planejamento e Finanças do CAU/BR e de cada CAU/UF deverá exercer, na respectiva jurisdição, as competências referentes ao planejamento estratégico e à gestão estratégica econômico-financeira e patrimonial, bem como a anuidades, taxas e multas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em suas estruturas organizacionais, tanto o CAU/BR quanto os CAU/UF contam com os seguintes órgãos deliberativos: plenária colegiada; presidência; conselho deliberativo; comissões temporárias, subdivididas em comissões ordinárias e comissões especiais; e, por fim, sem poder de voto nas eleições da presidência, comissão eleitoral."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      À luz do disposto na Resolução CAU/BR n.º 193/2020, julgue os itens a seguir.
+
+      As pessoas jurídicas devem pagar a anuidade ao CAU/UF correspondente à unidade da Federação do local de sua sede, assim considerado o endereço que conste nos atos constitutivos apresentados para o registro no CAU.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "É devido o pagamento de anuidade pelos profissionais inscritos em CAU/UF, independentemente do efetivo exercício profissional."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os valores de anuidades e multas apurados em processos administrativos transitados em julgado, devidamente acrescidos dos encargos legais, poderão ser parcelados em até 36 vezes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os arquitetos e urbanistas pagarão a anuidade ao CAU/UF na unidade da Federação da sua diplomação, conforme cadastro efetuado no Sistema de Informação e Comunicação dos Conselhos de Arquitetura e Urbanismo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca de redação e técnica legislativa, julgue os itens subsequentes.
+
+      A análise de técnica legislativa deve examinar a compatibilidade das proposições legislativas com o conjunto de técnicas e regras voltadas à produção de normas jurídicas claras, objetivas, legíveis, concisas e coerentes, cuja redação não contenha ambiguidades.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A articulação e a redação dos textos normativos deverão ser feitas com clareza, precisão, coerência, concisão, consistência e ordem lógica."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A redação legislativa compreende um conjunto de procedimentos e normas redacionais específicas que visam primordialmente à padronização da elaboração de leis por meio do emprego de jargão técnico."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Conforme lei complementar que dispõe sobre a elaboração, a redação, a alteração e a consolidação das leis, o texto de uma lei deverá ser estruturado em quatro partes básicas: parte preliminar, parte de articulação de impedimento, parte normativa e parte final."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens seguintes, relativos a políticas públicas no Brasil.
+
+      O programa Periferia Viva, da Secretaria Nacional de Periferias do Ministério das Cidades, fortalece, nos territórios periféricos, o protagonismo da população local no processo decisório de intervenções e promove as potencialidades das periferias brasileiras.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O problema da concentração econômica em determinadas áreas das grandes metrópoles contemporâneas pode ser mitigado pela ação de políticas públicas que, visando ao controle dos possíveis usos da terra, induza o desenvolvimento de atividades e empreendimentos que atraiam capital para outras partes da cidade habitadas por populações menos favorecidas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os agentes do mercado decidem o processo de metropolização, uma vez que a espacialização do território metropolitano é resultante de disputas e interesses particulares, tendo o poder público pouca atuação na determinação e controle do uso e ocupação do solo, com capacidade reduzida de induzir os processos de reprodução do capital por meio de regulamentações e políticas públicas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A gestão democrática das políticas públicas nas metrópoles contribui para ampliar as assimetrias de oportunidades, em uma sociedade como a brasileira, marcada por extrema desigualdade social."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O programa Periferia VIVA, da Secretaria Nacional de Periferias do Ministério das Cidades, objetiva superar as condições estruturais de pobreza, de violência e de segregação social e também reduzir as desigualdades socioterritoriais, integrando políticas públicas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens que se seguem, pertinentes a aspectos legislativos relacionados a políticas públicas.
+
+      A Lei Padre Júlio Lancellotti (Lei n.o 14.489/1922) proíbe a construção ou a instalação de estruturas hostis apenas em equipamentos públicos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A Política Nacional de Mobilidade Urbana tem por objetivo contribuir para o acesso universal à cidade, por meio do planejamento e da gestão democrática do Sistema Nacional de Mobilidade Urbana."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Conforme disposto na Lei Padre Júlio Lancellotti (Lei n.o 14.489/1922) é facultado em alguns espaços urbanos específicos o uso de arquitetura de caráter hostil que prejudique o livre trânsito da população em situação de rua nos espaços de uso público."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A proibição de instalação de estruturas hostis em equipamentos urbanos com o claro objetivo de não permitir aos transeuntes da cidade um momento de repouso em praças, viadutos, calçadas e jardins, sejam eles moradores de rua, jovens ou idosos, é prevista na Lei Padre Júlio Lancellotti (Lei n.o 14.489/1922)."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O Estatuto da Cidade dispõe, entre outros aspectos, sobre a usucapião especial de imóvel urbano."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, relativos ao Estado e o desenvolvimento no Brasil.
+
+      Para o pleno desenvolvimento das cidades e do país, o Estado deve coibir a especulação imobiliária, estimular a centralização do transporte coletivo, ordenar a implantação dos equipamentos urbanos e também potencializar a valorização dos terrenos centrais.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Estado deve orientar o uso do solo para o atendimento do interesse público da coletividade, promovendo a qualidade de vida dos moradores por meio da articulação entre habitações, comércio, edificações institucionais e sistemas viários."
+    alternativas:
+      - Certo
+      - Errado
