@@ -1,0 +1,357 @@
+---
+cargo: Tecnologia da Informação
+materia: TI - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      A respeito do padrão MVC (model-view-controller), julgue os itens a seguir.
+
+      O padrão MVC usa o princípio da inversão de controle (IoC) para delegar a responsabilidade de criar e gerenciar os objetos de model, view e controller para um objeto interno.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No padrão MVC, uma mesma lógica de negócios pode ter diferentes interfaces de usuário."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca da arquitetura de sistemas de N camadas e das APIs, julgue os próximos itens.
+
+      Na arquitetura de sistemas em N camadas, o sistema é dividido em camadas lógicas, cada uma com uma responsabilidade específica, como apresentação, negócio e dados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O princípio HATEOAS é utilizado pela API REST para fornecer links entre os recursos e facilitar a navegação do cliente."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma API REST utiliza somente o formato XML para representar os recursos e as respostas do servidor."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação a barramento de serviços corporativos (EBS), e dos aspectos de segurança e versatilidade do API Gateway, julgue os itens subsequentes.
+
+      Uma das vantagens de se usar um API Gateway é que ele permite implementar a segurança da API em um único ponto, em vez de em cada serviço individual.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A execução de integrações entre aplicações, usando-se um formato canônico de mensagem, geralmente XML, e protocolos de rede padrão, como SOAP/HTTP ou JSON/HTTP, pode ser realizada por um ESB."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsequentes, a respeito das ferramentas de DevOps e das soluções mobile.
+
+      O Jenkins é uma ferramenta de integração contínua de código aberto que pode ser instalada e configurada em qualquer servidor, enquanto o Travis CI é uma ferramenta de integração contínua hospedada na nuvem que se integra com o GitHub.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A arquitetura de microfrontends é uma abordagem arquitetural que permite integrar diferentes aplicações web ou mobile em uma única interface, compartilhando as mesmas tecnologia e equipe de desenvolvimento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Ansible é uma ferramenta de gerenciamento de configuração que requer um agente instalado nos nós gerenciados, enquanto o Puppet e o Chef não requerem um agente em cada nó."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Quanto ao gerenciamento de configuração do software e aos serviços de mensageria, julgue os itens a seguir.
+
+      Nos serviços de mensageria, a comunicação síncrona via HTTP é mais adequada para cenários de alta concorrência do que a comunicação assíncrona.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em um projeto de software que utilize a ferramenta Git para controle de versão, é recomendável que cada desenvolvedor trabalhe em sua própria branch local e faça merge com a branch master apenas quando o código estiver testado e revisado."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, relativos a práticas ágeis de desenvolvimento de software e a processo interativo e incremental.
+
+      Um dos princípios ágeis direciona os clientes do negócio a trabalharem diariamente em conjunto com os desenvolvedores ao longo de todo o projeto.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A XP (Extreme Programming) estimula o uso de cartões classe-responsabilidade-colaborador (CRC) para identificar e organizar como deve ser realizada a refatoração com vistas a melhorar o software."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Quando se utiliza um modelo incremental, frequentemente o primeiro incremento é um produto essencial; após esse primeiro, se libera uma série de incrementos, que oferecem, progressivamente, maior funcionalidade ao cliente à medida que cada incremento é entregue."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A XP recomenda a criação de protótipos operacionais, denominados soluções pontuais, que devem ser implementados e avaliados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsequentes, relativos a Kanban e Scrum.
+
+      Na sprint planning, o product owner planeja o trabalho necessário para criar um incremento do produto que atenda à definição de pronto.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os artefatos do Scrum representam valor; ou seja, cada um deles contém um compromisso, como, por exemplo, a meta do produto é compromisso para o incremento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A figura a seguir descreve um Kanban de forma visual, mostrando a produtividade da equipe esforço (eixo-y) até o último dia da sprint (eixo-x), ou seja, esse Kanban liga os dias da sprint com o trabalho restante."
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Cau BR/imagens/con_esp_ti 69.png?raw=true
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os próximos itens, relativos a testes de software.
+
+      Considerando que o teste funcional objetiva determinar se um recurso funciona corretamente sem problemas, é possível automatizar esse tipo de teste mesmo que o sistema seja web, em que é possível simular os retornos esperados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Um conceito-chave na atividade de codificação na XP, ainda que incompatível com a execução de testes unitários, é a programação em pares, em que duas pessoas trabalham juntas em uma mesma estação de trabalho para criar código."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Considerada uma técnica sistemática para construir a arquitetura de software concomitantemente à realização de testes para descobrir erros associados às interfaces, o teste de integração realiza testes a partir de componentes testados em unidade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca das linguagens e tecnologias de programação, julgue os itens subsequentes.
+
+      A semântica de uma linguagem de programação estabelece como os comandos devem ser representados textualmente, de forma que possam ser reconhecidos pelo compilador ou interpretador.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um escalonamento de tarefas preemptivo deixa de ser executado em um processador nos seguintes casos: término, execução de operação de IO ou liberação explícita da tarefa."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na programação orientada a objetos, a abstração é a característica que permite a utilização de um código ou função sem a necessidade de conhecer detalhes sobre sua implementação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "_Threads_ são porções de um programa que, mesmo interligados e concorrentes, podem ser executados de forma paralela, como em sistemas multitarefa."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, a respeito de segurança, criptografia e automação.
+
+      A criptografia de chave assimétrica utiliza duas chaves, privada e pública; ambas podem ser usadas para cifrar uma mensagem.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O algoritmo RSA utiliza a função matemática Totiente de Euler para gerar chaves criptográficas assimétricas públicas e privadas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Entre os exemplos de uso da RPA (Robot Process Automation), estão reconhecimento de voz, conversão de voz em texto e gerenciamento remoto de infraestrutura."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Um certificado digital do tipo A1 armazena a chave no próprio equipamento do usuário; no tipo A3, a chave é armazenada em dispositivos físicos portáteis, como tokens e cartões."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, relativos à inteligência artificial (IA).
+
+      O reconhecimento facial por imagens nas redes sociais é embasado no aprendizado de máquina chamado deep learning, que simula a rede neural do cérebro humano.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O denominado motor de inferência é o núcleo dos sistemas de IA que oferece soluções possíveis para um problema apresentado."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em uma rede neural artificial, o valor de entrada de cada neurônio é calculado pelo produto matemático das saídas dos neurônios da camada inferior."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em machine learning, os sistemas podem usar aprendizado do tipo supervisionado, não supervisionado, autônomo ou gerenciado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, que tratam de computação em nuvem.
+
+      O componente middleware é gerenciado pelo cliente no IaaS (Infraestrutura como Serviço) e no PaaS (Plataforma como Serviço), enquanto no SaaS (Programa como Serviço), esse componente é gerenciado pelo provedor de serviços de nuvem.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Nuvens privadas são geralmente definidas como ambientes dedicados a um usuário final, mas, de forma geral, pode-se dizer que toda nuvem se torna privada quando a TI subjacente é dedicada e o cliente tem acesso totalmente isolado a ela."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As equipes de segurança têm visibilidade limitada das cargas de trabalho executadas em ofertas de serviços de nuvem privada, o que dificulta garantir a proteção."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A técnica de load balance é uma das estratégias possíveis de se estabelecer a implementação de alta disponibilidade em uma infraestrutura de nuvem."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsequentes, relativos aos componentes centrais da arquitetura em nuvem.
+
+      A aquisição de subscrições em serviços em nuvem permite que as organizações tenham acesso a tecnologias de ponta, requerendo, no entanto, investimentos em infraestrutura e na contratação de especialistas para gerenciá-las e atualizá-las regularmente.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A fim de proporcionar mais disponibilidade em relação aos recursos de uma zona, recursos regionais são implantados de forma redundante em várias zonas de uma região."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação à tecnologia de computação em nuvem, julgue os itens a seguir.
+
+      Em ambientes de nuvem privada, a segurança é executada por provedores de serviços de nuvem com servidores compartilhados por vários locatários.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O gerenciamento de acesso e identidade (IAM) na nuvem inclui recursos como interface de controle de acesso único, segurança aprimorada e controle de acesso em nível de recurso."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A segurança da nuvem, em sua base, é composta das seguintes categorias: segurança de dados; gerenciamento de acesso e identidade; governança; retenção de dados e planejamento de continuidade de negócios; e compliance jurídico."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de IaC (Infrastructure as Code), julgue os próximos itens.
+
+      IaC é a prática de gerenciar e aprovisionar a infraestrutura por meio de hardware, software e processos manuais.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A IaC declarativa permite que um desenvolvedor descreva todas as etapas para configurar os recursos e chegar ao sistema e ao estado de execução desejados."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "IaC lida com o aprovisionamento de processamento, armazenamento e rede na camada de infraestrutura."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os seguintes itens, com relação à auditoria em logs.
+
+      Por meio de análise de registro de eventos (logs), é possível investigar violações de políticas de segurança e garantir a conformidade com os requisitos regulamentares.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Nem todos os dispositivos de rede, serviços em nuvem e aplicativos emitem registros para fins de auditoria; é necessário fazer uma configuração a fim de que esses eventos fiquem registrados, de preferência em blockchain, para fins de imutabilidade."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsequentes, relativos a sistemas criptográficos simétricos.
+
+      A segurança em sistemas criptográficos simétricos independe do tamanho da chave.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os sistemas criptográficos simétricos também são chamados de sistema de segredo compartilhado, seja entre duas ou mais partes, visto que o segredo compartilhado pode ser utilizado para manter uma informação confidencial entre as partes na comunicação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, a respeito de XSS (cross-site scripting).
+
+      Stored XSS é caracterizado quando determinado código malicioso é armazenado no servidor, mas não é exibido para os usuários posteriormente.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "`https://www.apenasexemplo.com.br/?name=<script>alert(1)</script>` é um exemplo de XSS Reflected e será executado no navegador do usuário."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere ao funcionamento de proxy em organizações, julgue os itens a seguir.
+
+      Filtros em proxies podem ser configurados para impedir o acesso a determinados sítios ou serviços da web que violam uma política da organização.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Proxies transparentes servem como um canal entre os clientes e a Internet; por característica, são incapazes de interceptar as conexões realizadas, já que são transparentes para os usuários."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca de keyloggers e suas características, julgue os itens subsequentes.
+
+      Um keylogger com base em hyperversor é simples de ser detectado, pois, por padrão, as funções de teclado de hyperversor ecoam para o terminal do administrador de sistema.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "De maneira geral, keyloggers são códigos maliciosos usados para capturar informações à medida que existe alguma interação do usuário com o teclado; esses códigos podem estar inseridos em software ou até mesmo hardware específico."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando as normas ISO/IEC 27001 e ISO/IEC 27002, julgue os seguintes itens.
+
+      Na ISO/IEC 27002, são apresentados vários tipos de controle de criptografia.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A ISO/IEC 27001 apresenta os requisitos necessários para estabelecer, implementar, manter e melhorar continuamente um sistema de gestão da segurança da informação dentro do contexto da organização."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de segurança de redes sem fio, julgue os itens seguintes.
+
+      O WPS (Wi-Fi Protected Setup) é um método de distribuição de chaves de autenticação.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O modo WPA-PSK foi projetado para uso corporativo e requer um servidor de autenticação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os próximos itens, relativos a conceitos de rede de computadores, elementos de interconexão de redes de computadores e noções dos modelos de referência OSI.
+
+      O cabeamento de par trançado categoria 5 consiste em dois fios isolados e trançados, e quanto maior a quantidade de voltas nesse par, melhor a qualidade do sinal por distâncias maiores.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em uma rede local LAN com fio, o padrão (Ethernet) é o IEEE 802.11 e, em uma rede local sem fios (wi-fi), o padrão é o IEEE 802.3."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A camada física trata da transmissão de bits normais, devendo o projeto da rede garantir que, quando um lado enviar um bit 1, o outro lado o receberá como bit 1, não como bit 0."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Hubs são dispositivos de rede localizados na camada de aplicação que amplificam o sinal de entrada."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As VLANs no padrão IEEE 802.1q foram criadas para ajudar no gerenciamento de LANs, permitindo que a topologia física seja dividida em diferentes topologias lógicas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsequentes, relacionados a noções dos modelos de referência OSI, noções dos padrões IEEE 802.1, IEEE 802.3, IEEE 802.11 a/b/g/n/ac e arquitetura e pilhas de protocolo TCP/IP.
+
+      Serviços como controle de diálogo, gerenciamento de tokens, sincronização e o protocolo HTTP são ofertados na camada de aplicação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O campo Tamanho nos quadros Ethernet informa ao sistema operacional o momento que o processo deve receber um pacote IPv4."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para que o método de transmissão sem fio 802.11n alcançasse velocidade mínima de 100 Mbps, o comitê IEEE dobrou os canais de 20 MHz para 40 MHz."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As conexões TCP são do tipo fluxo de mensagens, full-duplex e ponto a ponto, sendo nelas admitidos processos de multicasting ou broadcasting."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O protocolo de datagrama do usuário (UDP), não orientado a conexão, fornece uma interface para o protocolo IP com recurso adicional de demultiplexação de vários processos que utilizam as portas e detecção opcional de erro fim a fim."
+    alternativas:
+      - Certo
+      - Errado

@@ -1,0 +1,340 @@
+---
+cargo: Analista de Geotecnologia
+materia: Geotecnologia - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      No que se refere à representação de mapas pelas escalas numérica e gráfica, julgue os itens a seguir.
+
+      Na utilização de escalas gráficas em mapas, as subdivisões à esquerda dos talões principais são desnecessárias, pois não contribuem para a precisão na medição de distâncias.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A escala gráfica em mapas é menos afetada por variações de tamanho durante a impressão ou plotagem que a escala numérica, cuja precisão é mantida mesmo com pequenas distorções."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em mapas com escalas numéricas, a unidade de medida utilizada no mapa e no terreno real deve ser a mesma para que a escala faça sentido."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em um mapa com escala numérica 1:50.000, uma distância de 2 cm no mapa equivale a 1 km no terreno real."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação aos sistemas de coordenadas cartográficas, julgue os eguintes itens.
+
+      No sistema de coordenadas UTM, as coordenadas são absolutas apenas dentro de sua própria zona, repetindo-se em outras zonas UTM.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em um sistema de coordenadas cartográficas, a latitude é medida em graus a partir do meridiano de Greenwich, enquanto a longitude é medida a partir da linha do Equador."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Todos os meridianos que dividem a Terra nos hemisférios leste e oeste têm o mesmo comprimento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Ao se extraírem coordenadas UTM em um mapa com unidade métrica, a variação de 1 ponto nas coordenadas representa uma diferença de 1 m no terreno real."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsequentes, relativos a projeções cartográficas.
+
+      Uma projeção cartográfica pode ser classificada como equidistante, conforme, equivalente ou afilática, e cada sistema de projeção consegue preservar todas as propriedades de área, ângulo e distância, simultaneamente.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As projeções cartográficas podem ser classificadas de acordo com o método de projeção, sendo o método geográfico o mais utilizado na cartografia moderna."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma única projeção cartográfica pode ser ideal para qualquer tipo de mapeamento no mundo todo, independentemente de seu propósito ou da localização geográfica da área."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em uma projeção cartográfica, a superfície de contato pode ser classificada como tangente ou secante, conforme o modo como a superfície projetada intercepta a Terra."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando os conceitos relacionados a geodésia, julgue os itens a seguir.
+
+      Na trigonometria esférica, um círculo máximo é formado pela intersecção de um plano que passa pelo centro da esfera, sendo o raio desse círculo máximo igual ao raio da esfera.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O meridiano é uma circunferência menor que não contém os polos de uma superfície esférica."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em geodésia, a superfície física da Terra é considerada regular e pode ser representada por uma simples relação matemática."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A superfície geoidal, que coincide com o nível médio dos mares não perturbados, é uma superfície equipotencial do campo de gravidade da Terra."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A longitude geodésica é definida pelo diedro formado pelo meridiano geodésico paralelo ao de Greenwich e pelo meridiano do ponto considerado."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As coordenadas astronômicas são estáticas ao longo do tempo e não sofrem variações devido ao movimento do polo nem alterações no eixo de rotação terrestre."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere aos sistemas geodésicos de referência, julgue os itens subsequentes.
+
+      Um sistema geodésico de referência ideal segue a lei da inércia, ou seja, mantém-se em repouso ou em movimento retilíneo uniforme.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Um sistema geodésico moderno é caracterizado pela adoção de um elipsoide de revolução com origem no centro de massa da Terra e eixo de revolução coincidente com o eixo de rotação terrestre."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na etapa de materialização de um sistema geodésico de referência, é desnecessário o estabelecimento de uma rede de estações geodésicas, pois as coordenadas podem ser obtidas apenas por observação astronômica."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca dos sistemas de posicionamento globais (GNSS), julgue os itens seguintes.
+
+      Os receptores GNSS fornecem a altitude geométrica, que é a distância do ponto até sua projeção no elipsoide, medida ao longo da respectiva normal.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O GNSS é utilizado apenas para navegação, não tendo aplicação em áreas de estudo como a geofísica ou a meteorologia."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O GNSS é incapaz de auxiliar o monitoramento de movimentos litosféricos, como, por exemplo, os que ocorrem no Japão."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação à plataforma ArcGIS Desktop, que possui diversas funcionalidades para auxiliar diferentes análises espaciais, julgue os itens seguintes.
+
+      ArcMap e ArcGIS Pro correspondem a dois aplicativos do ArcGIS Desktop da Esri.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Para uso da função de intersecção, disponível na caixa de ferramentas do ArcMap, os dados devem estar no formato vetorial."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O ArcMap disponibiliza os cálculos de áreas de polígonos em diferentes unidades de medida, como, por exemplo, em hectares e em metros quadrados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando os conceitos de sistemas de informações geográficas (SIG), seus requisitos e suas funcionalidades, bem como os serviços web de mapas e interoperabilidade em SIG, julgue os itens subsequentes.
+
+      Um dos papéis do WMS (web map service) relacionados a interoperabilidade consiste na disponibilização de mapas na Internet no formato _raster_.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Dados espaciais abertos são aqueles que podem ser acessados e distribuídos livremente, mas não podem ser modificados."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Linhas, pontos, polígonos e modelos digitais de elevação são exemplos de estruturas vetoriais de dados."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Google Maps e ArcGIS online são exemplos de aplicativos de WebGIS."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O formato de dados GeoJSON é amplamente utilizado para disponibilizar serviços web de mapas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em serviços web de mapas, a principal função de um WFS (web feature service) é fornecer acesso a dados geoespaciais matriciais por meio da Internet."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, relativos a correção topológica, uma das etapas de pós-processamento de armazenamento de dados vetoriais em SIG.
+
+      O objetivo principal da correção topológica em SIG é reduzir o tempo de processamento de dados decorrente de erros de digitalização.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A duplicação de polígonos com geometrias idênticas é um dos poucos erros topológicos que os aplicativos de SIG não conseguem detectar."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em SIG, o ajuste nas coordenadas geográficas de dados espaciais que estejam deslocadas faz parte da etapa de correção topológica."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação aos metadados geográficos, julgue os itens a seguir.
+
+      _Shapefile_ é o campo relacionado a uma estrutura de metadados no qual deve constar a informação acerca do formato dos dados, se vetorial ou matricial.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Cada país é responsável pela criação de suas próprias diretrizes relacionadas a metadados geoespaciais, sendo, no Brasil, a Comissão Nacional de Cartografia (CONCAR) a instituição responsável pela criação dessas diretrizes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O principal objetivo dos metadados geoespaciais é facilitar a padronização de diferentes sistemas de projeção cartográfica associados a diferentes mapas temáticos para um único sistema."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca dos diferentes formatos de dados cartográficos utilizados em sistemas de informações geográficas (SIG), julgue os itens subsequentes.
+
+      _Geotiff_ corresponde a um formato de dados frequentemente utilizado, por exemplo, em imagens de satélite georreferenciadas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em um ambiente SIG, as nascentes de uma bacia hidrográfica são representadas em formato vetorial."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Um exemplo de formato de dados raster é o _GeoJSON_."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A expressão resolução espacial está relacionada ao formato de dados matriciais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O formato mais adequado para representar dados de chuva obtidos por satélites no Brasil é o vetorial."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere a banco de dados relacional e orientado a objeto, julgue os itens a seguir.
+
+      A principal finalidade da linguagem SQL (structured query language) em um banco de dados relacional é permitir operações como consulta, adição e exclusão de dados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em um modelo relacional, a cardinalidade de 1 para 10 significa que cada registro em uma tabela pode estar associado a 10 registros em outra tabela."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No modelo de dados orientados a objetos, a estratégia de ocultar a implementação interna de uma classe para permitir acesso aos dados dessa classe por meio de interfaces públicas é denominada encapsulamento."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No modelo de dados orientados a objetos, os dados são geralmente organizados em tabelas com linhas e colunas, o que facilita o seu armazenamento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Tendo em vista que o termo sensoriamento remoto indica a captura ou a coleta de dados a partir de sensores sem contato físico direto com a superfície terrestre, julgue os itens a seguir.
+
+      O LIDAR (light detection and ranging) apresenta como vantagem o fato de que sua técnica não é atingida pela falta de luminosidade ou presença de nebulosidade, como, por exemplo, épocas chuvosas, podendo a aeronave sobrevoar em baixas altitudes e com GPS diferencial, isto é, de maior precisão.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A energia utilizada no sensoriamento remoto — radiação solar — é do tipo radiação eletromagnética (REM), que se propaga em ondas com diversas características físicas, medidas em frequência e em comprimento de onda."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A assinatura espectral serve de base para a formação da ideia de reflexão de alvos, o que torna possível sua generalização, uma vez que também são fornecidas informações adicionais, quando geradas, sobre as condições geométricas e sobre os próprios alvos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No sistema RADAR (radio detection and ranging), a faixa imageada pelo radar recobre uma ampla região do terreno, estando suas imagens sujeitas a diferenças de retroespalhamento em função da distância e, portanto, do ângulo entre a plataforma de aquisição e o objeto imageado; a região mais próxima à antena tende a produzir valores mais elevados de retroespalhamento que a região distante da antena, em decorrência das modificações no ângulo de incidência local."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em levantamentos aerofotogramétricos, o GSD (ground sample distance) representa o tamanho real, em unidades do terreno, que um pixel da imagem representa: quanto menor o pixel, melhor a resolução da imagem; o GSD é indiretamente relacionado com a altura da aeronave em relação ao solo, a distância focal e o tamanho físico do pixel, que é relativo à câmara utilizada."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsequentes, relativos aos fundamentos de interpretação visual, ao tratamento digital de imagens, ao registro de imagens e à mosaicagem.
+
+      A transformação geométrica ou o mapeamento direto podem ser executados por meio de três modelos matemáticos distintos, a saber: o de correções independentes, o fotogramétrico e o polinomial, sendo o modelo de correções independentes utilizado para o registro de imagens.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A revisão dos mapas temáticos é executada mediante procedimentos de interpretação visual na tela do computador, apoiados por funções de processamento de imagens tais como: ampliação de contraste, componentes principais e filtros, que ampliam as probabilidades de extração de informação das imagens de sensores remotos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No processamento digital de imagens, são utilizadas diversas funções, entre as quais se incluem: realce por modificação de histograma, filtragem espacial, classificação estatística por máxima verossimilhança; rotação espectral (componentes principais); transformação IHS-RGB; e registro."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A classificação digital de imagens pode ser definida como um procedimento computacional voltado para a extração de informações de uma superfície, como cobertura e uso do solo, com base nos valores de radiância dos alvos em diferentes comprimentos de onda, identificando-os em categorias baseadas na similaridade espectral."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Inserem-se no método de classificação não supervisionada os algoritmos MaxVer, paralelepípedo, mínima distância e distância de Mahalanobis. Já os algoritmos IsoSeg ou IsoData e o K-Médias pertencem ao método de classificação supervisionada."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A geração de mosaicos digitais é proeminentemente baseada em abordagens ponto a ponto e um desses métodos baseia-se em caraterísticas ou feições pontuais; essa técnica consiste na aplicação do método de correlação cruzada para a estimativa dos valores de translação e rotação e, em um processo iterativo, o algoritmo refina os parâmetros de transformação até que os pares de imagens sejam concatenados em um mesmo referencial."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No processo de mosaicagem de imagens, a tarefa de detecção e extração de linhas retas pode ser dividida em quatro etapas: suavização, segmentação, afinamento de bordas e vetorização dos pixels de borda; a etapa de afinamento de bordas consiste na eliminação dos pixels de borda em excesso, o que pode ser feito por meio de uma análise da direção do pixel que será pesquisado."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando que a tabela precedente - que mostra as frequências absolutas acumuladas referentes a determinada variável quantitativa X - foi obtida partir de uma amostra aleatória simples constituída por n observações, julgue os seguintes itens.
+
+      A variável X se distribui em torno da sua média de forma assimétrica.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Cau BR/imagens/con_esp_geo 111.png?raw=true
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A amostra aleatória simples em questão é constituída por 210 observações."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A variância amostral de X é inferior a 2."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A mediana amostral da variável X é igual a 2,5."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Supondo que a covariância entre duas variáveis Y e W seja igual a 60 e que o desvio padrão de W seja igual a 5, julgue os próximos itens.
+
+      Se o coeficiente de determinação do modelo de regressão linear simples da variável W sobre a variável Y for igual a 0,9, e se o intercepto do modelo não for nulo, então a correlação linear de Pearson entre essas variáveis será inferior a 0,9.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A variância de Y deve ser igual ou superior a 144."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O coeficiente angular da reta de regressão linear simples da variável resposta Y sobre a variável regressora W - considerando que o intercepto não seja nulo - é igual a 2,4."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Um levantamento amostral será realizado por amostragem aleatória estratificada. Existem h = 5 estratos, e o tamanho total da amostra será igual a n = 170.
+      Com base nessas informações, julgue os itens a seguir.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Cau BR/imagens/con_esp_geo 117.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Trata-se de uma amostragem aleatória estratificada, cuja alocação da amostra é do tipo uniforme, já que basta dividir o tamanho populacional por 10."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No levantamento amostral em questão, será efetuada uma amostragem aleatória simples em cada estrato."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Cada estrato corresponde a uma unidade amostral."
+    alternativas:
+      - Errado
+      - Certo
