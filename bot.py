@@ -12,7 +12,7 @@ bot = telebot.TeleBot(TOKEN)
 db = 'utils/usuarios.sqlite'
 paginacao = 4
 botao_inicio = telebot.types.InlineKeyboardButton(
-    '⌂ Voltar ao Início',
+    'Voltar ao início ⌂',
     callback_data=f'Voltar_ao_inicio'
 )
 
