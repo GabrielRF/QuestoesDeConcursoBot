@@ -1,0 +1,32 @@
+---
+materia: Raciocínio Lógico
+cargo: Cargos de nível superior
+questoes:
+  - enunciado: |
+      P1: “Se houver resistência de populares ou depredação de patrimônio, a polícia agirá.”
+      P2: “Se a polícia agir, a ambulância será necessária.”
+      P3: “Não houve depredação de patrimônio, mas a ambulância foi necessária.”
+      C: “Houve resistência de populares.”
+
+      Tomando por referência as proposições precedentes, julgue os itens seguintes.
+
+      O argumento que tem por premissas as proposições P1, P2 e P3, e, por conclusão, a proposição C, é válido.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A tabela-verdade da proposição P1 tem menos de 6 linhas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A proposição P2 é equivalente à proposição “Se a polícia não agir, a ambulância não será necessária.”."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A negação de P1 pode ser escrita como “Houve depredação de patrimônio ou a ambulância não foi necessária.”."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Caso seja verdadeira a proposição “A ambulância será necessária.”, a proposição P2 será também verdadeira, independentemente do valor lógico de sua outra proposição simples constituinte."
+    alternativas:
+      - Certo
+      - Errado
