@@ -210,6 +210,8 @@ def bancas_query(query):
             button.row(botao_voltar, botao_inicio)
         else:
             button.row(botao_voltar, botao_inicio, botao_avancar)
+    else:
+        button.row(botao_inicio)
     message_text='Escolha o concurso:'
     if editar:
         concurso_msg = new_button_and_edit(
