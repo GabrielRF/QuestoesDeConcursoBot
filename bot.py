@@ -155,6 +155,8 @@ def concurso_query(query, page=0):
             button.row(botao_voltar, botao_inicio)
         else:
             button.row(botao_voltar, botao_inicio, botao_avancar)
+    else:
+        button.row(botao_inicio)
     message_text = 'Escolha uma matéria:'
     if editar:
         materia_msg = new_button_and_edit(
