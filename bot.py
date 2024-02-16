@@ -12,7 +12,7 @@ bot = telebot.TeleBot(TOKEN)
 db = 'utils/usuarios.sqlite'
 paginacao = 4
 botao_inicio = telebot.types.InlineKeyboardButton(
-    'Voltar ao início ⌂',
+    'Início ⌂',
     callback_data=f'Voltar_ao_inicio'
 )
 
@@ -150,12 +150,11 @@ def concurso_query(query, page=0):
     )
     if len(materias) > paginacao:
         if start == 0:
-            button.row(botao_avancar)
+            button.row(botao_inicio, botao_avancar)
         elif end >= len(materias):
-            button.row(botao_voltar)
+            button.row(botao_voltar, botao_inicio)
         else:
-            button.row(botao_voltar, botao_avancar)
-    button.row(botao_inicio)
+            button.row(botao_voltar, botao_inicio, botao_avancar)
     message_text = 'Escolha uma matéria:'
     if editar:
         materia_msg = new_button_and_edit(
@@ -204,12 +203,11 @@ def bancas_query(query):
     )
     if len(concursos) > paginacao:
         if start == 0:
-            button.row(botao_avancar)
+            button.row(botao_inicio, botao_avancar)
         elif end >= len(concursos):
-            button.row(botao_voltar)
+            button.row(botao_voltar, botao_inicio)
         else:
-            button.row(botao_voltar, botao_avancar)
-    button.row(botao_inicio)
+            button.row(botao_voltar, botao_inicio, botao_avancar)
     message_text='Escolha o concurso:'
     if editar:
         concurso_msg = new_button_and_edit(
