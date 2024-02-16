@@ -1,0 +1,349 @@
+---
+cargo: Analista - Análise Estatégica em Ciência, Tecnologia e Inovação
+materia: Analista - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      Carlos trabalha com gestão de empreendimentos em uma financiadora de projetos. Atualmente, dedica-se à área de conhecimento de gestão de projetos, cujo objetivo consiste em garantir que o gerente e a equipe do projeto saibam quais são os principais interessados e sejam capazes de formalizar e gerenciar estratégias e abordagens para atender a esse público-alvo.
+      Nessa situação hipotética, Carlos labora na área de conhecimento de projetos denominada gerenciamento
+    alternativas:
+      - das partes interessadas.
+      - dos riscos.
+      - do escopo.
+      - dos recursos.
+      - da qualidade.
+  - enunciado: "Acerca da análise de investimento de projetos, assinale a opção correta."
+    alternativas:
+      - A taxa mínima de atratividade do projeto representa o retorno mínimo requerido pelos gestores dos recursos aplicados.
+      - A lucratividade do projeto é um indicador que mede o resultado bruto em relação às vendas dos produtos ou serviços dele decorrentes.
+      - A avaliação social do projeto incorpora aspectos de eficiência e equidade, e sua análise prescinde das funções alocativas do governo.
+      - A rentabilidade é um indicador que revela a atratividade do projeto, pois mede o custo do capital investido pelos sócios.
+      - O preço social do projeto é o valor obtido pela subtração do impacto distributivo sobre a população afetada do seu preço econômico.
+  - enunciado: |
+      Adriana, especialista em análise de estratégias empresariais, pretende posicionar novos produtos e serviços gestados em incubadoras de projetos. Atualmente, ela se dedica ao lançamento de um único produto em novo mercado, e duas empresas irão se associar para produzi-lo: uma empresa entrará no negócio com o capital e a outra, com a tecnologia necessária.
+      Nessa situação hipotética, a estratégia empresarial adotada pela especialista é denominada
+    alternativas:
+      - joint venture.
+      - diversificação concêntrica.
+      - estabilidade.
+      - redução de custos.
+      - desinvestimento.
+  - enunciado: |
+      A respeito das cadeias e redes produtivas, julgue os itens subsequentes.
+
+      I O desenvolvimento dos primeiros geradores eólicos mais eficientes e menos ruidosos, bem como de suas várias partes componentes, constitui exemplo de uso de redes de inovação e projetos colaborativos temporários.
+      II A baixa participação dos membros nas reuniões de planejamento estratégico e a falta de adesão às estratégias definidas são fatores característicos da fase de declínio do ciclo de vida das redes empresariais.
+      III Nas cadeias produtivas dirigidas pelos produtores, os ativos-chave são os comerciais, tais como marcas ou canais de comercialização e distribuição.
+      IV Nas redes produtivas do tipo retrátil-reversível, as empresas apresentam relações menos frequentes, embora capazes de incorporar novos conhecimentos e adequar-se às exigências da demanda.
+
+      Estão certos apenas os itens
+    alternativas:
+      - I e II.
+      - I e IV.
+      - II e III.
+      - I, III e IV.
+      - II, III e IV.
+  - enunciado: "Assinale a opção que apresenta a dimensão da estratégia competitiva que se caracteriza pela intensidade com que a organização procura desenvolver a identificação de sua marca diretamente com o consumidor final, principalmente mediante o apoio aos canais de distribuição na venda de seus produtos ou serviços."
+    alternativas:
+      - política de canal
+      - diversificação
+      - especialização
+      - alavancagem
+      - posição de custo
+  - enunciado: "Com relação aos movimentos competitivos no mercado, assinale a opção correta."
+    alternativas:
+      - Nos movimentos defensivos, o intuito é o de criar situações que levem os concorrentes a desistir de suas ações antes de implementá-las.
+      - As explicações e discussões dos concorrentes sobre os próprios movimentos apenas servem para fazer que os concorrentes percebam a lógica do movimento e o acompanhem.
+      - Os ataques competitivos sugerem guerra competitiva, cuja probabilidade competitiva será maior quanto menor for o número de concorrentes.
+      - Os movimentos cooperativos auxiliam a entender as estratégias necessárias para melhorar a posição da organização no mercado, mas não servem para aumentar o seu lucro.
+      - Nos movimentos ameaçadores à concorrência, a organização que fez o movimento sempre fica em situação melhor do que a anterior no mercado.
+  - enunciado: "Segundo a teoria econômica tradicional, um mercado em concorrência perfeita é caracterizado por"
+    alternativas:
+      - ausência dos custos de transação e externalidades.
+      - assimetria de informação.
+      - produto heterogêneo.
+      - pequeno número de compradores e vendedores.
+      - barreiras à entrada e à saída dos fatores de produção.
+  - enunciado: "Assinale a opção em que é apresentado objeto de estudo da microeconomia."
+    alternativas:
+      - custo de captação através de debêntures
+      - taxa de inflação
+      - nível de desemprego
+      - taxa básica de juros da economia
+      - produto interno bruto (PIB)
+  - enunciado: |
+      No que se refere à análise econômica em níveis micro e macro, julgue os itens a seguir.
+
+      I O impacto da concorrência de produtos estrangeiros na indústria de calçados de determinado estado da Federação insere-se entre os objetos de estudo da macroeconomia.
+      II Microeconomia e macroeconomia são ramos distintos da ciência econômica, inexistindo correlação entre elas.
+      III As consequências do endividamento da União sobre o desempenho econômico do país é objeto de estudo da macroeconomia.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas o item III está certo.
+      - Apenas o item I está certo.
+      - Apenas os itens I e II estão certos.
+      - Apenas os itens II e III estão certos.
+      - Todos os itens estão certos.
+  - enunciado: "Caso uma empresa necessite de recursos de longo prazo para impulsionar um novo empreendimento, então a capacidade de essa empresa honrar os créditos pretendidos será mais facilmente defendida junto aos financiadores se ela apresentar"
+    alternativas:
+      - um alto poder de ganho.
+      - balanços auditados.
+      - uma boa relação entre as fontes de recursos.
+      - índices de liquidez corrente favoráveis.
+      - faturamentos crescentemente elevados.
+  - enunciado: "Em uma entidade industrial, os passivos de funcionamento podem ser expressos em dias, por meio"
+    alternativas:
+      - da soma dos prazos médios de pagamento a fornecedores e de despesas operacionais.
+      - da soma de todos os seus prazos médios do período de maturação.
+      - do prazo médio de vendas.
+      - da diferença entre os prazos médios de pagamento a fornecedores e de cobrança.
+      - da soma dos prazos médios de estocagem de matérias-primas e de fabricação.
+  - enunciado: |
+      Em relação ao contexto histórico de criação do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), julgue os itens a seguir.
+
+      I A elaboração da denominada “Lei Áurea da pesquisa”, no Brasil, norma que criou o CNPq, foi motivada, entre outros aspectos, pela promoção de conhecimento e tecnologia no campo da energia atômica.
+      II Com o final da Segunda Guerra Mundial, em 1945, e a criação do CNPq, em 1951, os investimentos em pesquisa no Brasil foram direcionados integralmente à ciência básica, devido à sua importância para a indústria bélica e o desenvolvimento nacional.
+      III A constituição do CNPq, que precedeu a criação da Sociedade Brasileira para o Progresso da Ciência (SBPC), do Centro Brasileiro de Pesquisas Físicas (CBPF) e do Instituto Tecnológico da Aeronáutica (ITA), foi a base para a construção de uma estrutura de fomento à pesquisa no Brasil após a Segunda Guerra Mundial.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas o item I está certo.
+      - Apenas o item II está certo.
+      - Apenas os itens I e II estão certos.
+      - Apenas os itens II e III estão certos.
+      - Todos os itens estão certos.
+  - enunciado: |
+      Inserem-se entre as competências do Ministério da Ciência, Tecnologia e Inovação (MCTI)
+
+      I políticas de transformação digital e de desenvolvimento da automação.
+      II políticas agropecuárias e de fomento à pesquisa por meio da Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA), voltadas para o uso aplicado do setor produtivo.
+      III planejamento, coordenação, supervisão, monitoramento e avaliação das atividades de ciência, tecnologia e inovação.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas os itens I e III estão certos.
+      - Nenhum item está certo.
+      - Apenas o item I está certo.
+      - Apenas o item II está certo.
+      - Apenas os itens II e III estão certos.
+  - enunciado: "Na elaboração da política de inovação tecnológica, pesquisa aplicada é aquela que"
+    alternativas:
+      - é voltada para uma atenção prática, visando resolver um problema específico, com uso imediato pelos agentes no mercado.
+      - contribui para o conhecimento geral e entendimento mais amplo das leis da natureza em determinado campo de estudo, pois não é focada em fins práticos.
+      - desenvolve conhecimento teórico pouco utilizado na criação de um novo produto, sendo também denominada de pesquisa básica.
+      - depende do processo interno de P&D e da capacidade de absorção tecnológica das firmas, gerando invenções.
+      - promove mudanças na linha de produção, sem alterar o produto final, otimizando e melhorando a gestão dos recursos e a produtividade.
+  - enunciado: "Acerca da Política Industrial, Tecnológica e de Comércio Exterior (PITCE 2003), assinale a opção correta."
+    alternativas:
+      - Entre os objetivos da política de desenvolvimento produtivo (PDP) de 2008, considerada uma evolução da PITCE 2003, cita-se a consolidação da liderança de setores nos quais o país já gozava de vantagens comparativas, a exemplo da indústria aeronáutica, de petróleo e gás natural, mineração e bioetanol.
+      - São dois os eixos de alicerce da PITCE 2003: i) ações horizontais, por meio das quais se busca aumento da competitividade das firmas e modernização industrial; e ii) ações estratégicas, que orientam esforços para as áreas de conhecimento tecnológico.
+      - A maior inserção do agronegócio brasileiro no mercado internacional na década de 2000 dependia de uma maior estruturação do setor, de inovações que criassem necessidades de uso e consumo, de certificação de origem e da criação de mais barreiras tarifárias e não tarifárias (principalmente as sanitárias).
+      - O principal objetivo da PITCE 2003 foi a promoção de setores mais desenvolvidos em tecnologia no Brasil, como as indústrias dos semicondutores e de geração de energia, bem como do setor de agronegócio.
+      - Diante da importância da indústria de semicondutores para a economia brasileira, a PITCE 2003 buscou a manutenção do crescimento desse setor e a expansão de seu superávit comercial.
+  - enunciado: "A respeito da Emenda Constitucional (EC) n.º 85/2015, que atualizou o tratamento das atividades de ciência, tecnologia e inovação no Brasil, assinale a opção correta."
+    alternativas:
+      - A Constituição Federal de 1988 (CF) veda a transposição, o remanejamento ou a transferência de recursos de uma categoria de programação para outra sem prévia autorização legislativa, exceto no âmbito das atividades de ciência, tecnologia e inovação.
+      - O Sistema Nacional de Ciência, Tecnologia e Inovação (SNCTI) será organizado em regime de colaboração entre os entes públicos, com vistas a promover o desenvolvimento científico e tecnológico e a inovação, sendo vedada a participação de entidades privadas.
+      - Tecnologia, pesquisa e inovação constituem assuntos de interesse exclusivo da União, sendo vedado aos estados, ao Distrito Federal e aos municípios proporcionar meios de acesso a qualquer uma dessas áreas.
+      - Somente as universidades públicas podem receber apoio financeiro do poder público para a realização de atividades de pesquisa, de extensão e de estímulo e fomento à inovação.
+      - Compete à União, aos estados, ao Distrito Federal e aos municípios legislar concorrentemente sobre tecnologia, pesquisa e inovação.
+  - enunciado: "A respeito do Marco Legal de Ciência, Tecnologia e Inovação no Brasil, formado por diversas leis e decretos que regulamentam o tema no ordenamento jurídico brasileiro, assinale a opção correta."
+    alternativas:
+      - A importação de peças e componentes a serem utilizados em pesquisa científica e tecnológica ou em projetos de inovação terão tratamento prioritário e procedimentos simplificados.
+      - É vedada a caracterização de pessoa jurídica de direito privado como Instituição Científica, Tecnológica e de Inovação (ICT).
+      - A habilitação ao Regime Especial de Tributação para a Plataforma de Exportação de Serviços de Tecnologia da Informação (REPES) será deferida à pessoa jurídica que preencha as condições estabelecidas na lei, inclusive se optante do Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte (SIMPLES).
+      - A busca pela responsabilização do gestor público nas situações em que há risco tecnológico envolvido é um dos princípios que regem a Política Nacional de Inovação.
+      - O servidor público tem direito de se afastar para o exercício de atividades de ciência, tecnologia e inovação, ficando suspenso, durante o afastamento, o recebimento de vantagens e benefícios pertinentes ao exercício do cargo.
+  - enunciado: "Acerca da Instrução Normativa n.º 1/2010 do Conselho Diretor do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT), que estabelece normas e diretrizes para transferência, utilização e prestação de contas dos recursos do FNDCT na modalidade não reembolsável, por meio de convênios, termos de execução descentralizada e acordos de cooperação celebrados pela Financiadora de Estudos e Projetos (FINEP), assinale a opção correta."
+    alternativas:
+      - O termo de execução descentralizada é o instrumento voltado à pesquisa científica, tecnológica e de inovação que disciplina a descentralização de crédito entre o concedente e os órgãos e as entidades da administração pública federal, direta e indireta, sem a necessidade de exigência de contrapartida.
+      - A transferência de recursos públicos às instituições privadas com fins lucrativos deve ocorrer por meio de convênio, termo de execução descentralizada ou acordo de cooperação.
+      - Executor é o órgão ou a entidade da administração pública direta ou indireta de qualquer esfera de governo, ou entidade privada, com ou sem fins lucrativos, responsável direto pela execução do objeto do instrumento pactuado.
+      - As entidades privadas que adquirirem bens com recursos do FNDCT deverão observar a legislação pertinente para cada tipo de aquisição, e é vedada a utilização, nesses casos, do sistema de registro de preços da União e dos entes federados.
+      - Nos instrumentos celebrados por órgãos e entidades públicas que receberem recursos do FNDCT, o concedente deverá, de forma exclusiva, exercer a fiscalização e o acompanhamento da execução do objeto, sendo vedado o apoio técnico de terceiros nessas atividades.
+  - enunciado: "A respeito da Lei n.º 9.279/1996, que regula os direitos e as obrigações relativos à propriedade industrial, assinale a opção correta."
+    alternativas:
+      - As indicações geográficas somente podem ser utilizadas pelos produtores e prestadores de serviço estabelecidos no local.
+      - Indicação de procedência é o nome geográfico de país, cidade, região ou localidade de seu território que designe produto ou serviço cujas qualidades ou características se devam exclusiva ou essencialmente ao meio geográfico, incluídos fatores naturais e humanos.
+      - As indicações geográficas são insuscetíveis de registro pelo Instituto Nacional da Propriedade Industrial (INPI).
+      - Para a utilização de denominação de origem, não é necessário o atendimento de requisitos de qualidade.
+      - Denominação de origem é o nome geográfico de país, cidade, região ou localidade de seu território, que se tenha tornado conhecido como centro de extração, produção ou fabricação de determinado produto ou de prestação de determinado serviço.
+  - enunciado: |
+      Em relação aos 3 erres clássicos relativos ao bem-estar animal — substituição (replacement), redução (reduction) e refinamento (refinement) —, julgue os itens a seguir.
+
+      I A substituição dos animais deve ser sempre parcial, para não prejudicar o andamento e o desfecho da pesquisa.
+      II A principal limitação do refinamento é a falta de implementação de alojamentos adequados para os animais.
+      III A redução é um princípio importante a ser considerado quando não for possível a substituição de animais durante a pesquisa científica.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas o item III está certo.
+      - Apenas o item II está certo.
+      - Apenas os itens I e II estão certos.
+      - Apenas os itens I e III estão certos.
+      - Todos os itens estão certos.
+  - enunciado: "Assinale a opção em que é indicado fator que representa um dos maiores desafios da indústria farmacêutica em relação à experimentação com animais e que é responsável pela retirada de medicamentos do mercado na fase de comercialização."
+    alternativas:
+      - dificuldade de avaliação da toxicidade hepática
+      - baixa variação metodológica dos protocolos
+      - ausência de gavagem (alimentação forçada) nos experimentos
+      - semelhança de DNA entre grandes primatas e humanos
+      - homogeneidade interespécies
+  - enunciado: "De acordo com a Lei n.º 11.105/2005 (Lei de Biossegurança), compete à Comissão Interna de Biossegurança (CIBio), no âmbito da instituição em que seja constituída,"
+    alternativas:
+      - manter registro do acompanhamento individual de cada atividade ou projeto em desenvolvimento que envolvam organismos geneticamente modificados (OGM) ou seus derivados.
+      - estabelecer normas para as pesquisas com organismos geneticamente modificados (OGM) e seus derivados.
+      - registrar e fiscalizar a liberação comercial de organismos geneticamente modificados (OGM) e seus derivados.
+      - estabelecer normas relativamente às atividades e aos projetos relacionados a organismos geneticamente modificados (OGM) e seus derivados.
+      - fiscalizar as atividades de pesquisa de organismos geneticamente modificados (OGM) e seus derivados.
+  - enunciado: "Conforme o disposto na Lei de Biossegurança, aquele que realiza clonagem humana pratica crime punido com penas de multa e"
+    alternativas:
+      - reclusão, de 2 a 5 anos.
+      - detenção, de 2 a 3 anos.
+      - detenção, de 3 a 5 anos.
+      - reclusão, de 1 a 4 anos.
+      - detenção, de 1 a 3 anos.
+  - enunciado: "Assinale a opção que apresenta um dos instrumentos institucionais para a atuação da Política Nacional sobre Mudança do Clima."
+    alternativas:
+      - Comissão de Coordenação das Atividades de Meteorologia, Climatologia e Hidrologia
+      - Coordenadoria Nacional de Defesa Civil
+      - Mercado de Créditos de Carbono coordenado pela empresa estatal Centrais Elétricas Brasileiras S.A. (ELETROBRAS)
+      - Conselho Consultivo de Desenvolvimento Florestal do Instituto Brasileiro de Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA)
+      - Convenção do Patrimônio Mundial Cultural e Natural da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO)
+  - enunciado: "Assinale a opção que indica corretamente uma diretriz da Política Nacional sobre Mudança do Clima."
+    alternativas:
+      - o apoio e o fomento às atividades que efetivamente reduzam as emissões ou promovam as remoções por sumidouros de gases de efeito estufa
+      - a promoção de cooperação entre o poder público e a iniciativa privada, em escala regional, dentro do território brasileiro, para o financiamento de ações de mitigação da mudança climática
+      - o estímulo à participação da sociedade civil, mediante referendo, no planejamento de políticas, planos, programas e ações relacionados à mudança do clima
+      - a utilização de indicadores sociais, como índice de desenvolvimento humano (IDH), para promover ações de adaptação à mudança do clima
+      - o desenvolvimento tecnológico de combate às mudanças climáticas pelas universidades e pelos institutos de pesquisa federais, em observância das premissas do Observatório do Clima das Nações Unidas
+  - enunciado: "Nos termos da Lei n.º 13.123/2015 (Lei da Biodiversidade), patrimônio genético é definido como"
+    alternativas:
+      - informação de origem genética de espécies vegetais, animais, microbianas ou espécies de outra natureza, incluindo-se substâncias oriundas do metabolismo destes seres vivos.
+      - população tradicional que detém e fornece informações sobre o conjunto de bens do patrimônio natural.
+      - organização biológica ou social geneticamente diferenciada.
+      - informação ou prática de população original sobre propriedades e usos do meio ambiente.
+      - produto cuja natureza não requer nenhum tipo de processo produtivo adicional.
+  - enunciado: "Com base no disposto na Lei da Biodiversidade, assinale a opção correta."
+    alternativas:
+      - O acesso ao patrimônio genético da Zona Econômica Exclusiva da Amazônia Azul condiciona-se à anuência da autoridade marítima brasileira.
+      - A produção de commodities, por se tratar de recurso agrícola, é regulada pela Lei da Biodiversidade.
+      - Espécies ou amostras da fauna e flora nacionais podem ser objeto de exportações brasileiras, exigindo-se, para tanto, apenas a correspondente emissão de nota fiscal.
+      - Para a permissão de acesso ao patrimônio natural ou tradicional em unidades de conservação e reservas indígenas basta a constituição de comitê de ética de pesquisa.
+      - O conhecimento tradicional pode ser objeto da pauta de exportações brasileiras a partir da instituição de patente internacional.
+  - enunciado: "No que se refere ao Sistema Nacional de Metrologia, Normalização e Qualidade Industrial (SINMETRO), aos organismos que o constituem e respectivas atribuições, assinale a opção correta."
+    alternativas:
+      - O Instituto Nacional de Metrologia, Qualidade e Tecnologia (INMETRO) fornece apoio à incubação de projetos tecnológicos, como também de projetos de startups.
+      - Os ensaios, testes e calibrações realizados pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia (INMETRO) encerram-se nas áreas e subáreas relacionadas a nanomateriais, biotecnologias e química orgânica.
+      - O referido sistema é composto exclusivamente pelo Conselho Nacional de Metrologia, Normalização e Qualidade da Indústria (CONMETRO) e pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia (INMETRO).
+      - Enquanto o Instituto Nacional de Metrologia, Qualidade e Tecnologia (INMETRO) é o órgão normativo do SINMETRO, o Conselho Nacional de Metrologia, Normalização e Qualidade da Indústria (CONMETRO) exerce as funções de sua secretaria executiva.
+      - Uma das atribuições do Conselho Nacional de Metrologia, Normalização e Qualidade da Indústria (CONMETRO) é fixar critérios e procedimentos para certificação da qualidade de materiais e produtos industriais, não cabendo a ele estimular as atividades de normalização voluntária no país.
+  - enunciado: "Acerca das infraestruturas científicas e tecnológicas brasileiras, assinale a opção correta."
+    alternativas:
+      - O fomento da cooperação entre grupos de pesquisa e o incentivo à aquisição e manutenção de equipamentos multiusuários de grande e médio porte estão entre as finalidades de um centro nacional multiusuário de pesquisa científica e tecnológica.
+      - Os centros nacionais multiusuários de pesquisa científica e tecnológica consistem em infraestrutura laboratorial ou de prestação de serviços em temática única e singular, em uma estrutura compartilhada com usuários internos e externos para projetos limitados a R$ 30 milhões.
+      - A maior parte da infraestrutura de pesquisa brasileira concentra-se nas regiões Sudeste e Centro-Oeste.
+      - Os setores de atividade econômica que mais frequentemente utilizam a infraestrutura científica e tecnológica brasileira são o de informação e comunicação, o de atividades administrativas e o de serviços complementares.
+      - O bônus tecnológico refere-se ao prêmio oferecido anualmente pelo governo federal às organizações que se destacam mediante o uso de suas infraestruturas de pesquisa e desenvolvimento tecnológicos.
+  - enunciado: |
+      João é cientista em uma universidade federal e faz uso de rede de colaboração em pesquisa e intercâmbio de conhecimento científico. No momento, para dar continuidade à produção científica, ele exalta alguns fatores para o uso da rede, tais como: o histórico de colaboração profícua, abarcando o papel e a expectativa de cada membro; o clima político e social, que propicia a colaboração; e o elo de confiança entre os membros para cumprir as metas e os objetivos.
+      Com base na situação hipotética apresentada, é correto afirmar que os fatores enaltecidos pelo cientista sobre a rede de colaboração em pesquisa e intercâmbio de conhecimento científico estão relacionados
+    alternativas:
+      - ao ambiente.
+      - às propostas teórico-metodológicas.
+      - à infraestrutura e processos.
+      - aos recursos para pesquisa.
+      - aos propósitos da pesquisa.
+  - enunciado: |
+      Um analista em ciência, tecnologia e inovação trabalha na concepção de banco de dados relacionado à produção de conhecimento científico e utiliza, para tanto, alguns indicadores de publicações científicas. O analista está em busca de registros sobre a métrica que leva em consideração tanto o número de publicações realizadas em determinado período quanto o número de citações recebidas por essas publicações no mesmo período considerado.
+      Nessa situação hipotética, os registros buscados pelo analista dizem respeito
+    alternativas:
+      - ao índice H.
+      - à meia vida de publicação.
+      - ao número de downloads e acessos por publicação.
+      - ao número de visualizações por publicação.
+      - ao número de coberturas realizadas pela mídia escrita ou televisiva.
+  - enunciado: "No que se refere a falhas de mercado e à atuação do Estado na sua correção, assinale a opção correta."
+    alternativas:
+      - A entrada de uma segunda empresa em um mercado monopolista será benéfica ao consumidor se os preços praticados por essa segunda empresa forem inferiores aos custos médios do setor.
+      - Praças, estradas e postos de saúde são exemplos econômicos de bens públicos.
+      - Se um bem não é ofertado, mesmo que os custos de produção sejam inferiores ao preço que os potenciais consumidores estariam dispostos a pagar, então esse mercado é um mercado de bens públicos.
+      - Informação assimétrica é um atributo de mercado em concorrência pura.
+      - Concorrência perfeita é um tipo de falha de mercado.
+  - enunciado: "Com relação às características de inovação em arranjo aberto, assinale a opção correta."
+    alternativas:
+      - Inovações em arranjos abertos favorecem a interoperabilidade.
+      - Inovações em arranjos abertos são conduzidas por uma única organização.
+      - Na inovação em arranjo aberto, a colaboração entre agentes econômicos é desaconselhada.
+      - As informações sobre inovações em arranjos abertos são tratadas prioritariamente de forma confidencial.
+      - Inovações em arranjos abertos constituem barreiras naturais à entrada de novos concorrentes.
+  - enunciado: "Uma crítica feita ao modelo linear de inovação é o fato de ele"
+    alternativas:
+      - sugerir que a inovação siga uma trajetória única, sem muitas interações ou retornos.
+      - ser bidirecional, porém com progresso crescente de inovação.
+      - enfatizar a fase de comercialização, ignorando as etapas anteriores.
+      - ser considerado muito complexo.
+      - destacar a importância da colaboração e da participação de várias partes interessadas.
+  - enunciado: "Uma das características distintivas entre o modelo de inovação aberta e o modelo linear de inovação é que aquele"
+    alternativas:
+      - destaca o compartilhamento de conhecimento, enquanto o modelo linear frequentemente busca proteger a propriedade intelectual.
+      - é unidirecional, enquanto o modelo linear é não sequencial.
+      - enfatiza a sequencialidade das fases, enquanto o modelo linear destaca a colaboração entre diferentes partes interessadas.
+      - começa com pesquisa básica, enquanto o modelo linear destaca a colaboração multissetorial desde o início do processo.
+      - é caracterizado por uma abordagem centralizada, enquanto o modelo linear favorece a descentralização.
+  - enunciado: |
+      Considerando as principais questões que contribuíram para um melhor entendimento do processo de inovação nos últimos anos, julgue os próximos itens.
+
+      I Inovação e conhecimento têm papel fundamental no crescimento de nações e organizações.
+      II A eficiente difusão das tecnologias de informação e comunicação facilita a transferência de conhecimentos tácitos, tornando-os menos importantes para o sucesso de inovação.
+      III A inovação ocorre independentemente de contextos institucionais e organizacionais.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas o item I está certo.
+      - Apenas o item II está certo.
+      - Apenas os itens I e III estão certos.
+      - Apenas os itens II e III estão certos.
+      - Todos os itens estão certos.
+  - enunciado: |
+      Julgue os itens seguintes, em relação à tipologia de estratégias tecnológicas.
+
+      I A estratégia defensiva implica evitar completamente investimentos em pesquisa e desenvolvimento, enquanto a estratégia ofensiva enfatiza a necessidade de alto investimento nessa área.
+      II A estratégia imitativa envolve a busca por vantagens em um mercado já estabelecido por líderes, muitas vezes por meio de licenças secundárias.
+      III A estratégia ofensiva, comum em empresas monopolistas, busca liderança técnica e de mercado por meio da introdução de novos produtos.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas os itens II e III estão certos.
+      - Nenhum item está certo.
+      - Apenas o item I está certo.
+      - Apenas o item II está certo.
+      - Apenas os itens I e III estão certos.
+  - enunciado: "No que se refere a regulação, políticas de compras e inovação no contexto das regras de conteúdo local, assinale a opção correta."
+    alternativas:
+      - A regulação desempenha um papel crucial na definição das regras de conteúdo local, que, por sua vez, influenciam as políticas de compras e inovação.
+      - A regulação atua apenas como uma barreira burocrática, não influenciando significativamente as políticas de compras e inovação.
+      - As políticas de inovação têm prioridade sobre as regras de conteúdo local, relegando-as a um papel secundário no processo regulatório.
+      - As regras de conteúdo local nas compras públicas são estritamente regulamentadas, mas sua implementação não tem impacto direto nas políticas de inovação.
+      - As políticas de compras são independentes das regras de conteúdo local, enquanto a regulação se concentra exclusivamente nas práticas comerciais.
+  - enunciado: |
+      São ambientes promotores de inovação
+
+      I os parques tecnológicos.
+      II as cidades inteligentes e os distritos de inovação.
+      III as incubadoras e aceleradoras de empresas.
+
+      Assinale a opção correta.
+    alternativas:
+      - Todos os itens estão certos.
+      - Apenas o item I está certo.
+      - Apenas o item III está certo.
+      - Apenas os itens I e II estão certos.
+      - Apenas os itens II e III estão certos.
+  - enunciado: "Na avaliação de clusters tecnológicos quanto ao potencial de introduzir mudanças disruptivas relevantes para a competitividade de sistemas produtivos, os principais critérios utilizados são"
+    alternativas:
+      - grau de novidade, carga de inovatividade e padrões tecnológicos estabelecidos.
+      - aproximação geográfica, tamanho do mercado e histórico de inovações.
+      - relação instrumental geral, espectro de aplicação e intensidade do impacto.
+      - número de patentes registradas, investimento em pesquisa e mercado consumidor.
+      - natureza da inovação, contribuição do cluster e tipologia de inovação.
