@@ -1,0 +1,384 @@
+---
+cargo: Analista - Crédito, Finanças e Orçamento
+materia: CFO - Conhecimentos Específicos
+questoes:
+  - enunciado: "Considerando que a tabela precedente exibe uma amostra aleatória bivariada (x,y) de tamanho n=6, na qual y representa uma variável dependente e x denota uma variável regressora, assinale a opção que apresenta uma curva de regressão (ŷ ajustada para esse conjunto de dados mediante aplicação do método de mínimos quadrados ordinários."
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Finep/imagens/con_esp_2 31.png?raw=true
+    alternativas:
+      - ŷ = x^2
+      - ŷ = 0,5x^2 + 12,5
+      - ŷ = 5x -2
+      - ŷ = 3,73 x
+      - ŷ = 11,2
+  - enunciado: |
+      De uma amostra aleatória simples de tamanho n = 400 retirada de uma população normal, obteve-se as seguintes estatísticas.
+      Deseja-se testar a hipótese H0: μ ≥ 20 contra a hipótese H1: μ < 20 com nível de significância de 5%, na qual μ denota a média populacional. Sabendo que P(Z < 1,645) = 0,95, em que Z é uma variável aleatória normal padrão, assinale a opção correta.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Finep/imagens/con_esp_2 32.png?raw=true
+    alternativas:
+      - A probabilidade de ocorrência do erro de decisão do tipo I é igual a 0,05.
+      - O nível descritivo do teste é igual a 5%.
+      - O poder do teste é igual a 0,95 para a hipótese H1, e é igual a 0,05 para a hipótese H0.
+      - Com nível de significância de 5%, a hipótese nula deve ser rejeitada.
+      - O erro do tipo II nesse teste de hipóteses pode ocorrer com uma probabilidade constante.
+  - enunciado: "Duas variáveis, X e Y, possuem a mesma variância; se a correlação linear de Pearson entre elas for 0,8, e se a covariância entre X e Y for 2, então a variância de X será"
+    alternativas:
+      - 2,50.
+      - 0,40.
+      - 0,20.
+      - 2,00.
+      - 1,25.
+  - enunciado: "Considerando três eventos independentes, E1, E2 e E3, tais que P(E1) = P(E2) = 0,4 e P(E3) = 0,2 e denotando seus eventos complementares respectivamente como Ê1, Ê2 e Ê3, assinale a opção correta."
+    alternativas:
+      - P(E1 ∪ Ê2 ∩ Ê3) = 0,688
+      - P(E1 ∩ E2 ∩ E3) = 0
+      - P(E1 ∪ E2 ∪ E3) = 1
+      - P(E1 ∩ E2 ∪ E3) = 0,2
+      - P(Ê1 ∩ Ê2 ∩ Ê3) = 0
+  - enunciado: "Considerando os conceitos básicos da teoria econômica relacionados ao produto interno bruto (PIB), assinale a opção correta."
+    alternativas:
+      - O valor da venda de um apartamento usado não entra no cálculo do PIB, mas o valor referente à corretagem, sim
+      - A soma dos valores dos bens e serviços finais produzidos internamente é igual à soma das remunerações dos fatores de produção.
+      - Os estoques não entram no cálculo do PIB, pois não foram vendidos.
+      - A soma de salários, juros, lucros e dividendos fornece o PIB a preços de mercado.
+      - Os gastos do governo entram no PIB com sinal negativo.
+  - enunciado: "Considerando-se uma empresa com índice de endividamento de 0,90, é correto afirmar que"
+    alternativas:
+      - a participação do capital próprio nos investimentos da empresa é de 10%.
+      - a empresa possui uma boa rentabilidade.
+      - a empresa está excessivamente imobilizada.
+      - a empresa possui relevante participação dos recursos dos sócios alocada no financiamento das atividades empresariais.
+      - a participação dos recursos próprios nos investimentos é de 90%.
+  - enunciado: |
+      Texto 2A2
+      As informações da tabela precedente referem-se a determinada empresa que não possui dívidas de longo prazo, sendo seu passivo não circulante igual ao seu patrimônio líquido.
+      Com base nas informações do texto 2A2, é correto afirmar que a rentabilidade do ativo da empresa é de
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Finep/imagens/con_esp_2 37.png?raw=true
+    alternativas:
+      - 15,4%
+      - 10,4%
+      - 20,4%
+      - 25,4%
+      - 30,4%
+  - enunciado: "Com base nas informações do texto 2A2, é correto concluir que a rentabilidade dos capitais próprios investidos e a margem operacional da empresa são respectivamente iguais a"
+    alternativas:
+      - 25,0% e 28,6%.
+      - 20,0% e 25,0%.
+      - 28,6% e 30,0%.
+      - 30,0% e 32,6%.
+      - 32,6% e 35,0%.
+  - enunciado: "Considerando que um ativo sem cupom seja prefixado e que seu vencimento ocorra em 756 dias úteis, assinale a opção correta, sabendo que o valor de face do papel é R$ 1.000 e que o preço do título (PU) é R$ 750."
+    alternativas:
+      - a duration modificada é 3 / ((1,33)^(1/3))
+      - a entabilidade ao ano da operação é igual a (1,33)^(1/252) - 1.
+      - a duration do papel é de 5 anos.
+      - a renatabilidade ao ano da operação é igual a (1,33)^n - 1
+      - a duration modificada é 3 / ((1,33)^(1/3) - 1)
+  - enunciado: "Considere-se a validade das hipóteses do modelo CAPM e a existência de apenas dois títulos com riscos no portfólio de mercado. Adicionalmente, suponha-se que: (i) o título A represente 40% desse portfólio, tenha um retorno esperado de 10% e um desvio padrão de 20%; e (ii) o título B tenha um retorno esperado de 15% e um desvio padrão de 30%. Nessa hipótese, se a correlação entre os ativos for 0,3 e a taxa livre de risco for 5% ao ano, a expectativa de retorno do mercado e a variância de mercado serão, respectivamente,"
+    alternativas:
+      - 13 e 474,4.
+      - 14 e 574,4.
+      - 15 e 674,4.
+      - 16 e 774,4.
+      - 17 e 874,4.
+  - enunciado: "A taxa de juros que faz com que o valor presente líquido (VPL) seja zero é denominada"
+    alternativas:
+      - taxa interna de retorno.
+      - taxa SELIC.
+      - taxa de mínima atratividade.
+      - retorno sobre investimentos.
+      - taxa de payback.
+  - enunciado: |
+      Uma empresa está avaliando a compra de uma máquina no valor de R$ 160.000. A vida útil do equipamento é de 3 anos e o valor residual é estimado em R$ 25.289. Os fluxos líquidos gerados pela máquina, ao final de cada ano, são de R$ 49.500, R$ 75.020 e R$ 49.912,50, respectivamente.
+      Com base nessa situação hipotética, considerando-se uma taxa mínima de atratividade de 10% e supondo-se que 1,1^2 = 1,210 e que 1,1^3 = 1,331, é correto afirmar que o VPL
+    alternativas:
+      - é de R$ 3.500.
+      - é economicamente inviável à taxa mínima de atratividade de 10% ao ano.
+      - é de R$ 163.500.
+      - apresenta valor presente líquido negativo.
+      - apresenta valor presente líquido igual a zero.
+  - enunciado: "Assinale a opção correta em relação aos instrumentos verticais e horizontais na política industrial."
+    alternativas:
+      - Instrumentos verticais são específicos para setores econômicos, ao passo que instrumentos horizontais se aplicam a todo o país.
+      - O Brasil utiliza apenas instrumentos horizontais em sua política industrial, já que seu objetivo é a criação de um ambiente favorável ao desenvolvimento econômico como um todo, promovendo a inovação, a educação e a eficiência de forma geral, o que não é possibilitado pelos instrumentos verticais.
+      - Instrumentos verticais podem incluir medidas como redução de impostos para as empresas em geral, enquanto os instrumentos horizontais criam medidas específicas como incentivos fiscais e subsídios para pesquisa e desenvolvimento direcionados a determinado setor industrial.
+      - Instrumentos horizontais têm um foco mais restrito em comparação com instrumentos verticais, cuja abordagem é ampla, voltada para toda a economia.
+      - Ambos os instrumentos têm o mesmo objetivo e são utilizados de maneira intercambiável.
+  - enunciado: |
+      Na avaliação de certa empresa com base no método do fluxo de caixa descontado, sabe-se que o fluxo de caixa operacional estimado para o próximo ano é de R$ 200.000, que a taxa de crescimento estimada desse fluxo para os próximos anos é de 0% ao ano e que o custo médio ponderado de capital é de 5%.
+      Com base nessa situação hipotética, é correto afirmar que o valuation da empresa é de
+    alternativas:
+      - R$ 4.000.000.
+      - R$ 200.000.
+      - R$ 2.000.000.
+      - R$ 3.000.000.
+      - R$ 4.000.000/1,05.
+  - enunciado: "Considere-se que se pretenda calcular o valor de uma empresa pelo método da perpetuidade do fluxo de caixa e que não haja informações disponíveis acerca das condições do fluxo de caixa — se constante ou crescente —, sendo necessário levantar hipóteses a esse respeito. Nessa situação, supondo-se que a taxa de desconto utilizada na economia seja de 20% ao ano e que a taxa de crescimento estimada seja de 10% ao ano, a razão entre o resultado do cálculo do valor presente da empresa da série com crescimento e do valor presente da série constante é igual a"
+    alternativas:
+      - 2.
+      - 1.
+      - 3.
+      - 4.
+      - 5.
+  - enunciado: "Considerando as relações do Brasil com o resto do mundo e as principais variáveis que compõem os fluxos cambiais, assinale a opção correta."
+    alternativas:
+      - Se há superávit no balanço de pagamentos, então há acúmulo de reservas internacionais.
+      - É possível que haja superávit no balanço de pagamentos e perda de reservas internacionais.
+      - Se há superávit no balanço de pagamentos, então as exportações líquidas são necessariamente positivas.
+      - Se crescem as remessas de juros ao exterior, então há elevação do déficit na conta capital e financeira do balanço de pagamentos, ceteris paribus.
+      - O aumento das reservas internacionais implica déficit no balanço de pagamentos.
+  - enunciado: "A única técnica orçamentária que promove uma integração entre planejamento e orçamento e está intimamente ligada aos objetivos que o governo pretende alcançar é o orçamento"
+    alternativas:
+      - programa.
+      - base zero.
+      - participativo.
+      - por objeto.
+      - de desempenho.
+  - enunciado: |
+      Considerando o disposto na Lei Complementar n.º 101/2000 (Lei de Responsabilidade Fiscal), julgue os itens que se seguem.
+
+      I Serão contabilizados como outros serviços de terceiros — pessoa jurídica — os valores dos contratos de terceirização de mão de obra que se refiram à substituição de servidores e empregados públicos.
+      II Para a apuração da despesa total com pessoal, será observada a remuneração bruta do servidor, descontados subsídio, provento ou pensão.
+      III O Poder Executivo de cada ente federativo colocará à disposição para análise dos demais Poderes e do Ministério Público os estudos e as estimativas das receitas para o exercício subsequente, exceto os da corrente líquida e as respectivas memórias de cálculo.
+
+      Assinale a opção correta.
+    alternativas:
+      - Nenhum item está certo.
+      - Apenas os itens I e II estão certos.
+      - Apenas os itens I e III estão certos.
+      - Apenas os itens II e III estão certos.
+      - Todos os itens estão certos.
+  - enunciado: "Assinale a opção em que é indicado um dos principais postulados da Lei de Responsabilidade Fiscal que representa uma relação balanceada entre meios e fins para que o Estado possa dispor de recursos necessários e suficientes à realização da sua atividade."
+    alternativas:
+      - equilíbrio das contas públicas
+      - controle da execução orçamentária
+      - estabelecimento de metas de resultado
+      - prevenção de riscos e correção de desvios
+      - transparência
+  - enunciado: |
+      Julgue os seguintes itens, acerca do Acordo de Basileia.
+
+      I O referido acordo busca tornar mais variada a gestão de balanço dos bancos, especificamente dos ativos, a partir da dispensa de um de requerimento mínimo de capital de risco.
+      II O aludido acordo estabelece requisitos mínimos de capital que os bancos devem manter para garantir a estabilidade financeira e a capacidade de absorver perdas, evitando crises financeiras.
+      III No mencionado acordo, a ponderação de risco dos ativos é determinada pela média das operações e por classificações fornecidas pelo mercado.
+      IV Os acordos de capital de Basileia aplicam-se aos bancos de desenvolvimento, sendo, portanto, um marco relevante para a formulação de uma política de gestão de risco.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas o item II está certo.
+      - Nenhum item está certo.
+      - Apenas o item I está certo.
+      - Apenas o item III está certo.
+      - Apenas o item IV está certo.
+  - enunciado: "O percentual dos depósitos captados pelas instituições financeiras que, conforme definição do Banco Central do Brasil (BACEN), deve ficar retido nas contas de reservas bancárias denomina-se"
+    alternativas:
+      - compulsório.
+      - senhoriagem.
+      - operação em mercado aberto.
+      - regulamentação e controle de crédito.
+      - redesconto.
+  - enunciado: "Assinale a opção correta a respeito das funções do BACEN."
+    alternativas:
+      - O BACEN é responsável pela política cambial e mantém a conta de reservas internacionais, que é o resultado do balanço de pagamentos internacionais
+      - É responsabilidade do BACEN manter a inflação dentro da meta, aumentando ou reduzindo o custo do dinheiro no mercado monetário por meio do controle da taxa de redesconto.
+      - O BACEN executa a política de preços mínimos na agricultura, além de funcionar como típico banco comercial.
+      - O BACEN atua como um banco para os bancos comerciais, influenciando o fluxo de dinheiro e de crédito na economia, exceto para concessão de empréstimos.
+      - Além de implementar a política monetária do Brasil, o BACEN é responsável por imprimir e emitir a moeda circulante no país.
+  - enunciado: "No processo de elaboração de uma régua de cobrança, o primeiro passo que se realiza é"
+    alternativas:
+      - a determinação das datas de pagamento.
+      - o acionamento do departamento jurídico para a execução do título.
+      - o envio de mensagem de cobrança ao banco emissor do boleto.
+      - a emissão dos boletos aos sacados (pagadores).
+      - o envio de mensagem de cobrança por email ou correio.
+  - enunciado: "Um dos riscos mais prementes na gestão de tesouraria de uma instituição bancária decorre da variação da taxa de juros, devido principalmente ao fato de as instituições não operarem totalmente casadas. A melhor solução para mitigar esse risco consiste em zerar o hiato de"
+    alternativas:
+      - durations.
+      - vencimentos de ativos e passivos.
+      - ativos.
+      - taxas de juros.
+      - passivos e ativos.
+  - enunciado: |
+      Texto 2A4-I
+
+      As operações de empréstimo feitas pelos bancos normalmente exigem garantias que assegurem o reembolso das instituições financeiras em caso de inadimplência dos tomadores de empréstimo. A garantia não substitui o pagamento, mas, como o nome sugere, garante que, caso ele não ocorra, esse instrumento colateral, ao ser recebido, minimize a perda.
+      A alienação fiduciária é uma modalidade de garantia muito usada no financiamento de veículos, por exemplo. Ao financiar um carro por meio de alienação fiduciária, o comprador (e tomador do empréstimo) ficará de posse do bem, o qual será de propriedade do banco financiador até a quitação das parcelas do financiamento. Com isso, o próprio veículo adquirido com o valor financiado é a garantia oferecida pelo devedor.
+      `E. Fortuna Mercado financeiro: produtos e serviços. 20.ª ed. Rio de Janeiro: Qualitymark, 2015, p. 261 (com adaptações).`
+
+      No que se refere às garantias de empréstimos, assunto tratado no texto 2A4-I, é possível classificá-las em garantias reais e garantias fidejussórias. É exemplo de garantia fidejussória
+    alternativas:
+      - o aval.
+      - a caução de direitos creditórios.
+      - o penhor.
+      - a hipoteca.
+      - a caução de títulos.
+  - enunciado: |
+      A respeito da alienação fiduciária, tratada no texto 2A4-I, julgue os itens a seguir.
+
+      I Bens imóveis não podem ser objeto de alienação fiduciária, mas, sim, de hipoteca, apenas.
+      II O credor fiduciário somente é obrigado a pagar tributos a partir da aquisição da posse plena do bem alienado.
+      III Em caso de não pagamento da dívida garantida por alienação fiduciária, a consolidação da propriedade pelo credor fiduciário implicará a quitação plena da dívida do devedor.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas o item II está certo.
+      - Apenas o item I está certo.
+      - Apenas os itens I e III estão certos.
+      - Apenas os itens II e III estão certos.
+      - Todos os itens estão certos.
+  - enunciado: |
+      Com base na Resolução n.º 2.682/1999 do Banco Central do Brasil, que regulamenta a classificação das operações de crédito de acordo com o risco, bem como a constituição de provisões para operações de crédito duvidosas, julgue os próximos itens.
+
+      I Em se tratando das operações com maior risco (nível H), 100% de seus valores devem ser provisionados para fazer face a perdas prováveis na sua realização.
+      II Todas as operações, inclusive as de menor risco (nível AA), devem ter um percentual de seus valores provisionado para fazer face a perdas prováveis na sua realização.
+      III Uma operação objeto de renegociação pode reduzir o percentual provisionado de seu valor, a depender do novo prazo total negociado para a operação.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas o item I está certo.
+      - Apenas o item II está certo.
+      - Apenas os itens I e III estão certos.
+      - Apenas os itens II e III estão certos.
+      - Todos os itens estão certos.
+  - enunciado: |
+      A fim de tornar mais rápida a análise de contratos de maior saldo devedor, João montou uma planilha no Microsoft Excel. Para verificar rapidamente quais contratos em sua carteira têm saldo maior que R$ 12.000,00, ele deseja usar uma ferramenta que, automaticamente, faça que as células do saldo devedor com essa característica sejam coloridas com fundo amarelo.
+      Nessa situação hipotética, a ferramenta apropriada para fazer o que João deseja é
+    alternativas:
+      - a formatação condicional.
+      - a fórmula CONT.SE.
+      - o pincel de formatação.
+      - o botão Colar formatação.
+      - o painel de estilos.
+  - enunciado: |
+      Texto 2A4-II
+
+      Um funcionário de uma instituição financeira mantém o controle dos vencimentos das operações de crédito na sua carteira com uma planilha no Microsoft Excel. A seguir, é mostrada parte da planilha, tal como ela se apresentava em 9/11/2023, com os títulos das colunas e alguns valores de algumas linhas. Cada operação de crédito corresponde a uma linha na planilha.
+      A instituição utiliza uma régua de cobrança, da qual foram extraídas as seguintes informações:
+      ```
+      10 dias antes da data de vencimento: envio do boleto ao cliente (email ou carta);
+      data de vencimento: último dia para pagamento pelo cliente;
+      5 dias após o vencimento: no caso de o pagamento não ser informado pelo banco, envio do primeiro email de cobrança;
+      15 dias após o vencimento: no caso de o pagamento não ser informado pelo banco, envio do segundo email de cobrança.
+      ```
+      Na situação hipotética apresentada no texto 2A4-II, o funcionário tem a planilha preparada para que as informações sejam atualizadas o mais automaticamente possível. Assim, a coluna G, que mostra há quantos dias a parcela está vencida, reflete um atraso quando tem um valor positivo; e um valor negativo indica apenas que a parcela ainda não venceu, não havendo, portanto, atraso. Considerando essas informações, assinale a opção em que é apresentada a fórmula que permite manter a célula G3 sempre atualizada.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Finep/imagens/con_esp_2 59.png?raw=true
+    alternativas:
+      - =HOJE()-F3
+      - =DATA(2023;11;9)-DATA(2023;11;15)
+      - =DATA(9/11/2023-F3)
+      - =ATRASO(HOJE;(2023;11;9))
+      - =(9-15)
+  - enunciado: |
+      O funcionário a que se refere o texto 2A4-II preparou uma macro pelo VBA para automatizar o envio do primeiro email de cobrança caso haja atraso no pagamento. A macro é executada todo dia e deve percorrer as cem linhas de operações da carteira controlada pelo funcionário. A planilha já está programada para alterar a data da coluna Proxima data vencimento quando o banco informar o pagamento da prestação. Assim, só constam como atrasadas as parcelas realmente não pagas. A macro tem a estrutura a seguir, em que (...) são linhas de comando que são relativas ao envio do email e que foram omitidas
+      ```
+      Sub Envio1Email()
+       Dim i As Integer
+       For i = 1 To 100
+        If Then
+       (...)
+       Next i
+      End Sub
+      ```
+      A partir dessas informações, e considerando que o envio do email deve ser condicionado às regras da régua de cobrança mencionadas no texto 2A4-II, assinale a opção que apresenta o comando que pode substituir corretamente os três quadrados na macro em questão.
+    alternativas:
+      - Cell(i,7).Value=5
+      - Offset(i,G)=5
+      - Range(“G1:G100”)=5
+      - Range(“Gi”)>=5
+      - Gi=5
+  - enunciado: |
+      Pedro é responsável por renegociações de dívidas na instituição financeira em que trabalha. Para realizar seus procedimentos com eficiência, ele organiza suas operações em uma planilha do Microsoft Excel. Uma parte dessa planilha é mostrada a seguir. O sistema usado pela instituição nas renegociações é o sistema Price, e o primeiro pagamento ocorre sempre um mês após a data da contratação. A taxa de juros contratada é uma taxa anual com capitalização mensal. Na coluna F, Pedro calcula o valor da prestação a ser paga pelo devedor.
+      Considerando essa situação hipotética, assinale a opção que apresenta a fórmula a ser usada para determinar a prestação a ser paga pelo devedor, após a renegociação, na operação da linha 8 da planilha.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Finep/imagens/con_esp_2 61.png?raw=true
+    alternativas:
+      - =PGTO(C8/12;D8;-B8;0)
+      - =PREST(C8/12;D8*12;B8;0;0)
+      - =PGTO(B8;C8*12;D8)
+      - =PGTO(D8*12;C8/12;-B8;0)
+      - =-PREST(B8;C8;D8;0;0)
+  - enunciado: |
+      Uma instituição financeira cobra encargos de mora quando um pagamento é realizado com atraso. Geralmente, a multa é de 3% ao mês. Quando o atraso ocorre por um período menor que um mês, a multa é calculada por um regime de juros simples. Quando o atraso ocorre por mais de um mês, usa-se um regime de capitalização misto: os meses “cheios” (inteiros) são cobrados em regime de juros compostos, e os dias restantes são incluídos em regime de juros simples sobre o montante atualizado pelos meses “cheios”. Para o cálculo da multa diária, considera-se o mês comercial (30 dias).
+      A partir das informações apresentadas, e considerando que um pagamento tenha sido realizado com atraso, conforme os dados mostrados na planilha anterior, elaborada no Microsoft Excel, assinale a opção que apresenta a fórmula a ser inserida na célula G2 para determinar o valor a ser pago nesse caso.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Finep/imagens/con_esp_2 62.png?raw=true
+    alternativas:
+      - =B2*(1+C2)^E2*(1+C2*F2/30)
+      - =B2*(1+C2*(E2+F2/30))
+      - =B2*(1+C2)^(E2+C2*F2/30)
+      - =B2*(1+C2)^E2+(1+C2*F2/30)
+      - =B2*((1+C2)^E2+(1+C2*F2/30))
+  - enunciado: "Assinale a opção em que é corretamente indicado o aplicativo que permite fazer ligações telefônicas, conversar por chat, realizar reuniões, compartilhar a tela, fazer chamadas de vídeo, criar equipes, compartilhar e armazenar arquivos do pacote Office (Word, Excel, Power Point), e que ainda integra diversas aplicações das mais variadas origens."
+    alternativas:
+      - Microsoft Teams
+      - SharePoint
+      - Skype for Business
+      - Microsoft OneDrive
+      - WhatsApp
+  - enunciado: |
+      Julgue os seguintes itens, no que se refere às ações de sustentabilidade organizacional que buscam atenuar a problemática das mudanças climáticas.
+
+      I criação de novas tecnologias com enfoque na obsolescência programada
+      II apoio a projetos de eficiência energética
+      III uso de fontes renováveis de energia
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas os itens II e III estão certos.
+      - Nenhum item está certo.
+      - Apenas os itens I e II estão certos.
+      - Apenas os itens I e III estão certos.
+      - Todos os itens estão certos.
+  - enunciado: |
+      Acerca de estratégia empresarial, julgue os itens seguintes.
+
+      I Estratégia empresarial diz respeito ao padrão de decisões que determina e revela os objetivos, propósitos ou metas de uma empresa.
+      II A estratégia empresarial abrange a produção das principais políticas e planos para atingir as metas definidas pela empresa.
+      III A estratégia empresarial envolve a definição da escala de negócios em que a empresa deve envolver- se.
+
+      Assinale a opção correta.
+    alternativas:
+      - Todos os itens estão certos.
+      - Apenas o item I está certo.
+      - Apenas o item II está certo.
+      - Apenas os itens I e III estão certos.
+      - Apenas os itens II e III estão certos.
+  - enunciado: "A diferença percebida entre o valor total para o cliente e o custo total recebido denomina-se"
+    alternativas:
+      - valor entregue a um cliente.
+      - mais-valia
+      - excedente do consumidor
+      - benefício disfuncional
+      - custo total
+  - enunciado: "Considerando-se o conceito multidimensional de risco (de crédito, de mercado, de liquidez e operacional), é correto afirmar que o risco de mercado"
+    alternativas:
+      - depende do comportamento do preço do ativo diante das condições de mercado.
+      - depende do volume transacionado.
+      - está relacionado à possível degradação da garantia de crédito.
+      - está relacionado a possíveis perdas como resultado de sistemas e(ou) controles inadequados, falhas de gerenciamento e erros humanos.
+      - está relacionado a possíveis perdas quando um contrato não pode ser legalmente amparado.
+  - enunciado: |
+      Em relação a avaliação e mitigação de riscos, julgue os itens a seguir.
+
+      I Quanto maior for a diversificação da carteira de crédito, maior será a exposição ao risco de cada ativo individual, por isso a diversificação das atividades em uma empresa não contribui para a mitigação de riscos.
+      II A introdução de flexibilidade nas operações de crédito possibilita aos administradores tomar decisões para expandir o valor das oportunidades de investimento do negócio, ou seja, a possibilidade de maximização dos ganhos em situações favoráveis e minimização das perdas em condições adversas.
+      III A melhoria de processos internos é complexa e multidisciplinar, abarcando o gerenciamento de recursos físicos, humanos e de informações, e também a prevenção, o controle e a redução de perdas, por exemplo.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas os itens II e III estão certos.
+      - Apenas o item I está certo.
+      - Apenas o item III está certo.
+      - Apenas os itens I e II estão certos.
+      - Todos os itens estão certos.
+  - enunciado: "O gráfico utilizado para controlar variáveis, no qual há uma medida central (média) e duas faixas (superior e inferior) que representam uma variação aceitável ao redor da média, é denominado"
+    alternativas:
+      - gráfico de controle para variáveis.
+      - 5W2H.
+      - gráfico de Parrete.
+      - diagrama de Ishikawa.
+      - matriz SWOT.
+  - enunciado: "A gestão da qualidade total é caracterizada"
+    alternativas:
+      - pelo foco no cliente.
+      - pela racionalização limitada aos custos fixos.
+      - pelo desprezo da não conformidade.
+      - pela análise de processos de forma isolada.
+      - pela retificação apenas de erros contornáveis.
