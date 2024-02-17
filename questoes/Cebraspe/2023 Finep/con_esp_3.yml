@@ -1,0 +1,333 @@
+---
+cargo: Analista - Jurídica
+materia: Jurídica - Conhecimentos Específicos
+questoes:
+  - enunciado: "A declaração enganosa de vontade com o propósito de produzir efeito jurídico diverso do efetivamente desejado caracteriza o(a)"
+    alternativas:
+      - simulação
+      - erro substancial
+      - fraude contra credores
+      - lesão
+      - dolo
+  - enunciado: "Caso Pedro e Marcos sejam, ao mesmo tempo e na mesma medida, devedor e credor um do outro, as duas obrigações se extinguem por meio da"
+    alternativas:
+      - compensação
+      - novação
+      - imputação
+      - remissão
+      - confusão
+  - enunciado: "A afirmação de que os efeitos dos contratos só se produzem em relação às partes está relacionada à aplicação do princípio"
+    alternativas:
+      - da relatividade dos contratos.
+      - do consensualismo.
+      - da autonomia de vontade.
+      - da probidade.
+      - da obrigatoriedade dos contratos.
+  - enunciado: |
+      No que se refere ao direito de propriedade, o proprietário resolúvel pode
+
+      I usar a coisa;
+      II gozar da coisa;
+      III dispor da coisa;
+      IV reivindicar a coisa.
+
+      Assinale a opção correta.
+    alternativas:
+      - Todos os itens estão certos.
+      - Apenas os itens I, II e III estão certos.
+      - Apenas os itens I, II e IV estão certos.
+      - Apenas os itens I, III e IV estão certos.
+      - Apenas os itens II, III e IV estão certos
+  - enunciado: "O ato de um indivíduo intervir, sem autorização, na administração de negócio alheio, dirigindo-o conforme o interesse e a vontade presumível de seu dono, configura"
+    alternativas:
+      - gestão de negócios.
+      - estipulação em favor de terceiro.
+      - compromisso.
+      - representação.
+      - mandato tácito.
+  - enunciado: "Nas companhias abertas, a negociação de ações no mercado de valores mobiliários depende de registro da sociedade"
+    alternativas:
+      - na Comissão de Valores Mobiliários.
+      - na Comissão Nacional de Segurança Financeira.
+      - na Agência de Supervisão do Mercado de Capitais.
+      - no Conselho de Serviços Financeiros e Mercado Futuro.
+      - na Superintendência de Valores e Seguros.
+  - enunciado: |
+      Considerando as disposições legais acerca da proteção do nome empresarial, julgue os itens seguintes.
+
+      I Na sociedade empresária, a proteção jurídica concedida ao nome empresarial pode decorrer tanto do arquivamento do contrato social quanto das alterações sociais que mudem o nome no registro próprio.
+      II De acordo com a regra geral, a proteção concedida ao nome empresarial é válida no âmbito da unidade federativa (UF) em que foi registrado.
+      III Considera-se crime de concorrência desleal o uso indevido do nome empresarial alheio, desde que comprovado prejuízo ao titular do nome, incumbindo-lhe o ônus da prova.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas os itens I e II estão certos.
+      - Apenas o item II está certo.
+      - Apenas o item III está certo.
+      - Apenas os itens I e III estão certos.
+      - Todos os itens estão certos.
+  - enunciado: |
+      Entre os elementos exigidos para a caracterização do conceito de empresário, encontra-se o exercício de atividade
+
+      I de qualquer natureza.
+      II organizada.
+      III profissional.
+      IV lucrativa.
+
+      Estão certos apenas os itens
+    alternativas:
+      - II e III.
+      - I e III.
+      - I e IV.
+      - I, II e IV.
+      - II, III e IV.
+  - enunciado: "Nas sociedades empresárias de responsabilidade limitada com três ou mais sócios, considera-se sócio remisso aquele que"
+    alternativas:
+      - não integralizou o valor de suas quotas.
+      - cede gratuitamente a terceiros suas quotas da sociedade.
+      - exerce individualmente a administração da sociedade.
+      - presta serviços à sociedade na condição de autônomo.
+      - vota em desacordo com a maioria dos sócios.
+  - enunciado: "Nas companhias abertas, as debêntures que não gozam de nenhuma preferência são classificadas como debêntures"
+    alternativas:
+      - quirografárias.
+      - com garantia real.
+      - subordinadas.
+      - secundárias.
+      - com garantia flutuante.
+  - enunciado: |
+      Julgue os itens a seguir acerca de jurisdição e ação.
+
+      I Não ofende o princípio da inafastabilidade da jurisdição a resolução de conflitos por meio da arbitragem, forma de autocomposição de interesses em que as partes elegem um terceiro para dar solução final ao conflito, com força de coisa julgada.
+      II Mediação e conciliação são formas adequadas de resolução de controvérsias por meio das quais um terceiro intervém para auxiliar as partes a chegar a uma composição consensual e negociada do litígio, devendo, para tanto, propor uma solução justa para o caso concreto.
+      III Autotutela é o meio de solução de conflitos pela imposição da vontade de uma das partes e o consequente sacrifício do interesse da parte adversa, o que é absolutamente vedado no direito brasileiro — sua prática constitui, inclusive, crime de exercício arbitrário das próprias razões.
+      IV Os tribunais administrativos exercem jurisdição voluntária, na medida em que atuam como terceiros imparciais que impõem uma resolução ao litígio, sem força de coisa julgada.
+
+      Assinale a opção correta.
+    alternativas:
+      - Nenhum item está certo.
+      - Apenas os itens I, II e III estão certos.
+      - Apenas os itens I, II e IV estão certos.
+      - Apenas os itens I, III e IV estão certos.
+      - Apenas os itens II, III e IV estão certos.
+  - enunciado: "Assinale a opção correta a respeito de atos processuais."
+    alternativas:
+      - Empresas públicas e privadas deverão manter cadastro nos sistemas de processo em autos eletrônicos para o recebimento de citações e terão de confirmar o recebimento dessa espécie de comunicação processual no prazo legal, sob pena de condenação por ato atentatório à dignidade da justiça em caso de omissão injustificada dessa confirmação.
+      - As citações serão feitas por meio eletrônico, inclusive quando o citando for pessoa jurídica de direito público.
+      - A citação ou a intimação das partes durante o período de férias forenses somente poderá ocorrer mediante autorização judicial, haja vista a suspensão dos prazos nesse período.
+      - Considera-se publicada a decisão judicial na data em que a informação é disponibilizada no diário de justiça eletrônico, mas a contagem do prazo para resposta terá início apenas no primeiro dia útil que seguir ao da publicação.
+      - Litisconsortes patrocinados por advogados distintos terão prazos em dobro para todas as suas manifestações processuais, exceto se o processo for eletrônico, os referidos advogados pertencerem a um mesmo escritório de advocacia ou se o juiz determinar que os prazos sejam reduzidos.
+  - enunciado: "Assinale a opção correta no que diz respeito à suspensão do processo, nos termos do Código de Processo Civil."
+    alternativas:
+      - O processo será suspenso quando o único advogado que representa a parte se tornar pai.
+      - O processo ficará suspenso até a resolução da desconsideração da personalidade jurídica requerida na petição inicial.
+      - A morte do autor acarretará a suspensão do processo, ainda que a causa verse sobre direito intransmissível por disposição legal.
+      - Nenhum ato poderá ser praticado durante o período de suspensão do processo.
+      - O juiz determinará a suspensão do processo quando o julgamento da causa depender da produção de prova pericial requerida pela parte na petição inicial ou na contestação.
+  - enunciado: "Assinale a opção correta no que concerne aos procedimentos comuns e especiais bem como a processos de conhecimento e de execução."
+    alternativas:
+      - As regras do procedimento comum são subsidiariamente aplicáveis aos procedimentos especiais e ao processo de execução.
+      - A desistência do autor da ação principal obstará o prosseguimento da reconvenção a ela conexa.
+      - O juiz indeferirá prontamente a petição inicial, extinguindo o feito sem julgamento de mérito, quando ela não tiver sido instruída com os documentos indispensáveis à propositura da ação.
+      - O juiz julgará liminarmente improcedente o pedido que, pendente de instrução probatória, contrariar enunciado de súmula de tribunal superior.
+      - O pedido deve ser certo, visto que caberá ao juiz interpretá-lo literal e restritivamente ao julgar a causa.
+  - enunciado: "Considerando as disposições do Código de Processo Civil e a jurisprudência do Superior Tribunal de Justiça no que diz respeito a processo de execução, assinale a opção correta."
+    alternativas:
+      - Excepcionalmente, é possível a penhora de verbas de natureza salarial para pagamento de dívida não alimentar, independentemente do montante recebido pelo devedor, desde que seja preservado um valor que assegure subsistência digna a ele e a sua família.
+      - O executado não é obrigado a indicar o valor dos bens a serem penhorados quando intimado pelo juízo para especificá-los, uma vez que tal informação é de interesse do exequente e pode ser obtida com a adoção de diligências ordinárias de investigação patrimonial.
+      - O juiz pode determinar de ofício a inclusão do nome do executado em cadastros de inadimplentes.
+      - Na execução por quantia certa contra devedor solvente, o juiz, ao despachar a inicial, fixará os honorários advocatícios a serem pagos pelo executado, os quais serão excluídos da condenação caso o devedor efetue o pagamento no prazo de três dias.
+      - A execução de quantia certa contra devedor solvente é de interesse privado, razão por que o Ministério Público é parte ilegítima para promovê-la.
+  - enunciado: "Acerca da competência da União, dos estados e dos municípios, assinale a opção correta."
+    alternativas:
+      - É competência comum da União, dos estados, do Distrito Federal e dos municípios registrar, acompanhar e fiscalizar as concessões de direitos de pesquisa e exploração de recursos hídricos e minerais em seus territórios.
+      - Em se tratando de competência concorrente, caso inexista lei federal sobre normas gerais, os estados exercerão a competência legislativa plena para atender a suas peculiaridades, e a superveniência de lei federal sobre normas gerais revoga a lei estadual no que lhe seja contrária.
+      - A competência privativa da União para legislar é indelegável, já a competência executiva pode ser delegada aos estados por lei complementar específica.
+      - Compete privativamente à União legislar sobre procedimentos em matéria processual.
+      - É competência concorrente da União, dos estados e do Distrito Federal legislar sobre propaganda comercial.
+  - enunciado: "Em relação aos Poderes Legislativo, Executivo e Judiciário, assinale a opção correta."
+    alternativas:
+      - O Superior Tribunal de Justiça compõe-se de, no mínimo, trinta e três ministros, nomeados pelo presidente da República entre brasileiros com mais de trinta e cinco e menos de setenta anos de idade, depois de aprovada a escolha pela maioria absoluta do Senado Federal.
+      - Compete ao Supremo Tribunal Federal o processo e julgamento originário dos governadores de estado e do Distrito Federal por crimes comuns.
+      - A legislatura da Câmara dos Deputados tem duração de quatro anos, enquanto a do Senado Federal tem duração de oito anos.
+      - Os subsídios do presidente e do vice-presidente da República e dos ministros de Estado serão fixados por lei a ser aprovada pelo Congresso Nacional e sancionada pelo presidente da República.
+      - Caso o presidente da República atente contra a probidade na administração pública, ele será julgado por crime de responsabilidade perante o Supremo Tribunal Federal.
+  - enunciado: "A respeito de controle de constitucionalidade, assinale a opção correta."
+    alternativas:
+      - É possível o controle difuso de constitucionalidade na ação popular e na ação civil pública, desde que a declaração de inconstitucionalidade seja causa de pedir.
+      - As ações de controle concentrado somente podem ser propostas se não houver outra alternativa para sanar lesão ou violação à Constituição Federal.
+      - No Brasil, o sistema de controle de constitucionalidade é repressivo, uma vez que somente pode ocorrer após a edição do ato impugnado, não sendo possível a análise da constitucionalidade de projeto de lei.
+      - Entre os legitimados para a propositura das ações de controle concentrado figura o partido político com representação no Congresso Nacional, que deve demonstrar pertinência temática entre a lei ou ato normativo analisado e sua atuação.
+      - É cabível a propositura de ação direta de inconstitucionalidade pelo governador do Distrito Federal para declarar a constitucionalidade de lei distrital que trate do imposto sobre a circulação de mercadorias e serviços.
+  - enunciado: "No que concerne a mandado de segurança, ação popular e ação civil pública, assinale a opção correta."
+    alternativas:
+      - O mandado de segurança é a medida cabível para proteger direito líquido e certo não amparado por habeas corpus ou habeas data quando o responsável pela ilegalidade ou abuso de poder for agente de pessoa jurídica no exercício de atribuições do poder público.
+      - A ação civil pública é de legitimidade ativa exclusiva do Ministério Público e tem como objetivos a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos.
+      - A isenção de custas judiciais concedida em favor do autor da ação popular não atinge o quantum relativo aos ônus da sucumbência em nenhuma hipótese.
+      - É necessária a expressa autorização dos associados para que a associação respectiva possa impetrar mandado de segurança coletivo em nome da categoria.
+      - Qualquer cidadão é parte legítima para propor ação popular que vise anular ato lesivo ao patrimônio público, à moralidade administrativa e ao patrimônio histórico e cultural, excetuada a defesa do meio ambiente, que exige ação própria específica.
+  - enunciado: "No que diz respeito aos direitos e garantias fundamentais, assinale a opção correta."
+    alternativas:
+      - Em caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano.
+      - Aos autores pertence o direito exclusivo de utilização, publicação ou reprodução de suas obras pelo tempo que a lei fixar ou até seu falecimento, porquanto tal direito é intransmissível aos herdeiros.
+      - Perderá a nacionalidade brasileira o nacional que adquirir outra nacionalidade, salvo em caso de imposição, pela norma estrangeira, de naturalização ao brasileiro residente em Estado estrangeiro como condição para a permanência em seu território ou para o exercício de direitos civis.
+      - A lei estabelecerá o procedimento para regular a desapropriação, mediante justa e prévia indenização em dinheiro, em qualquer hipótese de necessidade ou utilidade pública, ou por interesse social.
+      - A casa é asilo inviolável do indivíduo, de modo que ninguém nela pode penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, para prestar socorro ou por determinação judicial, e, em qualquer dessas hipóteses, o ingresso só poderá ser feito durante o dia.
+  - enunciado: "Se um órgão da administração pública realizar procedimento licitatório e celebrar contrato administrativo, com as devidas justificativas, o contrato pode vir a ser alterado unilateralmente pela administração quando"
+    alternativas:
+      - necessária a modificação do valor contratual em decorrência de acréscimo de seu objeto.
+      - necessário o restabelecimento do equilíbrio econômico-financeiro inicial do contrato por força maior.
+      - conveniente a substituição da garantia de execução.
+      - necessária a modificação do regime de execução do serviço.
+      - necessária a modificação da forma de pagamento por imposição de circunstâncias supervenientes.
+  - enunciado: "Caso um órgão da administração pública pretenda celebrar contratação cujo objeto sejam bens ou serviços produzidos ou prestados no país e que envolvam, cumulativamente, alta complexidade tecnológica e defesa nacional, nos termos da Lei n.º 14.133/2021, a licitação será"
+    alternativas:
+      - dispensável, independentemente do valor.
+      - dispensada, a depender do valor.
+      - inexigível, independentemente do valor.
+      - inexigível, a depender do valor.
+      - dispensável, a depender do valor.
+  - enunciado: "Suponha-se que, em certo órgão da administração pública federal, a decisão de determinado processo administrativo exija a participação de mais de três órgãos. Nessa situação, sendo justificável pela relevância da matéria, a decisão administrativa poderá ser tomada mediante decisão coordenada, o que"
+    alternativas:
+      - não excluirá a responsabilidade originária de cada órgão ou autoridade envolvida.
+      - excluirá a responsabilidade originária de cada órgão, se o processo administrativo for licitatório.
+      - não excluirá a responsabilidade originária de cada órgão, se o processo administrativo for relacionado ao poder sancionador.
+      - não excluirá a responsabilidade originária de cada órgão, se o processo administrativo for licitatório.
+      - excluirá a responsabilidade originária de cada órgão, se o processo administrativo for relacionado ao poder sancionador.
+  - enunciado: "Quando o poder público instala uma rede elétrica ou implanta um gasoduto ou oleoduto em área privada para a execução de serviços públicos, o tipo de intervenção do Estado que ocorre na propriedade é a"
+    alternativas:
+      - servidão administrativa.
+      - requisição administrativa.
+      - ocupação temporária.
+      - ocupação permanente.
+      - limitação administrativa.
+  - enunciado: "O direito de petição aos poderes públicos, previsto na Constituição Federal de 1988, em que o indivíduo pode dirigir-se aos órgãos administrativos para postular a defesa de direitos é considerado um instrumento jurídico concretizador do princípio da"
+    alternativas:
+      - publicidade
+      - precaução
+      - indisponibilidade
+      - moralidade
+      - autotutela
+  - enunciado: "A autorização, por lei, do ingresso forçado de autoridade administrativa em imóveis públicos e privados, nos casos de abandono, ausência ou recusa que possam impedir o acesso de agentes de saúde para o cumprimento de medidas de vigilância corresponde à característica do poder de polícia denominada"
+    alternativas:
+      - coercibilidade.
+      - proporcionalidade.
+      - autoexecutoriedade.
+      - discricionariedade.
+      - vinculação.
+  - enunciado: |
+      Com relação à despesa pública, julgue os itens a seguir.
+
+      I O empenho de despesa é o ato emanado por autoridade competente que cria para o Estado obrigação de pagamento pendente ou não de implemento de condição.
+      II É vedada a realização de despesas sem prévio empenho, ressalvados os casos de dispensa e inexigibilidade de licitação.
+      III A emissão da nota de empenho consiste na verificação do direito adquirido pelo credor, tendo por base os títulos e documentos comprobatórios do respectivo crédito.
+      IV O regime de adiantamento é aplicável aos casos de despesas expressamente definidos em lei e consiste na entrega de numerário a servidor, sempre precedida de empenho na dotação própria, para o fim de realizar despesas que não possam subordinar-se ao processo normal de aplicação.
+
+      Estão certos apenas os itens
+    alternativas:
+      - I e IV.
+      - I e II.
+      - II e III.
+      - I, III e IV.
+      - II, III e IV.
+  - enunciado: "A respeito da competência tributária, assinale a opção correta, considerando a jurisprudência dos tribunais superiores e o disposto no Código Tributário Nacional (CTN)."
+    alternativas:
+      - Os tributos cuja receita seja distribuída, no todo ou em parte, a outras pessoas jurídicas de direito público pertencem à competência legislativa daquela a que tenham sido atribuídos.
+      - A competência tributária é delegável, mediante convênio, a pessoas jurídicas de direito público, ficando estas investidas, inclusive, do poder de legislar sobre o tributo objeto da delegação.
+      - Eventual revogação da delegação da competência tributária por prazo determinado só produzirá efeitos se ratificada pela pessoa jurídica de direito público delegatária.
+      - O não exercício da competência tributária pelo município autoriza o seu exercício pelo estado-membro em que aquele se localiza, visto que a Constituição Federal de 1988 (CF) prescreve o dever fundamental de pagar tributos.
+      - A concessão de isenção pelo ente competente, no caso de tributos cuja receita seja distribuída, no todo ou em parte, a outras pessoas jurídicas de direito público, depende da anuência destas, sob pena de ofensa ao pacto federativo.
+  - enunciado: |
+      A lei federal X determinou as seguintes obrigações tributárias: (i) retenção, pelo adquirente, de determinado tributo federal devido pelo vendedor de certo produto; e (ii) apresentação, pelo adquirente, de informações sobre a operação, por meio de sistema informatizado.
+      Considerando a situação hipotética apresentada, assinale a opção correta.
+    alternativas:
+      - A segunda obrigação tem natureza de obrigação tributária acessória, convertendo-se, caso seja descumprida, em obrigação principal no que se refere a eventual penalidade pecuniária.
+      - A primeira obrigação tem natureza de obrigação tributária acessória, porque relaciona-se com ato de mercancia, situação tipicamente eleita como fato gerador pela legislação tributária.
+      - A segunda obrigação tem natureza de obrigação acessória e, mesmo em caso de seu descumprimento, mantém tal natureza relativamente à penalidade pecuniária, uma vez que os tributos não constituem sanção por ato ilícito.
+      - Ambas as obrigações constituem obrigações tributárias principais, pois estão diretamente relacionadas com o pagamento de tributo.
+      - Ambas as obrigações constituem obrigações tributárias acessórias, uma vez que o adquirente é mero responsável tributário.
+  - enunciado: "Considerando a jurisprudência do Supremo Tribunal Federal (STF), assinale a opção correta em relação aos princípios gerais do sistema tributário nacional e às limitações ao poder de tributar."
+    alternativas:
+      - É constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade entre uma base e outra.
+      - A imunidade tributária recíproca estende-se incondicionalmente às empresas públicas e às sociedades de economia mista.
+      - Por ser específico e divisível, o serviço de iluminação pública pode ser remunerado por meio de taxa.
+      - Em decorrência da imunidade tributária recíproca, é vedado aos entes federativos instituir tributos sobre o patrimônio, a renda e os serviços uns dos outros.
+      - De acordo com o princípio da anterioridade da lei tributária, é vedada a cobrança de tributos em relação a fatos geradores ocorridos antes do início da vigência da lei que os houver instituído ou aumentado.
+  - enunciado: |
+      A respeito da responsabilidade tributária, julgue os itens seguintes.
+
+      I A pessoa jurídica de direito privado que resultar de fusão, transformação ou incorporação de outra ou em outra é responsável pelos tributos devidos até a data do ato pelas pessoas jurídicas de direito privado fusionadas, transformadas ou incorporadas.
+      II Presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente.
+      III A mera devolução de carta de citação com aviso de recebimento negativo não é suficiente para a configuração da dissolução irregular da pessoa jurídica.
+      IV Os créditos tributários relativos a impostos cujo fato gerador seja a propriedade, o domínio útil ou a posse de bens imóveis, e bem assim os relativos a taxas pela prestação de serviços referentes a tais bens, ou a contribuições de melhoria, sub-rogam-se na pessoa dos respectivos adquirentes, salvo quando conste do título a prova de sua quitação.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas os itens I e II estão certos.
+      - Apenas os itens I e IV estão certos.
+      - Apenas os itens II e III estão certos.
+      - Apenas os itens III e IV estão certos.
+      - Todos os itens estão certos.
+  - enunciado: "Nos casos em que for reconhecida a culpa recíproca na rescisão do contrato individual do trabalho, o empregado"
+    alternativas:
+      - receberá 50% do valor do aviso prévio, do 13.º salário e das férias proporcionais.
+      - receberá o saldo do salário do mês trabalhado e não receberá nenhuma outra verba rescisória.
+      - não receberá o aviso prévio.
+      - receberá normalmente todas as verbas rescisórias.
+      - receberá integralmente os valores relativos ao 13.º salário e às férias proporcionais.
+  - enunciado: "A respeito de acordo e convenção coletivos e da duração do trabalho, assinale a opção correta."
+    alternativas:
+      - A prestação de serviços em horas extras habituais descaracteriza o acordo de compensação de jornada.
+      - A compensação de jornada de trabalho somente pode ser ajustada entre empregador e empregado por acordo individual escrito.
+      - O acordo de compensação de jornada é válido também em casos de jornada em atividade insalubre, desde que seja previsto em norma coletiva.
+      - O acordo individual para compensação de horas é válido, ainda que norma coletiva tenha previsão divergente.
+      - O regime compensatório na modalidade banco de horas pode ser estabelecido mediante acordo individual estabelecido entre empregado e empregador.
+  - enunciado: "A respeito dos recursos no processo do trabalho, assinale a opção correta."
+    alternativas:
+      - Se um argumento for invocado no recurso principal, mas o tribunal não tiver feito análise específica a respeito do tema, caberá à parte opor embargos declaratórios objetivando o posicionamento do tribunal sobre o tema.
+      - A irregularidade de representação da parte na fase recursal é motivo suficiente para o não conhecimento do recurso de imediato.
+      - Não há possibilidade de interposição de recurso contra quaisquer decisões interlocutórias na justiça do trabalho.
+      - Não é cabível a interposição de recurso de revista contra acordão proferido, em agravo de petição, na liquidação de sentença.
+      - Por ausência de previsão legal na Consolidação das Leis do Trabalho (CLT), não é possível a interposição de recurso adesivo no processo do trabalho.
+  - enunciado: "No que diz respeito à proteção ao trabalho da mulher e à maternidade, assinale a opção correta."
+    alternativas:
+      - O fato de o empregador não ter conhecimento da gravidez da empregada não afasta o direito ao pagamento da indenização decorrente da estabilidade
+      - O término do contrato de experiência autoriza a demissão da empregada gestante, ainda que se comprove que a concepção ocorreu na vigência do contrato.
+      - Por falta de previsão legal específica, o direito à estabilidade provisória da gestante não abrange a categoria das empregadas domésticas.
+      - Empregada contratada mediante contrato por tempo determinado não tem garantia à estabilidade provisória em razão de gravidez.
+      - A garantia de emprego à empregada gestante autoriza a reintegração, ainda que o período de estabilidade já esteja exaurido.
+  - enunciado: "A respeito dos processos de execução trabalhista, assinale a opção correta."
+    alternativas:
+      - É cabível execução provisória no processo do trabalho nos casos de sentença condenatória ainda não transitada em julgado, sendo limitados os atos de execução até a penhora.
+      - Nos casos de execução de título executivo extrajudicial, o juízo competente para analisar a execução será diverso daquele que teria competência para o processo de conhecimento relativo à matéria.
+      - Os termos de conciliação firmados perante as comissões de conciliação prévia possuem natureza de título executivo judicial.
+      - O único recurso cabível na execução trabalhista é o agravo de petição.
+      - Na execução trabalhista, não incidem custas judiciais.
+  - enunciado: "No que diz respeito às férias, assinale a opção correta."
+    alternativas:
+      - Se o empregado permanecer em gozo de licença, mas continuar recebendo o salário por período superior a 30 dias, perderá o direito às férias.
+      - As faltas do empregado podem gerar descontos no seu salário, mas não impactam o seu direito às férias.
+      - No período de gozo de férias, o empregado poderá trabalhar para outro empregador, já que seu contrato de trabalho fica suspenso nesse período.
+      - As férias podem ser parceladas em dois períodos, e um deles não pode ser inferior a 20 dias.
+      - O início da contagem das férias pode coincidir com dia de repouso semanal remunerado, desde que previamente combinado com o empregado.
+  - enunciado: "Assinale a opção correta a respeito dos fundos especiais previstos na Lei n.º 4.320/1964."
+    alternativas:
+      - Em regra, o saldo positivo de fundo especial apurado em balanço será transferido para o exercício seguinte, a crédito desse mesmo fundo.
+      - Eventual saldo negativo de fundo especial poderá ser compensado com as receitas do exercício seguinte.
+      - A constituição de um fundo especial independe da vinculação do produto de receitas especificadas por lei à realização de objetivos ou serviços específicos.
+      - As normas de controle da citada lei prevalecem sobre eventuais normas específicas de controle previstas na lei instituidora do fundo especial.
+      - Lei que instituir fundo especial poderá elidir a competência específica dos tribunais de contas, desde que a atribua a órgão específico de controle interno ou a auditores independentes.
+  - enunciado: "Com base na Lei n.º 4.320/1964, assinale a opção correta com relação ao controle da execução orçamentária."
+    alternativas:
+      - O controle da execução orçamentária compreende a verificação da legalidade dos atos de que resultem a arrecadação da receita ou a realização da despesa, o nascimento ou a extinção de direitos e obrigações.
+      - O controle interno da execução orçamentária é pressuposto necessário para a realização do controle externo.
+      - O controle interno permite que haja, em periodicidade no máximo anual, o levantamento, a prestação ou a tomada de contas de todos os responsáveis por bens ou valores públicos.
+      - A verificação da legalidade dos atos de execução orçamentária deverá ser prévia, não alcançando os atos realizados após a liquidação da respectiva despesa.
+      - O controle interno consiste na fiscalização realizada pelo Poder Legislativo mediante parecer prévio do Tribunal de Contas da União.
+  - enunciado: Conforme a Lei n.º 13.303/2016, o Comitê de Auditoria Estatutário
+    alternativas:
+      - deverá reunir-se quando necessário, no mínimo bimestralmente, de modo que as informações contábeis sejam sempre apreciadas antes de sua divulgação.
+      - tem por competência a aprovação definitiva da destituição ou da contratação de auditores independentes.
+      - pode ser integrado por diretor em exercício ou membro ativo do conselho fiscal de empresa pública ou de sua controladora, controlada, coligada ou sociedade em controle comum, direta ou indireta.
+      - pode ser integrado por responsável técnico, gerente, supervisor ou qualquer outro integrante com função de gerência de equipe envolvida nos trabalhos de auditoria na empresa pública, em atividade na qualidade de membro.
+      - tem por competência receber denúncias internas à sociedade de economia mista em matérias relacionadas ao escopo de suas atividades, desde que não sejam sigilosas nem coloquem em risco interesse legítimo da sociedade.
