@@ -1,0 +1,359 @@
+---
+cargo: Analista - Gestão Corporativa
+materia: Gestão - Conhecimentos Específicos
+questoes:
+  - enunciado: "Os experimentos de Hawthorne deram origem a um movimento teórico voltado ao estudo da organização informal, denominado teoria"
+    alternativas:
+      - das relações humanas.
+      - de sistemas.
+      - comportamental.
+      - contingencial.
+      - clássica.
+  - enunciado: "A teoria que admite a organização como um composto de unidades inter-relacionadas com o ambiente externo é a teoria"
+    alternativas:
+      - de sistemas.
+      - das relações humanas.
+      - clássica.
+      - comportamental.
+      - contingencial.
+  - enunciado: "Na gestão da qualidade, busca-se garantir que o produto efetivamente fornecido ao cliente atenda aos padrões preestabelecidos, o que significa garantir critérios de"
+    alternativas:
+      - conformidade.
+      - confiabilidade.
+      - confiança.
+      - desempenho.
+      - durabilidade.
+  - enunciado: "Providenciar a manutenção preventiva e corretiva para equipamentos é responsabilidade da área funcional de"
+    alternativas:
+      - produção.
+      - gestão de pessoas.
+      - marketing e vendas.
+      - finanças.
+      - produtos e serviços.
+  - enunciado: "O processo de criação de conhecimento se inicia com a"
+    alternativas:
+      - socialização.
+      - formalização.
+      - internalização.
+      - externalização.
+      - combinação.
+  - enunciado: "Para converter conhecimentos tácitos em conhecimentos explícitos, deve-se adotar o modo denominado"
+    alternativas:
+      - externalização.
+      - formalização.
+      - internalização.
+      - combinação.
+      - socialização.
+  - enunciado: "Assinale a opção em que é corretamente indicado exemplo de inovação de processo."
+    alternativas:
+      - método de produção tecnologicamente aprimorado
+      - produto que reduz a contaminação do solo
+      - produto tecnologicamente sustentável
+      - método de descarte de resíduos
+      - produto novo para a empresa e para o mercado
+  - enunciado: "Considerando que os processos de mudança envolvem transformação, interrupção ou ruptura de processos, assinale a opção em que é indicado um fator negativo para a ocorrência de mudanças no âmbito da organização."
+    alternativas:
+      - cultura organizacional conservadora
+      - nova demanda cultural e social
+      - liderança adaptativa
+      - tecnologia avançada
+      - oportunidade de mercado
+  - enunciado: "Assinale a opção em que é apresentado um comportamento esperado da liderança em um processo de mudança organizacional no contexto de uma sociedade moderna e inovadora."
+    alternativas:
+      - busca de engajamento, inspiração e motivação dos colaboradores para a geração de bem-estar e o alcance dos resultados organizacionais
+      - priorização de pressupostos tecnicistas em detrimento da consideração da influência do fator humano na busca por melhores resultados
+      - controle intensificado das atividades e dos comportamentos da equipe para obter a adesão pretendida aos objetivos de qualidade total da organização
+      - adoção de práticas de recompensa e punição de acordo com o desempenho alcançado pelos colaboradores
+      - neutralidade nas decisões para não influenciar o processo de mudança e garantir o alcance dos resultados esperados pela organização
+  - enunciado: "A definição do que deve ser feito, das atividades, dos recursos necessários, das responsabilidades, da duração, dos custos e dos riscos de um projeto é realizada na fase de"
+    alternativas:
+      - planejamento.
+      - encerramento.
+      - iniciação.
+      - gestão.
+      - realização.
+  - enunciado: "Os principais produtos finais ou itens que se espera que sejam produzidos durante e ao final da realização de um projeto correspondem ao conceito de"
+    alternativas:
+      - principais entregas.
+      - programações.
+      - objetivos.
+      - finalidades.
+      - detalhamentos de projeto.
+  - enunciado: "Considerando os critérios para a seleção de projeto, assinale a opção em que são apresentados um critério quantitativo e um qualitativo, respectivamente."
+    alternativas:
+      - volume de vendas esperado; satisfação da clientela
+      - redução de custos; despesas com pessoal
+      - reação dos concorrentes; requisitos legais
+      - investimento necessário; aumento da rentabilidade
+      - custo de fabricação; retorno sobre o investimento
+  - enunciado: |
+      Em relação às habilidades requeridas de um gerente de projeto, julgue os itens seguintes.
+
+      I Em sua habilidade de liderança, o gerente deve inspirar os integrantes do projeto a trabalhar como uma equipe para implantar o plano estabelecido e alcançar os resultados almejados.
+      II Na habilidade relacionada ao desenvolvimento de pessoas, o gerente deve ter o compromisso com a capacitação das pessoas que trabalham no projeto.
+      III A habilidade de comunicação requer que o gerente se comunique regularmente com a equipe, clientes e dirigentes da organização, buscando manter a movimentação do projeto e alcançar bom desempenho e a satisfação do cliente.
+
+      Assinale a opção correta.
+    alternativas:
+      - Todos os itens estão certos.
+      - Apenas o item II está certo.
+      - Apenas o item III está certo.
+      - Apenas os itens I e II estão certos.
+      - Apenas os itens I e III estão certos.
+  - enunciado: "Assinale a opção correta no que diz respeito à diferença entre a metodologia tradicional e a metodologia ágil (SCRUM) na gestão de projetos."
+    alternativas:
+      - Na metodologia ágil, o trabalho é realizado com equipes menores e focadas em determinado objetivo, de forma que o plano de projeto tenha interatividade em cada etapa e resposta rápida às mudanças, enquanto, na metodologia tradicional, o trabalho é desenvolvido com equipes maiores, com um cronograma menos adaptável.
+      - A metodologia ágil é mais bem estruturada e planejada que a tradicional, podendo apresentar falhas em projetos de longa duração por estar suscetível às rápidas transformações mercadológicas; a abordagem tradicional é mais recomendável para lidar com situações que exigem maior flexibilidade.
+      - A metodologia tradicional envolve os usuários, em todas as etapas, de forma colaborativa, apresenta mais clareza na formulação de requisitos e mais flexibilidade à mudança, enquanto a metodologia ágil não envolve os usuários de forma colaborativa nas diversas etapas e é menos flexível à mudança.
+      - Na metodologia tradicional, o planejamento ocorre de forma iterativa e incremental; na metodologia ágil, planeja-se com muita antecedência como será cada etapa do projeto.
+      - Na metodologia ágil, é realizada apenas uma entrega no projeto final, ao passo que, na metodologia tradicional, as entregas são partes de projetos menores que irão compor todo o projeto.
+  - enunciado: |
+      No que diz respeito aos sistemas de informações gerenciais e à apresentação e discussão do conceito de informação e seus fundamentos, julgue os itens a seguir.
+
+      I Um sistema de informação pode ser definido como um conjunto de componentes inter-relacionados que coletam, processam, armazenam e distribuem informações destinadas a apoiar a tomada de decisões, a coordenação e o controle em uma organização.
+      II Informação significa as sequências de fatos não analisados, representativos de eventos que ocorrem nas organizações ou no ambiente físico antes de serem organizados e dispostos de forma que possam ser compreendidos e usados.
+      III Dados representam as informações que foram modeladas em um formato significativo e útil para as pessoas e a organização.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas o item I está certo.
+      - Apenas o item III está certo.
+      - Apenas os itens I e II estão certos.
+      - Apenas os itens II e III estão certos.
+      - Todos os itens estão certos.
+  - enunciado: "Assinale a opção correta em relação aos sistemas de informações gerenciais e à utilização estratégica de recursos de tecnologia da informação que pode levar à obtenção de vantagem competitiva."
+    alternativas:
+      - Os sistemas ERP (enterprise resource planning) são utilizados para integrar processos de negócio de modo que a informação, anteriormente fragmentada em sistemas distintos, seja armazenada em um único repositório de dados abrangente, a partir do qual pode ser utilizada por muitas partes diferentes da organização.
+      - Os sistemas SCM (supply chain management) têm como seu objetivo final levar a quantidade certa de produtos da fonte para o ponto de consumo, independentemente do tempo e do custo.
+      - Os sistemas CRM (customer relationship management) auxiliam fornecedores, empresas de compras, distribuidores e empresas de logística a compartilhar informações sobre pedidos, produção, níveis de estoque e entrega de produtos e serviços, com o objetivo principal de buscar insumos, produzir e entregar mercadorias e serviços com eficiência.
+      - Nos sistemas ERP (enterprise resource planning), os dados fluem de maneira manual entre as partes da organização que serão afetadas, no momento em que um cliente faz um pedido.
+      - Os sistemas SCM (supply chain management) fornecem informações para coordenar todos os processos de negócio que lidam com clientes, em termos de vendas, marketing e serviços, com objetivo primordial de otimizar a receita, a satisfação e a retenção de clientes.
+  - enunciado: |
+      Duas empresas que utilizam sistemas de informações gerenciais (SIG), uma varejista e a outra fabricante de calçados e roupas, empregam as estratégias descritas a seguir.
+      - A empresa varejista utiliza SIG para o registro da venda de cada item e, periodicamente, o computador central coleta os pedidos de todas as lojas aos fornecedores, de modo que não haja gasto excessivo com a manutenção de grandes estoques de mercadoria em centros de distribuição, em um sistema de reposição contínuo.
+      - A empresa fabricante de calçados e roupas utiliza SIG para a criação de produtos e serviços personalizados que se ajustem a especificações precisas de seus clientes, de modo que estes possam escolher o modelo, cores, materiais e até mesmo logotipo personalizado em seu produto.
+      Na situação hipotética apresentada, segundo o modelo das forças competitivas de Porter, as referidas empresas estão utilizando SIG nas estratégias genéricas, respectivamente, de
+    alternativas:
+      - liderança em custos e diferenciação de produto.
+      - ocalização em nichos de mercado e liderança em custos.
+      - diferenciação de produto e liderança em custos.
+      - liderança em custos e focalização em nichos de mercado.
+      - focalização em nichos de mercado e diferenciação de produto.
+  - enunciado: "A respeito de contratos administrativos, fiscalização de contratos e licitações, é correto afirmar, de acordo com a Lei n.º 13.303/2016, que ocorre sobrepreço quando"
+    alternativas:
+      - os preços orçados para a licitação ou os preços contratados são expressivamente superiores aos preços referenciais de mercado, podendo referir-se ao valor unitário de um item, se a licitação ou a contratação for por preços unitários de serviço, ou ao valor global do objeto, se a licitação ou a contratação for por preço global ou por empreitada.
+      - os preços orçados para a licitação ou os preços contratados são expressivamente superiores aos preços referenciais de mercado, mas somente em relação ao valor global do objeto, independentemente do fato de a licitação ou a contratação ser por preço unitário ou por preço global ou por empreitada.
+      - há dano ao patrimônio da empresa pública ou da sociedade de economia mista caracterizado pela medição de quantidades superiores às efetivamente executadas ou fornecidas.
+      - há dano ao patrimônio da empresa pública ou da sociedade de economia mista caracterizado pela deficiência na execução de obras e serviços de engenharia que resulte em diminuição da qualidade, da vida útil ou da segurança.
+      - há dano ao patrimônio da empresa pública ou da sociedade de economia mista caracterizado por alterações no orçamento de obras e de serviços de engenharia que causem o desequilíbrio econômico-financeiro do contrato em favor do contratado.
+  - enunciado: |
+      As empresas A, B e C apresentaram propostas em licitação promovida por sociedade de economia mista federal. Na análise de habilitação das empresas, verificou-se que:
+      - na empresa A, há um sócio que é detentor de 3% do capital social e que é empregado da estatal contratante.
+      - na empresa B, o administrador é sócio de empresa declarada inidônea.
+      - a empresa C foi constituída por sócio que foi administrador de empresa suspensa pela própria contratante, no período dos fatos em que deram ensejo à sanção, mas, na data da apresentação da proposta, o referido sócio não era mais administrador da empresa suspensa.
+      Com base nessa situação hipotética, é correto afirmar que apenas
+    alternativas:
+      - a empresa A está desimpedida de participar da licitação.
+      - as empresas B e C estão desimpedidas de participar da licitação.
+      - a empresa B está desimpedida de participar da licitação.
+      - as empresas A e B estão desimpedidas de participar da licitação.
+      - a empresa C está desimpedida de participar da licitação.
+  - enunciado: |
+      A função compras possui objetivo de
+
+      I manter um cadastro de fornecedores que garanta maior agilidade e segurança na pesquisa de preços.
+      II garantir o efetivo suprimento de materiais e serviços, nas quantidades e nos prazos demandados pelos clientes internos.
+      III providenciar as compras com qualidade, celeridade e com preço econômico.
+
+      Assinale a opção correta.
+    alternativas:
+      - Todos os itens estão certos.
+      - Apenas o item I está certo.
+      - Apenas o item III está certo.
+      - Apenas os itens I e II estão certos.
+      - Apenas os itens II e III estão certos.
+  - enunciado: "No que se refere à gestão patrimonial, é possível diferenciar recurso material, em sentido amplo, de recurso patrimonial, pelo fato de que"
+    alternativas:
+      - o primeiro é todo o bem físico (tangível ou corpóreo) empregado em uma organização de qualquer espécie, e o segundo é todo o bem físico (tangível) empregado em uma organização que detém natureza permanente.
+      - o primeiro é todo o bem físico (tangível ou corpóreo) empregado em uma organização de qualquer espécie, e o segundo é todo o bem físico (tangível) empregado em uma organização que detém natureza não permanente.
+      - o primeiro é todo o bem físico (tangível) empregado em uma organização que detém natureza permanente, e o segundo é todo o bem físico (tangível) empregado em uma organização que detém natureza não permanente.
+      - o primeiro é todo o bem físico (tangível) empregado em uma organização que detém natureza não permanente, e o segundo é todo o bem físico (tangível) empregado em uma organização que detém natureza permanente.
+      - o primeiro é todo o bem físico (tangível) empregado em uma organização que detém natureza permanente, e o segundo é todo o bem físico (tangível ou corpóreo) empregado em uma organização de qualquer espécie.
+  - enunciado: "Tendo como referência a figura anterior, assinale a opção correta acerca de um dos componentes do Marketing 5.0."
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Finep/imagens/con_esp_4 52.png?raw=true
+    alternativas:
+      - O marketing aumentado tem enfoque nas interações humanas empoderadas pelas tecnologias, para aumentar a produtividade em tarefas de baixo valor e ajudar pessoas a tomar decisões inteligentes.
+      - O marketing contextual caracteriza-se por definir o público-alvo da empresa e estabelecer personas/arquétipos para ações robustas, com o objetivo de melhorar a experiência do consumidor.
+      - O marketing direcionado por dados consiste, basicamente, em treinar os colaboradores da empresa a pedirem ao consumidor que responda questionário sobre interesses de consumo.
+      - O marketing ágil oferece um plano de ação pronto com base em informações coletadas pela equipe de vendas, para implementação ou adequação de um produto ou serviço às demandas gerais de consumo.
+      - O marketing preditivo diz respeito a planejar e executar ações focadas no dados coletados na cadeia de venda do produto ou serviço, para que sejam satisfeitas as necessidades do consumidor.
+  - enunciado: |
+      Com relação a aspectos conceituais da comunicação e às suas características, julgue os itens a seguir.
+
+      I Comunicação compreende os meios e as formas de transmissão de informações.
+      II A comunicação altera e influencia comportamentos.
+      III Nas empresas, as comunicações podem envolver, ao mesmo tempo, dimensão pessoal e estrutural.
+
+      Assinale a opção correta.
+    alternativas:
+      - Todos os itens estão certos.
+      - Apenas o item II está certo.
+      - Apenas o item III está certo.
+      - Apenas os itens I e II estão certos.
+      - Apenas os itens I e III estão certos.
+  - enunciado: "No que se refere à análise SWOT, assinale a opção correta."
+    alternativas:
+      - Depois de realizar uma análise SWOT, a empresa deve dedicar-se a estabelecer metas, especificando-as para o planejamento.
+      - A análise SWOT permite maximizar vendas e lucros simultaneamente.
+      - Depois de utilizar a análise SWOT, a empresa deve corrigir todas as suas fraquezas e se vangloriar das suas forças.
+      - Uma ameaça ambiental verificada pela análise SWOT refere-se a todo fenômeno da natureza que afeta a empresa.
+      - Para avaliar forças e fraquezas com base na análise SWOT, basta que a empresa encaminhe formulários de pesquisa de opinião para seus clientes.
+  - enunciado: |
+      No que se refere à comunicação empresarial, julgue os itens a seguir.
+
+      I Um único veículo de comunicação institucional tecnologicamente avançado basta para atingir todas as pessoas que a empresa deseja alcançar.
+      II Newsletter é um tipo de comunicação empresarial interna.
+      III A escolha dos formatos e veículos de comunicação institucional deve levar em consideração os objetivos, os públicos, os recursos disponíveis, a cultura organizacional e a evolução dos processos de comunicação na empresa.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas os itens II e III estão certos.
+      - Apenas o item I está certo.
+      - Apenas o item III está certo.
+      - Apenas os itens I e II estão certos.
+      - Todos os itens estão certos.
+  - enunciado: |
+      Com relação ao planejamento estratégico, julgue os itens subsequentes.
+
+      I O propósito do planejamento é o desenvolvimento de processos, técnicas e atitudes administrativas que permitam avaliar futuras decisões, de forma eficaz.
+      II O planejamento deve ser entendido como uma operação mecânica e instrumental do que fazer e como fazer.
+      III Enquanto o planejamento estratégico ocupa o topo da pirâmide organizacional, o planejamento tático atua em uma dimensão mais restrita e em curto prazo.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas os itens I e III estão certos.
+      - Apenas o item II está certo.
+      - Apenas o item III está certo.
+      - Apenas os itens I e II estão certos.
+      - Todos os itens estão certos.
+  - enunciado: "A missão básica do endomarketing é"
+    alternativas:
+      - contribuir para o desenvolvimento das metas estratégicas da organização.
+      - destacar os elementos da tecnologia utilizados nos procedimentos.
+      - desenvolver os principais programas de comunicação social da instituição.
+      - comparar as condições e os fatores que balizam os comportamentos da comunidade de públicos e da sociedade de massa.
+      - distribuir mensagens a massas heterogêneas, amorfas e anônimas.
+  - enunciado: |
+      Em relação ao marketing digital, julgue os itens a seguir.
+
+      I Uma vantagem do marketing digital sobre o marketing tradicional está na possibilidade de medir, em tempo real, o retorno sobre qualquer investimento.
+      II O marketing digital tem-se mostrado mais eficaz que o marketing tradicional na interação com o público, porém o custo do primeiro é mais elevado e sua elaboração demora mais.
+      III O conteúdo é o elemento fundamental de qualquer estratégia de marketing digital.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas os itens I e III estão certos.
+      - Nenhum item está certo.
+      - Apenas os itens I e II estão certos.
+      - Apenas os itens II e III estão certos.
+      - Todos os itens estão certos.
+  - enunciado: "Acerca das oportunidades e dos desafios para os governos na era digital, assinale a opção correta."
+    alternativas:
+      - Caso os riscos de segurança nos serviços digitais não sejam mitigados por meio da ação coordenada entre organizações governamentais e agentes privados, a sensação de insegurança pode retardar o ritmo de desenvolvimento da economia digital.
+      - As fintechs podem oferecer um sistema financeiro mais inclusivo, mediante apenas a desagregação das atividades bancárias em suas principais funções.
+      - Embora não contribua para a redução de custo de prospecção de clientes, o cenário do comércio eletrônico internacional gera oportunidades às empresas brasileiras, incluindo visibilidade dos produtos e multiplicação de canais de venda direta.
+      - Para ampliar o acesso da população a serviços de telecomunicações, é necessário ultrapassar, primeiro, as fronteiras de sustentabilidade e, depois, as fronteiras de eficiência de mercado.
+      - Melhorando-se a qualidade da educação pública mediante o amplo acesso a conteúdo e tecnologias digitais, pode-se facilitar estritamente a empregabilidade.
+  - enunciado: "Desenvolvimento da política produtiva e tecnológica e aumento da infraestrutura de pesquisa nacional são potenciais ações de melhoria relacionadas ao habilitador de transformação digital denominado"
+    alternativas:
+      - pesquisa, desenvolvimento e inovação.
+      - digitalização da economia.
+      - acesso a tecnologias de informação e comunicação.
+      - dimensão internacional.
+      - confiança no ambiente digital.
+  - enunciado: "Se uma organização pública conecta informações adquiridas em múltiplos canais, usando-as para cruzar resultados e embasar as tomadas de decisão, então, quanto ao nível de maturidade digital, essa organização classifica-se como"
+    alternativas:
+      - multimomento.
+      - paradigmática.
+      - nascente.
+      - emergente.
+      - conectada.
+  - enunciado: "O instrumento do governo federal que visa estimular precipuamente o desenvolvimento tecnológico ao assegurar a compra de bens e serviços nacionais é denominado"
+    alternativas:
+      - compra com margem de preferência local.
+      - concessão de auxílios à infraestrutura.
+      - subvenção econômica.
+      - encomenda tecnológica.
+      - incentivo fiscal.
+  - enunciado: "Acerca das govtechs e inovações delas advindas, assinale a opção correta."
+    alternativas:
+      - A interação entre govtechs e negócios de impacto permitem melhor e mais fácil acesso a serviços públicos de qualidade, causando impacto humano e social relevantes.
+      - A obtenção de ganhos de eficiência nas ações de fomento das govtechs independe da capacidade da administração pública em articular instrumentos jurídicos em torno de iniciativas de inovação.
+      - Os condicionantes para o desenvolvimento do ecossistema de govtechs se limitam ao ambiente de inovação, estrutura de compras e governo digital.
+      - As govtechs são maioria entre os segmentos de startups brasileiras, tais como o de educação e saúde.
+      - As govtechs podem apenas ser fornecedoras diretas de soluções ao governo, participando de processos licitatórios, de encomendas tecnológicas ou do desenvolvimento de soluções inovadoras.
+  - enunciado: |
+      Tadeu trabalha na área de análise de políticas públicas para o setor de educação, lida com volume relevante de dados e informações digitais e precisa propor ações à tomada de decisão pelos seus gestores. No momento, ele atua em um tipo de análise de dados que, a partir de dados históricos, busca identificar os padrões e tendências observados; suas entregas são constituídas de painéis dashboards, relatórios estatísticos, gráficos de barras e tabelas de resumo.
+      Nessa situação hipotética, Tadeu atua na análise de dados do tipo
+    alternativas:
+      - descritiva.
+      - prescritiva.
+      - incremental.
+      - diagnóstica.
+      - preditiva.
+  - enunciado: |
+      A respeito da segurança e privacidade dos cidadãos na era digital, julgue os itens a seguir.
+
+      I A confidencialidade é a propriedade garantidora de que a informação manipulada mantém todas as características originais estabelecidas pelo proprietário da informação, incluindo controle de mudanças e garantia do seu ciclo de vida.
+      II A concepção de políticas públicas na área de segurança da informação deve levar em consideração os custos de implementação dos mecanismos de proteção.
+      III Honeypot é a denominação dada ao software cuja finalidade é detectar ou impedir a ação de um cracker ou qualquer agente externo estranho ao sistema, induzindo-o a pensar que esteja de fato se aproveitando de uma vulnerabilidade desse sistema.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas os itens II e III estão certos.
+      - Apenas o item I está certo.
+      - Apenas o item III está certo.
+      - Apenas os itens I e II estão certos.
+      - Todos os itens estão certos.
+  - enunciado: "O teletrabalho tem emergido na contemporaneidade como um novo modelo de trabalho. A esse respeito, assinale a opção correta."
+    alternativas:
+      - O teletrabalho em tempo integral é recomendado para colaboradores que tenham autonomia para a realização de tarefas complexas e experiência na área, com a execução de atividades já concebidas na modalidade remota.
+      - No teletrabalho, a adoção de encontros informais entre trabalhadores é prescindível, pois as tarefas podem ser executadas pelo trabalhador sem a necessidade de contato com os colegas.
+      - O teletrabalho é uma modalidade laboral em que todas as tarefas são executadas na casa do trabalhador.
+      - O teletrabalho é desempenhado pelo trabalhador em sua casa, exercido com ou sem remuneração, desde que os equipamentos e outros materiais sejam fornecidos pelo empregador.
+      - É altamente recomendável a atribuição das mesmas atividades ao teletrabalhador durante períodos longos (meses ou anos), reduzindo-se a variedade de problemas e de soluções.
+  - enunciado: "Determinado modelo sistematizado de gestão visa à definição de perfis profissionais a fim de obter maior produtividade e adaptação ao negócio da organização, identificando os pontos fracos e fortes, preenchendo lacunas e agregando conhecimento. Esse modelo corresponde à gestão"
+    alternativas:
+      - por competências.
+      - do conhecimento.
+      - de processos.
+      - de benefícios.
+      - operacional.
+  - enunciado: "Com relação ao desenvolvimento de pessoas e à educação corporativa, assinale a opção correta."
+    alternativas:
+      - Necessidades de treinamento são descrições de lacunas de competências ou lacunas nos repertórios de conhecimentos, habilidades e atitudes no trabalho.
+      - A área de educação corporativa contribui para agregar vantagem competitiva à organização, embora não haja a possibilidade de os treinamentos promoverem alterações na produção ou nos serviços prestados pela organização.
+      - A transferência de treinamento corresponde às atitudes e opiniões dos treinados no que se refere a diversos aspectos do treinamento, ou seja, seu nível de satisfação em relação a ele.
+      - A adoção da educação a distância no treinamento corporativo sofreu uma redução em função da falta de interatividade decorrente do uso das novas mídias.
+      - Os efeitos de longo prazo de um treinamento, medidos no nível de valor final, referem-se à aquisição, pelos egressos, de competências, conhecimentos, habilidades e atitudes, indicados nos objetivos de aprendizagem do curso.
+  - enunciado: "Acerca da cultura e do clima organizacional, assinale a opção correta."
+    alternativas:
+      - A cultura organizacional pode ser compreendida em três níveis: artefatos, valores compartilhados e pressuposições básicas.
+      - O clima organizacional decorre de práticas estabelecidas ao longo do tempo e se materializa por meio de indicadores que fornecem sinais sobre sua qualidade.
+      - O clima organizacional é uma das principais causas da cultura organizacional, sendo os dois, portanto, fenômenos complementares.
+      - Na cultura organizacional, os ritos de passagem dificultam a mudança de status, seja na introdução, seja no treinamento de pessoal.
+      - A cultura organizacional está relacionada à forma como o indivíduo percebe a organização.
+  - enunciado: |
+      Considerando os fatores que afetam a qualidade de vida no trabalho, julgue os itens a seguir.
+
+      I O constitucionalismo compreende o estabelecimento de normas, regras e deveres, que a organização elabora para organizar os padrões de procedimentos, os processos e os comportamentos dos funcionários.
+      II Um dos fatores que melhoram a qualidade de vida no trabalho é a relação equilibrada entre trabalho e espaço total de vida, que se refere ao controle do tempo para não impedir que o empregado realize suas atividades pessoais e familiares.
+      III A integração social na organização contribui para a melhoria da qualidade de vida no trabalho e envolve a existência de franqueza interpessoal, a abolição de preconceito e a extinção dos níveis hierárquicos marcantes.
+
+      Assinale a opção correta.
+    alternativas:
+      - Todos os itens estão certos.
+      - Apenas o item I está certo.
+      - Apenas o item III está certo.
+      - Apenas os itens I e II estão certos.
+      - Apenas os itens II e III estão certos.
