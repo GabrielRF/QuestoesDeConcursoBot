@@ -1,0 +1,449 @@
+---
+cargo: Analista - Tecnologia da Informação - Software
+materia: Desenvolvimento - Conhecimentos Específicos
+questoes:
+  - enunciado: "No ciclo de vida do desenvolvimento de sistemas, a fase que envolve o entendimento dos requisitos de negócio é a de"
+    alternativas:
+      - análise.
+      - implementação.
+      - projeto.
+      - planejamento.
+      - desenvolvimento.
+  - enunciado: "Na engenharia de software, o princípio que rege o atendimento aos modelos e normas de qualidade de software é o da"
+    alternativas:
+      - formalidade.
+      - generalização.
+      - flexibilização.
+      - abstração.
+      - decomposição.
+  - enunciado: "Em determinado modelo de ciclo de vida de desenvolvimento de software, as fases são executadas de forma sequencial, ou seja, uma nova fase se inicia apenas quando a anterior tiver sido finalizada. Trata-se do modelo"
+    alternativas:
+      - em cascata.
+      - iterativo.
+      - incremental.
+      - protótipo.
+      - em espiral.
+  - enunciado: "Na especificação de caso de uso, o relacionamento que ocorre quando um caso de uso A for executado, e o caso de uso B também o será é do tipo"
+    alternativas:
+      - exclude.
+      - generalization.
+      - intend.
+      - include.
+      - extend.
+  - enunciado: "Em engenharia de software, a busca de conformidade aos requisitos funcionais explicitamente declarados, por meio de padrões de desenvolvimento documentados para atender as características implícitas esperadas do software, é objeto da"
+    alternativas:
+      - qualidade.
+      - viabilidade.
+      - governança.
+      - usabilidade.
+      - manutenibilidade.
+  - enunciado: "Segundo a norma ABNT ISO/IEC12207, os processos fundamentais do ciclo de vida de software são"
+    alternativas:
+      - aquisição, fornecimento, desenvolvimento, operação e manutenção.
+      - gerência de configuração, qualidade, verificação, validação.
+      - gerência, melhoria, infraestrutura, recursos humanos.
+      - gerência de risco, qualidade, gestão do conhecimento, avaliação do produto.
+      - usabilidade, auditoria, resolução de problema, revisão conjunta.
+  - enunciado: "Segundo a norma ISO/IEC 12207, as atividades de projeto de software, construção do software, integração do software e manutenção do software fazem parte do processo de"
+    alternativas:
+      - desenvolvimento.
+      - qualidade.
+      - gerência.
+      - melhoria de processo.
+      - aquisição.
+  - enunciado: "De acordo com o MPS-BR, para determinado modelo, o processo é executado e gerenciado, os seus produtos de trabalho são gerenciados, e o nível de maturidade é composto pelos processos de desenvolvimento para reutilização, gerência de decisões e gerência de riscos. Assinale a opção que apresenta o nível de maturidade desse modelo."
+    alternativas:
+      - nível C (definido).
+      - nível B (gerenciado quantitativamente).
+      - nível A (em otimização).
+      - nível E (parcialmente definido).
+      - nível G (parcialmente gerenciado).
+  - enunciado: "O diagrama em UML que representa as relações entre atores e as funcionalidades incorporadas ao sistema é denominado"
+    alternativas:
+      - diagrama de casos de uso.
+      - diagrama de estados.
+      - diagrama de sequência.
+      - diagrama de classes.
+      - diagrama de componente.
+  - enunciado: "Em orientação a objetos, o mecanismo de se criar novas classes a partir de uma classe existente é denominado"
+    alternativas:
+      - herança.
+      - domínio.
+      - polimorfismo.
+      - encapsulamento.
+      - abstração.
+  - enunciado: "Considerando-se que determinada empresa possui vários tipos de banco de dados para armazenamentos de dados estruturais, é correto afirmar que a linguagem SQL, nesse caso, tem a finalidade de"
+    alternativas:
+      - manipular dados em banco de dados.
+      - desenvolver aplicações baseadas na linguagem Java.
+      - realizar cálculos matemáticos simples e complexos.
+      - gerenciar sistemas operacionais.
+      - desenvolver aplicativos para dispositivos móveis.
+  - enunciado: "Em relação a SQL, é correto afirmar que"
+    alternativas:
+      - uma subquery é uma consulta aninhada dentro de outra consulta.
+      - uma função agregada serve para verificar a integridade de dados.
+      - uma instrução compreende uma série de comandos de programação.
+      - uma subquery é uma consulta usada para verificar a integridade de dados.
+      - o comando CASE é usado para transformar texto em números.
+  - enunciado: "Em relação às formas normais, assinale a opção correta."
+    alternativas:
+      - Para a maioria dos efeitos práticos, considera-se que um banco de dados está normalizado e livre de redundâncias e inconsistências quando adequado à primeira, à segunda e à terceira formas normais.
+      - A tabela tb_produto, com os atributos cod_cliente, cod_produto, nome_produto, preco e quantidade, e com chave primária composta de cod_cliente e cod_produto, está na segunda forma normal, pois não possui grupos repetitivos.
+      - Uma tabela está na terceira forma normal se e somente se ela estiver na primeira forma normal e na segunda forma normal e se todos os atributos contiverem apenas dados atômicos.
+      - Na primeira forma normal, é permitida a dependência transitiva.
+      - As formas normais não são sequenciais, ou seja, se um banco de dados se encontra na terceira forma normal, não necessariamente está na segunda forma normal.
+  - enunciado: "No que se refere a modelos de dados, manipulação de dados e linguagem SQL, assinale a opção correta."
+    alternativas:
+      - Um relacionamento muitos-para-muitos em um banco de dados existe quando um ou mais itens de uma tabela podem ter uma relação com um ou mais itens de outra tabela.
+      - O comando FIND em SQL é usado para recuperar dados específicos em uma tabela.
+      - A linguagem SQL é usada para definição de estrutura de dados.
+      - Otimização de consultas em SQL é um processo para reduzir a capacidade de resposta do banco de dados.
+      - Na linguagem SQL, a cláusula WHERE filtra registros após a agregação, enquanto a cláusula HAVING os filtra antes da agregação.
+  - enunciado: "A respeito da linguagem SQL e da manipulação de dados em um banco de dados relacional Oracle, assinale a opção correta."
+    alternativas:
+      - O operador IN é usado para verificar se um valor está em um subconjunto de valores.
+      - A cláusula MODIFY é usada para atualizar registros em uma consulta.
+      - A finalidade do comando CREATE TABLE é criar um banco de dados.
+      - A cláusula REMOVE é usada para excluir registros de uma tabela.
+      - A finalidade do comando ALTER TABLE é criar uma nova tabela.
+  - enunciado: |
+      Texto 6A2-I
+      A seguir, são apresentadas informações da tabela de nome dep e da tabela de nome emp.
+      A partir das informações do texto 6A2-I, assinale a opção correta, considerando um banco de dados Oracle.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Finep/imagens/con_esp_6 46.png?raw=true
+    alternativas:
+      - Considere que a tabela de nome dep tenha os seguintes valores.
+        ```
+        ndep  nome           local
+        10    Contabilidade  Condeixa
+        20    Investigação   Mealhada
+        30    Vendas         Coimbra
+        40    Planejamento   Montemor
+        ```
+        Nesse caso, a instrução a seguir apresentará o valor = 10 como resultado
+        ```
+        select max(ndep) valor from dep
+        where local like 'C%';
+        ```
+      - As instruções a seguir estão sintaticamente corretas em SQL e permitem criar a tabela de nome dep.
+        ```
+        CREATE TABLE dep
+        (ndep NUMBER(2)
+        nome VARCHAR(15)
+        local VARCHAR(15));
+        ```
+      - As instruções a seguir, relativas à tabela emp, estão sintaticamente corretas em SQL.
+        ```
+        INSERT INTO emp VALUES(1839, 10, 'Jorge Sampaio', 'Presidente' ,null, '1984.02.11', 890000, null);
+        INSERT INTO emp VALUES(1566, 20, 'Augusto Reis', 'Encarregado' ,1839, '1985.02.13', 450975, null);
+        ```
+      - As instruções a seguir estão sintaticamente corretas em SQL e permitem criar a tabela de nome emp.
+        ```
+        CREATE TABLE emp
+        (nemp NUMBER(4) CONSTRAINT pk_nemp_emp PRIMARY KEY,
+        nome VARCHAR(20) CONSTRAINT nn_nome_emp NOT NULL,
+        funcao VARCHAR(12) CONSTRAINT nn_funcao_emp NOT NULL,
+        encar NUMBER(2) CONSTRAINT fk_encar_emp
+        REFERENCES emp(nemp) NULL,
+        data_entrada DATE CONSTRAINT nn_data_emp NOT NULL,
+        sal NUMBER(7) CONSTRAINT nn_sal_emp NOT NULL, premios NUMERIC(7),
+        ndep NUMBER(2) CONSTRAINT nn_ndep_emp NOT NULL);
+        ```
+      - As instruções a seguir, relativas à tabela dep, estão sintaticamente corretas em SQL.
+        ```
+        INSERT INTO dep VALUES (10, 'Contabilidade básica', 'Condeixa');
+        INSERT INTO dep VALUES (20, 'Investigação Penal', 'Mealhada');
+        ```
+  - enunciado: "Tendo como referência as informações do texto 6A2-I, assinale a opção correta, com base em SQL ANSI."
+    alternativas:
+      - A consulta a seguir está sintaticamente correta e retornará uma linha.
+        ```
+        SELECT * FROM emp WHERE ndep = 10
+        AND (NOT funcao = 'Encarregado' OR ndep = 20);
+        ```
+      - As instruções
+        ```
+        SELECT NOME, NEMP, SAL
+        FROM emp WHERE NOME = 'JORGE SAMPAIO';
+        ```
+        apresentam o mesmo resultado que as instruções a seguir.
+        ```
+        SELECT Nome, nemp, sal
+        FROM emp WHERE nome = 'Jorge Sampaio';
+        ```
+      - A instrução a seguir, relativa à tabela emp, retornará quatro linhas.
+        ```
+        SELECT nome "Com Premios"
+        FROM emp WHERE premios <> NULL;
+        ```
+      - O SELECT a seguir está sintaticamente correto e retornará dez linhas.
+        ```
+        SELECT e1.nome "Empregado", e1.nemp "N Emp",
+        e2.nome "Encarregado", e2.nemp "N Encar"
+        FROM emp e1
+        left join emp e2 on e2.nemp = e1.encar;
+        ```
+      - Considere que a tabela `dep` tenha os seguintes valores
+        ```
+        ndep  nome           local
+        10    Contabilidade  Condeixa
+        20    Investigação   Mealhada
+        30    Vendas         Coimbra
+        40    Planejamento   Montemor
+        ```
+        Nesse caso, o SELECT a seguir está sintaticamente correto e apresentará nove linhas como resultado.
+        ```
+        SELECT e.nome "Nome", e.ndep "NDep", nome "Dep"
+        FROM emp e, dep d
+        WHERE e.ndep = d.ndep
+        ORDER BY e.ndep;
+        ```
+  - enunciado: "Considerando a tabela emp do texto 6A2-I, assinale a opção correta, com base em SQL ANSI."
+    alternativas:
+      - O trecho a seguir está sintaticamente correto e permite criar uma tabela com quatro colunas, já preenchidas com dados.
+        ```
+        CREATE TABLE emp2 AS
+        SELECT nemp,
+        UPPER(nome) nome,
+        funcao, sal*14+nvl (premios, 0) sal_anual
+        FROM emp
+        WHERE (sal, ndep) IN (SELECT max(sal), ndep
+        FROM emp
+        GROUP BY ndep);
+        ```
+      - Os comandos
+        ```
+        SELECT funcao FROM emp WHERE ndep = 10
+        union all
+        SELECT funcao FROM emp WHERE ndep = 30;
+        ```
+        apresentam o mesmo resultado que os comandos a seguir.
+        ```
+        SELECT funcao FROM emp WHERE ndep = 10
+        union
+        SELECT funcao FROM emp WHERE ndep = 30;
+        ```
+      - O trecho a seguir está sintaticamente correto e apresentará quatro linhas como resultado.
+        ```
+        SELECT funcao FROM emp WHERE ndep = 10
+        MINUS
+        SELECT funcao FROM emp WHERE ndep = 30
+        ORDER BY funcao;
+        ```
+      - O trecho a seguir será executado sem erro em um banco de dados Oracle.
+        ```
+        INSERT INTO emp
+        SELECT nemp+1000, 'CLONE ' || nome, funcao, encar,
+        sysdate, sal, premios, ndep
+        FROM emp;
+        ```
+      - O comando a seguir apagará todos os registros da tabela emp.
+        ```
+        DELETE * FROM emp;
+        ```
+  - enunciado: "Em relação à modelagem de dados, assinale a opção correta."
+    alternativas:
+      - Na modelagem de dados relacional, diferentes tabelas de dados se unem ou se vinculam a partir de chaves que representam a relação de entidades do mundo real.
+      - Na especialização parcial, toda a entidade na superclasse deve ser um membro de pelo menos uma das subclasses na especialização.
+      - O modelo relacional representa os dados em um banco de dados apenas como uma coleção de relações (tabelas).
+      - Generalização e especialização na modelagem conceitual em banco de dados são conceitos usados para representar objetos do mundo real que possuem diferentes atributos.
+      - Atributos representam todos os valores possíveis que um domínio pode receber.
+  - enunciado: "A respeito de banco de dados, assinale a opção correta, considerando um banco de dados relacional Oracle."
+    alternativas:
+      - Uma base de dados representa algum aspecto do mundo real, algumas vezes chamado de “minimundo”, de modo que mudanças no minimundo provocam mudanças na base de dados.
+      - Uma propriedade de transação de banco de dados relacional é o isolamento que garante que as alterações de dados se tornem permanentes quando a transação é confirmada.
+      - Um banco de dados é um conjunto de dados que visa manter a integridade e a segurança do sistema.
+      - No banco de dados relacional, o dicionário de dados contém a especificação do desempenho das consultas contidas no banco de dados.
+      - O princípio da atomicidade é o princípio que garante e permite a manipulação, no mesmo momento, de um mesmo dado por mais de uma pessoa ou um sistema.
+  - enunciado: "Assinale a opção em que é apresentado o principal método usado na linguagem Java para iniciar a execução de um programa."
+    alternativas:
+      - main()
+      - execute()
+      - run()
+      - start()
+      - begin()
+  - enunciado: "Assinale a opção em que é apresentada, na linguagem Java, a sintaxe para declarar um array de nome productPrices, que será usado para armazenar os preços de produtos."
+    alternativas:
+      - int productPrices[] = new int[5];
+      - int productPrices[] = int[5];
+      - int productPrices[5];
+      - productPrices[] int = new int[5];
+      - int[] productPrices = new int[];
+  - enunciado: "No desenvolvimento de um sítio dinâmico em PHP com páginas diferentes, cada uma com seu próprio conteúdo exclusivo, para manter o código organizado e reutilizável, deve-se separar o código de cada página em arquivos individuais. Nesse contexto, assinale a opção em que é indicada a função que deve ser usada para incluir o conteúdo de um arquivo externo em um script PHP de modo a inserir o código de cada página."
+    alternativas:
+      - include()
+      - readExternal()
+      - import()
+      - readFile()
+      - loadFile()
+  - enunciado: |
+      Assinale a opção em que é corretamente indicado o resultado da função precedente em PHP.
+      ```
+      strlen("PHP é uma linguagem poderosa!")
+      ```
+    alternativas:
+      - "25"
+      - WARNING
+      - ERROR
+      - "27"
+      - "29"
+  - enunciado: "O protocolo padrão utilizado para a transferência de hipertexto em uma arquitetura cliente-servidor é o"
+    alternativas:
+      - HTTP.
+      - WebSocket.
+      - FTP.
+      - SMTP.
+      - TCP/IP.
+  - enunciado: "O principal objetivo de se reduzir o acoplamento entre módulos em um sistema de software é"
+    alternativas:
+      - facilitar a integração de novos módulos.
+      - minimizar a necessidade de documentação.
+      - melhorar a eficiência de comunicação entre módulos.
+      - diminuir o tamanho dos módulos.
+      - aumentar a coesão entre módulos.
+  - enunciado: "Assinale a opção em que é indicado o modificador de acesso em Java que pode permitir que os membros de uma classe sejam acessados apenas por classes do mesmo pacote."
+    alternativas:
+      - package-private
+      - internal
+      - static
+      - public
+      - private
+  - enunciado: "Assinale a opção em que é indicado atributo HTML usado para especificar o destino de um link."
+    alternativas:
+      - href
+      - target
+      - rel
+      - alt
+      - src
+  - enunciado: |
+      ```
+      var frutas = ["maçã", "laranja", "pera", "banana", "kiwi", "abacaxi", "manga", "uva"];
+      var posicao = frutas.indexOf("banana");
+      ```
+      Considerando o código precedente, escrito em JavaScript, assinale a opção em que é corretamente indicado o valor da variável posicao após a execução do código.
+    alternativas:
+      - "3"
+      - "-1"
+      - "-2"
+      - "2"
+      - "4"
+  - enunciado: |
+      ```
+      var tarefas = [
+          { id: 1, descricao: "Fazer compras",
+      concluida: false },
+          { id: 2, descricao: "Estudar JavaScript",
+      concluida: true },
+          { id: 3, descricao: "Limpar a casa",
+      concluida: false }
+      ];
+
+      var contadorTarefasPendentes = 0;
+      var listaTarefasPendentes = "";
+
+      for (var i = 0; i < tarefas.length; i++) {
+          if (!tarefas[i].concluida) {
+              contadorTarefasPendentes++;
+              listaTarefasPendentes += contadorTarefasPendentes + ". " + tarefas[i].descricao + "\n";
+          }
+      }
+      ```
+      Com base no código precedente, escrito em JavaScript, assinale a opção em que é corretamente indicado o valor da variável listaTarefasPendentes após a execução do código.
+    alternativas:
+      - '"1. Fazer compras\n2. Limpar a casa\n"'
+      - Erro de sintaxe
+      - '["1. Fazer compras", "2. Limpar a casa"]'
+      - '"1. Fazer compras, 2. Limpar a casa"'
+      - "2"
+  - enunciado: "Assinale a opção em que é indicada uma entrada prevista no processo de desenvolver o termo de abertura de um projeto."
+    alternativas:
+      - plano de gerenciamento de benefícios
+      - relatório de desempenho do projeto anterior
+      - plano de gerenciamento de custos
+      - plano de gerenciamento de recursos
+      - plano de gerenciamento de aquisições
+  - enunciado: "Para a orientação do trabalho definido para o projeto bem como para a implementação das mudanças aprovadas a fim de se atingirem os objetivos do projeto, é previsto o processo de orientar e gerenciar o trabalho do projeto, no qual deve estar incluso o documento de entrada denominado"
+    alternativas:
+      - matriz de rastreabilidade de requisitos.
+      - registro de questões.
+      - consulta à opinião de especialistas técnicos.
+      - entrevista aos stakeholders.
+      - termo de abertura do projeto.
+  - enunciado: |
+      O processo de gerenciamento do conhecimento em projetos tem a função de criar novos conhecimentos para alcançar objetivos do projeto e contribuir para a aprendizagem organizacional.
+      Em face dessa informação, assinale a opção em que é indicado elemento considerado uma saída do processo.
+    alternativas:
+      - registro das lições aprendidas
+      - lista de habilidade interpessoais do time
+      - plano de designações da equipe do projeto
+      - lista das partes interessadas
+      - registro de opinião especializada
+  - enunciado: "Um dos métodos ágeis bastante utilizados para implementação de softwares é o XP (Extreme Programming), que contempla um elevado nível de envolvimento do cliente durante o processo de implementação. Uma prática característica do XP consiste"
+    alternativas:
+      - na integração contínua.
+      - no ritmo acelerado com elevada quantidade de horas extras.
+      - nas grandes releases.
+      - no modelo em cascata.
+      - nas ilhas de conhecimento especializado.
+  - enunciado: |
+      Um cliente deseja experimentar opções em um projeto de software ainda em processo de fortalecimento dos conceitos de uso de interface com o usuário final. Então, o time de desenvolvimento decide por um desenvolvimento incremental como versão inicial do software.
+      Tendo como referência essa situação hipotética, assinale a opção em que é indicado o tipo de desenvolvimento rápido de software que deve ser aplicado com foco na prototipagem.
+    alternativas:
+      - RAD (rapid application development techniques)
+      - Scrum
+      - modelo V
+      - cascata
+      - espiral
+  - enunciado: |
+      Para entregar um projeto de software, foi designado um modelo adaptativo capaz de integrar fundamentos de projeto e análise de negócios, com foco na entrega frequente de produtos.
+      Considerando a situação precedente, assinale a opção em que é apresentado o modelo que atende ao referido projeto.
+    alternativas:
+      - DSDM (dynamic systems development method)
+      - FDD (feature-driven development)
+      - prototipagem
+      - XP
+      - lean software development
+  - enunciado: "Os erros de código inacessível que sejam detectados em uma verificação de análise estática automatizada de software integram a classe de defeitos de"
+    alternativas:
+      - controle.
+      - gerenciamento de armazenamento.
+      - dados.
+      - interface.
+      - entrada/saída.
+  - enunciado: |
+      Acerca dos critérios necessários para a nomeação de diretor-geral em empresa estatal, julgue os itens a seguir, com base na Lei n.º 13.303/2016, que dispõe sobre o estatuto jurídico da empresa pública e da sociedade de economia mista.
+
+      I A pessoa indicada para ocupar o cargo de diretor-geral de empresa estatal deve ter formação acadêmica compatível com o cargo.
+      II A avaliação de competências dos nomeados ao referido cargo deve ser feita pelo Senado Federal.
+      III Os indicados ao referido cargo deverão ter ocupado, previamente, pelo menos, um cargo de direção ou chefia superior, em empresa de porte ou objeto social semelhante ao da empresa estatal, por, no mínimo, um ano.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas o item I está certo.
+      - Nenhum item está certo.
+      - Apenas o item II está certo.
+      - Apenas o item III está certo.
+      - Todos os itens estão certos.
+  - enunciado: "Segundo a Lei n.º 13.303/2016, é dispensável a realização de licitação por empresas públicas e sociedades de economia mista para serviços de engenharia de valor até"
+    alternativas:
+      - R$ 100.000.
+      - R$ 16.000.
+      - R$ 32.000.
+      - R$ 50.000.
+      - R$ 160.000.
+  - enunciado: |
+      São cláusulas necessárias nos contratos disciplinados pela Lei n.º 13.303/2016:
+
+      I a matriz de riscos;
+      II a duração máxima de 6 anos;
+      III o regime de execução ou a forma de fornecimento;
+      IV a garantia na forma de caução em dinheiro.
+
+      Estão certos apenas os itens
+    alternativas:
+      - I e III.
+      - I e II.
+      - II e IV.
+      - I, III e IV.
+      - II, III e IV.
