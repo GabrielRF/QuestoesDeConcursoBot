@@ -1,0 +1,367 @@
+---
+cargo: Analista - Tecnologia da Informação - Infraestrutura
+materia: Infra TI - Conhecimentos Específicos
+questoes:
+  - enunciado: "Se o endereçamento IP designar um endereço à sub-rede `223.1.1.0/24`, então"
+    alternativas:
+      - há uma interface de roteador 223.1.1.4.
+      - há 24 sub-redes possíveis de serem configuradas.
+      - há 8 sub-redes possíveis de serem configuradas, considerando que são 32 bites no endereçamento.
+      - os 24 bites mais à direita do conjunto de 32 bites definem o endereço da sub-rede.
+      - a sub-rede 223.1.1.0/24 consiste em 24 interfaces de hospedeiros.
+  - enunciado: "No modelo de referência OSI de sete camadas mostrado na tabela precedente, a movimentação dos datagramas de um hospedeiro para outro é de responsabilidade da camada"
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Finep/imagens/con_esp_5 32.png?raw=true
+    alternativas:
+      - de rede.
+      - de aplicação.
+      - de transporte.
+      - física.
+      - de enlace.
+  - enunciado: "No modelo de protocolos TCP/IP de cinco camadas mostrado na tabela precedente, os protocolos auxiliares de suporte RARP e ICMP são utilizados na camada"
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Finep/imagens/con_esp_5 33.png?raw=true
+    alternativas:
+      - de rede.
+      - de aplicação.
+      - física.
+      - de transporte.
+      - de enlace.
+  - enunciado: "Concebido como sucessor do RIP, o protocolo OSPF (open shortest path first)"
+    alternativas:
+      - usa inundação de informação de estado de enlace e um algoritmo de caminho de menor custo de Dijkstra.
+      - sempre escolhe caminho único para carregar todo o tráfego, se houver caminhos múltiplos com o mesmo custo.
+      - utiliza o princípio do vetor de rota para encontrar o caminho mais curto.
+      - transmite por difusão informações de roteamento apenas aos roteadores vizinhos mais próximos.
+      - usa roteamento por vetor caminho mais curto, sendo um protocolo de roteamento interdomínios.
+  - enunciado: "Certo protocolo de roteamento de sistema interautônomo usado para atualizar as tabelas de roteamento é baseado em roteamento vetor caminho e permite que cada sub-rede anuncie sua existência ao restante da Internet; nesse protocolo, pares de roteadores trocam informações de roteamento por conexões TCP. Trata-se do protocolo"
+    alternativas:
+      - BPG.
+      - RIPv2.
+      - RPC.
+      - OSPF.
+      - IS-IS.
+  - enunciado: "O IPv6"
+    alternativas:
+      - é constituído de 16 bytes com 128 bites de comprimento.
+      - entrega um pacote para todos os membros do grupo anycast, se esse pacote for destinado a um endereço anycast.
+      - usa notação binária com 16 octetos.
+      - não permite que sejam utilizados endereços multicast, por questão de segurança.
+      - não utiliza endereços unicast baseados geograficamente, por questão de desempenho.
+  - enunciado: "Determinado protocolo pode ser utilizado para mudar a rota do tráfego que passa por um caminho previamente calculado, restabelecido, em resposta à falha de enlace; ele também prevê a capacidade de repassar pacotes por rotas, o que não seria possível usando protocolos padronizados de roteamento IP. Trata-se do protocolo"
+    alternativas:
+      - MPLS.
+      - OSPF.
+      - BGP.
+      - IS-IS.
+      - RIPv2.
+  - enunciado: "Certa tecnologia é baseada em um modelo simples, em que o tráfego que entra em uma rede é classificado, possivelmente condicionado nos limites da rede e atribuído a diferentes agregados de comportamento; ela possibilita a marcação de pacote em níveis de prioridade de acordo com os requisitos do tráfego. Essas características são inerentes a"
+    alternativas:
+      - differentiated services.
+      - Internet message access protocol.
+      - lightweight directory access protocol.
+      - resource reservation protocol.
+      - controlled-load service.
+  - enunciado: |
+      `nmcli con add type ethernet con-name finep ifname ens9 ip4 10.10.10.10/24 gw4 10.10.10.254`
+      O comando precedente, quando executado no Red Hat Enterprise Linux com direitos de root, permite
+    alternativas:
+      - criar uma conexão Ethernet estática apenas com endereço e gateway IPv4.
+      - adicionar o gateway 10.10.10.254 a rede de modo que o DHCP seja o 10.10.10.10.
+      - adicionar o IP 10.10.10.10 ao gateway 10.10.10.254, dividindo a rede em sub-redes de acordo com o /24.
+      - criar uma conexão Ethernet dinâmica usando o IP 10.10.10.10/24 como DHCP.
+      - adicionar uma rota default para o gateway 10.10.10.254.
+  - enunciado: |
+      `Invoke-Command -FilePath c:\scripts\finep.ps1 - ComputerName ServerFinep22`
+      O comando precedente, quando executado no Windows Server 2012 com direitos de administrador, permite
+    alternativas:
+      - executar o script finep.ps1 no computador ServerFinep22 e apresentar os resultados no computador local.
+      - configurar o script finep.ps1 no computador ServerFinep22 de modo que seja executado em threads em processos separados simultaneamente na máquina local.
+      - criar um módulo dinâmico a partir do script finep.ps1 no computador ServerFinep22.
+      - passar uma coleção de valores de parâmetros para o script finep.ps1 no computador ServerFinep22.
+      - verificar a condição do script finep.ps1 no computador ServerFinep22, incluindo o valor de variáveis e as propriedades dos objetos do script.
+  - enunciado: |
+      ```
+      #include <stdio.h>
+      int main(){
+          const int i = 5;
+          int j = i + i;
+          printf("%d", j++);
+          return 0;
+      }
+      ```
+      Assinale a opção que corresponde ao resultado da execução do código precedente, escrito na linguagem C.
+    alternativas:
+      - 10
+      - 0
+      - 5
+      - 11
+      - 20
+  - enunciado: |
+      ```
+      #include<stdio.h>
+      int main(){
+          int num = 5, primeiro = 0, segundo = 1;
+          int proximo, c, d = 0;
+          for(c = 0; c < num; c++){
+              if(c <= 1)
+                  proximo = c;
+              else{
+                  proximo = primeiro + segundo;
+                  primeiro = segundo;
+                  segundo = proximo;
+                  }
+              d += proximo;
+          }
+          printf("%d\n", d);
+          return 0;
+      }
+      ```
+      Assinale a opção que apresenta o resultado da execução do código precedente, escrito na linguagem C.
+    alternativas:
+      - 7
+      - 4
+      - 12
+      - 20
+      - 100
+  - enunciado: "Assinale a opção que corresponde ao comando de salto incondicional utilizado em programação estruturada."
+    alternativas:
+      - goto
+      - struct
+      - if
+      - else
+      - for
+  - enunciado: "Assinale a opção que apresenta o comando do shell script utilizado para encerrar ou interromper um processo em execução."
+    alternativas:
+      - kill
+      - rm
+      - delete
+      - stop
+      - shutdown
+  - enunciado: "Assinale a opção que apresenta a cláusula SQL que permite extrair dados em determinado intervalo."
+    alternativas:
+      - between
+      - find in
+      - like
+      - alias
+      - ranges
+  - enunciado: "Para facilitar o design ou projeto de banco de dados, é correto o uso de"
+    alternativas:
+      - entidade-relacionamento.
+      - database schema.
+      - álgebra relacional.
+      - views.
+      - superchave.
+  - enunciado: |
+      Na tabela SQL criada pela expressão a seguir, sessao corresponde a uma sessão e a variável duracao corresponde à duração da sessão de certo usuário.
+      ```
+      create table sessao (
+          id integer primary key,
+          userid integer not null,
+          duracao decimal not null
+      )
+      ```
+      A partir dessas informações, assinale a opção que corresponde ao script utilizado para se obter o tempo médio de duração das sessões dos usuários que tenham mais de uma sessão.
+    alternativas:
+      - select userid, avg(duracao)
+        from sessao
+        group by userid
+        having count(*)>1
+      - select id, userid, avg(duracao)
+        from sessao
+        where count(*)>1
+      - select userid, avg(duracao)
+        from sessao
+        having count(id)>1
+      - select id, userid, avg(duracao)
+        from sessao
+        where count(*)>1
+        group by id, userid
+      - select id, avg(duracao)
+        from sessao
+        group by id
+        having count(*)>1
+  - enunciado: "Em tuning de banco de dados, para alterar expressões SQL sem implicar em alterações físicas do sistema gerenciador de banco dados e sem ajuste do esquema físico do servidor, é utilizado o processo de"
+    alternativas:
+      - ajuste de planos de consulta.
+      - ajuste automatizado de design físico.
+      - ajuste do esquema físico.
+      - view materializada.
+      - particionamento horizontal de relações.
+  - enunciado: "Quando uma restrição de integridade referencial em um sistema gerenciador de banco de dados relacional é violada, o procedimento adequado é"
+    alternativas:
+      - rejeitar a ação.
+      - continuar com o fluxo.
+      - aceitar a ação.
+      - armazenar os dados para avaliação posterior.
+      - excluir os dados inseridos.
+  - enunciado: "Para combinar informações de duas relações quaisquer, é correto o uso de"
+    alternativas:
+      - produto cartesiano.
+      - diagrama de esquema.
+      - chave primária.
+      - chave estrangeira.
+      - superchave.
+  - enunciado: "O algoritmo AES (advanced encryption standard) aceita chaves criptográficas e blocos de dados no tamanho de"
+    alternativas:
+      - 128 bits.
+      - 64 bits.
+      - 100 bits.
+      - 132 bits.
+      - 164 bits.
+  - enunciado: "Assinale a opção que corresponde a um tipo de malware que bloqueia o acesso da vítima aos seus dados pessoais e exige pagamento de resgate para liberá-los."
+    alternativas:
+      - ransomware
+      - botnet
+      - adware
+      - backdoor
+      - cryptominer
+  - enunciado: |
+      Entre os princípios orientadores da ITIL v4, encontra-se
+
+      I manter os processos simples e práticos.
+      II evitar concentrar-se no valor.
+      III pensar e trabalhar com foco em pequenas partes individuais.
+      IV começar pelos itens mais difíceis de gerenciamento.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas o item I está certo.
+      - Apenas o item II está certo.
+      - Apenas os itens I, III e IV estão certos.
+      - Apenas os itens II, III e IV estão certos.
+      - Todos os itens estão certos.
+  - enunciado: |
+      No que se refere à formatação IBM 3270, julgue os itens a seguir.
+
+      I O layout dos campos na tela depende do programa de aplicativos.
+      II Um programa de aplicativos pode utilizar somente um tipo de formato.
+      III Cada mensagem enviada para um terminal 3270 deve indicar um formato específico.
+      IV Por padrão, quando o terminal 3270 recebe uma mensagem, sempre é colocado o cursor 3270 no final da primeira área de entrada.
+
+      Estão certos apenas os itens
+    alternativas:
+      - I e III.
+      - I e II.
+      - II e IV.
+      - I, III e IV.
+      - II, III e IV.
+  - enunciado: "A respeito de directors fiber channel em redes SAN (storage area network), assinale a opção correta."
+    alternativas:
+      - Directors fiber channel são projetados para escalabilidade e para fornecer alta largura de banda e alta disponibilidade.
+      - Directors fiber channel são incapazes de utilizar o protocolo SNMP para gerenciamento.
+      - Directors fiber channel escalam até o limite de 5 fiber channels em uma única unidade, devido à restrição técnica da última especificação da tecnologia.
+      - Directors fiber channel são limitados à velocidade de 8 Gbps.
+      - A combinação de inter-switch com directors fiber channel é possível e contribui para reduzir significativamente a latência da rede, independentemente da configuração.
+  - enunciado: "Acerca de sistemas de detecção de intrusão (IDS, na sigla em inglês) que funcionam em rede, assinale a opção correta."
+    alternativas:
+      - Um IDS que se baseia em assinaturas pode identificar o tráfego malicioso de alguns tipos de malware, desde que esteja assim configurado e a assinatura esteja na base do IDS.
+      - Tecnicamente, há poucas diferenças entre um IDS passivo e um IDS ativo.
+      - A posição de um IDS na rede não interfere na sua capacidade de detecção de eventos maliciosos.
+      - Um IDS executa análises sobre os dados coletados dos usuários, mas é incapaz de fazer análise, em tempo real, de fluxo de rede para buscar evidências que comprovem uma ação maliciosa.
+      - Um IDS que se baseia em anomalia monitora as ações que ocorrem em uma rede sem a necessidade de aprender o comportamento padrão da rede.
+  - enunciado: |
+      Com base na norma ISO/IEC 27001:2022, julgue os itens a seguir.
+
+      I As organizações devem estabelecer e manter critérios de risco de segurança da informação que incluam critérios de aceitação de risco.
+      II As organizações, qualquer que seja seu tamanho, devem utilizar um processo de avaliação de risco.
+      III O processo de identificar os proprietários de um risco deve ser separado do processo de avaliação de risco, com a finalidade de simplificar o entendimento do risco.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas os itens I e II estão certos.
+      - Apenas o item I está certo.
+      - Apenas o item III está certo.
+      - Apenas os itens II e III estão certos.
+      - Todos os itens estão certos.
+  - enunciado: "No que se refere à certificação digital, assinale a opção correta."
+    alternativas:
+      - Cada certificado no padrão X.509 versão 3 inclui uma chave pública, a assinatura digital, informações sobre a identidade associada ao certificado e a autoridade certificadora que o emite.
+      - O uso de certificado digital público permite que terceiros enviem mensagens criptografadas com a chave pública, podendo qualquer pessoa descriptografá-las e verificar seu conteúdo.
+      - O certificado digital público inclui a chave privada utilizada para a criação do par de chaves públicas.
+      - O número de série de um certificado digital é um número fatorado da assinatura digital, identifica exclusivamente o certificado e é utilizado também para validar a data de emissão do certificado.
+      - As extensões de certificado, em particular o nome alternativo para a entidade, permitem que o certificado seja exclusivo da autoridade certificadora.
+  - enunciado: "Tendo em vista que, durante operações normais em um ambiente fiber channel, os sistemas são definidos pelas regras de configuração e de zoneamento suportadas, assinale a opção correta."
+    alternativas:
+      - Em uma rede SAN, o zoneamento busca evitar que os servidores montem todos os LUN (logical unit number) disponíveis na rede.
+      - Caminho é uma conexão física entre duas portas fiber channel que pode existir em qualquer zona.
+      - Soft zoning é um conceito que, por padrão, não utiliza filtros de acesso e garante acesso a usuários fora da zona.
+      - O uso da técnica de mascaramento de porta do fiber channel afeta o host e o tráfego de armazenamento.
+      - A multiplexação por divisão de comprimento de onda densa (DWDM) e os extensores de fiber channel over IP (FCIP) são incompatíveis, por padrão do protocolo fiber channel, e não devem ser utilizados em conjunto.
+  - enunciado: "De acordo com os conceitos de RAID (redundant array of inexpensive disks) para armazenamento em disco, espelhamento e distribuição (striping) são combinados em"
+    alternativas:
+      - RAID 10.
+      - RAID 0.
+      - RAID 1.
+      - RAID 5.
+      - RAID 6.
+  - enunciado: "Assinale a opção que apresenta a abordagem de virtualização de servidores adotada quando um hypervisor é capaz de traduzir chamadas privilegiadas feitas por um servidor com Windows, de maneira que esse sistema operacional, mesmo inalterado, assuma que estão sendo executados recursos físicos reais, podendo não perceber sua virtualização."
+    alternativas:
+      - virtualização total
+      - hypervision
+      - paravirtualização
+      - virtualização auxiliada por hardware
+      - virtualização parcial
+  - enunciado: "Para a correta implementação da consolidação de servidores no cenário de virtualização em datacenters, deve haver"
+    alternativas:
+      - várias máquinas virtuais, cada uma responsável por um serviço, sendo executada uma única máquina física.
+      - vários sistemas operacionais que compartilhem o gerenciamento de configuração de todas as máquinas virtuais do datacenter.
+      - um servidor físico por serviço.
+      - várias máquinas físicas que compartilhem o gerenciamento de configuração de todas as máquinas virtuais do datacenter.
+      - várias máquinas físicas, cada uma responsável por um serviço, sendo executadas várias máquinas virtuais.
+  - enunciado: "Na consolidação de servidores, podem ser utilizadas heurísticas para realizar, com algoritmos, a otimização dos recursos computacionais. Assinale a opção correspondente à holística usada quando é escolhido um algoritmo para encontrar o host que, ao receber a requisição da máquina virtual, utilize a menor quantidade possível de seus recursos em relação aos demais hosts."
+    alternativas:
+      - Worst-Fit
+      - XEN-Fit
+      - Best-Fit
+      - First-Fit
+      - Random-Fit
+  - enunciado: "Em um sistema de alta disponibilidade, o recurso de implementar um cluster no modelo failover (também denominado ativo/passivo) tem o objetivo de"
+    alternativas:
+      - recuperar, em tempo aceitável, os dados armazenados e os serviços e as aplicações mantidos em um sistema operacional.
+      - impedir que um usuário tenha sua tarefa interrompida quando estiver trabalhando em uma sessão ativa no sistema.
+      - balancear serviços entre computadores, distribuindo o tráfego e as requisições entre os equipamentos que compõem o cluster.
+      - garantir o desempenho pela combinação de dois ou mais computadores que executam aplicativos em um único cluster virtual.
+      - garantir a segurança pelo filtro de tráfego por protocolos e portas dividido entre as máquinas, permitindo que um usuário se conecte a apenas um nó do cluster disponível.
+  - enunciado: "Em um sistema que emprega mensageria, pode ocorrer, depois do envio da mensagem, alguma situação inesperada que impeça a entrega da mensagem ao seu destinatário. Mas isso pode ser contornado por uma forma de integração que use a mensageria em que se armazenaram as mensagens que não puderam ser processadas pelo destinatário pretendido. Essa forma de integração chama-se"
+    alternativas:
+      - Dead Letter Queue.
+      - modelo publish/subscribe.
+      - modelo one-to-one.
+      - modelo point-to-point.
+      - modelo one-to-many.
+  - enunciado: "Assinale a opção correta acerca do funcionamento do servidor Tomcat em uma máquina."
+    alternativas:
+      - É recomendado que a propriedade CATALINA_BASE seja configurada manualmente quando necessárias várias instâncias do Tomcat em uma máquina.
+      - Mesmo estando configurada a propriedade CATALINA_BASE, quaisquer aplicações que utilizam o Tomcat usarão, prioritariamente, as configurações especificadas no CATALINA_HOME.
+      - A propriedade CATALINA_HOME contém as especificações a serem utilizadas em uma configuração de tempo de execução para ser utilizada por uma instância específica do Tomcat.
+      - É obrigatória a configuração do ambiente CATALINA_BASE mesmo quando executada uma única instância do Tomcat no servidor.
+      - Caso não sejam criados manualmente todos os diretórios recomendados para o CATALINA_BASE, o Tomcat poderá não ser iniciado ou poderá não funcionar corretamente.
+  - enunciado: "Considere que, no ambiente de desenvolvimento na intranet de uma empresa, seja importante que usuários não administradores realizem atualizações regulares no IIS (serviços de informações da Internet) para contínuo suporte aos aplicativos web, com o uso da IIS Web Deployment Tool. Nesse cenário, para colocar aplicativos web empacotados em um servidor web, é correto o uso de"
+    alternativas:
+      - manipulador de implantação da Web.
+      - Web Deploy sob demanda.
+      - agente temporário.
+      - mecanismo de implantação off-line.
+      - serviço de agente remoto.
+  - enunciado: |
+      Ocorreu um desastre em uma empresa e seu sistema foi interrompido durante 4 minutos. O tempo necessário para retornar o sistema ao seu estado operacional foi de 18 minutos — no caso, 6 minutos abaixo do tempo limite máximo de recuperação definido na política de backup da empresa. O desastre ocorreu 12 minutos depois que a organização tinha terminado seu último backup, por isso houve a perda de todos os dados que tinham sido gerados depois do último backup. No entanto, essa perda coincidiu com o limite aceitável de perda de dados, de acordo com a referida política.
+      Com base nessa situação hipotética, assinale a opção que apresenta corretamente a medida da métrica RPO (recovery point objective) no caso.
+    alternativas:
+      - 12 minutos.
+      - 4 minutos.
+      - 6 minutos.
+      - 18 minutos.
+      - 24 minutos.
+  - enunciado: "Com relações às licitações e aos contratos celebrados por empresas públicas, sociedades de economia mista e suas subsidiárias no âmbito da União, dos estados, do Distrito Federal e dos municípios, a Lei n.º 13.303/2016 veda"
+    alternativas:
+      - a celebração de contrato por prazo indeterminado.
+      - o uso do sistema de registro de preços como procedimento auxiliar nas licitações.
+      - o estabelecimento de remuneração variável vinculada ao desempenho do contratado para obras de engenharia.
+      - a contratação direta de serviços técnicos especializados de fiscalização ou gerenciamento de obras ou serviços.
+      - a padronização dos instrumentos convocatórios e das minutas de contratos de acordo com normas internas específicas.
+  - enunciado: "Entre os critérios de julgamento que poderão ser utilizados nas licitações de que trata a Lei n.º 13.303/2016, encontram-se"
+    alternativas:
+      - maior desconto, melhor conteúdo artístico e melhor destinação de bens alienados.
+      - menor preço, menor desconto e melhor técnica.
+      - maior retorno econômico, melhor combinação de técnica e preço e inovação técnica.
+      - menor oferta de preço, maior desconto e maior retorno econômico.
+      - menor preço, melhor técnica e menor prazo de entrega.
