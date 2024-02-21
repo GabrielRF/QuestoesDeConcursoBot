@@ -1,0 +1,356 @@
+---
+cargo: Advocacia
+materia: Advocacia - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      No que diz respeito às normas programáticas, aos direitos políticos e ao mandado de segurança, julgue os itens que se seguem.
+
+      Em casos de manifesta ilegalidade da ação estatal, o mandado de segurança pode tutelar direitos protegidos pela ação de habeas corpus.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Normas constitucionais programáticas são normas jurídicas, não exortações retóricas, e possuem eficácia, ainda que de modo diferente de outras normas constitucionais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os direitos políticos, que incidem na formação das maiorias parlamentares, mantêm alguma tensão com os direitos fundamentais, porquanto estes limitam o funcionamento parlamentar."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação ao tratamento constitucional da União e do Poder Legislativo, julgue os itens a seguir.
+
+      Por ser a Câmara dos Deputados casa legislativa de representação popular, existe proporcionalidade rígida e precisa na relação entre o voto dos eleitores em cada estado e o número de deputados que esses votos elegem.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Devido ao princípio federativo adotado pelo Brasil, o chefe do Poder Executivo federal não desempenha funções que possam repercutir nos interesses dos estados-membros."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens seguintes, relativos ao regime de precatórios e ao Ministério Público.
+
+      De acordo com a interpretação prevalecente acerca das funções do Ministério Público na área penal, esse órgão tanto pode reunir elementos de prova por meio de inquérito policial quanto realizar investigações criminais diretamente
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Certos débitos de entes públicos resultantes de condenação judicial não se submetem ao regime dos precatórios."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No tocante à ação direta de inconstitucionalidade, à reclamação constitucional e à ordem social, julgue os seguintes itens.
+
+      Na ação direta de inconstitucionalidade por omissão, o Supremo Tribunal Federal não pode tomar nenhuma outra deliberação a não ser comunicar a omissão legislativa ao Congresso Nacional.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No ensino fundamental, as comunidades indígenas podem utilizar suas línguas maternas e processos próprios de aprendizagem."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A reclamação constitucional é espécie processual cujo julgamento atinge apenas órgãos judiciais quando tiver havido descumprimento de decisão do Supremo Tribunal Federal ou do Superior Tribunal de Justiça."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação à extinção dos atos administrativos, ao poder regulamentar da administração pública e às empresas públicas, julgue os itens a seguir.
+
+      Empresas públicas não podem ser constituídas sob a forma de sociedade anônima.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma vez anulado ato administrativo por contrariedade à lei, todos os seus efeitos devem ser suprimidos do mundo jurídico."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O exercício do poder regulamentar pelo chefe do Poder Executivo não é indispensável para o cumprimento de todas as leis."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito do Sistema de Controle Interno do Poder Executivo Federal — Decreto n.º 3.591/2000 —, do regime diferenciado de contratações públicas (RDC) — Lei n.º 12.462/2011 — e das disposições da Lei de Acesso à Informação — Lei n.º 12.527/2011 —, julgue os itens subsequentes.
+
+      De acordo com o Decreto n.º 3.591/2000, o órgão central do Sistema de Controle Interno do Poder Executivo Federal é a Controladoria-Geral da União.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Caso um requerimento de acesso a informação seja indeferido, a decisão será passível de recurso, a ser dirigido à autoridade hierarquicamente superior ao agente que indeferiu o pedido, de acordo com a Lei de Acesso à Informação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No caso de licitação para aquisição de bens, à luz do RDC, a indicação de marca ou modelo somente é válida se for necessária para padronizar o objeto."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que concerne à Lei Geral de Proteção de Dados (LGPD) e às diretrizes da Secretaria de Coordenação e Governança das Empresas Estatais (SEST), julgue os itens que se seguem.
+
+      Uma das diretrizes da SEST relativas à gestão de pessoal das estatais estabelece que estas, em regra, devem criar cargos com atribuições e qualificação o mais específicas possível, a fim de sempre contratar pessoal especializado.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "De acordo com a LGPD, o titular de dados pessoais pode exigir do controlador a eliminação de dados desnecessários ou excessivos para determinado tratamento."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      De acordo com o Estatuto Social da DATAPREV e a Lei das Estatais — Lei n.º 13.303/2016, julgue os itens subsequentes.
+
+      Segundo a Lei das Estatais, as empresas estatais devem cumprir a função social de realizar interesse coletivo ou atender a imperativo de segurança nacional.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Conforme o Estatuto Social da DATAPREV, no caso de administrador causar dano à empresa, a ação de responsabilidade civil deverá ser promovida pela Advocacia-Geral da União."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com base nas disposições da Lei de Introdução às Normas do Direito Brasileiro, julgue os itens subsequentes.
+
+      A responsabilização pessoal do agente público por suas opiniões técnicas é objetiva, ou seja, independe de dolo ou culpa.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A capacidade para suceder é regulada pela lei do domicílio do herdeiro ou legatário."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Considera-se lei nova a lei que corrige texto de lei em vigor."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A legislação pátria autoriza o juiz a adotar a analogia como método de interpretação das normas jurídicas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens seguintes, de acordo com as disposições do Código de Defesa do Consumidor.
+
+      Os órgãos da administração pública indireta são legitimados a atuar em defesa do consumidor desde que possuam personalidade jurídica.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Nas relações de consumo, o conceito de consumidor estende-se à coletividade de pessoas, inclusive jurídicas, desde que determináveis."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em se tratando de produtos não duráveis, a efetiva entrega do produto é o marco referencial para o início da contagem do prazo decadencial relativo ao exercício do direito de reclamar pelos vícios de fácil constatação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando a Lei n.º 13.303/2016, que dispõe sobre o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias, julgue os itens a seguir.
+
+      É vedado à empresa pública lançar debêntures ou outros títulos ou valores mobiliários, conversíveis em ações.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Admite-se a exploração de atividade econômica pelo Estado, sujeita ao regime de monopólio, por meio de sociedade de economia mista."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As empresas públicas somente podem ser criadas por lei de iniciativa privativa do chefe do Poder Executivo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Conforme as disposições do Código de Processo Civil (CPC) a respeito de advocacia pública, litisconsórcio, preclusão e provas, julgue os itens a seguir.
+
+      Ao advogado público é vedado atuar em juízo sem procuração, ressalvados os casos em que previamente autorizado pelo juiz competente, após a audiência de conciliação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Ao juiz da ação é possível agir de ofício para determinar as provas necessárias ao julgamento do mérito."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Quando o réu tiver interesse em arguir matéria de competência por abusividade da cláusula de eleição de foro, deve fazer essa alegação após a citação, na contestação, sob pena de preclusão."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No litisconsórcio unitário, os atos e as omissões de um litisconsorte não poderão prejudicar ou beneficiar os demais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      De acordo com a Lei n.º 8.245/1991, que dispõe sobre as locações dos imóveis urbanos e os procedimentos a elas pertinentes, julgue os próximos itens.
+
+      Para fins de reequilíbrio econômico-financeiro do valor do aluguel, admite-se a vinculação da variação do período aos percentuais de reajustes aplicados sobre o salário mínimo.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A celebração de contratos de locação com prazo de duração igual ou superior a cinco anos depende de vênia conjugal."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A ação do locador para reaver o imóvel ao término da locação é a de despejo, em qualquer caso, exceto naqueles em que a locação termina em decorrência de desapropriação, com a imissão do expropriante na posse do imóvel."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando as disposições legais relativas ao mandado de segurança, julgue os itens seguintes.
+
+      Não se concederá mandado de segurança contra as decisões judiciais transitadas em julgado.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Caberá apelação contra a sentença que conceder ou denegar a segurança."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "É considerada coatora a autoridade administrativa máxima da entidade pública em que se tenha praticado o ato impugnado, tenha ela própria praticado o ato ou não."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Determinado tribunal do trabalho editou uma súmula jurisprudencial prevendo que empregado pode deixar de comparecer ao serviço, sem prejuízo do salário, por oito dias consecutivos em caso de nascimento de filho.
+
+      A partir dessa situação hipotética, julgue os itens que se seguem, com base nas disposições da Consolidação das Leis do Trabalho (CLT).
+
+      A CLT prevê expressamente que o empregado pode deixar de comparecer ao serviço, sem prejuízo do salário, por cinco dias consecutivos em caso de nascimento de filho.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A CLT permite que súmulas editadas pelos tribunais do trabalho possam criar obrigações não previstas em lei, desde que fixem interpretação para solucionar eventual omissão legislativa."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      João ajuizou reclamação trabalhista individual, mediante o procedimento sumaríssimo, em desfavor de empresa pública federal, tendo sido o valor indicado na causa correspondente a quarenta vezes o salário mínimo. O advogado da ré alegou na defesa, primeiramente, que, em razão do valor da causa, o referido procedimento não poderia ter sido aplicado e, em seguida, argumentou que empresa pública estaria excluída de tal procedimento. O juiz que proferiu a sentença não acolheu os argumentos da empresa e julgou procedente a demanda. A ré interpôs o recurso cabível, ao qual foi denegado seguimento. Do despacho denegatório de seguimento a empresa interpôs agravo de instrumento no prazo de oito dias úteis.
+      Considerando a situação hipotética anteriormente apresentada, julgue os seguintes itens, relativos a dissídios individuais e coletivos, recursos e prazos recursais.
+
+      O juiz que proferiu a sentença agiu corretamente ao não acolher a primeira alegação da ré, visto que o procedimento sumaríssimo se aplica a dissídio individual cujo valor não exceda a quarenta vezes o salário mínimo vigente na data do ajuizamento da reclamação.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O juiz que proferiu a sentença agiu incorretamente ao não acolher o segundo argumento da ré, visto que as empresas públicas federais estão excluídas do procedimento sumaríssimo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O prazo para interposição de agravo de instrumento, segundo a CLT, é de oito dias úteis, excluindo-se na contagem o dia do começo e incluindo-se o dia do vencimento."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A empresa terá agido corretamente se tiver interposto recurso de revista, porquanto este é o recurso cabível contra as decisões definitivas ou terminativas proferidas pelas varas trabalhistas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A empresa terá agido corretamente se tiver interposto agravo de instrumento, pois este é o recurso cabível para impugnar despachos que denegam a interposição de recursos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base nas disposições legais sobre os planos de custeio e os planos de benefícios da previdência social, julgue os itens subsequentes.
+
+      Equiparam-se ao acidente do trabalho o acidente sofrido pelo segurado, ainda que fora do local e do horário de trabalho, no percurso da residência para o local de trabalho, qualquer que seja o meio de locomoção.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "É considerado segurado obrigatório da previdência social, na condição de empregado, o servidor público ocupante de cargo em comissão, ainda que possua vínculo efetivo com o poder público federal."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Quem está em gozo de benefício previdenciário mantém a qualidade de segurado, independentemente de contribuições e sem limite de prazo, exceto no caso de auxílio-acidente."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens que se seguem, acerca de impostos, taxas e empréstimos compulsórios, conforme estabelece a Constituição Federal de 1988 (CF).
+
+      Assim como os impostos, as taxas deverão ser graduadas em conformidade com a capacidade econômica do contribuinte.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma das hipóteses de admissibilidade da instituição de empréstimos compulsórios é a ocorrência de conflito interno armado, como guerra civil."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Suponha-se que um pai venda a seu filho imóvel por preço inferior ao de mercado. Nessa situação, incidirá sobre a operação o imposto sobre a transmissão de bens imóveis (ITBI)."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os únicos impostos de competência da União atualmente existentes de fato e cuja receita não é repartida com outros entes federativos são os impostos sobre a importação e sobre a exportação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Metade da arrecadação estadual decorrente de imposto sobre a propriedade de veículos automotores (IPVA) licenciados em sua capital deverá ser repassada a essa municipalidade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando as disposições do Código Tributário Nacional e da Lei Complementar n.º 123/2006, julgue os itens seguintes.
+
+      No que diz respeito à atribuição de competência tributária, a norma proíbe que o ente competente transfira funções de arrecadação de tributos ao setor privado.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O tratamento tributário diferenciado e favorecido a ser dispensado às microempresas pelos entes federativos abrange não apenas a apuração e o recolhimento dos impostos e contribuições, mas também as obrigações acessórias."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A natureza jurídica específica de determinado tributo é definida considerando-se a denominação legal e o produto da arrecadação da espécie tributária a ser instituída."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com base no disposto na Lei Complementar n.º 116/2003 e na Instrução Normativa da Receita Federal do Brasil n.º 2.110/2022, julgue os itens a seguir.
+
+      Para fins das normas gerais de tributação previdenciária e de arrecadação das contribuições sociais destinadas à previdência social, são considerados empresas os órgãos e as entidades da administração pública direta e indireta, excetuadas as autarquias e fundações.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Apesar de haver exceções, em regra, o imposto sobre serviços de qualquer natureza (ISSQN) é devido ao município onde estiver localizado o estabelecimento do prestador do serviço."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base na Lei n.º 9.609/1998, que dispõe sobre a proteção da propriedade intelectual de programa de computador e sua comercialização no país, julgue os itens a seguir.
+
+      Os direitos relativos a programa de computador desenvolvido e elaborado durante a vigência de contrato de serviços pertencerão exclusivamente ao empregador contratante, salvo estipulação em contrário.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Constitui crime, sujeito à pena de prisão simples e multa, a violação de direitos autorais de programa de computador."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Não se admite registro destinado à proteção da propriedade intelectual junto ao poder público de programas de computador desenvolvidos no exterior."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A reprodução, em um único exemplar, de cópia legitimamente adquirida de programa de computador não ofende os direitos do titular do referido programa se a cópia se destinar à salvaguarda ou ao armazenamento eletrônico do original."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, à luz do que dispõe a Lei Geral de Proteção de Dados Pessoais (LGPD).
+
+      O princípio da adequação refere-se à conformidade entre o tratamento de dados pessoais e as finalidades informadas ao titular nas circunstâncias do tratamento.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O tratamento de dados pessoais pelas pessoas jurídicas de direito público independe da finalidade pública do tratamento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O consentimento do titular não autoriza, por si só, o tratamento de dados pessoais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens seguintes, de acordo com o disposto na Lei n.º 12.965/2014, que estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil.
+
+      São nulas de pleno direito as cláusulas contratuais que violem o direito do usuário ao sigilo das comunicações privadas pela Internet.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "É subsidiária a responsabilidade civil do provedor de conexão à Internet por danos decorrentes de conteúdo gerado por terceiros."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na guarda de registros de conexão, não se admite a terceirização da responsabilidade pela manutenção desses registros."
+    alternativas:
+      - Certo
+      - Errado
