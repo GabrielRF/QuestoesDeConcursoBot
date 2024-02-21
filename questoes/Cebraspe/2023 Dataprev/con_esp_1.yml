@@ -1,0 +1,362 @@
+---
+cargo: Analista de Processamento
+materia: Processamento - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      A respeito da Política de Segurança da Informação (POSIN), julgue os itens subsequentes.
+
+      Uma POSIN deve estar em conformidade com a legislação vigente, com as normas pertinentes, com os requisitos regulamentares e contratuais e com as melhores práticas de segurança da informação.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Competências e responsabilidades, apesar de serem importantes, não devem constar da POSIN, pois sua definição é restrita à alta administração da organização."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de segurança de redes de computadores, julgue os itens seguintes.
+
+      No caso do TLS (transport layer security), as regras de autenticação são idênticas às do SSL (secure socket layer).
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O SSH (secure shell) suporta método de autenticação baseado em nome de usuário e chave pública."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca de vulnerabilidades e ataques a sistemas computacionais, julgue os itens que se seguem.
+
+      A violação do princípio de privilégio mínimo está relacionada a um recurso que deveria estar protegido, mas está disponível para qualquer pessoa.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Para reduzir vulnerabilidades, os controles de acesso devem liberar a propriedade do registro para que usuário possa criar, ler, atualizar ou excluir qualquer registro."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, a respeito do algoritmo AES.
+
+      O AES, devido as suas características, é considerado eficiente tanto em software quanto em hardware.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O AES, por ser considerado um algoritmo de cifra de fluxo, é resistente a ataques de força bruta."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere ao certificado digital emitido pela ICP-Brasil, julgue os itens a seguir.
+
+      Entre as informações que estão dentro de um certificado digital da ICP-Brasil, a chave privada do titular é a mais importante.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No âmbito da ICP-Brasil, a assinatura digital possui autenticidade, integridade, confiabilidade e o não repúdio."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, relativos a gerenciamento de recursos dos sistemas operacionais (SO).
+
+      Para sistemas de tempo compartilhado, os sistemas operacionais utilizam o escalonamento circular, que utiliza um tempo-limite para o uso contínuo do processador denominado fatia de tempo, e o valor dessa fatia depende da arquitetura de cada sistema operacional.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na gerência de memória, a técnica de swapping permite a execução de programas que sejam maiores que a memória física disponível."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No escalonamento preemptivo, o SO pode interromper um processo em execução e tirá-lo do processador para alocar outro processo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, que tratam de instalação, configuração e administração de sistemas operacionais.
+
+      Tanto a plataforma Windows quanto a plataforma Linux Red Hat utilizam o protocolo LDAP (lightweight directory access protocol) para suas respectivas implementações de serviço de diretório.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Quando o usuário deseja executar uma tarefa que requer capacidade administrativa (elevação), o UAC do Windows solicita a confirmação da elevação se o usuário for administrador ou as credenciais administrativas se o usuário for um usuário padrão."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere a conceitos de contêineres e orquestração de contêineres, julgue os itens a seguir.
+
+      Apesar de o Kubernetes ser uma ferramenta open source de orquestração de contêineres, não é possível usá-lo em todos os ambientes que utilizam contêineres, devido à complexidade dos microsserviços neles contidos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Docker só pode ser executado em computadores com o sistema operacional Linux de 64 bits, no entanto seus contêineres podem ser um Linux de 32 ou de 64 bits."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "É possível visualizar o consumo de recursos pelo contêiner no Docker, por meio do comando docker container ls."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considerando fundamentos, operações e configurações de sistemas operacionais, julgue os itens a seguir.
+
+      Nos sistemas baseados no GNU/Linux, o arquivo /dev/sdb1 identifica a primeira partição do segundo disco rígido SATA ou SCSI instalado.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os sistemas operacionais como o Windows nas versões 10 e 11 possuem três versões do Modo de Segurança, a saber: Modo de Segurança, Modo de Segurança com Rede e Modo de Segurança com Prompt de comando."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens que se seguem, acerca de conceitos de computação em nuvem.
+
+      O IaaS é o serviço de computação em nuvem que utiliza um modelo de pagamento por demanda, de maneira que o cliente paga apenas pelos serviços utilizados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em PaaS, o cliente não tem de se preocupar com a camada de infraestrutura, podendo concentrar-se somente nas aplicações que deseja disponibilizar."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Escalabilidade é a característica flexível de um serviço em nuvem que permite o redimensionamento de recursos de acordo com a demanda do cliente em tempo real, de forma automatizada e instantânea."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma das diferenças entre nuvens privadas e nuvens públicas é o fato de que as primeiras usam uma infraestrutura compartilhada."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere aos componentes centrais da arquitetura em nuvem, julgue os itens seguintes.
+
+      Apesar da automação do provisionamento da infraestrutura com a IaC, ainda é preciso fazer ajustes no gerenciamento de servidores e sistemas operacionais quando uma aplicação é criada ou implantada.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Entre os componentes de uma arquitetura em nuvem, a plataforma de front-end é aquela que contém a infraestrutura do cliente, incluindo, por exemplo, recursos de armazenamento e mecanismos de segurança e gerenciamento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma região é composta por um conjunto de data centers isolados uns dos outros, o que se denomina zonas de disponibilidade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "IaC refere-se ao gerenciamento e provisionamento da infraestrutura por meio de códigos, em vez de processos manuais, e o controle de versão é uma parte importante desse gerenciamento."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, relativos a plataformas e serviços da VMware.
+
+      VMware vRealize Orchestrator é uma plataforma de desenvolvimento e automação de processos cuja finalidade é gerenciar produtos VMware, bem como tecnologias de terceiros.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Quando o VMware vCenter Server é instalado, seus componentes adicionais também são instalados, exceto o vSphere Client, que possui instalador próprio."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considerando o padrão de redes sem fio 802.11g, julgue os itens seguintes.
+
+      O 802.11g utiliza a frequência de 2,4 GHz e permite até 54 Mbps de taxa nominal de transmissão.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base nos fundamentos de roteamento entre VLANs, julgue os itens a seguir.
+
+      O roteamento entre VLANs consiste no processo de confinamento do tráfego de rede de uma VLAN para que este não seja encaminhado para outra VLAN.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os seguintes itens, relativos às camadas do modelo OSI.
+
+      Os protocolos de transporte no modelo OSI são orientados à conexão somente.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Por fundamento, no modelo OSI, a camada de rede fornece os meios necessários para fazer a transferência de pacotes de um nó para outro nó conectado em redes diferentes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca das características fundamentais do protocolo IEEE 802.3, julgue os itens subsequentes.
+
+      O IEEE 802.3 define o método de acesso à rede local usando o CSMA/CD (carrier-sense multiple access with collision detection).
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O IEEE 802.3 define como deve ser o controle de acesso da camada física e da camada de enlace de dados do padrão Ethernet com fio."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito das características do protocolo UDP (user datagram protocol), julgue os itens que se seguem.
+
+      O UDP implementa por padrão a criptografia 3DES no modo de entrega de datagrama USER-MODE.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O UDP é um protocolo orientado à conexão e garante a entrega dos dados."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, acerca das características do protocolo SNMP e RMON.
+
+      O RMON é uma pilha de protocolos que requer uma MIB (management information base) proprietária.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O SNMP requer, por padrão, o protocolo de transporte TCP, que é requisito obrigatório à entrega dos dados de gerenciamento de rede."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens seguintes, a respeito das características do protocolo SIP e H323.
+
+      No caso do uso do SIP, outros protocolos podem ser utilizados em conjunto com ele para prover serviços especializados aos usuários.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Por padrão, no H323, os endpoints são incapazes de ser registrados a mais de um gatekeeper."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Entre os componentes do SIP inclui-se o user agent, que é formado por uma parte cliente, capaz de iniciar requisições SIP, e por uma parte servidor, capaz de receber e responder as requisições SIP."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de modelagem de dados, julgue os itens a seguir.
+
+      A modelagem conceitual representa o negócio sob a perspectiva dos dados, e, em projetos de TI, o principal objetivo de um modelo de dados conceitual é fornecer uma visão geral dos requisitos de informação envolvidos no projeto.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O modelo em estrela e o modelo em floco de neve são os principais modelos de dados relacionais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A integridade referencial é uma parte essencial de qualquer banco de dados relacional, que, entre outros benefícios, facilita as consultas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Um banco de dados que se encontra na terceira forma normal obrigatoriamente está também na segunda e na primeira formas normais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A modelagem dimensional é uma técnica de modelagem de banco de dados que usa um modelo de dados baseado em dimensões para organizar os dados, e as tabelas de dimensões são sempre as maiores tabelas do modelo dimensional."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação às linguagens de banco de dados SQL, DDL e DML, julgue os itens que se seguem.
+
+      Somente são possíveis os seguintes quatro tipos de JOIN em SQL, segundo o padrão ANSI: INNER JOIN, LEFT JOIN, RIGHT JOIN e CROSS JOIN.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na DDL, que é uma linguagem declarativa, é descrito o que se deseja fazer, em vez de como fazê-lo, como comandos para definir tabelas e procedures, tal qual exemplificado a seguir. CREATE TABLE <tablename> (col1 int, col2 int, col3 int)"
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A DML é uma linguagem que interage com os objetos do banco de dados, em vez de interagir com os dados."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere a banco de dados NoSQL e data lake, julgue os próximos itens.
+
+      Considere-se que uma empresa de comércio eletrônico deseje armazenar todos os dados relacionados às interações dos clientes em seu site — registros de visitas, cliques, compras, avaliações, comentários, entre outros. Nessa situação, se a empresa decidir não estruturar e organizar esses dados antecipadamente, será melhor armazenar esses dados em uma solução data lake do que em um banco relacional.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os bancos relacionais permitem uma escalabilidade mais barata e menos trabalhosa que os bancos não relacionais, pois não exigem máquinas extremamente poderosas e sua facilidade de manutenção possibilita um número menor de profissionais necessários."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere a conceitos de business intelligence, data lake, inteligência artificial e machine learning, julgue os itens a seguir.
+
+      Para que se possam, através do business intelligence, tomar medidas com base em insights em tempo real, é necessário que, antes, haja o recolhimento e transformação dos dados, a identificação de padrões e valores atípicos e a visualização desses dados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Dados em um data lake estão em estado bruto, ou seja, sem verificações, processamentos ou análises."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O machine learning é um subconjunto da inteligência artificial, o qual é utilizado para analisar, por meio de algoritmos, grandes volumes de dados e permite que uma máquina ou um sistema aprenda e melhore com base na experiência."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Um data lake é um excelente recurso para solucionar problemas e encontrar alternativas no momento da tomada de decisão."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A inteligência artificial é um sistema com capacidade de ponderar, aprender e agir para resolver um problema complexo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os próximos itens, relativos a gerenciamento de projetos, de acordo com o PMBOK 7.ª edição.
+
+      Um dos princípios estipulados pelo PMBOK 7.ª edição é o enfoque no valor, segundo o qual valor é o indicador de sucesso definitivo do projeto; nesse sentido, as equipes podem, para apoiar a percepção de valor dos projetos, alterar o foco das entregas para os resultados pretendidos.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os domínios de desempenhos são executados em sprints em sequência de importância."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens seguintes, relativos à gestão de riscos.
+
+      A análise de riscos inclui a consideração das causas e fontes de risco, a probabilidade de ocorrer um evento específico, a probabilidade de que este evento provoque consequências e a gravidade dessas eventuais consequências.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na gestão de riscos, o nível de risco refere-se à significância de um risco, demonstrada pela combinação das consequências e de seu impacto."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considerando a ITIL 4, julgue os itens a seguir.
+
+      A solicitação de um usuário que inicia uma ação de serviço acordada como parte regular da entrega de serviço deve ser gerenciada pela prática de gerenciamento de incidente, de modo que se restaure a operação normal do serviço o mais rápido possível.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A prática de gerenciamento de segurança da informação tem como objetivo principal a elaboração e manutenção da política de segurança da informação da organização."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com base no COBIT 2019, julgue os próximos itens.
+
+      No domínio entrega, serviço e suporte (DSS), há processos relacionados ao gerenciamento de solicitações e de incidentes de serviço, assim como ao gerenciamento de problemas e de continuidade.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O processo estratégia gerenciada do domínio alinhar, planejar e organizar (APO) visa garantir que cada iniciativa da organização esteja claramente conectada a uma estratégia abrangente, de modo que haja transformação digital na organização."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere ao uso da notação BPMN para a gestão de processos e para a modelagem de processos de negócio, julgue os itens que se seguem.
+
+      De acordo com a notação BPMN apresentada na figura a seguir, a Tarefa 2 (#2) e a Tarefa 3 (#3) serão executadas concomitantemente.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Dataprev/imagens/con_esp_1 119.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "De acordo com a notação BPMN apresentada na figura a seguir, apenas uma das tarefas #1, #2 e #3 será executada, ou seja, no momento de decisão (#Decisão), um único caminho deverá ser seguido."
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Dataprev/imagens/con_esp_1 120.png?raw=true
+    alternativas:
+      - Errado
+      - Certo
