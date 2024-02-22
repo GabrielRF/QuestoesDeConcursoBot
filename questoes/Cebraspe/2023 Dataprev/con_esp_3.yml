@@ -1,0 +1,324 @@
+---
+cargo: Análise de Negócios
+materia: Negócios - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      Julgue os próximos itens, relativos a gerenciamento de projetos, de acordo com o PMBOK 7.ª edição.
+
+      Um dos princípios estipulados pelo PMBOK 7.ª edição é o enfoque no valor, segundo o qual valor é o indicador de sucesso definitivo do projeto; nesse sentido, as equipes podem, para apoiar a percepção de valor dos projetos, alterar o foco das entregas para os resultados pretendidos.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os domínios de desempenhos são executados em sprints em sequência de importância."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de análise de negócios, gestão por processos e gestão funcional, julgue os itens a seguir.
+
+      Na etapa de execução do ciclo PDCA, deve ser estabelecido plano de ação no qual, para cada contramedida constante do plano de ação, deverá ser definido o 5W1H — what (o que será feito?), when (quando será feito?), who (quem fará?), where (onde será feito?), why (por que será feito?) e how (como será feito?).
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As partes interessadas afetadas na avaliação das necessidades podem ser classificadas com base em uma matriz de responsabilidade como o modelo RACI (responsável, aprovador, consultado, informado)."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, relativos ao gerenciamento de processos de negócio.
+
+      A modelagem de processos de negócios, além de ser uma área central na gestão de processos de negócios, é segmentada em uma perspectiva ampla, que considera a organização como um todo e os processos que a compõem.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O ciclo de vida da modelagem de processos de negócios é um modelo composto por cinco fases principais: compreensão de estratégias e metas; alinhamento a estratégias e metas; desenvolvimento de iniciativas; implementação da mudança; e medição do processo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O estado de competição em uma indústria depende de cinco forças básicas, de modo que a intensidade dessas forças e a interação entre elas ajudam a determinar o potencial de lucro da indústria e a sua atratividade geral, na medida em que, quanto mais fortes forem essas forças, mais difícil poderá ser a obtenção de lucros sustentáveis pelas empresas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O nível de cenários e tarefas da modelagem de processos de negócios se refere à maneira como o trabalho realizado em uma unidade de negócios é impulsionado por eventos, pelo cronograma ou pelos valores de dados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Métrica é a representação simples ou intuitiva de uma medição com a finalidade de facilitar sua interpretação contra uma referência ou meta."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      O gerenciamento de processos de negócios utiliza um arcabouço de ferramentas e tecnologias que visam ao controle, à automatização e à melhoria dos processos. Com relação a esse tema, julgue os próximos itens.
+
+      A arquitetura SOA (service-oriented architecture) do BPMS (business process management suite) cria uma abordagem altamente acoplada para a mudança de processos de negócios, em que os módulos são denominados processos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As suítes BPM (business process management) contemplam um conjunto de ferramentas integradas, incluídas tecnologias mais recentes, como automação robótica, inteligência artificial, aprendizagem de máquina e blockchain, com o objetivo de melhorar a eficiência e a eficácia dos processos de negócios."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que concerne às ferramentas utilizadas no planejamento estratégico, julgue os itens subsecutivos.
+
+      A cadeia de valor de Porter é um modelo especializado que descreve sete atividades primárias e várias atividades de apoio que são comuns à maioria das organizações.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O BSC é uma ferramenta de gerenciamento que visa fornecer aos gestores uma visão do desempenho organizacional exclusivamente por meio de medidas de desempenho financeiro."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O OKR (objectives and key results) é um protocolo colaborativo de definição de metas mensuráveis e indicadores precisos para empresas, equipes e indivíduos que vincula metas à missão mais ampla de uma equipe."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, acerca de ferramentas de gestão estratégica e qualidade.
+
+      A análise de benchmarking é uma ferramenta valiosa para os designers de processos, pois lhes permite identificar abordagens inovadoras e melhores práticas em indústrias diferentes daquela em que estão trabalhando e ajuda a evitar a chamada síndrome de pensamento em grupo.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Mudanças nas preferências dos consumidores, flutuações cambiais, políticas governamentais adversas ao negócio e concorrência acirrada no mercado são exemplos de fraquezas para algumas empresas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na etapa de planejamento do ciclo PDCA de melhorias, coletam-se indicadores, realizam-se treinamentos e elabora-se o plano de ação para melhoria."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O histograma, quando utilizado a partir do emprego de dados históricos, dispõe e processa as informações de forma que seja possível perceber eventual falta de capacidade do processo de gerar produtos que atendam às especificações."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O diagrama de dispersão pode ser empregado adequadamente para modelar e quantificar a intensidade do relacionamento existente entre o problema que está sendo solucionado e as suas causas mais prováveis identificadas na fase de análise do processo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O gráfico de Pareto permite a priorização de temas e o estabelecimento de metas numéricas cujo alcance seja viável por meio do giro do ciclo PDCA de melhorias."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, considerando o PMBOK 7.ª edição.
+
+      Tailoring corresponde à prática de entregar pequenos lotes de trabalho aos clientes de forma que o projeto seja implementado de forma incremental.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Relativa ao domínio de desempenho da equipe, a propriedade compartilhada pressupõe que a visão e os objetivos do projeto sejam conhecidos por todos os membros da equipe, a qual é a proprietária dos resultados do projeto."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na 7.ª versão do PMBOK, a gestão do projeto é baseada em princípios, em vez de processos, assim a estrutura analítica do projeto (EAP) consiste em uma lista de verificação de todos os critérios que devem ser atendidos no projeto."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um ciclo de vida de projetos consiste de fases que conectam a entrega de valor do início ao fim do projeto."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os seguintes itens, relativos ao COBIT 2019.
+
+      No COBIT 2019, há processo específico de identificar soluções de TI e analisar os respectivos requisitos com o objetivo de garantir que elas estejam alinhadas com os requisitos estratégicos da organização.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O processo de continuidade gerenciada no COBIT procura estabelecer planos voltados para se manter a disponibilidade de informações para a organização no caso de uma interrupção significativa."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O COBIT possui visão abrangente em seus processos de governança, especialmente no que se refere à segurança da informação, por isso não há processo específico para manter o nível do risco de segurança da informação, uma vez que, nesse modelo, a política de segurança deve estar presente de uma forma holística."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Princípios, políticas e estruturas são componentes da governança que interagem entre si, o que resulta em um sistema de governança holístico para I&T."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação à ITIL 4, julgue os itens que se seguem.
+
+      A prática de gerenciamento de projetos da ITIL visa garantir que eles sejam entregues da forma esperada.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A prática de gerenciamento de problema da ITIL visa diminuir o impacto de incidentes mediante a identificação de suas causas e o gerenciamento de soluções de contorno."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Assim como o COBIT 2019, a ITIL 4 também não possui prática que garanta a uma organização a compreensão e o tratamento eficaz dos riscos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na ITIL 4, a prática de gerenciamento da arquitetura destina-se a verificar os níveis de desempenho previstos dos serviços que atendam à demanda futura de maneira eficaz."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O objetivo do tempo de recuperação (OTR) descreve o tempo máximo aceitável que pode decorrer após a interrupção do serviço até que a sua falta cause impacto na organização."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A ITIL 4 é baseada em princípios ágeis, logo não há prática específica para análise do negócio que vise definir suas necessidades, pois a análise deve ser realizada a cada entrega, de forma iterativa e incremental, do projeto do serviço."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na ITIL 4, um serviço permite a cocriação de valor com a finalidade de obter os resultados desejados pelos clientes, sendo imprescindível que eles gerenciem custos e riscos específicos desse serviço."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de engenharia de software, julgue os itens subsecutivos.
+
+      Considerados uma técnica de elicitação de requisitos, os casos de uso identificam os atores envolvidos, assim como interações individuais entre o sistema e seus usuários ou, ainda, com outros sistemas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Herança é uma característica do paradigma orientado a objetos, a qual possibilita que haja hierarquia de classes, de forma que as alterações em uma classe-pai possam ser imediatamente propagadas para a classe-filha."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No paradigma da orientação a objetos, o polimorfismo permite que várias operações distintas possuam o mesmo nome, desacoplando, assim, os objetos uns dos outros, tornando-os mais independentes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, relativos a prototipação, storytelling, MVP (mínimo produto viável) e design thinking.
+
+      O paradigma da prototipação inclui o planejamento, a construção e a entrega do protótipo e, por ser uma metodologia do tipo projeto rápido, dispensa a identificação dos requisitos do software.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Storytelling com dados abrange entender o contexto circunstancial, incluindo-se o público e o mecanismo de comunicação, sendo importante identificar coisas que estejam absorvendo poder do cérebro desnecessariamente e removê-las da sua tela, diminuindo, assim, sua saturação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Considerando-se que o processo de engenharia de requisitos seja uma espiral iterativa com três estágios — elicitação, especificação e validação de requisitos —, é correto afirmar que, nesse contexto, a atividade de prototipação é mais bem relacionada à elicitação do que à validação de requisitos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O design thinking, por ser uma abordagem empírica e centrada em processos, é uma opção para resolução de problemas que não sejam complexos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Embora o objetivo do MVP seja descrever o produto de forma simplificada, é necessário que o produto a ser apresentado seja completamente funcional e identifique o maior número de requisitos que agregam valor ao cliente."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere à análise de dados e informações, julgue os itens a seguir.
+
+      Uma das vantagens de sistemas de BI (business intelligence) é a otimização no processamento de transações online.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em OLAP, um cubo é uma estrutura de dados multidimensionais que permite a análise de dados a partir de múltiplos enfoques."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O objetivo das análises prescritivas é identificar ações recomendadas para otimização de decisões futuras."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Data warehouse é um repositório de dados para análises e, portanto, deve conter apenas dados atualizados a fim de não enviesar a análise."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Dashboards são painéis informativos os quais apresentam, de forma visual, informações consolidadas que permitem o monitoramento de indicadores-chave; no entanto, os dashboards não são ferramentas úteis para análise ou gerenciamento desses indicadores."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O ETL é um dos processos para alimentar um data warehouse e pode consumir dados de distintas fontes e diferentes formatos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de banco de dados, julgue os itens a seguir.
+
+      Na linguagem SQL, os comandos CREATE, ALTER e DROP são comandos de definição de dados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O modelo entidade relacionamento (MER) representa a estrutura física de um banco de dados relacional."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na linguagem SQL, a função agregada para cálculo de média de um único atributo deve ser combinada com a cláusula GROUP BY."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O banco de dados não relacional MongoDB utiliza comandos DML para manipular os documentos armazenados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As propriedades BASE de bancos de dados não relacionais flexibilizam as propriedades ACID dos bancos de dados relacionais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A atomicidade é uma característica exclusiva de bancos de dados relacionais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de gerenciamento de projetos, gerenciamento de produtos e metodologias ágeis, julgue os seguintes itens.
+
+      Kanban e Scrum são metodologias ágeis distintas e, portanto, não podem ser utilizadas simultaneamente em um mesmo projeto ou no desenvolvimento de um mesmo produto.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Transparência, inspeção e adaptação são os pilares de controle empírico de processos do Scrum."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma das técnicas adotadas pelo Kanban para assegurar a agilidade nas entregas é limitar o trabalho em progresso."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No Scrum, o Scrum Master tem a responsabilidade de direcionar o rumo do desenvolvimento do produto."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na fase de maturidade do ciclo de vida de quatro fases de um produto, ocorre a desaceleração do crescimento das vendas do produto e um maior enfrentamento da concorrência."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A gestão de produtos restringe-se a descrever os processos para planejar, organizar, executar e controlar os recursos e as atividades necessárias para o desenvolvimento de novos produtos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens que se seguem, relativos a processos de negociação.
+
+      Influência, oportunidade e informação são variáveis básicas em um processo de negociação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "BATNA é uma ferramenta que pode ser utilizada na etapa de planejamento de uma negociação para definir, de forma realista, os objetivos, as alternativas e os pontos de ruptura ou retirada de uma negociação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Identificar a ZOPA (zone of possible agreement) aumenta as chances de sucesso de uma negociação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na abordagem distributiva de uma negociação, os objetivos de uma parte geralmente estão em conflito com os da outra parte."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação a inteligência artificial, análise de dados e Big Data, julgue os itens subsequentes.
+
+      Nas aplicações Big Data, a arquitetura paralela e distribuída (Cluster) é o meio para a criação de soluções capazes de analisar grandes bases de dados, processar seus pesados cálculos e disponibilizar serviços especializados para os mais diversos cenários.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Um gráfico muito útil para a etapa de análise de dados é o box plot, que ajuda a identificar a distribuição real ou padrão dos valores dos dados, permite visualizar mediana, quartis, valores mínimos e máximos, além de identificar possíveis outliers."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Um sistema de aprendizado não supervisionado, dotado de um conjunto de dados de treinamento que foram classificados manualmente, tenta aprender, a partir desses dados de treinamento, uma forma de classificá-los, bem como de classificar novos dados, ainda não observados."
+    alternativas:
+      - Errado
+      - Certo

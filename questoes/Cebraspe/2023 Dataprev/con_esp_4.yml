@@ -1,0 +1,359 @@
+---
+cargo: Arquitetura e Engenharia Tecnológica
+materia: TI - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      Com relação a banco de dados, julgue os itens abaixo.
+
+      No MER, a entidade associativa é utilizada para representar um relacionamento entre relacionamentos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Transformar uma tabela de PESSOA em duas tabelas, de PESSOA FÍSICA e de PESSOA JURÍDICA, é um refinamento de especialização."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Para representar a propriedade atual de um automóvel, deve ser utilizada a cardinalidade 1:N entre as duas tabelas envolvidas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de administração de dados e de bancos de dados, julgue os próximos itens.
+
+      A DCL (Data Control Language) é utilizada para controlar quem tem acesso aos objetos do banco de dados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A DDL (Data Definition Language) é utilizada em bancos de dados para comandos de UPDATE nas tabelas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca de normalização de dados, julgue os itens que se seguem.
+
+      Uma tabela está na primeira forma normal quando ela não contém tabelas aninhadas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As colunas de uma tabela na terceira forma normal devem depender da chave primária, de forma direta ou por meio de dependências transitivas ou indiretas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para estar na segunda forma normal, é suficiente que a tabela não contenha nenhuma dependência parcial."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação a SQL, julgue os próximos itens.
+
+      Uma VIEW é um objeto do banco de dados, mas não possui nenhuma linha em sua estrutura, pois faz referência a linhas e colunas de outras tabelas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Ao executar um comando de SELECT em mais de uma tabela sem a cláusula WHERE, o resultado será o produto cartesiano das tabelas acessadas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O comando UNION é utilizado para combinar as linhas de duas tabelas, mesmo que as colunas dessas tabelas sejam de tipos e tamanhos diferentes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca do banco de dados MySQL, julgue o item a seguir.
+
+      Os comandos de atualização e de seleção têm a mesma prioridade no acesso às tabelas; por isso, são processados por ordem de chegada.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de arquitetura e políticas de armazenamento de dados, engenharia de dados e Big Data, julgue os próximos itens.
+
+      Um dos objetivos da BI (Business Intelligence) é fornecer informações coletadas em DW (Data Warehouses) para tomada de decisões.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As ferramentas utilizadas para manipular dados em Big Data são as mesmas utilizadas em bancos de dados relacionais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de otimização de performance em larga escala para bancos de dados, julgue o item abaixo.
+
+      Alguns bancos de dados possuem opção de replicação de tabelas, com o objetivo de desafogar o servidor principal, direcionando as consultas mais pesadas para as réplicas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação a integrações de sistemas de informação por meio de web services e APIs, julgue os itens a seguir.
+
+      A integração do tipo nativa é realizada por meio do desenvolvimento e da manutenção de APIs de integração personalizadas internamente, utilizando-se de equipes capazes de projetar, implantar e manter as APIs em conformidade com as especificações da integração.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "OAuth é um padrão de tecnologia aberta de delegação de acesso, projetado para permitir que um site ou aplicativo acesse recursos hospedados por outros aplicativos na Web em nome de um usuário, permitindo o compartilhamento de conteúdos sem a necessidade de compartilhamento de senhas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Web service é um modelo de computação distribuída que depende dos sistemas operacionais, porém independe da linguagem de desenvolvimento e do hardware onde os sistemas integrados são processados."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As APIs do tipo REST, também chamadas de APIs RESTful, utilizam o protocolo HTTP e oferecem suporte à criptografia TLS (Transport Layer Security), mantendo a privacidade em uma conexão HTTPS na Internet."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "APIs do tipo SOAP utilizam protocolo com estrutura de mensagem restrita que independe de XML."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de DevSecOps e de técnicas de análise de desempenho, julgue os seguintes itens.
+
+      O DevSecOps deve evitar que o ciclo de trabalho do DevOps fique muito lento, observando sempre a segurança da aplicação e a infraestrutura, e, para isso, um dos cuidados que se deve ter é evitar automatizar barreiras de segurança, o que pode inserir pontos de fragilidade no software, comprometendo a segurança e o tempo de desenvolvimento.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O DevSecOps trata de segurança integrada, e não da segurança que funciona no perímetro em torno de aplicativos e dados, a qual também inclui a identificação dos riscos que estão envolvidos na cadeia de fornecimento do software."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Quanto a aspectos associados ao processo de gerenciamento de configurações de softwares, julgue os itens subsecutivos.
+
+      As ferramentas de workbenches abertas fornecem recursos integrados para controlar versões de software, a construção de sistemas e o rastreamento de mudanças, facilitando e simplificando a troca de dados, incluindo um banco de dados integrado de controle de mudanças.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na criação de um release de um sistema, o código executável de programas e todos os arquivos de dados associados devem ser coletados e identificados, e as descrições de configuração podem ter que ser escritas para hardwares diferentes e para instruções e sistemas operacionais preparados para clientes que necessitem configurar os próprios sistemas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere à engenharia de requisitos, julgue os itens a seguir.
+
+      Uma das características fundamentais da UML são os casos de uso, os quais constituem uma técnica baseada em elicidação de requisitos.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A linguagem natural estruturada é uma forma de escrever os requisitos de sistema na qual a liberdade do elaborador de requisitos é limitada e todos os requisitos são redigidos de maneira padronizada."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os requisitos de usuário de um sistema devem descrever os requisitos funcionais, de modo que eles sejam compreensíveis pelos usuários do sistema que não possuem conhecimento técnico detalhado, abstendo-se de inserir requisitos não funcionais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considerando as características do projeto de um sistema orientado a objetos, julgue os próximos itens.
+
+      A inclusão de detalhes de representação de interface entre objetos deve ser evitada em um projeto de interface, pois a representação deve ser ocultada e as operações de objeto para acessar e atualizar os dados devem ser fornecidas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os modelos dinâmicos de projetos orientados a objetos descrevem a estrutura dinâmica do sistema, usando classes de objetos e seus relacionamentos, destacando-se os relacionamentos de generalização, do tipo “utiliza/é-utilizado-por” e de composição."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere à engenharia de usabilidade, julgue o item a seguir.
+
+      Facilidade de aprendizado, velocidade de operação, robustez, facilidade de recuperação e adaptabilidade são os atributos de uma interface de software.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito do Gitlab, julgue os itens a seguir.
+
+      O runner tem como função a execução de pipelines e o versionamento automático do código-fonte de um repositório.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Gitlab suporta MR (merge request) que é capaz de mesclar a branch de origem com uma branch alvo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "É possível visualizar jobs de um pipeline e executar operações como cancelar e tentar novamente se der erro, mas os registros de log não podem ser apagados, pois registram o comportamento da execução dos jobs."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca de Spring Boot, julgue os itens que se seguem.
+
+      O uso do comando spring init é capaz de criar um novo projeto.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Como pré-requisito para a execução de um spring boot, é necessário ter uma versão válida do Java instalado."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "GraalVM native images possibilitam deploy de aplicações Java e, quando comparadas a uma imagem JVM (Java virtual machine) padrão, consomem mais memória e, como consequência, possuem um tempo de inicialização maior."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito do Confluent Kafka, julgue os itens a seguir.
+
+      Um tópico pode ser utilizado pela simples adição de um novo evento de mensagem e, se necessário, pode ser editado.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As partições são capazes de gerenciar eventos, porém os tópicos não podem ser quebrados em partições."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um consumer faz a leitura de eventos e pode consumir os registros em qualquer ordem."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando o padrão de redes sem fio 802.11g, julgue os itens seguintes.
+
+      O 802.11g utiliza a frequência de 2,4 GHz e permite até 54 Mbps de taxa nominal de transmissão.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base nos fundamentos de roteamento entre VLANs, julgue os itens a seguir.
+
+      O roteamento entre VLANs consiste no processo de confinamento do tráfego de rede de uma VLAN para que este não seja encaminhado para outra VLAN.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os seguintes itens, relativos às camadas do modelo OSI.
+
+      Os protocolos de transporte no modelo OSI são orientados à conexão somente.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Por fundamento, no modelo OSI, a camada de rede fornece os meios necessários para fazer a transferência de pacotes de um nó para outro nó conectado em redes diferentes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca das características fundamentais do protocolo IEEE 802.3, julgue os itens subsequentes.
+
+      O IEEE 802.3 define o método de acesso à rede local usando o CSMA/CD (carrier-sense multiple access with collision detection).
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O IEEE 802.3 define como deve ser o controle de acesso da camada física e da camada de enlace de dados do padrão Ethernet com fio."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito das características do protocolo UDP (user datagram protocol), julgue os itens que se seguem.
+
+      O UDP implementa por padrão a criptografia 3DES no modo de entrega de datagrama USER-MODE.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O UDP é um protocolo orientado à conexão e garante a entrega dos dados."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens que se seguem, acerca de conceitos de computação em nuvem.
+
+      O IaaS é o serviço de computação em nuvem que utiliza um modelo de pagamento por demanda, de maneira que o cliente paga apenas pelos serviços utilizados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em PaaS, o cliente não tem de se preocupar com a camada de infraestrutura, podendo concentrar-se somente nas aplicações que deseja disponibilizar."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Escalabilidade é a característica flexível de um serviço em nuvem que permite o redimensionamento de recursos de acordo com a demanda do cliente em tempo real, de forma automatizada e instantânea."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma das diferenças entre nuvens privadas e nuvens públicas é o fato de que as primeiras usam uma infraestrutura compartilhada."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere aos componentes centrais da arquitetura em nuvem, julgue os itens seguintes.
+
+      Apesar da automação do provisionamento da infraestrutura com a IaC, ainda é preciso fazer ajustes no gerenciamento de servidores e sistemas operacionais quando uma aplicação é criada ou implantada.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Entre os componentes de uma arquitetura em nuvem, a plataforma de front-end é aquela que contém a infraestrutura do cliente, incluindo, por exemplo, recursos de armazenamento e mecanismos de segurança e gerenciamento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma região é composta por um conjunto de data centers isolados uns dos outros, o que se denomina zonas de disponibilidade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "IaC refere-se ao gerenciamento e provisionamento da infraestrutura por meio de códigos, em vez de processos manuais, e o controle de versão é uma parte importante desse gerenciamento."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, relativos a plataformas e serviços da VMware.
+
+      VMware vRealize Orchestrator é uma plataforma de desenvolvimento e automação de processos cuja finalidade é gerenciar produtos VMware, bem como tecnologias de terceiros.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Quando o VMware vCenter Server é instalado, seus componentes adicionais também são instalados, exceto o vSphere Client, que possui instalador próprio."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito da Política de Segurança da Informação (POSIN), julgue os itens subsequentes.
+
+      Uma POSIN deve estar em conformidade com a legislação vigente, com as normas pertinentes, com os requisitos regulamentares e contratuais e com as melhores práticas de segurança da informação.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Competências e responsabilidades, apesar de serem importantes, não devem constar da POSIN, pois sua definição é restrita à alta administração da organização."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de segurança de redes de computadores, julgue os itens seguintes.
+
+      No caso do TLS (transport layer security), as regras de autenticação são idênticas às do SSL (secure socket layer).
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O SSH (secure shell) suporta método de autenticação baseado em nome de usuário e chave pública."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca de vulnerabilidades e ataques a sistemas computacionais, julgue os itens que se seguem.
+
+      A violação do princípio de privilégio mínimo está relacionada a um recurso que deveria estar protegido, mas está disponível para qualquer pessoa.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Para reduzir vulnerabilidades, os controles de acesso devem liberar a propriedade do registro para que usuário possa criar, ler, atualizar ou excluir qualquer registro."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, a respeito do algoritmo AES.
+
+      O AES, devido as suas características, é considerado eficiente tanto em software quanto em hardware.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O AES, por ser considerado um algoritmo de cifra de fluxo, é resistente a ataques de força bruta."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere ao certificado digital emitido pela ICP-Brasil, julgue os itens a seguir.
+
+      Entre as informações que estão dentro de um certificado digital da ICP-Brasil, a chave privada do titular é a mais importante.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No âmbito da ICP-Brasil, a assinatura digital possui autenticidade, integridade, confiabilidade e o não repúdio."
+    alternativas:
+      - Certo
+      - Errado
