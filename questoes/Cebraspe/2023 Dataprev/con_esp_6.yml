@@ -1,0 +1,329 @@
+---
+cargo: Contabilidade
+materia: Contabilidade - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      Em relação à conceituação da contabilidade pública e à composição do patrimônio público, julgue os itens seguintes.
+
+      Agências, autarquias e fundações estão compreendidas no conceito de entidades do setor público.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A propriedade legal é uma característica essencial para que um recurso seja definido como ativo no setor público."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As entidades do setor público podem obter ativos por intermédio de transações com ou sem contraprestação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A situação patrimonial líquida do setor público pode ser um montante residual negativo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma obrigação no setor público pode ser definida como um passivo independentemente se a sua liquidação ou extinção exigir uma saída de recursos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, relativos às variações patrimoniais qualitativas e quantitativas do setor público e da receita e despesa sob o enfoque patrimonial.
+
+      A apuração do resultado patrimonial do setor público é feita pela diferença entre variações patrimoniais qualitativas e quantitativas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Além de afetarem o resultado, as variações patrimoniais aumentativas e diminutivas promovem alterações nos elementos patrimoniais do setor público."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma variação patrimonial quantitativa deve ser registrada quando houver a incorporação de um bem recebido em doação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No caso de material estocado em almoxarifado para uso em momento posterior, uma variação patrimonial diminutiva deve ser apropriada concomitantemente com a liquidação da despesa orçamentária."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Quanto à mensuração de ativos das entidades do setor público, julgue os itens subsequentes.
+
+      O valor justo de terrenos e edifícios é normalmente determinado com base no custo histórico.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um mesmo método deve ser usado para alocar de forma sistemática o valor depreciável de um ativo ao longo da sua vida útil."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para evitar que apenas alguns ativos sejam reavaliados, os itens de uma classe de ativos intangíveis devem ser reavaliados simultaneamente."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O aumento no valor contábil da classe do ativo decorrente de uma reavaliação terá como contrapartida uma conta de variação patrimonial aumentativa no resultado do exercício."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O instrumento da redução ao valor recuperável deve ser usado para adequar o valor contábil de um ativo à sua real capacidade de retorno econômico."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O ente federado deve possuir uma única tabela de depreciação, para que seus bens sejam depreciados a uma mesma taxa de depreciação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito das provisões e passivos contingentes do setor público, julgue os itens subsequentes.
+
+      Quando o pagamento de um passivo contingente se tornar provável, deve ser reconhecida uma provisão sobre esse valor nas demonstrações contábeis do período em que houver a mudança dessa probabilidade.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma provisão deve ser registrada quando houver incerteza sobre o valor a ser desembolsado para extinção de uma obrigação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As provisões devem ser divulgadas como parte das contas a pagar."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A divulgação dos passivos contingentes é dispensada se a saída de recursos para seu pagamento for considerada remota."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere aos aspectos legais, terminologia, ambiente e características da informação e custos no setor público, julgue os itens subsecutivos.
+
+      O direcionador de custo permite que seja feita a relação entre causa e efeito na alocação dos custos diretos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Apenas um centro de responsabilidade é suficiente caso a entidade produza um único tipo de bem ou serviço."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A apuração do custo do período deve ser feita pelo regime de competência, concomitantemente com a execução orçamentária."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Cabe à alta administração definir e estruturar seus centros de responsabilidade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      De acordo com o Manual de Contabilidade Aplicada ao Setor Público (MCASP), julgue os seguintes itens, a respeito do Planos de Contas Aplicado ao Setor Público (PCASP).
+
+      A utilização do PCASP é obrigatória para as entidades da administração indireta dos entes da Federação, incluídos seus fundos, autarquias, fundações e empresas estatais, dependentes ou independentes.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O PCASP se estrutura em função da natureza das informações contábeis, havendo quatro naturezas diferentes: orçamentária, patrimonial, financeira e de informação e controle."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O registro contábil deve ser feito pelo método das partidas dobradas, respeitando-se a natureza da informação, de tal forma que não pode ser feito lançamento a crédito em conta da classe 4 em contrapartida a débito em conta da classe 5."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No balanço patrimonial, as contas do ativo e as do passivo devem apresentar um indicador que classifique cada ativo ou passivo em financeiro ou permanente, em atendimento ao disposto na Lei n.º 4.320/1964."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca dos balanços orçamentário e financeiro, julgue os seguintes itens à luz do MCASP.
+
+      O balanço orçamentário demonstra as receitas detalhadas por categoria econômica e origem e as despesas por categoria econômica e função programática.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O balanço orçamentário pode apresentar situação de desequilíbrio entre a previsão atualizada da receita e a dotação de despesa autorizada."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em ambos os quadros de execução dos restos a pagar, processados ou não processados, existe a separação entre aqueles inscritos em exercícios anteriores e aqueles inscritos em 31 de dezembro do exercício imediatamente anterior."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No balanço financeiro, as receitas orçamentárias são segregadas em ordinárias e vinculadas, a fim de se indicar como são financiadas as despesas orçamentárias, em atendimento a sua destinação legal."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O balanço financeiro evidencia as receitas e despesas orçamentárias conjugadas com os saldos de caixa do exercício anterior e os transferidos para o exercício seguinte, mas não inclui os ingressos e dispêndios extraorçamentários, pois estes são entradas e saídas meramente compensatórias."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca do balanço patrimonial e da demonstração das variações patrimoniais, julgue os itens a seguir conforme o MCASP.
+
+      O balanço patrimonial deve dispor de quadro dedicado às contas de compensação, construído utilizando-se as contas da classe 8.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No balanço patrimonial, o ativo deve ser segregado em circulante e não circulante, sendo classificados neste último, entre outros, os ativos que se espera realizar em até doze meses após a data das demonstrações contábeis."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na demonstração das variações patrimoniais consolidada de cada ente, devem ser excluídas as contas intraorçamentárias."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O superávit financeiro para fins de abertura de créditos adicionais é apurado em quadro do balanço patrimonial, e não no balanço financeiro."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca da receita pública, seu conceito, seus estágios, suas classificações e sua execução, julgue os seguintes itens.
+
+      As operações de crédito por antecipação da receita devem estar compreendidas na lei orçamentária.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A classificação da receita orçamentária por natureza é utilizada por todos os entes da Federação e tem a finalidade de identificar a origem do recurso segundo o fato gerador, ou seja, o evento real que ocasionou o ingresso da receita nos cofres públicos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As receitas patrimoniais são consideradas receitas de capital."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As receitas de operações de crédito são receitas correntes, pois envolvem o pagamento de juros, que são despesas correntes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Todas as receitas públicas devem cumprir sempre as etapas de previsão, lançamento, arrecadação e recolhimento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Quanto à despesa pública, julgue os itens a seguir.
+
+      Despesa orçamentária não efetiva é aquela que, quando da sua realização, não reduz a situação líquida patrimonial da entidade pública.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na classificação funcional da despesa orçamentária, uma subfunção pode ser combinada com funções diferentes daquela à qual tal subfunção está diretamente relacionada na Portaria MOG n.º 42/1999."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Juros e encargos da dívida são despesas de capital, pois se relacionam ao endividamento público."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Empenho global é aquele utilizado para despesas contratuais ou outras de valor determinado, sujeitas a parcelamento, tais quais os compromissos decorrentes de aluguéis."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As descentralizações orçamentárias, assim como as transposições, não modificam a programação ou o valor das dotações, já que alteram somente a unidade orçamentária detentora do crédito."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Embora seja na liquidação que se verifica o direito adquirido pelo credor, com base nos títulos e documentos comprobatórios do respectivo crédito, para, então, processar-se o pagamento, há a possibilidade de reconhecimento da variação patrimonial diminutiva antes da própria liquidação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação à análise econômico-financeira das empresas, julgue os itens a seguir.
+
+      O grau de endividamento ou dependência financeira de uma empresa é obtido pelo confronto entre o total de passivos exigíveis e o total de ativos.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O passivo oneroso é composto por todas as obrigações sobre as quais incidem juros, exceto as decorrentes de impostos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A margem líquida de lucro de uma empresa em dado exercício social é obtida por meio da aplicação do método de análise vertical."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os indicadores de estrutura de capitais mostram se a empresa financia seus investimentos com capitais próprios ou de terceiros e, caso sejam de terceiros, se são onerosos ou não, além de apresentarem o perfil dos capitais de terceiros em termos de prazo para liquidação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A análise horizontal corresponde ao processo de análise estática que compara uma conta ou grupo de contas com o total de seu grupo, em determinado exercício social."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens que se seguem, relativos a balanço patrimonial.
+
+      Os ativos devem ser segregados em circulantes e não circulantes, sendo estes últimos compostos por ativo realizável a longo prazo, investimentos, imobilizado e intangível.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Aplicações de recursos em despesas do exercício seguinte devem ser classificadas em ativos não circulantes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No ativo imobilizado, registram-se os bens corpóreos adquiridos pela companhia com o fim de manter suas atividades operacionais, exceto os obtidos em transações em que se caracterizou a transferência de benefícios e riscos para a companhia."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um contrato de financiamento de longo prazo inadimplido, caso haja cláusula de vencimento antecipado em caso de inadimplência, deve ser integralmente reclassificado para o passivo circulante."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Passivos que não possam ser prorrogados, de forma incondicional, pelo devedor devem ser classificados no passivo não circulante."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere à demonstração de fluxos de caixa pelos métodos direto e indireto, julgue os próximos itens.
+
+      Todo ingresso ou saída de recurso financeiro do caixa constitui um fluxo de caixa.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Empresas que apresentem, ao final de um período de apuração contábil, saldo bancário negativo, com utilização de cheque especial, não podem considerar tais saldos como equivalentes de caixa."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O uso do método direto para a apresentação do fluxo de caixa líquido das atividades operacionais obriga a empresa a conciliar o lucro líquido do período com o referido fluxo de caixa."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Valores mantidos pela empresa em moedas estrangeiras não se caracterizam como equivalente de caixa, devido ao risco imprevisível de oscilação de valor."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação a algumas das demonstrações contábeis previstas na legislação e nas normas brasileiras, bem como a pronunciamentos do Comitê de Pronunciamentos Contábeis (CPC), julgue os itens subsequentes.
+
+      Na demonstração do resultado do exercício, as receitas com juros devem ser segregadas das demais receitas para fins de evidenciação.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Constitui procedimento indispensável ao levantamento da demonstração das mutações do patrimônio líquido a conciliação dos saldos dos componentes desse grupo patrimonial no início e no final do período."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A demonstração do resultado abrangente é composta por todas as mutações sofridas pelo patrimônio líquido, exceto as transações de capital com os sócios."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Conforme o CPC 26, o resultado da venda de bens do ativo imobilizado é evidenciado, na demonstração do resultado do exercício, como resultado não operacional."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Caso a entidade apresente as movimentações em outros resultados abrangentes como parte da demonstração de mutações do patrimônio líquido, ela estará dispensada de apresentar, à parte, uma demonstração de outros resultados abrangentes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A demonstração de mutações do patrimônio líquido deve evidenciar, entre outras informações, os dividendos totais do período e o valor dos dividendos por ação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Relativamente à mensuração de itens patrimoniais ao valor justo, julgue os itens seguintes.
+
+      Valor justo é o preço que seria recebido ou pago, na data da mensuração, pela venda de um ativo ou transferência de um passivo entre participantes do mercado independentes entre si, desconsiderados os possíveis custos de transação.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Por razões conceituais, valor justo não se confunde com custo de reposição ou substituição de um bem."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Devido à inexistência de mercados ativos, para a maioria dos itens patrimoniais, a avaliação a valor justo deve priorizar os preços ajustados."
+    alternativas:
+      - Errado
+      - Certo
