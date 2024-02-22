@@ -1,0 +1,309 @@
+---
+cargo: Comunicação Social
+materia: Comunicação - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      Com relação às atribuições do assessor de imprensa e à rotina da assessoria de imprensa, julgue os itens subsecutivos.
+
+      O texto de um comunicado contém informações direcionadas ao jornalista, e não ao veículo de comunicação, visando divulgar uma notícia ou um acontecimento de interesse pessoal, coletivo ou midiático.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Inserir o nome da entidade ou empresa no título de um release é uma prática comum e indicada pelas assessorias, pois permite antecipar o que se pretende divulgar."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A intermediação entre o assessorado e os veículos de comunicação é uma das atribuições fundamentais do assessor de imprensa, cujo trabalho tem como elementos básicos a informação e a abordagem dessa informação na notícia."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No contexto da assessoria de imprensa, os profissionais que trabalham na imprensa da organização funcionam como instrumentos, sendo canais úteis ao assessor de imprensa na divulgação da imagem da organização."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O assessor deve defender a livre circulação de informações, o que implica divulgar toda e qualquer informação, de acordo com a liberdade de expressão."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens seguintes, relativos à gestão de crises e ao relacionamento entre os canais de comunicação de uma empresa e os jornalistas.
+
+      Garantir a diversidade de veículos presentes e a repercussão positiva do assunto nos principais veículos de comunicação está entre os objetivos da entrevista coletiva.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O media training, processo contínuo e complexo que demanda um longo período de treinamento e aprendizagem, é essencial para o planejamento de comunicação de uma organização, e o seu maior benefício é o fortalecimento da marca."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No que se refere à gestão de crises em uma empresa, é importante que haja manuais de orientação, planejamento de comunicação e comitê responsável pelo gerenciamento de problemas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No desempenho do seu trabalho, o assessor deve pedir aos veículos de comunicação permissão para ler as pautas e conferir as matérias antes de sua veiculação, a fim de garantir a veracidade das informações a serem publicadas acerca da organização que ele representa."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A melhor forma de gerenciar as informações em ambientes digitais é criar interações automatizadas a fim de otimizar as respostas a situações que podem resultar em crise para a organização."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "De acordo com a dimensão da crise na organização, pode ser necessário recorrer a parcerias com agências de publicidade ou à contratação de consultoria externa."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito do jornalismo e dos meios de comunicação de massa, julgue os próximos itens.
+
+      A teoria agenda setting defende que consumidores de notícias tendem a considerar mais importantes os assuntos selecionados pelo grupo social ao qual estão vinculados.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Segundo a teoria hipodérmica, por meio da comunicação de massa, o indivíduo aumenta seus vínculos sociais, reforçando os laços primários que forjam a sociedade e sociabilizam os indivíduos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Valor-notícia é o critério para selecionar, dentre o material disponível para a redação, os elementos que são suficientemente significativos e relevantes para serem incluídos em uma notícia."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A teoria da espiral do silêncio refere-se à manipulação, tanto na mídia quanto nas relações interpessoais, da opinião pública, a qual se transforma em uma ferramenta de controle social."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere a planejamento editorial, julgue os itens a seguir.
+
+      Não se pode elaborar um planejamento editorial de comunicação digital sem antes conhecer e compreender o plano estratégico de comunicação global da empresa.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Para uma comunicação eficaz, a elaboração da mensagem comunicativa deve considerar características específicas de seu público-alvo, além de se adequar a preceitos de arquitetura da informação, usabilidade, hipermídia e design."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A comunicação digital refere-se ao uso das tecnologias de informação e comunicação (TIC) e das suas ferramentas a fim de dinamizar a comunicação integrada; no entanto, nem toda TIC é conveniente à proposta comunicacional da empresa e ao planejamento de produtos editoriais, como house organs ou conteúdo para redes sociais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A comunicação digital de uma empresa deve ter foco exclusivo em seu site na Internet, a fim de atingir o público externo, enquanto a comunicação interna da empresa deve ser feita por e-mail e outros canais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A comunicação digital integrada é construída a partir da avaliação de cada ação comunicacional, prevista em três grandes vertentes: comunicação institucional, comunicação interna e comunicação mercadológica."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca dos recursos visuais e textuais que auxiliam a empresa no estabelecimento de conexão e engajamento com seu público, julgue os itens a seguir.
+
+      Conferir um tom humanizado à comunicação é uma forma de estabelecer vínculo entre empresa e cliente, pois a maioria das escolhas dos clientes baseia-se em emoções.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Ao enfrentar uma crise, o assessor de comunicação não deve admitir o erro imediatamente, pois tal fato pode prejudicar a imagem da empresa."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma narrativa eficiente envolve o uso de imagens, principalmente, vídeos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na comunicação, o uso de linguagem acessível, clara e transparente é fundamental, além de ser um incentivo à participação do público."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Para intensificar a confiança junto aos clientes, uma estratégia comunicacional é reunir, selecionar e distribuir o conteúdo por vários canais da Web, a fim de facilitar a participação dos usuários."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação ao sistema de valores-notícia e aos critérios de seleção, redação e edição, julgue os itens a seguir.
+
+      O processo de noticiabilidade recebe influência de fatores econômicos, ideológicos e culturais, sendo os critérios compartilhados entre vários agentes, como os proprietários dos veículos de comunicação, os jornalistas, as fontes e o público.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os valores-notícia associados aos fatos noticiados influenciam a escolha dos assuntos que aparecerão, por exemplo, na capa do veículo impresso ou na primeira página de seu site, pois quanto mais valores-notícia um fato tem, mais provável é sua alocação nas manchetes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No processo de apuração, os veículos de comunicação executam a tarefa de captar conteúdo, o qual será selecionado segundo os valores-notícia, definidos como um conjunto de regras que orientam os jornalistas sobre o que é ou não noticiável."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A informação é a principal finalidade do jornalismo, e a seleção dos fatos e sua interpretação de acordo com valores-notícia não dependem do jornalista, mas sim das fontes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Valores-notícia são uma maneira de selecionar os acontecimentos a serem noticiados, atendendo-se, entre outros fatores, à política editorial dos veículos de comunicação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, relativos ao webjornalismo.
+
+      Na chamada primeira geração do webjornalismo surge a capacidade de ampliação do acesso e de interação, como também a produção de conteúdos exclusivos para o meio digital.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No webjornalismo, o conceito de pirâmide deitada propõe quatro níveis de leitura: unidade de base, nível de explicação, nível de contextualização e nível de exploração."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma das características do webjornalismo é a instantaneidade, ou seja, a capacidade de publicar e atualizar informações em tempo real."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No âmbito da leitura do texto webjornalístico, o hipertexto possibilita que o leitor não siga uma sequência obrigatória, o texto pode ser lido de forma não linear."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca das ilustrações vetoriais criadas no Adobe Illustrator, na versão CC e configuração padrão, julgue o seguinte item.
+
+      As ilustrações podem ser ampliadas ou reduzidas ilimitadamente sem a perda de nitidez.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca das possibilidades do Adobe Illustrator e do Adobe Photoshop, julgue os próximos itens.
+
+      Com o Adobe Illustrator é possível fazer peças visuais como logotipos e redimensioná-las sem que percam a qualidade da peça.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Um objeto inteligente no Adobe Photoshop, em sua versão CC e configuração padrão, é compreendido por uma camada especial que contém dados de imagens rasterizadas ou vetoriais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O Photoshop possui uma diversidade de filtros e efeitos, tais como: sombras, desfoque e texturas que podem ser aplicados a imagens."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere ao Adobe InDesign, julgue os itens a seguir.
+
+      O Adobe InDesign é indicado para o desenvolvimento de desenhos vetoriais e objetiva criar logotipos, animações e cenários.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No trabalho com documentos no InDesign, os atalhos possibilitam realizar tarefas sem usar o mouse. Assim, a combinação de teclas que serve de atalho para alternar entre as ferramentas Seleção e Seleção direta é: Ctrl + Enter."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca das funções do Adobe Premiere Pro e do After Effects, julgue os itens que se seguem.
+
+      Um dos recursos do After Effects é a organização de elementos visuais em composição, camadas e máscaras com o objetivo de criar cenas compostas e complexas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O Adobe Premiere Pro, um software de edição para criar vídeos, apresenta ferramentas que possibilitam fazer edições de ondulações e de rolagem, além do deslocamento e deslizamento de pontos da edição, que auxiliam no trabalho de corte preciso e rápido."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Tanto o mix de áudio, que é uma das funções oferecidas pelo Adobe Premiere Pro, quanto as edições de áudio comuns como sincronização de áudio com vídeo ou redução de ruído de fundo, são opções do software."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em sua versão 2022, o After Effects possibilita o uso de integração 3D e de elementos visuais que permitem criar composições com elementos tridimensionais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O After Effects oferece opções de alta qualidade para o desenvolvimento de trabalhados de renderização, mas não é o ideal quando se trata de produzir resultados com nitidez para exibição em telas pequenas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito da comunicação dirigida, cuja aplicação é necessária nas relações públicas devido à variedade de públicos (stakeholders) ligados às organizações, julgue os itens a seguir.
+
+      A comunicação dirigida é direta e segmentada, por isso o profissional de relações públicas deve selecionar as ferramentas de comunicação mais adequadas para cada grupo.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A comunicação dirigida oral pode ocorrer por meio de telefonemas e conversas face a face, presenciais ou virtuais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na comunicação dirigida, quanto mais adequado for o código (linguagem) utilizado pelo emissor para relacionar-se com o receptor (público), melhor será o retorno (feedback) gerado pelo receptor e, consequentemente, mais eficiente será a comunicação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Para se obter o máximo grau de eficiência no relacionamento entre a organização e seus públicos, a utilização de veículos aproximativos de comunicação dirigida deve ocorrer prioritariamente de forma física e presencial, em congressos, lançamentos de produtos e shows, por exemplo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os relatórios e as publicações de uma empresa, inclusive manuais, revistas e demais periódicos, são exemplos de veículos aproximativos de comunicação dirigida."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens que se seguem, relativos às rotinas das assessorias de imprensa.
+
+      Apesar de ser elaborado e distribuído por profissionais das assessorias de imprensa, o release é um texto de função meramente publicitária e, por isso, não possui característica de texto jornalístico.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O clipping é uma importante ferramenta de mensuração de resultados no relacionamento com a imprensa, mas não deve ser a única, pois a qualidade da imagem de uma organização deve ser avaliada de outras formas além da contabilização da quantidade de vezes que essa organização aparece na mídia."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As entrevistas coletivas são indicadas para comunicar assuntos de relevância, no entanto, quando ocorre baixo comparecimento de jornalistas ao evento, o assessor de imprensa não deve ligar para as redações nem oferecer novas entrevistas por telefone sobre o tema da coletiva, pois tal atitude poderia diminuir a credibilidade da organização perante a mídia."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Às vésperas de uma coletiva de imprensa, é desejável que o assessor de imprensa da organização reforce a convocação junto aos jornalistas; tal contato pode ser feito por telefone ou por mensagem eletrônica e é essencial para checar se as estratégias de realização do evento foram bem-sucedidas até o momento."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que diz respeito à comunicação digital aplicada às redes sociais, julgue os seguintes itens.
+
+      As redes sociais e plataformas digitais de comunicação — entre elas o Instagram, o YouTube e o Facebook — possuem dinâmicas muito semelhantes de relacionamento com seus usuários, de maneira que o conteúdo produzido para determinada rede social pode ser facilmente replicado em outras plataformas, sem prejuízo aos resultados previstos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os stories são uma funcionalidade disponível em algumas redes sociais e servem para criar a sensação, junto aos clientes, de que eles acompanham uma marca, pessoa ou organização em tempo real."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Por meio da comunicação com mídia paga nas redes sociais, uma organização pode segmentar seu público de interesse com base em características demográficas, interesses, comportamentos e até tecnologias utilizadas para se conectar às redes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A mídia paga nas redes sociais é um recurso útil para a comunicação das organizações, uma vez que é mais demorado e mais difícil conquistar públicos de interesse apenas de forma espontânea, ou seja, sem pagar às plataformas de comunicação digital."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, relativos ao planejamento da comunicação nas organizações.
+
+      De acordo com o grau de hierarquia das organizações, o planejamento pode ser classificado como estratégico, tático ou operacional; o planejamento operacional ocupa o topo da pirâmide e é responsável pelas grandes decisões, que envolvem a organização como um todo.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O cronograma deve especificar os períodos de tempo nos quais as atividades devem ser executadas, prevendo, dessa forma, o início e o fim de cada fase do planejamento operacional."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A análise SWOT é uma técnica utilizada para fazer a análise dos ambientes interno e externo no planejamento estratégico, além de analisar e avaliar as condições competitivas; a partir dessa análise, é possível identificar os pontos fortes (strengths) e fracos (weaknesses), as oportunidades (opportunities) e as ameaças (threats) à organização."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Identificar a visão de uma organização, isto é, a sua razão de ser e o papel que ela exerce na sociedade, além de demonstrar seus propósitos e suas realizações, é tarefa obrigatória da etapa de pesquisa e construção do diagnóstico estratégico."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A missão da organização está relacionada com o seu futuro, estabelecendo a forma como ela deseja ser vista e considerada pelos stakeholders, aonde ela quer chegar e os meios que deve utilizar para alcançar esse objetivo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os valores de uma organização expressam as crenças, os atributos ou as convicções filosóficas de seus fundadores e dirigentes; assim, os valores dão significado às regras e normas de comportamento na organização."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na etapa de avaliação, que é a última do planejamento, o profissional de comunicação deve considerar somente os resultados tangíveis, como as vendas ou o total de atendimentos de uma organização, pois apenas esse tipo de dado é capaz de mensurar o sucesso do planejamento como um todo."
+    alternativas:
+      - Errado
+      - Certo
