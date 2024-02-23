@@ -1,0 +1,362 @@
+---
+cargo: Engenharia Civil
+materia: Civil - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      Durante a concretagem da estrutura de um prédio, o concreto usinado chegou já com a pega iniciada. Como a concretagem fazia parte do caminho crítico do cronograma de execução, o engenheiro dessa obra determinou o lançamento do concreto somente após aumentar a dosagem de água na massa, com intuito de garantir a trabalhabilidade do concreto e manter o cronograma sem atrasos.
+
+      A respeito da situação hipotética apresentada, julgue os itens a seguir.
+
+      A adição de água no concreto reverte o processo de pega, permitindo o aproveitamento da massa.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O teste de abatimento é um dos métodos utilizado, antes do lançamento, para medir o início da pega do concreto."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para a concretagem pertencer ao caminho crítico, este deve ser a sequência de atividades que representa o caminho mais longo do cronograma."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma solução para evitar a concretagem com a pega iniciada é a utilização de aditivo retardador de pega no preparo do concreto."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A figura seguinte representa uma viga de concreto armado em balanço, com seção retangular, engastada em uma parede no ponto A e sujeita a um carregamento no ponto B.
+
+      Com base nessas informações, julgue os itens subsequentes.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Dataprev/imagens/con_esp_8 55.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O peso próprio da viga é desprezível no cálculo estrutural."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A armadura de aço responsável por suportar os esforços de tração oriundos do carregamento está localizada na parte superior da referida viga."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No dimensionamento da viga, o momento fletor máximo encontra-se próximo à extremidade “B” da viga."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Nas instalações hidrossanitárias de um prédio de cinco andares recém-construído, antes de sua ocupação, foi observado que, recebimento provisório da obra, os chuveiros do último pavimento apresentavam uma baixa vazão, nos banheiros coletivos do primeiro pavimento, ao se acionar todas as torneiras, as mais distantes da coluna de alimentação não tinham vazão suficiente, que havia um constante fluxo de água saindo do extravasor do reservatório superior e que todos os ralos dos boxes dos chuveiros eram secos.
+
+      A respeito da situação apresentada, julgue os itens a seguir.
+
+      Uma causa provável da baixa vazão nos chuveiros do último pavimento é a pouca altura manométrica entre o ponto de chuveiros e a base do reservatório superior.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A baixa vazão nas torneiras dos banheiros coletivos do primeiro pavimento provavelmente é devida à grande distância vertical entre os pontos de utilização e o reservatório superior."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Todos os ralos de banheiros e demais áreas molhadas de uma edificação devem ser sifonados."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O mau funcionamento do registro de boia pode ser uma das causas do constante fluxo de água saindo do extravasor do reservatório superior."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando que a figura precedente representa um circuito elétrico, com a lâmpada como um único ponto de utilização, julgue os itens subsequentes relacionados a instalações elétricas.
+
+      O fio A é o condutor neutro do circuito.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Dataprev/imagens/con_esp_8 63.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em circuitos com uma única lâmpada em funcionamento, o disjuntor substitui o papel do interruptor."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O fio C é denominado retorno do circuito."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O circuito apresentado é conhecido como sistema three way."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de fundações de edificações, julgue os itens a seguir.
+
+      As fundações rasas transmitem as cargas provenientes da edificação principalmente por meio de atrito lateral.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na execução de sapatas associadas, a viga de rigidez tem a função de permitir que a sapata trabalhe com tensão constante."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Estacas pré-moldadas de concreto podem ser armadas ou protendidas, devendo haver armaduras especiais para içamento e transporte."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma vantagem da estaca Strauss é sua forma de execução por trado, sem necessidade de utilização de moldes ou revestimentos metálicos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Quanto à administração direta e indireta, julgue os itens que se seguem.
+
+      A DATAPREV é uma autarquia e seus servidores são regidos pela Consolidação das Leis do Trabalho (CLT), embora o acesso aos respectivos cargos dependa da aprovação em concurso público.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A criação de ministérios por intermédio de lei é exemplo de descentralização da administração pública, uma vez que eles desempenham suas atividades com autonomia, seguindo as diretrizes da Presidência da República."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As agências reguladoras são consideradas autarquias sob regime especial, criadas por lei e dotadas de poder regulamentar e normativo nos limites nela estabelecidos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito dos atos administrativos, julgue os seguintes itens.
+
+      Nos atos administrativos complexos, há vontade de mais de um órgão, sem qualquer subordinação entre eles, o que diferencia aqueles atos dos atos compostos, os quais dependem da verificação ou aprovação de outro agente.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Haja vista o interesse público, os atos administrativos têm presunção absoluta de legitimidade, de maneira que somente o Poder Judiciário pode afastar sua aplicação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação ao processo administrativo, julgue os itens a seguir.
+
+      A notificação do interessado no processo administrativo, de forma a permitir-lhe acesso aos autos e informá-lo do fato sobre o qual deve apresentar defesa, garante a observância da ampla defesa e do contraditório, afastando o cerceamento de defesa.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os atos devem ser realizados em dias úteis, no horário normal de funcionamento da repartição em que tramitar o processo, porém podem ser concluídos depois desse horário, caso já iniciados, ainda que eventual adiamento não ocasione prejuízo ao curso regular do procedimento ou dano ao interessado e à administração pública."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca dos agentes públicos e das funções públicas, julgue os itens subsequentes.
+
+      Caso ocupante exclusivamente de cargo em comissão seja exonerado sob o fundamento de ter praticado ato de improbidade administrativa, mas se comprove que ele não cometeu tal conduta, o ato de exoneração deverá ser anulado, ante a teoria dos motivos determinantes, ainda que a exoneração não necessite de fundamentação.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "É pacificado o entendimento de que os magistrados se incluem na categoria dos agentes políticos, que são os titulares dos cargos estruturais da organização política do país, razão pela qual constituem os formadores da vontade superior do Estado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O acesso a cargos e empregos públicos somente se dá por intermédio de concurso público de provas ou de provas e títulos, conforme a complexidade do cargo ou emprego."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Quanto aos poderes administrativos, julgue os itens a seguir.
+
+      É ínsita ao poder regulamentar a possibilidade de especificar procedimentos previstos na lei.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O poder de polícia é a faculdade de que dispõe a administração pública para condicionar e restringir o uso e gozo de bens, atividades e direitos individuais, em benefício da coletividade ou do próprio Estado."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação à contratação de obras e serviços de engenharia, julgue os itens que se segue.
+
+      O Regime Diferenciado de Contratações Públicas (RDC) é aplicável às licitações e aos contratos necessários à realização de obras e serviços de engenharia para infraestrutura, construção, requalificação, urbanização e regularização fundiária no âmbito das políticas públicas de desenvolvimento urbano e habitação.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No processo licitatório para contratação de obras e serviços de engenharia, conforme regulamento, o valor estimado, acrescido do percentual de benefícios e despesas indiretas (BDI) de referência e dos encargos sociais (ES) cabíveis, será definido, preferencialmente, por meio de pesquisa na base nacional de notas fiscais eletrônicas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Nas contratações de obras e serviços de engenharia de grande vulto, poderá ser exigida a prestação de garantia, na modalidade seguro-garantia, com cláusula de retomada, em percentual equivalente a até 30% do valor inicial do contrato."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base nas informações do quadro precedente, que apresenta estatísticas descritivas referentes a duas variáveis quantitativas, X e Y, e sabendo que a covariância amostral entre elas é igual a 15, julgue os itens a seguir.
+
+      O coeficiente de correlação linear de Pearson entre as variáveis X e Y é superior a 0,6.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Dataprev/imagens/con_esp_8 86.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O modelo Ŷ = 2X − 10 representa a reta de regressão linear simples da variável Y sobre a variável X ajustada pelo método de mínimos quadrados ordinários."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Se Z = (2X+Y)/3, então a média amostral de Z é igual a 8."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A variância amostral da diferença X - Y é igual a 11."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Três eventos aleatórios, A, B e C, possuem probabilidade de ocorrência igual a P(A) = 0,5, P(B) = 0,3 e P(C) = 0,2, respectivamente.
+
+      Com base nessas informações, e considerando P(A∩B) = 0, P(A∩C) = 0 e P(B∩C)= 0, julgue os seguintes itens.
+
+      Os eventos A e B são independentes
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O valor da probabilidade condicional P(B|B∪C) é igual a 0,3."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "P(A∪C) = 0,7"
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "P(A∩B∩C) = 0,03."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Um estudo estatístico foi realizado para testar a hipótese nula H0: mu ≤ 37 contra a hipótese alternativa H1: mu > 37, em que mu denota a média populacional. Nesse estudo, que foi efetuado mediante amostragem aleatória simples de tamanho n = 30, obteve-se uma média amostral igual a 38 e variância amostral igual a 750.
+
+      Com base nessa situação hipotética, e supondo que a população siga uma distribuição normal, julgue os seguintes itens, sabendo que P(T > 1,7) = 0,05, em que T segue uma distribuição t de Student com 29 graus de liberdade.
+
+      O p-valor do teste em questão é inferior a 0,05.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "38 +/- 1,7 representa uma estimativa intervalar de 90% de confiança para a média populacional."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Se o nível de significância do teste for igual a 5%, então não haverá evidências estatísticas contra a hipótese nula, mesmo que a média amostral seja superior a 37."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Se o tamanho da amostra fosse maior que 30, então o valor da probabilidade P(T > 1,7) seria superior a 0,05."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O teste em questão é unilateral."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Para determinado levantamento estatístico, 100 domicílios serão selecionados aleatoriamente de uma população constituída por 3.650 domicílios. Cada domicílio selecionado será visitado por um entrevistador, que coletará as informações desejadas sobre todas as pessoas residentes nesse domicílio.
+
+      A respeito desse plano amostral, julgue os itens a seguir.
+
+      Cada domicílio representa uma unidade amostral.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O levantamento estatístico descrito remete a uma amostragem aleatória estratificada, na qual cada domicílio representa um estrato da população."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, relativos ao Microsoft Word e ao Microsoft Excel avançado.
+
+      O Microsoft Word permite que se utilizem modelos personalizados da Microsoft, mas impede a criação de modelos a partir de documentos existentes.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No Microsoft Excel, é possível referenciar células que estão em outras planilhas da mesma pasta de trabalho."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A célula de uma planilha do Microsoft Excel pode conter dados de uma página da Internet."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "JavaScript é a linguagem de programação utilizada para escrever macros no Microsoft Excel."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Macros podem ser criadas utilizando-se um gravador de macros embutido no Microsoft Excel, que registra ações enquanto se executa uma tarefa."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere à manipulação de vetores em Python, julgue os itens seguintes.
+
+      O código a seguir, escrito em Python, será executado sem erros, pois, nativamente, é possível realizar operações matemáticas complexas em vetores sem a necessidade de importar bibliotecas.
+      ```
+      u = [1, 2, 3]
+      v = [[1], [2], [3]]
+      print(u@v)
+      ```
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma lista é um tipo de vetor em Python."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca da importação de dados em Python, julgue os itens que se seguem.
+
+      A leitura de arquivos .xml não requer a instalação da biblioteca Pandas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As classes elementTree e minidom servem para análise e modificação de dados XML."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Python só permite a leitura e a escrita de arquivos .csv e .xsls por meio da biblioteca Pandas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Com a função json.loads(), é possível ler os dados de um arquivo JSON."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere às bibliotecas Numpy, Pandas, Matplotlib e Scipy, julgue os itens subsequentes.
+
+      É possível criar um gráfico de linhas com a biblioteca Matplotlib.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A plotagem de gráficos em Python permite a criação de histogramas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A biblioteca Pandas permite a manipulação de data frames em Python."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A regressão linear multivariada é usada para análises estatísticas em Python e trabalha com uma variável explicativa."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A biblioteca Scipy permite criar regressões lineares multivariadas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito do AutoCAD, julgue os itens a seguir.
+
+      Com o comando FILLET (equivalente ao comando CONCORD da versão em português), é possível criar um arredondamento ou uma concordância das arestas de dois objetos 2D ou das faces adjacentes de um sólido 3D.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O comando MIRROR (equivalente ao comando ESPELHAR da versão em português) oferece a opção de criar múltiplas cópias espelhadas de objetos ao mesmo tempo, através da definição de um ponto de base e do número de cópias desejado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O comando ARRAYPATH (equivalente ao comando MATRIZCAMINHO da versão em português) pode ser usado para distribuir uniformemente cópias de objetos ao longo de um caminho que pode ser uma linha, uma polilinha, uma hélice, um círculo, um arco ou uma elipse."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No comando MIRROR (equivalente ao comando ESPELHAR da versão em português), por padrão, a direção do texto não é alterada quando se espelha um objeto de texto."
+    alternativas:
+      - Certo
+      - Errado
