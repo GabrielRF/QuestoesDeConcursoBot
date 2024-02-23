@@ -1,0 +1,335 @@
+---
+cargo: Desenvolvimento de Software
+materia: Desenvolvimento - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      Julgue os itens abaixo, relacionados com JavaScript, Web Services e análise estatística de código-fonte.
+
+      Para garantir uma correta compilação de um código escrito em JavaScript, é necessário que as variáveis sejam definidas e inicializadas antes de seu uso no código.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "De acordo com o Clean Code, o programador deve ter o cuidado de declarar todas as variáveis locais em um único ponto, no início do código, como forma de facilitar a compreensão do código escrito."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Web Service possibilita que recursos sejam disponibilizados para aplicações clientes, mesmo que estejam em sistemas diferentes e usando linguagens distintas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No SonarQube, a complexidade mede a quantidade de caminhos possíveis na execução do código."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir acerca de intranet, extranet, UDDI, XSLT e DevOps.
+
+      A principal diferença entre uma intranet e uma extranet é que a primeira é uma rede de uso restrito, enquanto a segunda é uma rede de uso público.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os registros UDDI podem estar disponíveis de forma pública ou privada."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Com a adoção de DevOps, na fase de operação de um software, as equipes buscam identificar os problemas antes que afetem a experiência do cliente."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No XSLT, o processo de transformação do documento XML usa XPath."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, que tratam de testes ágeis, metodologias ágeis de desenvolvimento e reuso de software e metodologia de pontos de função.
+
+      Na metodologia de pontos de função, qualquer função que apresente informação para o usuário por meio de processamento lógico é considerada uma saída externa (SE).
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Com a adoção de Scrum, o Scrum Master tem o papel de liderar o time de desenvolvimento e administrar os recursos do grupo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na aplicação do Kanban, é necessário que se estabeleça limites de trabalhos em andamento."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O reuso de software no nível de componentes pode exigir que se faça adaptações e ampliações do componente com código próprio."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, que tratam de engenharia de requisitos, CSS, PWA e HTTPS.
+
+      Os requisitos funcionais de um software descrevem o que o software deve fazer, considerando critérios de desempenho das funcionalidades.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma vantagem no uso de CSS é que, com ele, é possível fazer alteração no design sem afetar o código HTML."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Ao se utilizar o HTTPS, uma sequência de passos denominada handshake precisa ser realizada para garantir a segurança da comunicação entre as partes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O uso de PWA traz praticidade e velocidade à interação com o usuário, estando restrito a alguns browsers específicos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca de blockchain, conceitos de inteligência artificial, arquitetura hexagonal e gestão de conteúdo, julgue os itens a seguir.
+
+      A garantia de segurança e confiabilidade de um blockchain é feita por meio de uma terceira parte mediadora, cuja confiabilidade é publicamente aceita.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em uma arquitetura hexagonal, como as classes de domínio estão relacionadas ao negócio do sistema e seus dados, elas devem ser responsáveis pelo armazenamento de dados e as tecnologias usadas para esse fim."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "De acordo com os conceitos de inteligência artificial, as máquinas reativas têm a capacidade compreender os seres humanos, entendendo seus estados mentais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A garantia de usabilidade de uma aplicação exige atualizações constantes que podem se basear no comportamento do usuário."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Um sistema de gerenciamento de conteúdo desacoplado oferece menos flexibilidade do que um sistema acoplado, quanto à interação com o conteúdo criado no back-end."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com base na ABNT NBR ISO/IEC 27002:2022, julgue os itens a seguir.
+
+      Os direitos concedidos a usuários com acessos privilegiados são restritos e controlados, sendo necessário ter requisitos para expirar esse tipo de acesso.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No gerenciamento de informações, deve ser evitado o uso de mensagens de correio eletrônico de terceiros para o fornecimento de informações temporárias de autenticação secreta de usuários."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma política de gerenciamento de chaves deve estabelecer a forma apropriada de lidar com chaves comprometidas: deve-se manter registro e auditoria das atividades que tenham relação com o gerenciamento de chaves e não se deve jamais destruir chaves comprometidas, as quais devem ser somente arquivadas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O controle de acesso a código-fonte de programas deve ser vedado à maioria dos times de tecnologia, exceto ao time de suporte, que deve ter acesso irrestrito às bibliotecas de programa-fonte."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No desenvolvimento de uma política para criptografia, o uso de criptografia no transporte de mídias móveis é opcional, desde que, para o transporte, as mídias sejam lacradas e rastreadas durante todo o tempo em que estiverem em trânsito."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em um perímetro de segurança física, as portas corta-fogo devem ser providas de alarme e monitoramentos e devem ser testadas em conjunto com as paredes, a fim de se estabelecer o nível de resistência exigido."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de ciclo de vida de desenvolvimento seguro, julgue os itens que se seguem.
+
+      A modelagem de ameaças pode ser aplicada no componente de um software, para apoiar a seleção de recursos de segurança.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Durante a fase de implementação, são aplicados padrões de codificação e testes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A fase de implementação contempla a aplicação de testes de segurança sem o uso de soluções para análise de código."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A fase de design prevê a definição da estrutura geral do software relacionado à segurança e a realização de revisões de código."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na fase de suporte e manutenção, deve ser estabelecido um time ou grupo responsável por respostas a incidentes de segurança."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação à análise estática de código, julgue os próximos itens.
+
+      O processo de análise estática envolve a identificação de problemas na sintaxe do código-fonte.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca da análise dinâmica de código, julgue os itens a seguir.
+
+      Na análise dinâmica, é possível revisar todo o código-fonte sem a necessidade de execução do software.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Durante a análise dinâmica, é possível identificar exceções que não foram tratadas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere a OWASP Top 10, julgue os seguintes itens.
+
+      Security misconfiguration indica que a aplicação pode estar vulnerável devido à utilização de contas e senhas default que estão habilitadas e ainda não foram alteradas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Cryptographic failures tem como diretiva de prevenção bloquear o acesso a recursos internos de um ambiente, exceto aos recursos que realmente necessitem ser públicos, como websites disponíveis para a Internet."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito da Política de Segurança da Informação (POSIN), julgue os itens subsequentes.
+
+      Uma POSIN deve estar em conformidade com a legislação vigente, com as normas pertinentes, com os requisitos regulamentares e contratuais e com as melhores práticas de segurança da informação.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Competências e responsabilidades, apesar de serem importantes, não devem constar da POSIN, pois sua definição é restrita à alta administração da organização."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de MongoDB, julgue o item a seguir.
+
+      Uma collection no MongoDB é equivalente a uma tupla ou registro nos bancos de dados relacionais.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação a banco de dados, julgue os itens abaixo.
+
+      Transformar uma tabela de PESSOA em duas tabelas, de PESSOA FÍSICA e de PESSOA JURÍDICA, é um refinamento de especialização.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No MER, a entidade associativa é utilizada para representar um relacionamento entre relacionamentos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para representar a propriedade atual de um automóvel, deve ser utilizada a cardinalidade 1:N entre as duas tabelas envolvidas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de administração de dados e de bancos de dados, julgue os próximos itens.
+
+      A DCL (Data Control Language) é utilizada para controlar quem tem acesso aos objetos do banco de dados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A DDL (Data Definition Language) é utilizada em bancos de dados para comandos de UPDATE nas tabelas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca de normalização de dados, julgue os itens que se seguem.
+
+      Uma tabela está na primeira forma normal quando ela não contém tabelas aninhadas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As colunas de uma tabela na terceira forma normal devem depender da chave primária, de forma direta ou por meio de dependências transitivas ou indiretas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para estar na segunda forma normal, é suficiente que a tabela não contenha nenhuma dependência parcial."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação a SQL, julgue os próximos itens.
+
+      Uma VIEW é um objeto do banco de dados, mas não possui nenhuma linha em sua estrutura, pois faz referência a linhas e colunas de outras tabelas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Ao executar um comando de SELECT em mais de uma tabela sem a cláusula WHERE, o resultado será o produto cartesiano das tabelas acessadas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O comando UNION é utilizado para combinar as linhas de duas tabelas, mesmo que as colunas dessas tabelas sejam de tipos e tamanhos diferentes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de arquitetura e políticas de armazenamento de dados, engenharia de dados e Big Data, julgue os próximos itens.
+
+      Um dos objetivos da BI (Business Intelligence) é fornecer informações coletadas em DW (Data Warehouses) para tomada de decisões.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As ferramentas utilizadas para manipular dados em Big Data são as mesmas utilizadas em bancos de dados relacionais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os seguintes itens, relativos a gerenciamento de projetos.
+
+      O gerenciamento do escopo do projeto dispensa a criação da EAP e abrange tanto coletar os requisitos do projeto quanto definir o seu escopo.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um portfólio de projetos tem como objetivo facilitar a eficácia da governança e do gerenciamento do trabalho alinhado a estratégias e prioridades organizacionais, em que o gerenciamento de projetos visa executar os projetos da maneira certa, ao passo que o gerenciamento de portfólios visa executar os projetos certos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, referentes ao Scrum 2020.
+
+      Um dos princípios do Scrum é reduzir o desperdício, assim convém que, na sprint, o Scrum team se subdivida em subtimes, de modo a maximizar o paralelismo de execuções.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No Scrum, que é um framework que aborda soluções adaptativas para problemas complexos, o product owner ordena o trabalho para um problema complexo, enquanto o Scrum team e seus stakeholders inspecionam os resultados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens seguintes, relativos à gestão de riscos.
+
+      A análise de riscos inclui a consideração das causas e fontes de risco, a probabilidade de ocorrer um evento específico, a probabilidade de que este evento provoque consequências e a gravidade dessas eventuais consequências.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na gestão de riscos, o nível de risco refere-se à significância de um risco, demonstrada pela combinação das consequências e de seu impacto."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considerando a ITIL 4, julgue os itens a seguir.
+
+      A solicitação de um usuário que inicia uma ação de serviço acordada como parte regular da entrega de serviço deve ser gerenciada pela prática de gerenciamento de incidente, de modo que se restaure a operação normal do serviço o mais rápido possível.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A prática de gerenciamento de segurança da informação tem como objetivo principal a elaboração e manutenção da política de segurança da informação da organização."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com base no COBIT 2019, julgue os próximos itens.
+
+      No domínio entrega, serviço e suporte (DSS), há processos relacionados ao gerenciamento de solicitações e de incidentes de serviço, assim como ao gerenciamento de problemas e de continuidade.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O processo estratégia gerenciada do domínio alinhar, planejar e organizar (APO) visa garantir que cada iniciativa da organização esteja claramente conectada a uma estratégia abrangente, de modo que haja transformação digital na organização."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere ao uso da notação BPMN para a gestão de processos e para a modelagem de processos de negócio, julgue os itens que se seguem.
+
+      De acordo com a notação BPMN apresentada na figura a seguir, a Tarefa 2 (#2) e a Tarefa 3 (#3) serão executadas concomitantemente.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Dataprev/imagens/con_esp_7 119.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "De acordo com a notação BPMN apresentada na figura a seguir, apenas uma das tarefas #1, #2 e #3 será executada, ou seja, no momento de decisão (#Decisão), um único caminho deverá ser seguido."
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Dataprev/imagens/con_esp_7 120.png?raw=true
+    alternativas:
+      - Errado
+      - Certo
