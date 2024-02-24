@@ -1,0 +1,359 @@
+---
+cargo: Desenvolvimento e Arquitetura de Software
+materia: Desenvolvimento - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      Com base na Lei n.º 14.133/2021, julgue os seguintes itens.
+
+      O projeto básico, documento constitutivo da primeira etapa do planejamento de uma contratação, dá a base para o anteprojeto e caracteriza o interesse público na contratação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na contratação de projetos e serviços de desenvolvimento de softwares, os autores devem ceder à administração pública todos os direitos patrimoniais a eles relativos; assim, os softwares poderão ser livremente alterados e utilizados em outras ocasiões, sem necessidade de novas autorizações por parte dos autores"
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere à gestão e à fiscalização de contratos de TI, julgue os itens que se seguem.
+
+      A renovação contratual e o gerenciamento de riscos de uma contratação de TI poderão utilizar como subsídio o histórico de gestão de contrato, artefato que permite documentar os principais acontecimentos positivos ou negativos que ocorrerem durante a execução do contrato.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na execução de um serviço de TI, o contratado poderá empregar um agente público que estiver atuando na fiscalização ou na gestão do contrato, desde que o edital de licitação expressamente o permita."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens que se seguem, relativos a eMAG e ePING.
+
+      De acordo com o índice de maturidade em acessibilidade digital do eMAG, o nível 3 refere-se à validação automática para a verificação do atendimento dos requisitos de acessibilidade de produtos contratados por fornecedores de TI.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O avaliador e simulador de acessibilidade em sítios do governo federal (ASES) possui três formas de validação: por URI, por upload de arquivo e por código fonte."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Perceptível, operável, compreensível e inteligente são os quatro princípios propostos pelo World Wide Web Consortium que regem a acessibilidade na Web."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os padrões e políticas preconizados pela ePING são de uso obrigatório por parte do Poder Executivo do governo federal."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na ePING, o desenvolvimento de ontologias e de recursos de organização da informação, a adoção de padrão de modelagem de dados e de uma política de disseminação de dados e informações fazem parte da dimensão semântica das políticas gerais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação ao ITIL v4 e ao Cobit 2019, julgue os itens que se seguem.
+
+      O Cobit 2019 propõe um sistema de governança corporativa de TI que, por ser genérico e universal, pode ser implementado por qualquer tipo de organização, independentemente de sua natureza ou área de negócio, sem a necessidade de adaptação ou personalização às necessidades da organização.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No domínio de avaliar, dirigir e monitorar, encontram-se processos de governança do Cobit 2019."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A cadeia de valor de serviço do ITIL v4 possui como elemento central o sistema de valor de serviço (SVS)."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O gerenciamento de desempenho do Cobit 2019 utiliza-se de cinco níveis de maturidade de áreas foco, alcançados quando todos os processos contidos em uma área foco estão em um determinado nível de capacidade de processos, o qual é embasado no CMMI (Capability Maturity Model Integration)."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Desenvolvimento e gerenciamento de software é uma d as práticas de gerenciamento de serviços do ITIL v4."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, considerando a Lei n.º 12.527/2011 (Lei de Acesso à Informação), o Decreto n.º 7.845, o Decreto n.º 7.724, e suas alterações.
+
+      O Decreto n.º 7.724 inclui autarquias e sociedades de economia mista na sua abrangência.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A Lei n.º 12.527/2011 reconhece a obrigatoriedade de consentimento para divulgação de informações pessoais quando estas forem necessárias à prevenção e diagnóstico médico, quando o interessado estiver física ou legalmente incapaz, com a finalidade única e exclusiva de tratamento médico."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Decreto n.º 7.845 tem por objetivo regulamentar exclusivamente procedimentos para credenciar e tratar segurança da informação classificada como confidencial no âmbito do Poder Executivo federal."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com base na Lei n.º 12.737/2012 (Lei de Delitos Informáticos), julgue os itens a seguir.
+
+      Multa financeira e atuação em trabalhos sociais são as penas previstas para interrupção ou perturbação de serviço de informação de utilidade pública.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Configura-se como crime divulgar informações de forma não autorizada, obtidas por meio de invasão."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca da Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados), julgue os itens subsecutivos.
+
+      Segundo a Lei n.º 13.709/2018, o titular dos dados pessoais tem assegurado o direto de obter informações a respeito do tratamento dos seus dados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A Lei Geral de Proteção de Dados aborda o tratamento de dados pessoais e se aplica também à administração pública."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os dados que forem anonimizados serão considerados dados pessoais para os fins da Lei Geral de Proteção de Dados independente se a anonimização possa ser revertida ou não."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsequentes, a respeito de governo eletrônico.
+
+      Um dos princípios fundamentais do governo eletrônico é a transparência promovida por meio do acesso a informações públicas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O governo eletrônico contempla o desenvolvimento de padrões de interoperabilidade que definem um conjunto de especificações técnicas, as quais ajudam a regulamentar o uso de tecnologia da informação e da comunicação no Poder Executivo federal."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Programas e especificações de segurança da informação não fazem parte das iniciativas de governo eletrônico."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os próximos itens, no que se refere à arquitetura de sistemas.
+
+      No sistema com arquitetura em camad as, a camad a mais interna é responsável pela integração com o sistema operacional.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na arquitetura MVC (model-view-controler), o componente controlador incorpora todos os estados de um webapp."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As diversas visões da descrição arquitetural de um sistema representam as necessidades específicas de um grupo específico de envolvidos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na arquitetura orientada a objeto, os dados e as operações são encapsulados para facilitar a manipulação das informações."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de contêineres, julgue os itens seguintes.
+
+      Para facilitar o intercâmbio de dados, arquivos e diretórios de um contêiner específico estão disponíveis para outros contêineres.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A utilização de contêineres garante que o mesmo pacote seja instalado nos diversos ambientes de uma organização, como, por exemplo, ambientes de desenvolvimento, homologação e produção de TI."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Devido a conflitos de implementação, aplicações com microsserviços não podem ser construídas com a utilização de contêineres."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsecutivos, com relação a requisitos e componentes de software.
+
+      No desenvolvimento de um sistema, arquitetura e design são considerados como sinônimos, possuindo os mesmos objetivos de qualidade e comportamento.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O design de software pode ser aplicado como produto, em uma abstração do mundo real, ou como processo, orientado aos objetivos do software."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Além dos requisitos funcionais, o designer de software deve considerar os requisitos não funcionais, que representam as expectativas dos clientes e usuários."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O projeto de componentes de um software detalha a estrutura de cada componente em um nível de abstração próximo à linguagem de máquina."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere a serviços de integração, julgue os itens que se seguem.
+
+      A sequência a seguir é uma lista que representa um objeto no formato JSON.
+      ```
+      {atributo1:valor1 , atributo2:valor 2}
+      ```
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na gestão de configuração de software, os elementos de processos representam ações e tarefas para um controle eficaz das alterações no software."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A existência de um repositório de versões é fundamental para o controle das alterações nos artefatos individuais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As mensagens SOAP são escritas em HTML para facilitar a manipulação em diversas plataformas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em um serviço web do tipo RESTful, todos os métodos são identificados pela mesma URL."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca de padrões de projeto, julgue os itens seguintes.
+
+      O padrão adapter da visão GoF permite que uma classe de persistência seja adaptada de acordo com o banco de dados utilizado na aplicação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os padrões de comando da visão GoF determinam o encapsulamento de uma ação e seus respectivos parâmetros."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na visão GoF, o padrão singleton define que cada classe pode ser instanciada em um único objeto."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsequentes, com relação a ferramentas de DevOps, gestão de ativos e autenticação única (single sing-on).
+
+      Uma das vantagens do single sign-on é garantir a privacidade das informações do usuário, por meio do uso da identidade federada.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os módulos puppets de DevOps permitem que um usuário defina os nomes e as localizações dos diretórios de um sistema."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em DevOps, a análise estática de código e geração de documentação fazem parte do processo de build de uma aplicação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na gestão de ativos, um dos objetivos da classificação da informação é prevenir, por exemplo, a divulgação indevida de dados em mídias físicas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O controle de acesso da gestão de ativos é responsável por tratar os controles lógicos (privilégios e senhas, por exemplo) e físicos (segurança física e do ambiente, por exemplo) de uma organização."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma premissa do processo de autenticação do modelo single sign-on é garantir a revelação mínima de dados para um contexto."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de Scrum, julgue os itens a seguir.
+
+      O backlog do produto é um subconjunto de itens do backlog do sprint selecionado pela equipe do produto para ser completado na forma do incremento de código durante o sprint ativo atual.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os princípios do Scrum são utilizados para orientar as atividades de desenvolvimento dentro de um processo que incorpora as atividades metodológicas para requisitos, análise, projeto, evolução e entrega do software; em cada uma dessas atividades são realizadas tarefas em sprints específicos, correspondentes a cada uma delas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação aos aspectos associados à qualidade do software, julgue os itens que se seguem.
+
+      Caso um sistema esteja sujeito a uma probabilidade de ataque de 25% e a sua probabilidade de repelir esse ataque seja de 95%, a integridade do software será muito alta, de aproximadamente 99%.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "De acordo com a norma ISO 25010, o modelo de qualidade em uso aplicado ao software descreve as seguintes características: adequação funcional, eficiência de desempenho, compatibilidade, usabilidade, confiabilidade, segurança, facilidade de manutenção e portabilidade."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca de controle de versão, julgue o próximo item.
+
+      Para se implantar um gerenciamento efetivo de alterações do tipo “codifique e vá em frente”, recomenda-se modificar o processo convencional de controle de alterações de software, criando-se classes de alterações que terão fluxos de tratamentos diferenciados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsequentes, considerando os aspectos da engenharia de software associados ao levantamento de requisitos ou à elicitação de requisitos, os quais combinam elementos de solução de problemas, elaboração, negociação e especificação do software.
+
+      Os diagramas de casos de uso, diagramas de atividades e diagramas de sequência constituem ferramentas para a modelagem de requisitos e a definição de cenários na UML.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Um caso de uso, independentemente da sua forma, representa o software ou o sistema do ponto de vista do analista."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere às técnicas de análise de desempenho dos softwares, julgue os itens seguintes.
+
+      A finalidade do teste de esforço é determinar o modo como, por exemplo, a aplicação web e seu ambiente do lado do servidor responderão a várias condições operacionais.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os testes de carga e os testes de esforço são testes de desempenho que exigem instrumentação de hardware e software, uma vez que frequentemente é necessário medir a utilização dos recursos de forma precisa."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, relativos aos elementos da modelagem funcional baseada na UML.
+
+      Um diagrama de sequência da UML complementa o caso de uso por meio de uma representação gráfica do fluxo de interação em um cenário específico, representando como o sistema reage a eventos internos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Independentemente do nível de abstração procedural, o diagrama de atividades da UML deve ser utilizado apenas para representar detalhes do processamento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsecutivos, relacionados a DevSecOps.
+
+      No contexto das equipes de desenvolvimento de software, o DevSecOps representa uma evolução pelo fato de integrar ao processo uma equipe específica que trata exclusivamente da segurança de software, liberando as equipes de desenvolvimento e operacionais dessa tarefa, de forma a agilizar significativamente a entrega do software.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O processo shift left tem por objetivo encorajar os desenvolvedores de software a migrarem a segurança da direita (fim) para a esquerda (início) do processo de DevOps (entrega)."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação ao desenvolvimento guiado por teste (TDD), julgue os itens que se seguem.
+
+      No TDD, o teste deve ser criado com o objetivo de fazer o segmento de código falhar, gerando-se um processo iterativo que permite a submissão de muitas subfunções simultaneamente, o que confere uma agilidade significativa ao processo.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O TDD é uma tendência que enfatiza o projeto de casos de teste antes da criação do código fonte e se caracteriza como parte do modelo ágil de desenvolvimento de software."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando o modelo de processo de prototipação, julgue os próximos itens.
+
+      O envolvimento do cliente, o uso do protótipo em produção parcial, o rápido planejamento e o fácil gerenciamento são vantagens da prototipação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Após a definição dos objetivos gerais, o protótipo, nessa modelagem, atua como um mecanismo para identificar os requisitos do software."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens seguintes, a respeito do desenvolvimento orientado ao comportamento (BDD).
+
+      Ao se utilizar a metodologia BDD, espera-se que as entregas sejam feitas com menor quantidade de retrabalho e com cobertura de testes automatizados, a documentação passe a ser integrada ao sistema, e os projetos passem a ter estimativas dentro do prazo, com custos controlados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Durante o período do BDD, os planos serão validados pelos desenvolvedores conforme previsto pelo TDD por meio de ferramentas de teste como JUnit e Mockito."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A linguagem ubíqua Cucumber é utilizada para a definição de cenários iniciais no BDD e permite que a equipe de negócios faça levantamentos com as partes interessadas (stakeholders) e os transforme em histórias do usuário (user story)."
+    alternativas:
+      - Errado
+      - Certo
