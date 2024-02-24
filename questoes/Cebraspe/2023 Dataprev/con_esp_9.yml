@@ -1,0 +1,354 @@
+---
+cargo: Engenharia Elétrica
+materia: Elétrica - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      Com relação a transformadores e máquinas elétricas, julgue os itens que se seguem.
+
+      Um gerador CC em conexão shunt possui enrolamento de campo e enrolamento de armadura em paralelo.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Um gerador síncrono trifásico de 50 kVA e 380 V nominais possui corrente nominal superior a 70 A."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em um transformador de potência trifásico, 69 kV/13,8 kV, a potência nominal do enrolamento de baixa tensão é igual a 20% da potência nominal do enrolamento de alta tensão."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um motor de indução trifásico com dois enrolamentos por fase, cada um com tensão nominal de 220 V e com terminais disponíveis para ligações externas, pode operar com tensão nominal de 440 V."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de subestações e equipamentos elétricos, julgue os itens a seguir.
+
+      Em uma subestação rebaixadora de tensão, os transformadores de potencial são utilizados sempre na função de medição da energia consumida pela carga.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os para-raios de média tensão utilizados nas ligações de energia nas redes de distribuição têm a função exclusiva de proteger as cargas contra sobretensões geradas por descargas atmosféricas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em uma subestação elevadora de tensão, a chave seccionadora da entrada de energia deve ser motorizada para permitir comando remoto."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens que se seguem, relativos a circuitos trifásicos e representação em pu.
+
+      Se, na representação de um sistema elétrico em pu, um transformador trifásico de 100 kVA opera com potência de 0,9 pu, isso permite a conclusão de que ele opera com 90 kVA.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para que uma carga trifásica equilibrada conectada em estrela opere com tensão de fase igual a 300 V, a tensão de linha a ser aplicada a ela deve ser superior a 510 V."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Se uma fase de uma carga trifásica desequilibrada conectada em triângulo possuir fator de potência igual a 0,8 indutivo, então, pelo menos, uma das outras fases possui fator de potência capacitivo superior a 0,8."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de instalações elétricas em baixa tensão projetadas e executadas em conformidade com as normas vigentes da ABNT, julgue os próximos itens.
+
+      Os circuitos de distribuição e os circuitos terminais são projetados segundo o critério da demanda.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Se o circuito de alimentação de um edifício é protegido por disjuntor com corrente nominal de 200 A, é correto afirmar que a corrente de projeto desse circuito não é superior a 200 A."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A manutenção corretiva em um quadro elétrico de baixa tensão com potência de projeto superior a 250 kVA deve ser feita apenas com o quadro desenergizado em função do elevado nível de curto-circuito desse tipo de quadro."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O contator de potência que aciona um motor de indução trifásico deve ser adequadamente representado no diagrama de força e no diagrama de comando."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação aos fundamentos do setor elétrico brasileiro e às normas que regem sua estrutura e seu funcionamento, julgue os seguintes itens.
+
+      A Câmara de Comercialização de Energia Elétrica (CCEE) tem regulação e fiscalização pela ANEEL e a finalidade de viabilizar a comercialização de energia elétrica nos ambientes de contratação regulada e de contratação livre.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Compete à ANEEL dirimir, no âmbito administrativo, as divergências entre concessionárias e produtores independentes, bem como entre esses agentes e seus consumidores."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O Operador Nacional do Sistema Elétrico (ONS) é o órgão encarregado de coordenar e controlar a operação das instalações de geração, transmissão e distribuição de energia elétrica do Sistema Interligado Nacional. Já o planejamento da operação dos sistemas isolados do país fica sob a coordenação e o controle da ANEEL."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens que se seguem de acordo com a Resolução Normativa n.o 1.000/2021 da ANEEL.
+
+      A interrupção por inadimplemento não caracteriza descontinuidade do serviço, desde que realizada após prévia notificação.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Serviço adequado ao consumidor é o que satisfaz as condições de regularidade, continuidade e segurança, ficando a questão da modicidade das tarifas condicionada à existência de condições específicas no sistema elétrico."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação às licitações e contratos administrativos, julgue os itens a seguir, de acordo com o disposto na Lei n.º 14.133/2021.
+
+      O diálogo competitivo consiste em modalidade de licitação prevista para a contratação de objeto que envolva inovação tecnológica, considerando-se a impossibilidade de o órgão ou entidade ter sua necessidade satisfeita sem a adaptação de soluções disponíveis no mercado; a impossibilidade de as especificações técnicas definidas com precisão pela administração; ou, ainda, outras hipóteses julgadas necessárias pelo agente público, desde que devidamente fundamentadas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Nas licitações de obras e serviços de engenharia e arquitetura, será preferencialmente adotada, sempre que adequada ao objeto da licitação, a modelagem da informação da construção (building information modelling — BIM) ou tecnologias e processos integrados similares ou mais avançados que venham a substituí-la."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Aplica-se a modalidade pregão à contratação de serviço comum de engenharia, que é considerado todo serviço de engenharia que tenha por objeto ações, objetivamente padronizáveis em termos de desempenho de qualidade, de manutenção, de adequação e de adaptação de bens móveis e imóveis, com preservação das características originais dos bens."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Quanto à administração direta e indireta, julgue os itens que se seguem.
+
+      A criação de ministérios por intermédio de lei é exemplo de descentralização da administração pública, uma vez que eles desempenham suas atividades com autonomia, seguindo as diretrizes da Presidência da República.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A DATAPREV é uma autarquia e seus servidores são regidos pela Consolidação das Leis do Trabalho (CLT), embora o acesso aos respectivos cargos dependa da aprovação em concurso público."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As agências reguladoras são consideradas autarquias sob regime especial, criadas por lei e dotadas de poder regulamentar e normativo nos limites nela estabelecidos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito dos atos administrativos, julgue os seguintes itens.
+
+      Nos atos administrativos complexos, há vontade de mais de um órgão, sem qualquer subordinação entre eles, o que diferencia aqueles atos dos atos compostos, os quais dependem da verificação ou aprovação de outro agente.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Haja vista o interesse público, os atos administrativos têm presunção absoluta de legitimidade, de maneira que somente o Poder Judiciário pode afastar sua aplicação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação ao processo administrativo, julgue os itens a seguir.
+
+      A notificação do interessado no processo administrativo, de forma a permitir-lhe acesso aos autos e informá-lo do fato sobre o qual deve apresentar defesa, garante a observância da ampla defesa e do contraditório, afastando o cerceamento de defesa.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os atos devem ser realizados em dias úteis, no horário normal de funcionamento da repartição em que tramitar o processo, porém podem ser concluídos depois desse horário, caso já iniciados, ainda que eventual adiamento não ocasione prejuízo ao curso regular do procedimento ou dano ao interessado e à administração pública."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca dos agentes públicos e das funções públicas, julgue os itens subsequentes.
+
+      É pacificado o entendimento de que os magistrados se incluem na categoria dos agentes políticos, que são os titulares dos cargos estruturais da organização política do país, razão pela qual constituem os formadores da vontade superior do Estado.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Caso ocupante exclusivamente de cargo em comissão seja exonerado sob o fundamento de ter praticado ato de improbidade administrativa, mas se comprove que ele não cometeu tal conduta, o ato de exoneração deverá ser anulado, ante a teoria dos motivos determinantes, ainda que a exoneração não necessite de fundamentação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O acesso a cargos e empregos públicos somente se dá por intermédio de concurso público de provas ou de provas e títulos, conforme a complexidade do cargo ou emprego."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Quanto aos poderes administrativos, julgue os itens a seguir.
+
+      É ínsita ao poder regulamentar a possibilidade de especificar procedimentos previstos na lei.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O poder de polícia é a faculdade de que dispõe a administração pública para condicionar e restringir o uso e gozo de bens, atividades e direitos individuais, em benefício da coletividade ou do próprio Estado."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base nas informações do quadro precedente, que apresenta estatísticas descritivas referentes a duas variáveis quantitativas, X e Y, e sabendo que a covariância amostral entre elas é igual a 15, julgue os itens a seguir.
+
+      O coeficiente de correlação linear de Pearson entre as variáveis X e Y é superior a 0,6.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Dataprev/imagens/con_esp_9 86.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O modelo Ŷ = 2X - 10 representa a reta de regressão linear simples da variável Y sobre a variável X ajustada pelo método de mínimos quadrados ordinários."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Se Z = (2X+Y)/3, então a média amostral de Z é igual a 8."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A variância amostral da diferença X - Y é igual a 11."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Três eventos aleatórios, A, B e C, possuem probabilidade de ocorrência igual a P(A) = 0,5, P(B) = 0,3 e P(C) = 0,2, respectivamente.
+
+      Com base nessas informações, e considerando P(A∩B)=0, P(A∩C)=0 e P(B∩C) = 0, julgue os seguintes itens.
+
+      Os eventos A e B são independentes
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "P(A∪C) = 0,7"
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O valor da probabilidade condicional P(B|B∪C) é igual a 0,3."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "P(A∩B∩C) = 0,03."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Um estudo estatístico foi realizado para testar a hipótese nula H0: mu ≤ 37 contra a hipótese alternativa H1: mu > 37, em que mu denota a média populacional. Nesse estudo, que foi efetuado mediante amostragem aleatória simples de tamanho n = 30, obteve-se uma média amostral igual a 38 e variância amostral igual a 750.
+
+      Com base nessa situação hipotética, e supondo que a população siga uma distribuição normal, julgue os seguintes itens, sabendo que P(T>1,7) = 0,05, em que T segue uma distribuição t de Student com 29 graus de liberdade.
+      O p-valor do teste em questão é inferior a 0,05.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Se o nível de significância do teste for igual a 5%, então não haverá evidências estatísticas contra a hipótese nula, mesmo que a média amostral seja superior a 37."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "38±1,7 representa uma estimativa intervalar de 90% de confiança para a média populacional."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Se o tamanho da amostra fosse maior que 30, então o valor da probabilidade P(T > 1,7) seria superior a 0,05."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O teste em questão é unilateral."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Para determinado levantamento estatístico, 100 domicílios serão selecionados aleatoriamente de uma população constituída por 3.650 domicílios. Cada domicílio selecionado será visitado por um entrevistador, que coletará as informações desejadas sobre todas as pessoas residentes nesse domicílio.
+
+      A respeito desse plano amostral, julgue os itens a seguir.
+
+      Cada domicílio representa uma unidade amostral.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O levantamento estatístico descrito remete a uma amostragem aleatória estratificada, na qual cada domicílio representa um estrato da população."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, relativos ao Microsoft Word e ao Microsoft Excel avançado.
+
+      O Microsoft Word permite que se utilizem modelos personalizados da Microsoft, mas impede a criação de modelos a partir de documentos existentes.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No Microsoft Excel, é possível referenciar células que estão em outras planilhas da mesma pasta de trabalho."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "JavaScript é a linguagem de programação utilizada para escrever macros no Microsoft Excel."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A célula de uma planilha do Microsoft Excel pode conter dados de uma página da Internet."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Macros podem ser criadas utilizando-se um gravador de macros embutido no Microsoft Excel, que registra ações enquanto se executa uma tarefa."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere à manipulação de vetores em Python, julgue os itens seguintes.
+
+      O código a seguir, escrito em Python, será executado sem erros, pois, nativamente, é possível realizar operações matemáticas complexas em vetores sem a necessidade de importar bibliotecas.
+      ```
+      u = [1, 2, 3]
+      v = [[1], [2], [3]]
+      print(u@v)
+      ```
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma lista é um tipo de vetor em Python."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca da importação de dados em Python, julgue os itens que se seguem.
+
+      A leitura de arquivos .xml não requer a instalação da biblioteca Pandas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As classes elementTree e minidom servem para análise e modificação de dados XML."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Python só permite a leitura e a escrita de arquivos .csv e .xsls por meio da biblioteca Pandas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Com a função json.loads(), é possível ler os dados de um arquivo JSON."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere às bibliotecas Numpy, Pandas, Matplotlib e Scipy, julgue os itens subsequentes.
+
+      É possível criar um gráfico de linhas com a biblioteca Matplotlib.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A plotagem de gráficos em Python permite a criação de histogramas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A biblioteca Pandas permite a manipulação de data frames em Python."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A regressão linear multivariada é usada para análises estatísticas em Python e trabalha com uma variável explicativa."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A biblioteca Scipy permite criar regressões lineares multivariadas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito do AutoCAD, julgue os itens a seguir.
+
+      O comando ARRAYPATH (equivalente ao comando MATRIZCAMINHO da versão em português) pode ser usado para distribuir uniformemente cópias de objetos ao longo de um caminho que pode ser uma linha, uma polilinha, uma hélice, um círculo, um arco ou uma elipse.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Com o comando FILLET (equivalente ao comando CONCORD da versão em português), é possível criar um arredondamento ou uma concordância das arestas de dois objetos 2D ou das faces adjacentes de um sólido 3D."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O comando MIRROR (equivalente ao comando ESPELHAR da versão em português) oferece a opção de criar múltiplas cópias espelhadas de objetos ao mesmo tempo, através da definição de um ponto de base e do número de cópias desejado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No comando MIRROR (equivalente ao comando ESPELHAR da versão em português), por padrão, a direção do texto não é alterada quando se espelha um objeto de texto."
+    alternativas:
+      - Certo
+      - Errado
