@@ -36,3 +36,4 @@ jobs:
       run: python utils/novidades.py
       env:
         commit_message: ${{ github.event.head_commit.message }}
+        BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
