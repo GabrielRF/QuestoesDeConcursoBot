@@ -1,0 +1,345 @@
+---
+cargo: Analista em Ciência e Tecnologia - Gestão e Acompanhamento de Projetos e Programas em CT&I
+materia: Gestão Projetos - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      No que se refere à ciência de dados, julgue os itens a seguir.
+
+      Encontrar informações ocultas nos dados corresponde a um campo explorado na ciência de dados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A ciência de dados é usada, de maneira geral, para encontrar padrões em dados, sem fazer previsões."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsequentes com base na Lei n.º 13.243/2016, que dispõe sobre estímulos ao desenvolvimento científico, à pesquisa, à capacitação científica e tecnológica e à inovação.
+
+      Uma instituição científica, tecnológica e de inovação pode ser constituída por um órgão ou uma entidade da administração pública direta ou indireta e também por pessoa jurídica de direito privado que tenha fins lucrativos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A redução das desigualdades internacionais é um dos princípios a serem observados pelas medidas de incentivo à inovação e à pesquisa científica e tecnológica no ambiente produtivo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os seguintes itens, a respeito da Política e Estratégia Nacional de Ciência, Tecnologia e Inovação de 2023.
+
+      Um dos eixos estruturantes dessa política tem foco no desenvolvimento social.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A citada política apresenta seis eixos estruturantes, entre os quais se incluem a reindustrialização em novas bases e o apoio à inovação nas empresas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação ao termo de execução descentralizada (TED) entre órgãos e entidades da administração pública federal, julgue os itens subsequentes.
+
+      Para a celebração de TED, é necessário elaborar um plano de trabalho que contenha a descrição do objeto.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A descentralização de créditos orçamentários permite incluir o ressarcimento de despesas pela unidade descentralizada."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      De acordo com a Lei n.º 9.279/1996, julgue os itens a seguir, referentes à propriedade intelectual e industrial.
+
+      A repressão à concorrência desleal é uma medida prevista na citada lei, como uma forma de proteção dos direitos relativos à propriedade industrial.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Obras literárias e científicas são consideradas invenção e modelo de utilidade."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsequentes, no que se refere ao roteiro da Organização para a Cooperação e Desenvolvimento Econômico (OCDE) para o processo de adesão do Brasil em relação aos pontos afetos a ciência, tecnologia, indústria, pesquisa e desenvolvimento.
+
+      Em relação à pesquisa no Brasil, a OCDE espera que o país desenvolva acordos para apoiar a investigação aplicada, o que inclui a sustentabilidade das infraestruturas de investigação científica.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Segundo o roteiro da OCDE, o Brasil deve desenvolver políticas que incluam o licenciamento de propriedade e a mobilidade de pessoal altamente qualificado."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      De acordo com a Lei n.º 11.196/2005, julgue os próximos itens.
+
+      Há isenção do imposto sobre circulação de mercadorias e serviços (ICMS) no caso de venda ou de importação de bens novos destinados ao desenvolvimento de software e de serviços de TI.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Nos termos da citada lei, pessoa jurídica que exerça preponderantemente as atividades de desenvolvimento de software não é considerada beneficiária do regime especial de tributação para a plataforma de exportação de serviços de TI (REPES)."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de capacitação e competitividade do setor de informática e automação, julgue os itens subsequentes com base na Lei n.º 8.248/1991.
+
+      Na aquisição de produtos intermediários pelo CNPq, deve-se recolher o imposto sobre produtos industrializados (IPI) no caso de compras referentes a peças de reposição de máquinas, equipamentos, aparelhos e instrumentos produzidos no Brasil.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Nas aquisições de bens e serviços de informática, as entidades da administração pública federal devem dar preferência aos bens e serviços com tecnologia desenvolvida no Brasil."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação à política industrial para o setor de tecnologias da informação e comunicação, julgue os próximos itens com base na Lei n.º 13.969/2019.
+
+      A referida lei não faz distinção entre regiões administrativas no país para fins de concessão de crédito financeiro.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para fazer jus ao crédito financeiro, as pessoas jurídicas fabricantes de bens de tecnologias da informação e comunicação que investirem em atividades de pesquisa, desenvolvimento e inovação devem cumprir o processo produtivo básico."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens que se seguem, a respeito de indicadores nacionais de ciência, tecnologia e inovação.
+
+      Pedidos de patentes depositados no Instituto Nacional da Propriedade Industrial (INPI) não são considerados indicadores nacionais de ciência, tecnologia e inovação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      De acordo com a Lei n.º 11.540/2007, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT), julgue os itens a seguir.
+
+      O FNDCT tem o objetivo de financiar a inovação e o desenvolvimento científico e tecnológico, a fim de promover o desenvolvimento econômico e social do Brasil.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As despesas operacionais, de planejamento, prospecção, acompanhamento, avaliação e divulgação de resultados relativas ao financiamento de atividades de pesquisa científica e desenvolvimento tecnológico das programações específicas do FNDCT não poderão ultrapassar o montante correspondente a 2% dos recursos arrecadados anualmente nas respectivas fontes de receitas, observado o limite fixado anualmente por ato do Conselho Diretor."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O FNDCT caracteriza-se como fundo de investimentos e se vincula ao sistema financeiro e bancário nacional."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As funções dos membros do Conselho Diretor que administra o FNDCT serão remuneradas, por seu exercício ser considerado serviço público relevante."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na qualidade de Secretaria-Executiva do FNDCT, compete à Financiadora de Estudos e Projetos (FINEP) submeter ao Conselho Diretor do FNDCT, por intermédio do Ministério da Ciência e Tecnologia, propostas de planos de investimentos dos recursos do FNDCT."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Entre as receitas do FNDCT, estão as contribuições e doações de entidades públicas e privadas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere à Lei n.º 10.973/2004, julgue os itens subsequentes.
+
+      A instituição científica e tecnológica (ICT) pública poderá, mediante contrapartida unicamente financeira e por prazo determinado, nos termos de contrato ou convênio, permitir o uso de seu capital intelectual em projetos de pesquisa, desenvolvimento e inovação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "É facultado à instituição científica e tecnológica (ICT) celebrar acordos de parceria com instituições públicas e privadas para realização de atividades conjuntas de pesquisa científica e tecnológica e de desenvolvimento de tecnologia, produto, serviço ou processo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Ao criador é assegurada a participação mínima de 5% e máxima de 13% nos ganhos econômicos auferidos pela instituição científica e tecnológica (ICT) resultantes de contratos de transferência de tecnologia e de licenciamento para outorga de direito de uso ou de exploração de criação protegida da qual tenha sido o inventor, obtentor ou autor, aplicando-se, no que couber, o disposto no parágrafo único do art. 93 da Lei n.º 9.279/1996."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A União, os estados, o Distrito Federal, os municípios, as agências de fomento e as instituições científicas e tecnológicas (ICTs) públicas poderão apoiar o inventor independente, mesmo que ele não comprove o depósito de patente de sua criação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Quando aplicáveis, os instrumentos de estímulo à inovação nas empresas incluem: subvenção econômica, financiamento, participação societária, bônus tecnológico, encomenda tecnológica, incentivos fiscais e fundos de investimentos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de organização e métodos, julgue os seguintes itens.
+
+      Nas organizações complexas, a função de organização e métodos é composta dos seguintes três cenários: o institucional, os processos organizacionais e os processos e métodos de trabalho.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O escopo da análise de organização e métodos é capacitar o indivíduo a produzir mais, quantitativa ou qualitativamente, dentro de certa unidade de tempo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação ao planejamento estratégico e à gestão de ciência e tecnologia, a questões da atualidade em ciência, tecnologia e inovação e às políticas públicas de ciência, tecnologia e inovação, julgue os seguintes itens.
+
+      De acordo com a Portaria n.º 6.998/2023 do Ministério da Ciência, Tecnologia e Inovação (MCTI), a estratégia nacional de ciência, tecnologia e inovação será organizada especificamente em torno de dois eixos estruturantes — um voltado para programas e projetos estratégicos nacionais e o outro, para o desenvolvimento social.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "São quatro as agências de fomento que compõem o Sistema Nacional de Ciência, Tecnologia e Inovação: o Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), a Financiadora de Estudos e Projetos (FINEP) e o Banco Nacional do Desenvolvimento Econômico e Social (BNDES)."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Segundo dados da Organização para Cooperação e Desenvolvimento Econômico (OCDE), o Brasil conseguiu alcançar patamar muito semelhante ao dos países avançados tanto no quesito pesquisa e desenvolvimento quanto no que diz respeito aos recursos humanos envolvidos nisso."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca da análise de dados para tomada de decisão, da capacitação tecnológica e da competitividade, julgue o item a seguir.
+
+      Business intelligence (BI) pode ser definido corretamente como um conjunto de tecnologias que dão suporte a decisões gerenciais por meio de informações internas e externas às organizações, tendo grande impacto na estratégia corporativa, na performance e na competitividade.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de mecanismos e procedimentos de fomento à ciência, à tecnologia e à inovação no Brasil, julgue os itens a seguir.
+
+      Ao final de 2023, o CNPq lançou chamada pública para apoiar a realização no Brasil de eventos de grande porte, de abrangência unicamente nacional, relacionados à ciência, tecnologia e inovação, tais como encontros, congressos e outros similares.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Duas chamadas públicas lançadas em 2023 pelo MCTI e pelo CNPq foram a chamada universal e a chamada de bolsas de produtividade em pesquisa e produtividade em pesquisa sênior."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere à relação entre política e políticas públicas, julgue os próximos itens.
+
+      Embora uma política pública implique decisão política, nem toda decisão política representa uma política pública.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Como normalmente as políticas públicas são geradas no setor público, elas afetam somente os atores do segmento público."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O modelo incremental enxerga a política pública como uma continuação das atividades do governo anterior com algumas modificações de melhoramento."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na denominada política clientelista, os custos e benefícios são distribuídos à coletividade por meio de serviços públicos de educação, saúde e segurança pública."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsecutivos, a respeito da análise das políticas públicas.
+
+      Embora seja recomendada para iniciativas novas, a análise ex ante de políticas públicas é ainda mais importante e comum de ser aplicada para políticas públicas e programas em andamento.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A realização da análise ex ante de políticas públicas representa a importância dada pelas autoridades dirigentes à inauguração de processos mais estruturados e sistemáticos, em vez de agir pelas urgências ou por soluções de prateleira."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O programa de política pública deve transformar a incursão pela dimensão micro dos insumos e processos na visão macro da política."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O escopo da análise de uma política pública se resume nas etapas de identificação e fundamentação da política, modelagem do programa e definição do instrumento de política pública."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca dos tipos de políticas públicas, julgue os itens que se seguem.
+
+      Atores sociais são apenas aqueles que se envolvem diretamente nos processos relacionados aos diversos tipos das políticas públicas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A reforma agrária constitui exemplo de política pública distributiva."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na implementação de políticas públicas, a função estabilizadora do Estado consiste na efetivação das diversas políticas econômicas, a fim de viabilizar o emprego e o desenvolvimento sustentável."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As políticas regulatórias estabelecem regras e métodos que regulam o comportamento dos atores para acolher interesses gerais da sociedade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens seguintes, relativos ao papel da burocracia no processo de formulação e implementação de políticas públicas.
+
+      O fator discricionariedade influencia a implementação da política pública em função do espaço decisório da autoridade dirigente, uma vez que permite escolher entre alternativas e decidir como as políticas serão de fato implementadas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A estruturação de programas de políticas públicas depende da governança das autoridades dirigentes e das denominadas burocracias especializadas, os quais demandam esforço de coordenação e estabelecimento de cronogramas de ação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As redes de políticas públicas, capazes de influenciar as tomadas de decisão, caracterizam-se pela uniformidade de atores, verticalidade do poder e interesses comuns."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere a controle social, transparência e participação social, julgue os itens a seguir.
+
+      A realização de conferências nacionais e a criação dos conselhos de participação social são iniciativas coerentes com os arranjos institucionais que valorizam o controle social para aprimorar as políticas públicas implementadas pelo governo.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As publicações de relatórios periódicos e a aprovação de contas pelo Tribunal de Contas da União (TCU) são suficientes para demonstrar que determinado órgão da administração pública é transparente e aberto, pois a participação social é prescindível quando o assunto se refere a norma de transparência pública."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Haja vista as particularidades das demandas de cada segmento da sociedade, as bases de dados das manifestações dos cidadãos existentes nos vários órgãos da administração possuem objetivos diferentes e são necessárias para a transversalidade de temas e para a aprendizagem institucional no processo de formulação, implementação e avaliação das políticas públicas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A institucionalização do sistema nacional de participação social por meio de lei ordinária aprovada no Congresso Nacional foi fundamental para estruturar, coordenar e articular as relações do governo federal com os diferentes segmentos da sociedade civil na aplicação das políticas públicas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As informações geradas em canais de relacionamento com o cidadão, tais como audiências, consultas públicas, fale com o cidadão, ouvidorias e setor de atendimento ao cidadão, são inservíveis para a satisfação do cidadão e a modernização da máquina pública."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação às fases das políticas públicas e à sua formulação e implementação, julgue os itens subsequentes.
+
+      Para participar do conselho de direitos instituído no poder executivo, responsável por formular, acompanhar e avaliar as políticas públicas, é necessário que a pessoa interessada possua qualificação técnica, acadêmica e profissional compatível.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Conselho Nacional de Ciência e Tecnologia (CCT), órgão de assessoramento superior do ministro de Ciência e Tecnologia, atua na perspectiva de tornar ciência, tecnologia e inovação em um dos eixos estruturantes do desenvolvimento econômico e social do país."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Projetos de lei, regulamentações, portarias e decretos governamentais são instrumentos utilizados pelo Estado para a implementação de políticas públicas voltadas à resolução de problemas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na implementação de políticas públicas, são consideradas cinco perspectivas principais: de cima para baixo (top-down); de baixo para cima (bottom-up); formação e formulação de agenda; implementação; e monitoramento e avaliação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A proposição da política pública tem como característica a identificação do problema público e a determinação das possíveis soluções que possam ser adotadas pelo Estado para resolver o problema social que foi identificado na sociedade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O Congresso Nacional exerce papel significativo na formulação das políticas públicas, sendo, nesse processo, influenciado pelo nível de envolvimento da sociedade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação às fases das políticas públicas, aos processos decisórios e problemas de implementação e ao controle social, julgue os itens que se seguem.
+
+      A capacidade política para promover a participação social na gestão de políticas públicas indica as condições para a integração dos processos participativos aos processos decisórios do Estado.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A tomada de decisão é a função da política pública em que se decide adotar um curso de ação ou inação do Estado para tratar um problema social."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As organizações que viabilizam a participação social nas políticas públicas são incapazes tecnicamente de estabelecer conexão entre os órgãos públicos e o público alvo; por isso, nas fases do ciclo de gestão das políticas públicas, não se observa a participação social."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Entre os modelos de decisão da política pública estão o racional e o incremental: o primeiro conhece o problema de tal forma que torne possível tomar decisão de grande impacto, o segundo busca soluções de maneira gradual."
+    alternativas:
+      - Certo
+      - Errado
