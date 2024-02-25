@@ -1,0 +1,280 @@
+---
+materia: TI - Conhecimentos Gerais
+cargo: Desenvolvimento e Arquitetura de Software / Gestão de Dados Corporativos / Gestão e Governança de Tecnologia da Informação / Infraestrutura de Tecnologia da Informação
+questoes:
+  - enunciado: |
+      Texto CG1A1
+
+      Em 1947, o físico brasileiro César Lattes causou grande impacto nos meios científicos internacionais e conquistou reconhecimento com sua descoberta que elucidou alguns problemas pendentes de solução no campo da radiação cósmica e confirmou a teoria do físico japonês Hideki Yukawa sobre a existência de uma partícula supostamente responsável pela ligação entre prótons e nêutrons nos núcleos atômicos. Esse último aspecto foi bastante para dar um relevo todo especial à descoberta, enriquecendo seu significado com a possibilidade de novas aberturas no controle das forças nucleares, tão cobiçado depois das explosões atômicas. Toda a imprensa mundial e brasileira aclamou a descoberta, e a ciência brasileira saiu do porão para a sala de visitas.
+      No ano seguinte, Lattes voltou a causar impacto após conseguir a produção artificial daquela partícula em um acelerador do tipo circular, em Berkeley, nos Estados Unidos da América. E em 1949, a física no Brasil começou a se institucionalizar com a criação do Centro Brasileiro de Pesquisas Físicas. Junto com ela, a ciência, em geral, também organizava sua entidade representativa, com o surgimento da Sociedade Brasileira para o Progresso da Ciência (SBPC) naquele mesmo ano. Foi nesse caldo cultural que o almirante Álvaro Alberto ganhou mais argumentos para persuadir o governo brasileiro. Segundo seus depoimentos reproduzidos na coletânea *50 anos do CNPq contados pelos presidentes*, organizada por Shozo Motoyama, em maio de 1949, após a leitura de relatórios sobre a questão atômica, o presidente Dutra enviou ao Congresso Nacional um anteprojeto para criação do Conselho Nacional de Pesquisas, já prevendo seu papel na política nuclear. Depois de uma longa tramitação na Câmara dos Deputados e no Senado Federal, nascia o CNPq, com o almirante como seu primeiro presidente.
+      `Rodrigo Cunha. 60 anos do CNPq: da política nuclear ao desafio da descentralização. In: Ciência e Cultura, São Paulo, v. 63, n.º 2, 2011 (com adaptações).`
+
+      Considerando as ideias veiculadas no texto CG1A1, julgue os itens a seguir.
+
+      O texto apresenta um relato sobre a criação do CNPq, em meados do século passado, destacando a participação ativa do físico César Lattes nesse acontecimento.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Depreende-se do texto que o almirante Álvaro Alberto estava envolvido com o projeto de criação do que viria a ser o CNPq enquanto César Lattes conquistava reconhecimento científico internacional."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Entende-se do texto que, apesar do impacto das descobertas de César Lattes, a ciência brasileira ainda ocupava uma posição marginal no cenário mundial quando da criação do CNPq."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "À época da criação do CNPq, a física nuclear era um campo de conhecimento estratégico na política nacional e internacional, conforme se infere do texto."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Depreende-se do primeiro parágrafo que a imprensa nacional e internacional congratulou o físico japonês Hideki Yukawa pela sua descoberta da existência de uma partícula que liga prótons e nêutrons nos núcleos atômicos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca dos mecanismos de coesão textual empregados no texto CG1A1, julgue os próximos itens.
+
+      O pronome “daquela”, no primeiro período do segundo parágrafo, indica que se trata, nesse trecho do texto, da mesma partícula especificada no primeiro período do primeiro parágrafo.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A expressão “em maio de 1949” (penúltimo período do segundo parágrafo) indica a data da organização da citada coletânea por Shozo Motoyama."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No penúltimo período do segundo parágrafo, o segmento “seus depoimentos” refere-se aos depoimentos do presidente Dutra reproduzidos na coletânea *50 anos do CNPq contados pelos presidentes*."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação a aspectos linguísticos do texto CG1A1, julgue os itens subsecutivos.
+
+      O sujeito da forma verbal “confirmou” (primeiro período do primeiro parágrafo) é “César Lattes”.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A inserção de uma vírgula imediatamente após “bastante” (penúltimo período do primeiro parágrafo) preservaria a correção gramatical e os sentidos do texto."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A correção gramatical e a coerência das ideias do texto seriam preservadas caso o trecho “com o almirante como seu primeiro presidente” (final do segundo parágrafo) fosse reescrito da seguinte forma: *cujo primeiro presidente foi o almirante Álvaro Alberto*."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Sem prejuízo da correção gramatical e da coerência das ideias do texto, a forma verbal “nascia” (último período do segundo parágrafo) poderia ser substituída por *nasceu*."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, considerando as previsões do Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal (Decreto n.º 1.171/1994) e do Regime Jurídico dos Servidores Públicos Civis da União (Lei n.º 8.112/1990).
+
+      O servidor público é proibido de participar da administração de sociedade empresarial, personificada ou não personificada.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Constitui dever ético do servidor tratar cuidadosamente o usuário do serviço público e aperfeiçoar o processo de comunicação e o contato com o público."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal é inaplicável aos funcionários das entidades paraestatais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Opor resistência justificada ao andamento de documento constitui, em regra, falta funcional do servidor público."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com base nas disposições da Lei n.º 8.429/1992, que trata dos atos de improbidade administrativa, julgue os itens a seguir.
+
+      A responsabilidade do agente público é objetiva na prática do ato de improbidade.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Constitui ato de improbidade administrativa exercer atividade de consultoria para pessoa física que tenha interesse suscetível de ser atingido por ação ou omissão decorrente das atribuições do agente público, durante a atividade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As sanções previstas na referida lei se aplicam aos atos praticados contra o patrimônio de entidade privada que seja custeada pelo erário."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em certo mercado disputado por seis empresas, duas delas gozam de vantagem fiscal por operarem de fora do país. As proposições P e Q a seguir correspondem às regras desse mercado.
+
+      P: “Se a empresa possuir gestão eficiente, prestar serviços de qualidade e tiver alta produtividade, então, se destacará no mercado mesmo se não gozar de vantagem fiscal.”
+      Q: “Se uma das empresas do mercado possui vantagem fiscal, esse mercado não é isonômico.”
+
+      Acerca dessa situação hipotética, julgue os itens seguintes.
+
+      A tabela-verdade da proposição P possui mais de 30 linhas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A proposição Q é equivalente à seguinte proposição: “Se o mercado é isonômico, as empresas desse mercado não possuem vantagem fiscal.”."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Se uma das empresas não se destacar no mercado, então essa empresa não tem vantagem fiscal, conforme se infere da proposição P."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O número de maneiras de escolher três empresas entre as seis, de modo que não haja duas que gozem de vantagem fiscal, é superior a 15."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Se, entre as seis empresas, duas delas forem escolhidas aleatoriamente, a probabilidade de essas duas empresas gozarem de vantagem fiscal é superior a 10%."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Cláudio, servidor público lotado no setor de licitações do CNPq, recebeu de seu superior hierárquico a tarefa de instruir processo administrativo para contratação de mão de obra a fim de efetuar pequenos trabalhos, tendo sido estipulado preço certo para o contrato, que deverá incluir também o fornecimento de materiais.
+      Considerando essa situação hipotética, julgue os itens seguintes à luz da Lei n.º 14.133/2021, que dispõe sobre licitações e contratos, e da Lei n.º 9.784/1999, que regula o processo administrativo no âmbito da administração pública.
+
+      Por se tratar de processo administrativo de licitação, não poderá ser utilizado o instrumento da decisão coordenada, ainda que preenchidos todos os requisitos legais para a formação dessa instância decisória.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Cláudio deverá indicar o regime de contratação integrada, tendo em vista a necessidade de fornecimento de materiais pela contratada."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Marcos, funcionário de pessoa jurídica de direito privado prestadora de serviço público de transporte de passageiros no Distrito Federal, ao conduzir ônibus de propriedade da sociedade empresária durante a execução do serviço público concedido, foi responsável por acidente que ocasionou danos materiais no veículo de propriedade de Alessandro.
+      A partir dessa situação hipotética, julgue os itens a seguir de acordo com a doutrina e a jurisprudência do Supremo Tribunal Federal (STF).
+
+      No que se refere à responsabilidade civil do Estado, a Constituição Federal de 1988 adota a teoria do risco administrativo, de modo que o valor da indenização devida a Alessandro poderá ser reduzido, caso seja comprovada a culpa concorrente da vítima.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No polo passivo de eventual ação de indenização proposta por Alessandro, deverá constar ou o Distrito Federal, ou a pessoa jurídica de direito privado prestadora do serviço público, ou Marcos, responsável pelo acidente."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca do processo administrativo disciplinar, do controle administrativo e judicial dos atos administrativos e dos poderes da administração pública, julgue os itens que se seguem, considerando a jurisprudência do Superior Tribunal de Justiça (STJ).
+
+      O poder-dever de autotutela da administração pública, embora lhe permita rever os próprios atos ou anulá-los, quando ilegais, não possibilita a instauração de processo administrativo disciplinar com base em denúncia anônima.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Nenhuma incursão no mérito administrativo é permitida no âmbito do controle judicial no processo administrativo disciplinar, restringindo-se tal controle ao exame da regularidade do procedimento e da legalidade do ato."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca dos direitos e deveres individuais e coletivos e dos direitos sociais, julgue os itens que se seguem, com base na Constituição Federal de 1988.
+
+      Ao sindicato cabe a defesa dos direitos e interesses tanto coletivos quanto individuais da categoria, inclusive em questões judiciais ou administrativas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Aos que litigam, em processo judicial ou administrativo, é assegurado o direito ao contraditório e à ampla defesa."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      O inciso VIII do art. 5.º da Constituição Federal de 1988 prevê que “ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa, fixada em lei”. Em relação a esse dispositivo constitucional, julgue os itens seguintes.
+
+      A recusa de cumprir obrigação a todos imposta ou prestação alternativa, nos termos do citado dispositivo constitucional, enseja a cassação dos direitos políticos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O preceito constitucional mencionado consiste em norma de eficácia limitada."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca da organização político-administrativa do Estado brasileiro, julgue os próximos itens.
+
+      Compete à União, aos estados e ao Distrito Federal legislar concorrentemente sobre tecnologia, pesquisa, desenvolvimento e inovação.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "É competência comum da União, dos estados, do Distrito Federal e dos municípios proporcionar os meios de acesso à ciência, à tecnologia, à pesquisa e à inovação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Quanto à administração pública, do modelo racional legal ao paradigma pós-burocrático, julgue os itens a seguir.
+
+      O modelo de administração burocrática no Brasil surgiu ao final do processo da industrialização brasileira e modificou os critérios de aplicação do controle dos serviços públicos e as relações estabelecidas entre o poder público e seus servidores.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O gerencialismo tem como pressupostos o fortalecimento do gerenciamento público e de instituições de controle e a imputação de resultados e estruturas flexíveis de tal forma que o cidadão se perceba e participe como usuário de serviços públicos e contribuinte."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue o item a seguir, tendo em vista convergências e diferenças entre a gestão privada e a gestão pública.
+
+      Como prática exclusiva da gestão privada, a responsabilidade social e ambiental é uma estratégia composta por ações voluntárias de empresas em benefício da sociedade.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere à administração pública, seu orçamento e suas boas práticas, julgue os itens a seguir.
+
+      A excelência em gestão pública pressupõe atenção prioritária ao usuário dos serviços públicos.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O elemento organizativo central do plano plurianual (PPA) é o programa, que consiste em um conjunto articulado de ações orçamentárias, na forma de projetos, atividades e operações especiais, e ações não orçamentárias, com intuito de alcançar um objetivo específico."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Indicadores permitem o conhecimento sobre a situação que se deseja modificar, auxiliam na identificação dos objetivos, apontam soluções e resolvem problemas, facilitando o processo de tomada de decisão."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Businesses are starting to introduce new options for tipping at self-checkout machines, putting even more pressure on customers amid rising inflation costs. Despite having zero interaction with employees during transactions, self-checkout machines at places such as coffee shops, bakeries, airports, and sports stadiums are giving customers the option to leave the typical 20% tip, according to a report from the Wall Street Journal.
+      Business owners believe that the prompt for a tip can boost staff pay and increase gratuities — but customers are questioning where and to whom the extra cash is going, considering self-checkout is done by the customers themselves. “They’re cutting labor costs by doing self-checkout. So what’s the point of asking for a tip? And where is it going?” are some of the questions customers ask. But tipping researchers claim this is a way for companies to put the responsibility of paying employees on the customer rather than increasing employee salaries themselves. Self-tipping is viewed by many customers as a way to guilt-trip the person into tipping on something when they typically wouldn’t.
+      Many companies told the Journal that these tipping prompts are optional, and the extra gratuity is split between all employees. However, experts say that tips at a self-checkout machine might never even get to an actual employee since protections for tipped workers in the federal Fair Labor Standards Act don’t extend to machines.
+      `Internet: <https://nypost.com> (adapted).`
+
+      According to the previous text, judge the following items.
+
+      One of the reasons why business owners have introduced the option for tipping at self-checkout machines is that they believe it may raise their employees’ payment.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Tipping at self-checkout machines have become mandatory in most places like coffee shops, bakeries, airports, and sports stadiums."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "It can be inferred from the text that tipping reseachers and some customers suspect that the tips given through self-checkout machines will never reach the employees."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "The word “Despite” in the sentence “Despite having zero interaction with employees during transactions” (second sentence of the first paragraph) can be correctly replaced by *In spite of*, maintaining both the meaning of the fragment and its correction."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A lawyer used ChatGPT to prepare a court filing. It went horribly awry.
+      A lawyer who relied on ChatGPT to prepare a court filing on behalf of a man suing an airline is now all too familiar with the artificial intelligence (AI) tool’s shortcomings — including its propensity to invent facts.
+      Roberto Mata sued Colombian airline Avianca last year, alleging that a metal food and beverage cart injured his knee on a flight to Kennedy International Airport in New York. When Avianca asked a Manhattan judge to dismiss the lawsuit based on the statute of limitations, his lawyer submitted a brief based on research done by ChatGPT.
+      While ChatGPT can be useful to professionals in numerous industries, including the legal profession, it has proved itself to be both limited and unreliable. In this case, the AI invented court cases that didn’t exist, and asserted that they were real. The fabrications were revealed when Avianca’s lawyers approached the case’s judge, saying they couldn’t locate the cases cited in Mata’s lawyers’ brief in legal databases.
+      “It seemed clear when we didn’t recognize any of the cases in their opposition brief that something was amiss,” said the airline’s lawyer. And soon they figured it was some sort of chatbot of some kind. On the other hand, the passenger’s lawyer said that it was the first time he’d used ChatGPT for work and, therefore, he was unaware of the possibility that its content could be false.
+      `Internet: <www.cbsnews.com> (adapted).`
+
+      Based on the preceding text, judge the items that follow.
+
+      The sentence “And soon they figured it was some sort of chatbot” can be correctly rephrased as *And, before long, they realized it was some form of chatbot*.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "The passenger who sued the airline company because of an incident that happened during his flight is Colombian."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "When ChatGPT gave the passenger’s lawyer some court cases, it warned him they could not be factual."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "It is correct to infer from the text that, due to the lawyer’s expertise, he had used ChatGPT for work before."
+    alternativas:
+      - Errado
+      - Certo
