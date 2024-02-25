@@ -1,0 +1,377 @@
+---
+cargo: Gestão de Dados Corporativos
+materia: Gestão Dados - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      Julgue os itens seguintes, a respeito de ETL e de manipulação, tratamento e visualização de dados.
+
+      Em gráficos interativos, um usuário pode detalhar áreas de interesse, de modo que é possível passar de uma visualização agregada, que mostra o total de vendas de um ano inteiro, para os números de vendas mensais de determinado ano.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No processo de ETL, extrair refere-se à obtenção de dados e envolve ocupar-se com diferentes tipos de esquemas e regras em vários sistemas de origem."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere a processamento de linguagem natural (PNL) e a deep learning, julgue os itens subsecutivos.
+
+      Deep learning é um algoritmo que simula o cérebro humano por meio de algoritmos probabilísticos de aprendizado do comportamento em que uma população de representações abstratas de solução é selecionada em busca de soluções melhores.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "PNL é um campo da ciência da computação que trata da interação entre computadores e linguagens humanas e tem por objetivo proporcionar aos computadores a capacidade de compreender e reproduzir a linguagem humana."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, a respeito de mineração de dados, de arquitetura dos dados e de modelagem de dados.
+
+      No Relacionamento entre a Entidade1 e a Entidade2 a seguir, os pés de galinha em ambos os lados indicam uma relação muitos para muitos entre as entidades.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 CNPq/imagens/con_esp_3 55.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Mineração de dados combina técnicas de descoberta de conhecimento com técnicas de implementação eficientes que permitem seu uso em bancos de dados extremamente grandes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Modelos de dados lógicos fornecem maiores detalhes acerca dos conceitos e relacionamentos no domínio em consideração, indicando atributos de dados, como tipos de dados e seus respectivos comprimentos, e relacionamentos entre entidades, além de informar como será organizado e quais regras de negócios estão envolvidas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca de técnicas de modelagem de BI (business intelligence), de big data e de linguagem de manipulação de dados (DML), julgue os itens que se seguem.
+
+      As tabelas de dimensão na modelagem para BI são estruturas de dados com informações agregadas e medidas específicas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A DML não procedimental exige que um usuário especifique quais dados são necessários sem especificar como obtê-los."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Variedade, uma das métricas de big data, é caracterizada por armazenar e processar uma quantidade de dados muito maior do que os bancos de dados tradicionais foram projetados para suportar, incluindo os bancos de dados relacionais paralelos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsecutivos, com base em análise de dados e informações e em mapeamento de fonte de dados.
+
+      O mapeamento dos dados tem como objetivo coletar, armazenar, recuperar, manipular, visualizar e analisar dados espaciais ligados ao sistema de coordenadas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A análise descritiva envolve a utilização de técnicas estatísticas e algoritmos para fazer previsões ou estimativas sobre eventos futuros com base em dados históricos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere a sistemas gerenciadores de banco de dados (SGDB), julgue os próximos itens.
+
+      Um SGBD se caracteriza por ser um programa de acesso de dados em formato de entidade e relacionamento.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Evitar redundância, uma das funções de um SGBD, tem por objetivo evitar que cópias dos mesmos dados sejam armazenadas em lugares diferentes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de arquitetura e políticas de engenharia de dados, julgue o item que se segue.
+
+      O arquiteto de dados é responsável por realizar alterações no esquema dos dados e na organização física da entidade para refletir as mudanças nas necessidades da organização ou para alterar a organização física para melhorar o desempenho.
+
+      Tendo como referência a tabela precedente, de nome dados, julgue os itens subsequentes, com relação à SQL.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 CNPq/imagens/con_esp_3 65.png?raw=true
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considere-se a seguinte expressão SQL.
+      ```
+      select categoria, modelo, sum(valor)
+      from dados
+      group by cube(categoria, modelo)
+      ```
+      Essa expressão, após executada, apresentará o resultado a seguir.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 CNPq/imagens/con_esp_3 66.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      As expressões SQL a seguir geram resultados que são equivalentes.
+      ```
+      delete from dados;
+      ```
+      ```
+      drop table dados;
+      ```
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      As expressões SQL a seguir, após serem executadas, gerarão o mesmo resultado.
+      ```
+      insert into dados values (2,'C',40);
+      ```
+      ```
+      insert into dados (categoria, modelo, valor)
+      values (2,'C',40);
+      ```
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, a respeito da Política Nacional de Segurança da Informação (PNSI), prevista no Decreto n.º 9.637/2018.
+
+      A segurança da informação abrange a segurança física e a proteção a dados organizacionais.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Entre os princípios da PNSI, incluem-se soberania nacional e visão abrangente e sistêmica da segurança da informação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Entre os objetivos previstos na PNSI, estão orientar ações relacionadas à segurança dos dados custodiados por entidades públicas e fomentar a formação e a qualificação dos recursos humanos necessários à segurança da informação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A Estratégia Nacional de Segurança da Informação deve conter as ações estratégicas e os objetivos relacionados à segurança da informação, sendo sua construção e manutenção de responsabilidade da presidência da República."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O comitê gestor de segurança da informação foi instituído com a atribuição de assessorar a Agência Brasileira de Inteligência."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considerando o Decreto n.º 10.748/2021, que institui a Rede Federal de Gestão de Incidentes Cibernéticos, julgue os itens que se seguem.
+
+      Um dos objetivos previstos no referido decreto é a promoção da cooperação entre os participantes da rede federal de gestão de incidentes cibernéticos.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Conforme o mencionado decreto, a equipe de coordenação setorial se encarrega de prevenção, tratamento e resposta a incidentes cibernéticos das agências reguladoras."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O Tribunal de Contas da União é responsável por elaborar, atualizar e divulgar um plano de gestão de incidentes cibernéticos para as entidades da administração pública federal direta, autárquica e fundacional, a fim de minimizar vazamento de informações críticas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Compete ao Ministério da Defesa convocar reunião para deliberar a respeito da ocorrência de incidente cibernético."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação à Estratégia Nacional de Segurança de Infraestruturas Críticas, de que trata o Decreto n.º 10.569/2020, e da Política Nacional de Segurança de Infraestruturas Críticas, instituída pelo Decreto n.º 9.573/2018, julgue os itens subsequentes.
+
+      Conscientização e capacitação compõem um dos principais pilares para a efetividade de segurança de infraestruturas críticas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Identificar ameaças e vulnerabilidades de infraestruturas críticas é uma atribuição dos grupos técnicos de segurança de infraestruturas críticas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A Política Nacional de Segurança de Infraestruturas Críticas tem como princípio a análise de riscos para reação a incidentes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os próximos itens, referentes ao Plano Nacional de Segurança de Infraestruturas Críticas, de que trata o Decreto n.º 11.200/2022, e ao Plano de Gestão de Incidentes Cibernéticos para a administração pública federal, previsto na Portaria GSI/PR n.º 120/2022.
+
+      O Conselho Nacional de Desenvolvimento Científico e Tecnológico é responsável por promover a cooperação com órgãos e entidades nacionais e internacionais nas atividades voltadas para a segurança de infraestruturas críticas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A distribuição de responsabilidades referente à área prioritária de biossegurança e bioproteção é atribuição do Ministério da Defesa."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "De acordo com a Portaria GSI/PR n.º 120/2022, a segurança de redes é um dos principais controles organizacionais na administração pública federal."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A designação do gestor de segurança da informação é parte das atividades preparatórias previstas no Plano de Gestão de Incidentes Cibernéticos para a administração pública federal."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando o Glossário de Segurança da Informação, constante da Portaria GSI/PR n.º 93/2021, julgue os seguintes itens.
+
+      Análise estática é descrita como o tipo de teste que verifica a lógica interna de software em busca de falhas ou vulnerabilidades.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Administrador de perfil institucional é o agente público com autorização de responsável pela área interessada para administrar perfis institucionais de órgão ou entidade da administração pública federal, direta e indireta, nas redes sociais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsecutivos, a respeito da estrutura de gestão da segurança da informação nos órgãos e nas entidades da administração pública federal, de que trata a Instrução Normativa GSI n.º 1/2020.
+
+      Uma política de atualização deve ser criada para descrever os controles de segurança da informação com a orientação do uso adequado de ativos de informação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Todos os órgãos e entidades da administração pública federal são obrigados a ter uma política de segurança da informação, devidamente implementada."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, relativos à segurança da informação e proteção de dados, considerando a Instrução Normativa GSI n.º 2 e a Instrução Normativa GSI n.º 3.
+
+      Cabe ao gestor de segurança da informação de cada órgão ou entidade elaborar o plano de gestão de riscos de segurança da informação e o relatório de tratamento de riscos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Compete aos órgãos e às entidades da administração pública federal direta e indireta, em seu âmbito de atuação, instituir e implementar a equipe de prevenção, tratamento e resposta a incidentes cibernéticos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A equipe de prevenção, tratamento e resposta a incidentes cibernéticos tem como atribuição assessorar a implementação das ações de segurança da informação e participar da elaboração da política de segurança da informação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Nos aspectos de segurança da informação, a gestão de riscos de segurança da informação, a avaliação de conformidade e a gestão de mudanças são processos de realização obrigatória pelos órgãos e pela entidade da administração pública federal."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Ao gestor de segurança da informação cabe coordenar o processo de mapeamento de ativos de informação e designar um agente responsável pela gestão dos ativos de informação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca da segurança da informação quando se trata da utilização de computação em nuvem e de mídias sociais, julgue os itens subsequentes, de acordo com a Instrução Normativa GSI n.º 5 e com a Instrução Normativa GSI n.º 6 consolidada em 2021.
+
+      Nuvem privada, nuvem comunitária, nuvem pública e nuvem híbrida são modelos de implantação que compõem a computação em nuvem.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Ao comitê de segurança da informação compete supervisionar a aplicação do ato normativo sobre o uso seguro de computação em nuvem."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Definir os requisitos criptográficos mínimos para o armazenamento de dados e informações, custodiados pela administração pública federal, em soluções de computação em nuvem é competência do comitê de segurança da informação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Informações classificadas ou de acesso restrito poderão ser publicadas com a autorização do administrador de perfis institucionais em mídias sociais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O ato normativo e suas atualizações sobre o uso de mídias sociais deverão ser divulgados a todos os servidores, empregados públicos, militares e prestadores de serviço do órgão ou da entidade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os servidores, empregados públicos, militares e prestadores de serviço não poderão disponibilizar nas mídias sociais conteúdo que infrinja a Lei n.º 7.716/1989, as leis de propriedade intelectual ou as leis de privacidade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Poderão realizar ou autorizar postagens em mídias sociais em nome do órgão ou da entidade apenas servidores terceirizados e servidores efetivos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsequentes, relativos à segurança da informação e proteção de dados, de acordo com a Instrução Normativa GSI n.º 6 – Original / Instrução Normativa GSI n.º 7 e com a Instrução Normativa GSI n.º 1.
+
+      É de atribuição do comitê de segurança da informação interno dos órgãos e das entidades da administração pública federal coordenar a elaboração da política de segurança da informação e das normas internas de segurança da informação do órgão.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A periodicidade para a revisão da política de segurança da informação não deve exceder 4 anos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Cabe à alta administração do órgão ou da entidade apreciar e aprovar o relatório de avaliação de conformidade e encaminhá-lo ao gestor de segurança da informação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca de disposições gerais, orientações básicas, conceitos e definições relativos à segurança da informação, julgue os itens subsecutivos, considerando as normas complementares do GSI.
+
+      A equipe de tratamento e resposta a incidentes em redes computacionais deve ser chefiada e gerenciada por um agente responsável, que pode ser um militar de carreira ou um servidor terceirizado.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A equipe de tratamento e resposta a incidentes em redes computacionais deve viabilizar e assegurar a disponibilidade, a integridade, a confidencialidade e a autenticidade da informação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os agentes públicos que utilizam dispositivos móveis corporativos não devem instalar, nesses dispositivos, aplicativos ou recursos não disponibilizados pelo setor responsável, salvo no caso de o agente ser um funcionário do suporte técnico."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Hash é um método criptográfico que, quando aplicado sobre uma informação, gera um resultado único e de tamanho fixo, independentemente do tamanho da informação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O registro de eventos relevantes em um dispositivo ou sistema computacional é denominado log ou registro de auditoria."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base na Lei n.º 14.133/2021, julgue os seguintes itens.
+
+      O projeto básico, documento constitutivo da primeira etapa do planejamento de uma contratação, dá a base para o anteprojeto e caracteriza o interesse público na contratação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na contratação de projetos e serviços de desenvolvimento de softwares, os autores devem ceder à administração pública todos os direitos patrimoniais a eles relativos; assim, os softwares poderão ser livremente alterados e utilizados em outras ocasiões, sem necessidade de novas autorizações por parte dos autores."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere à gestão e à fiscalização de contratos de TI, julgue os itens que se seguem.
+
+      A renovação contratual e o gerenciamento de riscos de uma contratação de TI poderão utilizar como subsídio o histórico de gestão de contrato, artefato que permite documentar os principais acontecimentos positivos ou negativos que ocorrerem durante a execução do contrato.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na execução de um serviço de TI, o contratado poderá empregar um agente público que estiver atuando na fiscalização ou na gestão do contrato, desde que o edital de licitação expressamente o permita."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, considerando a Lei n.º 12.527/2011 (Lei de Acesso à Informação), o Decreto n.º 7.845, o Decreto n.º 7.724, e suas alterações.
+
+      A Lei n.º 12.527/2011 reconhece a obrigatoriedade de consentimento para divulgação de informações pessoais quando estas forem necessárias à prevenção ao diagnóstico médico, quando o interessado estiver física ou legalmente incapaz, com a finalidade única e exclusiva de tratamento médico.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Decreto n.º 7.724 inclui autarquias e sociedades de economia mista na sua abrangência."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O Decreto n.º 7.845 tem por objetivo regulamentar exclusivamente procedimentos para credenciar e tratar segurança da informação classificada como confidencial no âmbito do Poder Executivo federal."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com base na Lei n.º 12.737/2012 (Lei de Delitos Informáticos), julgue os itens a seguir.
+
+      Multa financeira e atuação em trabalhos sociais são as penas previstas para interrupção ou perturbação de serviço de informação de utilidade pública.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Configura-se como crime divulgar informações de forma não autorizada, obtidas por meio de invasão."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca da Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados), julgue os itens subsecutivos.
+
+      Segundo a Lei n.º 13.709/2018, o titular dos dados pessoais tem assegurado o direto de obter informações a respeito do tratamento dos seus dados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A Lei Geral de Proteção de Dados aborda o tratamento de dados pessoais e se aplica também à administração pública."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os dados que forem anonimizados serão considerados dados pessoais para os fins da Lei Geral de Proteção de Dados independente se a anonimização possa ser revertida ou não."
+    alternativas:
+      - Errado
+      - Certo
