@@ -1,0 +1,348 @@
+---
+materia: Conhecimentos Específicos
+cargo: Analista
+questoes:
+  - enunciado: |
+      Com base na NBR ISO/IEC 27000, julgue os próximos itens, a respeito das definições para confiabilidade e integridade.
+
+      A integridade é uma propriedade que visa aplicar conhecimentos e habilidades para garantir a assinatura digital.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A confidencialidade é uma propriedade segundo a qual as informações não podem ser disponibilizadas a indivíduos, entidades ou processos que não estejam previamente autorizados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca de conceitos relacionados a controle de acesso, julgue os itens a seguir.
+
+      Em situações de gerenciamento de acesso de usuários a sistemas críticos, o uso de ferramentas de segundo fator de autenticação e gerenciamento de acesso privilegiado é restrito aos administradores do sistema.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O uso de processos e ferramentas para criar, atribuir, gerenciar e revogar credenciais de acesso para usuários é considerado uma boa prática de segurança da informação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens que se seguem, relativos à política de segurança da informação, segundo a NBR ISO/IEC 27001:2013.
+
+      A política de segurança da informação somente deve ser comunicada dentro da organização quando for apropriado.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A política de segurança da informação deve estar disponível como referência aberta para consulta fora da organização."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca do uso do Open ID Connect e das técnicas de autenticação a ele relacionadas, julgue os itens subsequentes.
+
+      O Open ID Connect não suporta a autorização delegada; nesse caso, deve existir o gateway de autenticação configurado.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "ID Token é um artefato que carrega informações pessoais sobre os usuários finais, os quais se autenticam em um fluxo Open ID Connect."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Quanto ao OWASP Top 10, julgue os itens seguintes.
+
+      Quando os desenvolvedores de software não testam a compatibilidade de bibliotecas atualizadas ou corrigidas, isso caracteriza um problema de segurança que o OWASP nomeia como componentes vulneráveis e desatualizados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, relativos às metodologias Scrum e XP e à biblioteca ITIL v4.
+
+      Enquanto a metodologia Scrum traz uma abordagem mais voltada para a gestão, com maior foco nas reuniões, no planejamento e na melhoria contínua, a metodologia XP tem maior enfoque nas práticas técnicas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na metodologia Scrum, as pessoas envolvidas no processo de desenvolvimento são dividas em três papéis principais: o scrum master, o product owner e o product backlog."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na metodologia XP, todo código deve possuir testes de unidade, os quais devem ser executados com sucesso antes que uma entrega seja feita."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Conforme um dos princípios orientadores do ITIL v4, ao se fazer o design de um novo serviço ou processo, o recomendado é sempre analisar o que já está implementado."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O ITIL v4 não recomenda a utilização do método ágil Lean para viabilizar a transformação digital dos clientes, uma vez que essa versão do ITIL não foca na otimização dos processos que envolvem tarefas repetitivas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considerando que existem diferentes tipos de banco de dados, como os bancos de dados relacionais e os não relacionais (ou NoSQL), julgue os itens a seguir.
+
+      A modelagem de dados lógica, cujo objetivo é especificar entidades, atributos, relacionamentos e restrições, considera aspectos técnicos de implementação, como desempenho e integridade dos dados.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue o seguinte item, a respeito da gestão de banco de dados.
+
+      O particionamento, que é uma técnica utilizada para dividir o banco de dados em partes menores denominadas partições, garante a disponibilidade do banco de dados, especialmente em sistemas com grande volume de dados.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere a servidores web e de aplicações, julgue os itens subsecutivos.
+
+      O console de administração do Wildfly é uma interface baseada na web que permite gerenciar o servidor Wildfly e os aplicativos implantados; para que o usuário acesse o console de administração ao digitar a respectiva URL, é necessário configurar o arquivo standalone.xml com as credenciais de administração.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para o correto funcionamento do servidor web Nginx no Debian/Ubuntu, é necessário realizar a liberação do HTTP e do HTTPS no firewall por meio da habilitação do perfil Nginx Full."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      O React é compatível com outras bibliotecas e frameworks, como o Redux e o AngularJS, e pode ser integrado a essas tecnologias. Em relação aos procedimentos necessários para realizar uma integração do React com o AngularJS, julgue o item subsequente.
+
+      Para permitir a integração entre os frameworks React e AngularJS, um passo a ser executado é criar um componente React e renderizá-lo dentro desse elemento, usando-se o método ReactDOM.render().
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      SPA (single-page app), ou aplicativo de página única, é uma abordagem para criar interfaces web em que todas as interações acontecem dentro de uma única página web. Acerca do SPA, julgue o item a seguir.
+
+      Umas das desvantagens de usar o SPA é que o conteúdo não é atualizado dinamicamente, sendo necessário carregar uma nova página a cada interação do usuário, o que pode ocasionar interrupções na navegação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Quanto à adoção do SUS (System Usability Scale) no teste de usabilidade, julgue o item seguinte.
+
+      O questionário SUS, que idealmente deve ser aplicado ao final do teste qualitativo, consiste de dez perguntas, e cada uma delas o usuário pode responder com base em uma escala de 1 a 5, em que 1 significa discordo completamente e 5, concordo completamente.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, relativos a tecnologias backend.
+
+      Para facilitar a criação de imagens otimizadas do Docker, o Spring Boot suporta a adição de um arquivo de índice de camada ao jar e também suporta camadas para arquivos war, projetadas para separar o código com base na probabilidade de alteração entre as compilações do aplicativo, uma vez que é mais provável que o código do aplicativo mude entre as compilações; logo, o código é isolado em uma camada separada.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em relação à gestão de bloqueio em um banco de dados relacional, o Hibernate 6.2 utiliza a estratégia otimista, uma vez que essa estratégia assume que várias transações podem ser concluídas sem afetar outras, logo, nessa versão, prescinde-se da estratégia pessimista."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação à tecnologia de desenvolvimento móvel, julgue os itens subsecutivos.
+
+      Considerando-se que o código a seguir tenha sido desenvolvido por meio de Flutter, que é uma estrutura de código aberto do Google para criar aplicativos multiplataforma, é correto afirmar que, nesse exemplo, há dois widgets: o Center e o Text, os quais descrevem como a visualização dos widgets deve parecer diante de sua configuração e seu estado atuais.
+      ```
+      import 'package:flutter/material.dart';
+
+      void main() {
+        runApp(
+        const Center(
+        child: Text(
+        'Hello, world!',
+        textDirection: TextDirection.ltr,
+        ),
+        ),
+        );
+      }
+      ```
+
+      No SQLite 3, é possível criar uma tabela com três colunas, X, Y e Z, tal que essas colunas não possuam qualquer tipo de dado específico atribuído, ou seja, é possível armazenar o que se quiser em qualquer uma dessas colunas, pois o SQLite é flexível e indulgente em relação aos tipos de dados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O SQLite 3 possui características distintas de bancos de dados relacionais como PostgreSQL, Oracle e SqlServer; entre elas, está a característica de que, com o SQLite, o processo que deseja acessar o banco de dados lê e escreve diretamente dos arquivos do banco de dados em disco, sem a necessidade de haver processo de servidor intermediário, ou seja, não há processo de servidor separado que gerencie o banco de dados SQLite."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens seguintes, relativos às ferramentas de gestão de configuração.
+
+      No Git, o usuário, para compartilhar um commit com membros de sua equipe de desenvolvimento, deve executar os três passos descritos a seguir: adicionar arquivos da cópia de trabalho à área de staging, usando o comando git add; enviar para seu repositório local, usando o comando git push; e enviar para um repositório remoto compartilhado, usando o comando git checkout.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No Git, havendo a necessidade de criar uma nova branch de nome systemmobile quando, por exemplo, se deseja adicionar código a um projeto, mas não se tem certeza se o código funciona corretamente, é possível criar a referida branch por meio do comando git add -b systemmobile."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de WebSockets, julgue o item subsecutivo.
+
+      O uso de WebSockets com HTTP/2 aproveita novos recursos, tal como multiplexação, que reduz o tempo e os recursos necessários ao fazer várias solicitações ao servidor; por usar CONNECT em vez de GET, pode ser preciso atualizar suas rotas e seus controladores.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsequentes, referentes a ferramentas de integração assíncrona e contêineres.
+
+      O Kubernetes permite agrupar hosts executados em contêineres Linux (LXC) em clusters Kubernetes, os quais podem conter um kubelet, que é um grupo de um ou mais contêineres implantados em um nó, suportando aplicações que realizam, por exemplo, a transmissão de dados em tempo real pelo Apache Kafka.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Apache Kafka 3.4 é uma plataforma voltada para processar dados de eventos de streaming ou dados que não têm início ou fim distintos. Ele possui recursos de publicar (escrever) e assinar (ler) fluxos de eventos e de processar fluxos de eventos à medida que ocorrem; portanto, nessa plataforma, prescinde-se do armazenamento de fluxos de eventos de forma durável."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A engenharia de requisitos é uma etapa crítica no desenvolvimento de software, pois ajuda a garantir que o produto final atenda às necessidades do cliente e aos objetivos do projeto. Acerca da engenharia de requisitos, julgue os itens subsequentes.
+
+      Os itens de backlog épicos não devem ser adicionados ao backlog do produto, por serem muito amplos e de difícil gestão pelo dono do produto e pelo time de desenvolvimento.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O produto mínimo viável (MVP) é uma ferramenta fundamental no processo de validação de uma ideia de negócio, por meio da coleta de problemas, oportunidades e feedbacks."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A análise de ponto de função tem como base as funcionalidades que um sistema deve realizar, enquanto a story points é baseada em uma estimativa relativa, que compara a complexidade e o esforço de uma tarefa com outras já realizadas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens que se seguem, tendo em vista que a qualidade de software pode ser avaliada por meio de testes, revisões, inspeções e outras técnicas.
+
+      A técnica de revisão e programação por pares é útil para melhorar a qualidade do código e aumentar a compreensão do projeto, mas requer habilidades de comunicação e colaboração entre os membros da equipe.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca da gestão de configuração, julgue o item a seguir.
+
+      A prática de database migration é fundamental em DevOps para garantir a consistência dos dados bem como sua disponibilidade e segurança.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Quanto à resiliência de aplicações, referente à capacidade de um aplicativo de fornecer seus serviços normalmente mesmo diante de situações adversas, julgue o item a seguir.
+
+      Arquiteturas de site ativo × ativo são utilizadas para garantir a continuidade dos negócios e fornecer aos usuários uma experiência ininterrupta.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca das abordagens low-code e no-code, julgue o item subsequente.
+
+      Low-code e no-code são abordagens que utilizam plataformas visuais e intuitivas para facilitar o desenvolvimento de aplicativos de forma segura, sem oferecer riscos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de padrões de projeto, julgue os próximos itens.
+
+      O padrão Decorator permite acrescentar funcionalidades a um objeto em tempo de execução, flexibilizando a extensão de classes.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No catálogo GoF, a classe Factory Method tem, em seu escopo, os padrões Builder, Prototype, Composite e Iterator."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O objetivo do padrão Observer do catálogo GoF é garantir que todos os dependentes de um objeto sejam notificados quando houver mudança no estado do referido objeto."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação a design de software, julgue os itens a seguir.
+
+      Em DDD (Domain-Driven Design), ubiquitous language representa o jargão utilizado no domínio projeto, que deve ser entendido completamente pela área de negócio e pela equipe de desenvolvimento.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os padrões SAGA e CQRS têm como objetivo manter a consistência transacional de uma arquitetura de microsserviços."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Quanto a tecnologias de integração, julgue os itens seguintes.
+
+      A linguagem de programação CORBA permite a execução conjunta de diversos serviços, independentemente de onde os servidores estejam localizados.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O serviço que atende uma API RESTful pode ser construído em uma linguagem de programação e depois alterado para outra sem necessidade de alterar a comunicação entre cliente e servidor."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As solicitações e respostas empacotadas em mensagens SOAP (Simple Object Access Protocol) são escritas em HTML e contêm as informações para a execução de um web service."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de clean code, julgue os itens que se seguem.
+
+      O princípio de segregação de interface do SOLID determina a responsividade, em que uma mesma interface atende a vários aparelhos, sem necessidade de modificações individuais.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma das premissas para que um código seja considerado “limpo” é que suas funções sejam pequenas e cada uma execute apenas uma funcionalidade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Tendo como referência inicial a figura precedente, julgue os itens a seguir, relativos a orientação a serviço.
+
+      Na abordagem IaaS, dos itens listados na figura, o usuário é responsável por Applications, Data, Runtime, Middleware e O/S, ao passo que um fornecedor é responsável por gerenciar a Storage e a Virtualization, por exemplo.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 Serpro/imagens/con_espec 108.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Assim como na PaaS, na abordagem IaaS há necessidade de o usuário manter e atualizar os produtos de software, incluindo o sistema operacional, uma vez que os provedores de serviços garantem e proveem os itens que se encontram abaixo de Middleware na figura."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na abordagem PaaS, de todos os itens listados na figura, o usuário tem responsabilidade somente quanto a Applications e Data."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Aprendizado de máquina é um subcampo da inteligência artificial que consiste no treinamento de modelos computacionais para que possam reconhecer padrões e, a partir de um conjunto de dados de entrada, prever o valor de uma variável de saída. Em relação ao aprendizado de máquina, julgue os itens a seguir.
+
+      A matriz de confusão permite avaliar o desempenho de um modelo de classificação a partir da frequência de erros e acertos.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A regressão logística utiliza variáveis independentes categóricas para prever uma variável lógica ou booliana."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A medida de confiança de uma regra de associação é calculada pela frequência com que tal regra aparece em transações individuais na base de dados transacional."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em aprendizado de máquina, as características de entrada e saída são definidas, respectivamente, como atributos previsores e atributos alvo ou meta."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As técnicas de agrupamento têm por objetivo fazer a previsão de um atributo alvo a partir do agrupamento de dados que compartilhem padrões semelhantes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca de armazenamento e processamento de dados, julgue os itens a seguir.
+
+      A heterogeneidade é um dos requisitos de um sistema de arquivos distribuídos e determina que as interfaces de serviço devem ser definidas de modo que os softwares clientes e servidores possam ser implementados para diferentes sistemas operacionais.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O MapReduce possibilita o processamento de um grande volume de dados por distribuir o processamento entre diferentes computadores."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Big data é um conceito definido exclusivamente pelo volume de dados utilizados em análises."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em um processamento paralelo, o uso de P processadores aumenta a velocidade de processamento de uma aplicação em um fator de P."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma das características do data lake é armazenar um grande volume de dados brutos e heterogêneos, oriundos de diversas fontes distintas."
+    alternativas:
+      - Certo
+      - Errado
