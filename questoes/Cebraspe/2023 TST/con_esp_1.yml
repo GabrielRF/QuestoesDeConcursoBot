@@ -1,0 +1,248 @@
+---
+materia: Medicina - Conhecimentos Específicos
+cargo: Clínica Médica
+questoes:
+  - enunciado: |
+      Pessoa do sexo feminino, de 62 anos de idade, assintomática, tabagista de 30 anos-maço e sem comorbidades, procurou atendimento médico preocupada com a possibilidade de desenvolver câncer de pulmão. Os resultados dos exames físicos e laboratoriais foram normais.
+      Nesse caso clínico hipotético, para a detecção precoce da referida patologia, o exame mais recomendado é
+    alternativas:
+      - tomografia computadorizada de tórax com baixa dose de radiação.
+      - prova de função pulmonar com medida da difusão do monóxido de carbono.
+      - radiografia de tórax.
+      - cintilografia de ventilação e perfusão.
+      - ressonância magnética com gadolínio.
+  - enunciado: |
+      *Caso clínico 1A1-I*
+
+      Uma paciente de 46 anos de idade, com diagnóstico de síndrome do túnel do carpo, hipertensão arterial sistêmica (HAS) e diabetes do tipo 2 (DM2) havia quatro anos, estava em uso regular de anlodipino, enalapril, hidroclorotiazida, metformina, sitagliptina e glicazida nas doses máximas preconizadas. Ela relatou cefaleia, sonolência diurna, roncos e dificuldade para manter a atenção no seu ambiente de trabalho no último ano. No exame físico, apresentava circunferência abdominal de 96 cm, pressão arterial de 164 mmHg × 96 mmHg (média de três medidas) e frequência cardíaca de 72 bpm. Os demais achados do exame físico foram normais. Exames laboratoriais da paciente revelaram os seguintes resultados: triglicerídeos de 203 mg/dL; colesterol total de 251 mg/dL; HDL colesterol de 34 mg/dL; LDL colesterol de 171 mg/dL; glicemia de jejum de 169 mg/dL; e hemoglobina glicada de 8,8%. Os demais exames laboratoriais de rotina não revelaram anormalidades significativas. O resultado do eletrocardiograma é mostrado a seguir.
+
+      Assinale a opção que apresenta o exame de triagem indicado para investigação da etiologia da HAS no caso clínico 1A1-I.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 TST/imagens/con_esp_1 32.png?raw=true
+    alternativas:
+      - medição do fator de crescimento semelhante à insulina tipo 1 ou somatomedina C
+      - relação aldosterona/renina
+      - medição das metanefrinas plasmáticas livres
+      - ritmo circadiano da secreção cortisol
+      - renograma radioisotópico com captopril
+  - enunciado: "No caso clínico 1A1-I, de acordo com as Diretrizes Brasileiras de Hipertensão Arterial de 2020, a opção medicamentosa preferencial para o melhor controle da HAS, naquele momento, é"
+    alternativas:
+      - a espironolactona.
+      - o atenolol.
+      - a hidralazina.
+      - a clonidina.
+      - a doxazosina.
+  - enunciado: |
+      *Caso clínico 1A1-II*
+
+      Uma paciente branca, de 64 anos de idade, com histórico de cardiomiopatia não isquêmica com fração de ejeção reduzida em uso de enalapril, espironolactona e carvedilol nas doses máximas preconizadas, foi ao pronto-socorro por apresentar dispneia progressiva, havia uma semana, dispneia paroxística noturna, havia dois dias. Ela tinha ganhado 10 kg nos últimos dois meses. O exame físico revelou extremidades com boa perfusão, pressão arterial de 110 mmHg × 78 mmHg, frequência cardíaca de 66 bpm, frequência respiratória de 22 rpm e saturação de O2 (em ar ambiente) de 93%. Perceberam-se estertores crepitantes em bases pulmonares bilateralmente, pressão venosa jugular elevada, pulsos normais, ascite e edema de membros inferiores. Os exames laboratoriais indicaram sódio de 132 mEq/L, ureia de 60 mg/dL e creatinina de 2,1 mg/dL. A radiografia de tórax mostrou hipertensão venocapilar pulmonar. O eletrocardiograma revelou apenas sobrecarga atrial e ventricular esquerdas.
+
+      No caso clínico 1A1-II, a conduta mais adequada naquele momento é
+    alternativas:
+      - administrar furosemida endovenosa.
+      - suspender o carvedilol.
+      - infundir deslanosídeo em 24 horas.
+      - substituir o enalapril por nitrato com hidralazina.
+      - encaminhar a paciente para hemodiálise.
+  - enunciado: "No caso clínico 1A1-II, após a estabilização do quadro, a conduta mais adequada para a melhora da morbimortalidade será"
+    alternativas:
+      - substituir o enalapril por sacubitril valsartana.
+      - iniciar anticoagulação oral.
+      - associar ivabradina ao tratamento medicamentoso.
+      - associar digoxina ao tratamento medicamentoso.
+      - encaminhar a paciente para terapia de ressincronização cardíaca.
+  - enunciado: |
+      Um jovem de 19 anos de idade foi atendido com queixa de dispneia e chiado no peito. Ele observou que os sintomas pioravam quando se exercitava nas manhãs frias ou tinha contato com cães. Ele tinha histórico de rinite até três anos atrás e eczema na infância. O resultado do exame físico foi normal. A prova de função pulmonar demonstrou: VEF1 de 2,6 (78% do previsto); CVF de 3,81 L (97% do previsto); e um VEF1/CVF de 68% (86% do previsto), com aumento do VEF1 para 3,0 L (12,4%) após a administração de salbutamol.
+
+      A respeito desse caso clínico hipotético, é correto afirmar que
+    alternativas:
+      - os betabloqueadores não cardiosseletivos por via oral e as formulações oftálmicas com betabloqueadores estão contraindicadas.
+      - o resultado de uma radiografia de tórax nesse caso provavelmente será anormal.
+      - a confirmação do diagnóstico exigirá teste de broncoprovocação com metacolina.
+      - a mortalidade devido à doença caracterizada nesse caso tem aumentado na última década.
+      - a fração exalada de óxido nítrico (FeNO) determinará a decisão de iniciar ou não corticoterapia.
+  - enunciado: |
+      *Caso clínico 1A1-III*
+
+      Um paciente diabético, de 81 anos de idade, foi levado por sua esposa a um estabelecimento de saúde devido a um estado de confusão mental havia 12 horas. A acompanhante relatou que ele estava com tosse produtiva com expectoração amarelada associada a dor torácica e febre havia dois dias. No exame físico, o paciente apresentava-se com estado geral debilitado, dispneico, com temperatura de 37,9 °C, saturação periférica de oxigênio de 90%, frequência cardíaca de 130 bpm, frequência respiratória de 32 ipm e pressão arterial de 88 mmHg × 56 mmHg, com tempo de enchimento capilar de quatro segundos. A ausculta pulmonar revelou estertores crepitantes audíveis em base de hemitórax direito. A radiografia de tórax revelou opacidade no lobo inferior direito. O hemograma indicou leucocitose, sem desvio à esquerda. Exames laboratoriais indicaram ainda os seguintes resultados: ureia de 78 mg/dL; creatinina de 1,9 mg/dL; lactato de 3 mmol/L; potássio de 5,4 mEq/L; e sódio de 136 mEq/L. Os demais exames não revelaram alterações.
+
+      No caso clínico 1A1-III, o tipo de estabelecimento mais indicado para o início do tratamento do paciente é
+    alternativas:
+      - centro de terapia intensiva.
+      - ambulatorial.
+      - unidade de pronto atendimento.
+      - enfermaria.
+      - hospital dia.
+  - enunciado: "Assinale a opção correspondente ao melhor esquema antibiótico empírico para o paciente do caso clínico 1A1-III."
+    alternativas:
+      - ceftriaxona com azitromicina
+      - amoxicilina com ácido clavulânico
+      - vancomicina com gentamicina
+      - claritromicina
+      - piperacilina-tazobactam
+  - enunciado: |
+      *Caso clínico 1A1-IV*
+
+      Um paciente sedentário, de 23 anos de idade, com diagnóstico de cardiomiopatia hipertrófica septal assimétrica, em uso de metoprolol 100 mg, foi atendido com piora dos sintomas de insuficiência cardíaca para classe funcional II da NYHA (New York Heart Association) nos últimos dois meses, a despeito da sua boa aderência ao tratamento clínico. Ele relatou quatro episódios de síncope sem relação com esforços nesse período. O ecocardiograma mostrou espessura do septo de 32 milímetros, gradiente na via de saída do ventrículo esquerdo em repouso de 42 mmHg, fração de ejeção de 66% e grande movimento anterior sistólico da valva mitral com insuficiência desta. O Holter de 24 horas revelou três episódios de taquicardia ventricular sustentada com duração máxima de 22 minutos associada a palpitações e um episódio de síncope.
+
+      No caso clínico 1A1-IV, para reduzir o risco de morte súbita, deve-se recomendar ao paciente
+    alternativas:
+      - implante de cardiodesfibrilador interno automático.
+      - melhora do condicionamento físico, com atividade aeróbica intensa, e acompanhamento médico semestral.
+      - associação de amiodarona à terapêutica atual.
+      - cirurgia de troca da valva mitral.
+      - estratificação do risco de morte súbita com o estudo eletrofisiológico.
+  - enunciado: "Considerando o caso clínico 1A1-IV, assinale a opção que indica o medicamento para promover a melhora da capacidade funcional por inibição da miosina cardíaca."
+    alternativas:
+      - mavacanteno
+      - mononitrato de isossorbida
+      - hidralazina
+      - verapamil
+      - ivabradina
+  - enunciado: "Acerca de doenças gastrointestinais e hepáticas, assinale a opção correta."
+    alternativas:
+      - A presença de gastrite crônica ativa frequentemente está associada a infecção por H. pylori, entretanto, quando presente essa associação, apenas uma minoria desenvolve doença ulcerosa péptica.
+      - A maioria dos pacientes acometidos de doença ulcerosa péptica apresenta sintoma de pirose ou azia.
+      - Na doença de Crohn, o processo inflamatório limita-se à mucosa e à submucosa superficial, sem acometimento das camadas mais profundas, exceto em sua forma fulminante.
+      - O sintoma de odinofagia é mais comumente encontrado na esofagite causada por doença do refluxo gastroesofágico que na provocada por fármacos ou por causa infecciosa.
+      - A consequência histológica mais comum da doença do refluxo gastroesofágico é a metaplasia de Barrett, a qual provoca larga sintomatologia, porém sem risco definido de associação à malignidade.
+  - enunciado: "Ainda no que diz respeito a doenças gastrointestinais e hepáticas, assinale a opção correta."
+    alternativas:
+      - A coexistência de pancreatite deve ser altamente considerada nos pacientes com sintomas de colecistite que manifestam dor na coluna dorsal ou à esquerda da linha média abdominal, vômitos prolongados com íleo paralítico ou derrame pleural, sobretudo do lado esquerdo.
+      - Na retocolite ulcerativa, o local mais comum de inflamação é o íleo terminal, e a manifestação clínica habitual está associada a uma história crônica de episódios recorrentes de dor no quadrante inferior direito e diarreia.
+      - Na doença de Crohn, os principais sintomas são diarreia, sangramento retal, tenesmo, eliminação de muco e cólica abdominal.
+      - Na maioria dos casos de colelitíase, a cólica biliar é diurna, ocorrendo principalmente após o almoço.
+      - Pacientes com idade superior a 60 anos são mais propensos que jovens ao desenvolvimento de sintomas da colelitíase.
+  - enunciado: "No que se refere a hepatites virais, insuficiência hepática e síndromes disabsortivas, assinale a opção correta."
+    alternativas:
+      - Tem sido constatada, com frequência cada vez maior, a progressão de esteatose hepática não alcoólica para insuficiência hepática ou cirrose.
+      - Em pacientes que já se recuperaram da hepatite B em passado remoto, assim como em portadores de infecção crônica pelo HBV, o anti-HBc é predominantemente da classe IgM no soro.
+      - A hepatite D (delta) é a causa de quase metade das hepatopatias crônicas e constitui a indicação mais frequente para transplante de fígado.
+      - O início dos sintomas da doença celíaca ocorre invariavelmente durante a infância, quase sempre já no primeiro ano de vida do paciente.
+      - Em pacientes com insuficiência hepática por hepatite C crônica, tratamento antiviral produz efeitos benéficos, pois é eficaz para suprimir o vírus, conforme evidenciado pelas reduções dos níveis de aminotransferase e de DNA do HCV.
+  - enunciado: "Em relação a patologias e queixas recorrentes em serviços de urgência, assinale a opção correta."
+    alternativas:
+      - A perda de olfato associada à rinossinusite crônica, quadro muito frequente em serviço de pronto-atendimento, está relacionada à gravidade da inflamação, sendo a perda olfativa maior nos casos em que estejam presentes tanto a rinossinusite quanto a polipose.
+      - A vertigem posicional paroxística benigna é causa comum de tontura recorrente, cujos episódios são demorados, durando cerca de 30 a 40 minutos.
+      - Na enxaqueca vestibular, a tontura ou vertigem se manifesta tipicamente em episódios recorrentes e curtos, cuja duração costuma ser inferior a um minuto.
+      - A etiopatogenia de rinossinusite aguda está associada, na maioria das vezes, às bactérias anaeróbias, as quais, porém, desempenham um papel etiológico muito pequeno na rinossinusite crônica.
+      - Quadro de urticária recorrente, envolvendo com frequência as nádegas e os punhos, é a manifestação cutânea mais comum relatada por pacientes portadores de ancilostomíase.
+  - enunciado: "Com relação a urticária e angioedema, rinite alérgica e cefaleias, assinale a opção correta."
+    alternativas:
+      - Na maioria dos casos, os pacientes com história de cefaleia de forte intensidade e de início recente devem ser submetidos ao exame de tomografia computadorizada ou ressonância magnética de cérebro, como procedimentos de rastreamento inicial.
+      - O desenvolvimento de angioedema em pacientes hipertensos usuários de inibidores da enzima de conversão da angiotensina é mais frequente em pessoas brancas que em negras.
+      - Os anti-histamínicos orais H1 de ação prolongada são eficazes no tratamento da congestão nasal decorrente de rinite alérgica, porém apresentam menor eficácia no tratamento do prurido nasofaríngeo, dos espirros e da rinorreia aquosa.
+      - A imunoterapia é recomendada para o tratamento de pacientes com rinite alérgica que apresentem sintomas moderados a graves e sejam hiporresponsivos aos demais tratamentos.
+      - A migrânea e outros tipos de cefaleia classificadas como primárias, no atendimento de urgência, são consideradas cefaleias vasculares.
+  - enunciado: "A respeito de doenças renais, assinale a opção correta."
+    alternativas:
+      - As causas mais relacionadas à azotemia pré-renal são redução do débito cardíaco, hipovolemia e fármacos que interferem com as respostas autorreguladoras renais, incluindo-se anti-inflamatórios não esteroides e inibidores da angiotensina II.
+      - A síndrome nefrótica caracteriza-se pela presença de proteinúria de 1 a 2 g/24 horas, hipertensão, hipercolesterolemia, hipoalbuminemia, edema ou anasarca e hematúria macroscópica.
+      - Para o estadiamento da insuficiência renal crônica, é necessário estimar-se, com mais precisão, a concentração sérica de creatinina e a albuminúria, em vez de se observar a taxa de filtração glomerular.
+      - A síndrome nefrítica aguda ocasiona mais de 3 g/24 horas de proteinúria, hematúria com cilindros hemáticos, piúria, hipertensão, retenção de líquidos e elevação da creatinina sérica, associada a um aumento paradoxal da filtração glomerular.
+      - A incidência de glomerulonefrite pós-estreptocócica tem aumentado drasticamente nos países desenvolvidos, ano a ano, devido à resistência bacteriana cada vez mais acentuada às infecções.
+  - enunciado: "Ainda no que se refere a doenças renais, assinale a opção correta."
+    alternativas:
+      - Um maior aporte nutricional de cálcio está relacionado a um menor risco de formação de cálculos renais.
+      - As complicações venosas secundárias ao estado de hipercoagulabilidade associado à síndrome nefrótica não podem ser tratadas com anticoagulantes convencionais, sob o risco de hematúria maciça.
+      - Os cálculos de fosfato de cálcio são os mais comuns na etiopatogenia da nefrolitíase.
+      - Na perda de álcalis a partir do trato gastrointestinal, devido a diarreia, ou a partir dos rins, devido a distúrbios tubulares renais, como na acidose tubular renal, ocorre acidose metabólica com ânion gap aumentado.
+      - Cetoacidose diabética e acidose lática são exemplos de acidose metabólica com ânion gap reduzido.
+  - enunciado: "Assinale a opção correta em referência às doenças endócrinas."
+    alternativas:
+      - O uso disseminado da glicemia plasmática de jejum ou da HbA1c como teste de rastreamento de diabetes melito do tipo 2 é altamente recomendado porque um grande número de indivíduos que preenchem os critérios atuais para a doença é assintomático e não tem conhecimento de que sofre desse distúrbio.
+      - O diabetes melito gestacional é diagnosticado em qualquer fase da gestação, em face de exames pré-gestacionais normais.
+      - A grande maioria dos obesos tem níveis baixos de leptina, importante hormônio regulador do apetite.
+      - A resistência à insulina é observada em um número significativo de mulheres com síndrome dos ovários policísticos, entretanto tal distúrbio não eleva o risco de desenvolvimento de diabetes melito do tipo 2 nessa população.
+      - A possibilidade de hipotireoidismo deve ser sempre considerada na investigação de ganho de peso, pois ele é uma causa cada vez mais comum de obesidade.
+  - enunciado: "Ainda no que concerne a doenças endócrinas, assinale a opção correta."
+    alternativas:
+      - Nenhum gene isolado explica o complexo fenótipo designado como síndrome metabólica.
+      - O tratamento com glicocorticoides é a principal indicação para o tireoidite silenciosa.
+      - Atualmente, a hipertrigliceridemia não é mais considerada bom marcador do distúrbio de resistência à insulina na síndrome metabólica.
+      - O hipotireoidismo subclínico é mais observado em homens que em mulheres.
+      - Tireotoxicose é sinônimo de hipertireoidismo e representa o resultado de uma função tireoidiana excessiva.
+  - enunciado: "Acerca de tireoidite, distúrbios das glândulas suprarrenais e distúrbios das glândulas paratireoides, assinale a opção correta."
+    alternativas:
+      - Pacientes com síndrome de Cushing podem correr risco agudo de trombose venosa profunda, com embolia pulmonar subsequente, devido a um estado de hipercoagulabilidade associado à síndrome.
+      - A causa mais comum clinicamente aparente da tireoidite crônica é a tireoidite de Riedel.
+      - Pacientes com excesso de cortisol independente de ACTH são, em sua maioria, portadores de microadenoma hipofisário.
+      - No hiperparatireoidismo primário, ocorre hipocalcemia e, em seguida, hiperfosfatemia.
+      - A cirurgia para o hiperparatireoidismo mostra-se, quase sempre, ineficaz e incapaz de reverter os efeitos deletérios do excesso prolongado de PTH sobre a densidade óssea.
+  - enunciado: "Artrite reumatoide é uma doença com características crônicas e fenômenos inflamatórios persistentes. O fator de risco ambiental mais bem estabelecido para essa patologia é"
+    alternativas:
+      - o tabagismo.
+      - a infecção por estafilococos.
+      - a hipovitaminose D crônica.
+      - a hiperglicemia.
+      - a hipertrigliceridemia.
+  - enunciado: "No que diz respeito às espondiloartropatias, assinale a opção correta."
+    alternativas:
+      - Entre os achados mais frequentes das espondiloartropatias inclui-se a artrite periférica assimétrica de grandes articulações dos membros inferiores.
+      - As manifestações das espondiloartropatias tem início em pacientes com mais de 50 anos de idade, predominantemente do gênero feminino.
+      - O quadro das espondiloartropatias se inicia de forma súbita, em menos de duas semanas.
+      - As espondiloartropatias caracterizam-se pela presença frequente do fator reumatoide no soro.
+      - O teste de Schöber geralmente é negativo nas fases iniciais das espondiloartropatias.
+  - enunciado: "Em relação ao lúpus eritematoso sistêmico (LES), assinale a opção correta."
+    alternativas:
+      - Na glomerulonefrite lúpica, o teste de imunofluorescência direta apresenta depósitos predominantes de IgG, além de IgA, IgM, C3, C1q, kappa e lambda, o que configura o chamado padrão full house.
+      - O comprometimento cutâneo no LES é incomum.
+      - O uso de corticosteroides é a escolha de referência para o tratamento de pacientes com LES pois não causam efeitos colaterais, como mialgia e miosite, por exemplo, frequentes em pacientes tratados com antimaláricos e estatinas.
+      - Lúpus eritematoso cutâneo crônico tem como forma mais rara o lúpus eritematoso discoide.
+      - O teste de Coombs direto é positivo em 90% dos pacientes com LES e hemólise.
+  - enunciado: "A respeito das artrites microcristalinas, assinale a opção correta."
+    alternativas:
+      - Entre os medicamentos que aumentam o risco de gota em virtude da diminuição da excreção renal do ácido úrico estão os diuréticos tiazídicos e de alça, o ácido acetilsalicílico em dose baixa (60 a 300 mg/dia), o ácido nicotínico, os betabloqueadores e os bloqueadores dos receptores de angiotensina não losartana.
+      - A herança genética da gota é predominantemente monogênica e calcula-se que essa contribuição genética seja responsável pela maior parte da variação da uricemia.
+      - O aumento do consumo de álcool eleva o risco de gota, entretanto, não há evidência de gradiente dose-resposta; o álcool aumenta a produção de ácido úrico pela degradação de trifosfato de adenosina (ATP) em monofosfato de adenosina (AMP) e pelo aumento de sua secreção renal no túbulo proximal.
+      - Nos seres humanos, 20% do pool de ácido úrico deriva do metabolismo das purinas endógenas, a partir do catabolismo dos ácidos nucleicos celulares e da biossíntese de novo das purinas, enquanto 80% advêm do catabolismo das purinas alimentares.
+      - O ácido úrico é um ácido orgânico forte existente nos fluidos corporais, com pH em torno de 2,4, sendo a hiperuricemia causada principalmente pela dieta e pelo aumento da produção endógena, responsáveis por aproximadamente 50% a 60% dos casos.
+  - enunciado: "Em relação a HIV/AIDS, assinale a opção correta."
+    alternativas:
+      - Uma pessoa que tenha sido indicada a profilaxia pós-exposição (PEP) por ter sido exposta ao risco de contaminação por HIV nas últimas 72 horas deve entrar em PEP imediatamente e iniciar a profilaxia pré-exposição (PrEP) diária logo após a conclusão do curso de 28 dias da PEP, a fim de evitar uma lacuna desnecessária entre a PEP e a PrEP.
+      - Para se candidatar à profilaxia pré-exposição (PrEP), a pessoa deverá realizar o teste rápido (TR1) e, se o resultado da amostra for reagente, de acordo com o fluxograma do manual técnico para o diagnóstico da infecção pelo HIV elaborado pelo Ministério da Saúde, a amostra será considerada como “reagente para HIV” e, nesse caso, a PrEP deverá ser iniciada.
+      - Na estrutura do vírus HIV (100 nm), o envelope é constituído pela membrana proveniente da célula do hospedeiro onde está acoplada a proteína de superfície (gp 41) e a de transmembrana (gp 120).
+      - Os inibidores da transcriptase reversa atuam na fase final do ciclo viral, impedindo a formação do DNA a partir do RNA, enquanto os inibidores da protease atuam no início do ciclo, impedindo a maturação da partícula viral.
+      - Não ocorre infecção dupla pelo HIV devido à competição por material genético do hospedeiro pelo vírus.
+  - enunciado: "A respeito da endocardite infecciosa (EI), assinale a opção correta."
+    alternativas:
+      - A endocardite que acomete as valvas naturais, porém previamente anormais ou lesadas, é mais comumente causada pelo Streptococcus viridans, que é parte normal da flora da cavidade oral.
+      - No acometimento valvar, a valva aórtica e a valva mitral expressarão as alterações anatômicas por meio de sopros aspirativos, presentes em até 35% dos pacientes, pois o sopro aspirativo aórtico (configuração crescente) ocorre durante a sístole, portanto, entre B1 e B2.
+      - A endocardite infecciosa acomete mais comumente a valva tricúspide (40%) e a mitral (34%), e, em seguida, as outras valvas.
+      - Staphilococcus epidermidis é o principal agente infectante encontrado entre os indivíduos com EI usuários de drogas ilícitas injetáveis.
+      - O grupo HACEK de bacilos Gram-negativos, que pode ser responsável pela endocardite aguda, consiste em Haemophilus spp, Aggregatibacter, Cardiobacterium hominis, Eikenella corrodens e Klebsiella pneumoniae.
+  - enunciado: "Considerando que a saúde sexual é uma estratégia para a promoção da saúde e do desenvolvimento humano, assinale a opção correta."
+    alternativas:
+      - O intervalo preconizado de administração de benzilpenicilina benzatina para o tratamento de sífilis é de uma semana (sete dias) entre as doses; em gestantes, o esquema deve ser reiniciado se o intervalo ultrapassar os sete dias entre as doses e, nas demais pessoas, se transcorrerem mais de 14 dias entre as doses.
+      - O Programa Nacional de Imunização do Ministério da Saúde para infecção por papiloma vírus humano (HPV) estabelece a proteção para meninos de 11 a 14 anos e para meninas de 9 a 14 anos.
+      - O agente etiológico da infecção cancroide é a Klebsiela granulomati.
+      - Os testes de hemaglutinação (TPHA), de aglutinação de partículas (TPPA) e ensaios de micro-hemaglutinação (MHA-TP) são indicados para detecção de sífilis não treponêmicos.
+      - Chlamydia trachomatis (sorovariantes L1, L2 e L3) são agentes etiológicos das infecções denominadas clamídia e donovanose.
+  - enunciado: "Em relação à anafilaxia, que pode ocorrer por reação a diferentes agentes, sendo os mais comuns alimentos e medicamentos, assinale a opção correta."
+    alternativas:
+      - São preditores de anafilaxia grave: atraso na administração da adrenalina, uso de betabloqueadores e inibidores de enzima conversora de angiotensina, anti-inflamatórios e doença cardiovascular.
+      - Para o tratamento de pacientes com anafilaxia, recomenda-se administração de adrenalina de 0,01 mL/kg de uma solução (1:10000).
+      - As reações da anafilaxia são desencadeadas quase sempre por reações mediadas pela IgE, após a exposição de indivíduos previamente sensibilizados a um antígeno, caracterizadas como reações de hipersensibilidade do tipo III.
+      - Estudos de metanálise demonstram que, em 95% dos casos, a anafilaxia se comporta como um quadro clínico bifásico, por isso o médico deve estar atento para uma ação imediata.
+      - A reação bifásica pode ocorrer entre 14 a 21 dias depois da exposição ao agente de risco, mas, na maioria das vezes, a ocorrência se dá após 72 horas.
+  - enunciado: "Acerca das intoxicações exógenas, assinale a opção correta."
+    alternativas:
+      - A síndrome opioide tem aspecto semelhante ao da síndrome sedativo-hipnótica, e seu diagnóstico se confirma pela observação da resposta do paciente ao naloxone, que é um antagonista direto dos receptores opioides; entretanto a ausência de resposta não exclui a intoxicação por opioides.
+      - Pacientes com intoxicações graves após ingestão de anfetaminas substituídas, como N-metil-3,4 metilenodioxianfetamina (MDMA), apresentam arritmias e aumento do débito cardíaco devido ao aumento do tempo de enchimento diastólico associado à taquicardia.
+      - Pacientes com síndrome colinérgica apresentam mucosas secas e, diferentemente dos sintomas da intoxicação por agentes simpaticomiméticos, não ficam diaforéticos porque as glândulas secretórias da pele e das mucosas apresentam inervação adrenérgica.
+      - Para o controle pressórico e a melhora da qualidade de vida de pacientes hipertensos e medicados com inibidores da monoamina-oxidase, deve ser prescrita uma dieta específica, com alimentos ricos em iramina, substância presente em queijos e vinhos, por exemplo.
+      - Sintomas muscarínicos (receptores iônicos) se caracterizam por midríase, taquicardia, fraqueza, tremores, fasciculações, convulsões e sonolência. Agentes causais incluem as substâncias dos grupos dos organofosforados e carbamatos.
+  - enunciado: |
+      Julgue os próximos itens, relativos a antibacterianos e seus mecanismos de ação.
+
+      I Aminoglicosídeos inibem a síntese proteica na fração ribossomal 30 S.
+      II Cefalosporinas inibem a síntese da parede celular.
+      III Polimixina interfere na propriedade de permeabilidade seletiva da membrana citoplasmática bacteriana.
+      IV Macrolídeos inibem a síntese proteica na fração ribossomal 50 S.
+
+      Assinale a opção correta.
+    alternativas:
+      - Todos os itens estão certos.
+      - Apenas os itens I, II e III estão certos.
+      - Apenas os itens I, II e IV estão certos.
+      - Apenas os itens I, III e IV estão certos.
+      - Apenas os itens II, III e IV estão certos.

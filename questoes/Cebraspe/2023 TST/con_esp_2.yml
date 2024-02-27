@@ -1,0 +1,259 @@
+---
+materia: Mecânica - Conhecimentos Específicos
+cargo: Engenharia Mecânica
+questoes:
+  - enunciado: "Sabendo-se que volantes de inércia são usados para estabilizar o regime de operação de máquinas rotativas e considerando-se um volante na forma de disco com massa de 70 kg e 600 mm de diâmetro que gira a 600 rpm em torno do seu eixo central, é correto afirmar que"
+    alternativas:
+      - a energia cinética armazenada nesse volante é menor que 30 kJ.
+      - esse volante não armazena energia cinética.
+      - o momento angular desse volante é menor que 300 N∙m∙s.
+      - o momento angular desse volante é maior que 400 N∙m∙s.
+      - a energia cinética armazenada nesse volante é maior que 30 kJ.
+  - enunciado: "O número de graus de liberdade do mecanismo esquematizado na figura precedente é igual a"
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 TST/imagens/con_esp_2 32.png?raw=true
+    alternativas:
+      - "3"
+      - "2"
+      - "5"
+      - "5"
+      - "8"
+  - enunciado: |
+      A figura precedente mostra os perfis de velocidade, em um duto de 80 mm de diâmetro, de três fluidos A, B e C, com os seguintes valores de densidade ρ e viscosidade dinâmica μ: fluido A: ρ = 790 kg/m3 e μ = 1,0×10−3 N∙s/m2; fluido B: ρ = 960 kg/m3 e μ = 0,65 N∙s/m2; fluido C: ρ = 13.600 kg/m3 e μ = 1,53×10−3 N∙s/m2. Os três fluidos escoam na mesma velocidade média Vm = 0,5 m/s e na mesma temperatura de 25 °C.
+
+      Com base nessas informações, assinale a opção correta.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 TST/imagens/con_esp_2 33.png?raw=true
+    alternativas:
+      - Apenas os fluidos A e C escoam em regime turbulento.
+      - Apenas os fluidos A e C escoam em regime laminar.
+      - Apenas o fluido C escoa em regime laminar.
+      - Apenas o fluido A escoa em regime laminar.
+      - Apenas o fluido B escoa em regime turbulento.
+  - enunciado: |
+      Uma máquina térmica recebe 520 kJ de calor por ciclo de uma fonte a 287 °C e rejeita calor para um dissipador a 7 °C em quantidades hipotéticas de: (A) 390 kJ por ciclo; (B) 260 kJ por ciclo e (C) 160 kJ por ciclo.
+
+      Considerando essas três hipóteses, assinale a opção correta.
+    alternativas:
+      - A hipótese (B) é característica de um ciclo reversível.
+      - As hipóteses (A) e (C) são características de ciclos reversíveis.
+      - As hipóteses (B) e (C) são características de ciclos irreversíveis.
+      - A hipótese (C) é característica de um ciclo reversível.
+      - A hipótese (A) é característica de um ciclo impossível.
+  - enunciado: |
+      A figura precedente mostra, esquematicamente, o sistema de refrigeração de um supercomputador, cuja finalidade é resfriar os circuitos eletrônicos, os quais estão imersos em um fluido dielétrico especial. Esse fluido é bombeado em circuito fechado através do computador, de um trocador de calor do tipo casco e de tubos. Durante a operação normal, o calor gerado dentro do computador é transferido ao fluido dielétrico, que, ao passar pelo trocador de calor, o transfere para a água fria, que circula pelos tubos do trocador. Os parâmetros do sistema são os seguintes:
+
+      *Fluido dielétrico*:
+      taxa de fluxo: mf = 4,0 kg/s
+      calor específico: cpf = 1300 J/kg.K;
+      temperatura de entrada no trocador de calor: Tfe = 25 °C
+      temperatura de saída no trocador de calor: Tfs = 15 °C
+
+      *Água fria*:
+      taxa de fluxo: ma = 2,5 kg/s
+      temperatura de entrada no trocador de calor: Tae = 7 °C;
+      calor específico da água fria: cpa = 4160 J/kg.K
+
+      Considerando os dados apresentados, é possível afirmar que a taxa de transferência de calor Q e a temperatura de saída da água fria Tas no trocador de calor serão iguais, respectivamente, a
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 TST/imagens/con_esp_2 35.png?raw=true
+    alternativas:
+      - 51 kW e 10,0 °C.
+      - 50 kW e 9,0 °C.
+      - 50 kW e 10,0 °C.
+      - 52 kW e 12,0 °C.
+      - 54 kW e 15,0 °C.
+  - enunciado: "A fim de aumentar a resistência mecânica de uma peça metálica por meio de tratamento térmico, o engenheiro deve recomendar que peças de"
+    alternativas:
+      - aço carbono ABNT 1060 sejam submetidas a aquecimento acima da temperatura crítica, temperadas e, em seguida, revenidas por 1 hora a 400 °C.
+      - aço liga do tipo ABNT 4340 sejam aquecidas lenta e uniformemente até 660 a 680°C, mantidas na temperatura por, aproximadamente, 1 hora para cada 25 mm de espessura da peça e resfriadas lentamente dentro do forno.
+      - aço inox 304 trabalhadas a frio sejam submetidas a recozimento.
+      - aço carbono trabalhadas a frio sejam normalizadas com o resfriamento ao ar.
+      - liga de alumínio 2024 sejam submetidas à solubilização por 6 horas à 510 °C.
+  - enunciado: "Assinale a opção correta, relativa à metrologia."
+    alternativas:
+      - Erro é a diferença entre o valor lido ou o transmitido pelo instrumento em relação ao valor real da variável medida.
+      - Repetibilidade é a razão entre a variação do valor indicado ou transmitido por um instrumento e a correspondente variação do estímulo (mensurando), após ter alcançado o estado de repouso.
+      - Zona morta é a diferença máxima apresentada por um instrumento, para um mesmo valor, em qualquer ponto da faixa de trabalho, quando a variável percorre toda a escala no sentido ascendente e descendente.
+      - Exatidão é a máxima diferença entre diversas medidas de um mesmo valor da variável, adotando-se sempre o mesmo sentido de variação.
+      - Alcance é o conjunto de valores da variável medida que está compreendido dentro dos limites superior e inferior da capacidade de medida ou de transmissão do instrumento.
+  - enunciado: |
+      Considere que a teoria do dano acumulativo de fadiga de Palmgren-Miner, mais conhecida como regra de Miner, prevê que, se componentes mecânicos forem submetidos a blocos de ciclos de carga de diferentes amplitudes, a falha ocorrerá quando o dano total acumulado for igual a 1. Considere, ainda, que um componente de máquina fabricado com um aço, cuja curva S-N é dada pela equação Sf = 3.600 N^−2, tenha sido submetido a 5000 ciclos de uma tensão alternada de 600 MPa de amplitude e será submetido a um carregamento adicional de 400 MPa de amplitude.
+
+      De acordo com a regra de Miner, é correto afirmar que o componente descrito terá, até a falha, uma vida remanescente
+    alternativas:
+      - entre 20.000 ciclos e 30.000 ciclos.
+      - menor que 10.000 ciclos.
+      - entre 10.000 ciclos e 20.000 ciclos.
+      - entre 30.000 ciclos e 100.000 ciclos.
+      - maior que 100.000 ciclos.
+  - enunciado: "Assinale a opção correta acerca do esquema apresentado e de sistemas fluidomecânicos."
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 TST/imagens/con_esp_2 39.png?raw=true
+    alternativas:
+      - Pelo teorema de Bernoulli, a energia de posição (energia potencial de altitude ou energia topográfica total) representa o trabalho que o peso P do líquido, situado a uma cota h, acima do plano de referência, pode realizar, se abandonado à ação da gravidade.
+      - Um fluido ideal percorre um duto cilíndrico com vazão constante, no qual, em uma secção transversal à jusante, existe um estrangulamento que reduz o diâmetro para a metade, duplicando, assim, a velocidade do fluido.
+      - O esquema representa um tubo de Venturi — o qual permite determinar o módulo do volume escoado de um líquido no interior de uma tubulação — e é constituído por um tubo em U com mercúrio (tubo manométrico), com um dos ramos ligado a um segmento normal da tubulação e o outro ramo ligado a um segmento com um estrangulamento.
+      - O fenômeno denominado levitação hidráulica ocorre na situação em que a bolha tem dimensões diminuídas quando sua pressão é superada pela pressão do líquido, até entrar em colapso, sequenciado pela entrada abrupta do líquido que está em volta, o que gera uma alteração de velocidade e pressão esperadas no escoamento normal.
+      - O escoamento de um fluido é mensurado pelo número de Reynolds (Re), de forma que se o Re for muito alto, o escoamento será laminar, muito baixo e turbulento.
+  - enunciado: |
+      O diagrama precedente mostra a associação de duas bombas radiais iguais em paralelo, representando a curva característica da bomba A e a curva característica do sistema S em altura manométrica H e vazão Q.
+
+      No que se refere ao diagrama e a máquinas de fluxo, assinale a opção correta.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 TST/imagens/con_esp_2 40.png?raw=true
+    alternativas:
+      - Para se obter a curva de duas bombas A colocadas em paralelo, constrói-se a curva 2A, segundo a qual cada valor de H dobra a vazão Q; assim, a altura HA na curva A correspondente a QA; na curva 2A o ponto é P’ e Qt é igual a 2 × QA.
+      - A associação em paralelo é o arranjo que resolve o problema de instalações com alturas manométricas elevadas.
+      - Posta a operar isoladamente no sistema, a bomba recalca uma vazão menor do que quando associada em paralelo (Q’ < QA), o que requer uma potência de acionamento menor e implica a necessidade de seleção de um motor capaz de atender aos regimes isolado e associado.
+      - Os pontos de interseção das curvas características das bombas (A e 2A) com a curva do sistema P e P’ são chamados de shut-off e são fundamentais para o equacionamento e o dimensionamento dos sistemas.
+      - Se o NPSH requerido, na operação isolada, ultrapassar aquele disponível pelo sistema (NPSH’r > NPSH), a bomba entrará em recirculação e aquecimento de estagnação.
+  - enunciado: "A principal função de um acumulador hidráulico em um sistema é"
+    alternativas:
+      - armazenar fluido hidráulico sob pressão.
+      - acumular as sujeiras do sistema, evitando panes na rede.
+      - acumular correntes eletrostáticas devido aos atritos.
+      - acumular massa anticavitação.
+      - regular a vazão do fluido hidráulico.
+  - enunciado: "Considerando que W é o trabalho realizado, Q é o calor, m é a taxa de fluxo de massa, ℎ é a entalpia e η é o rendimento, assinale a opção que apresenta a equação fundamental para calcular a potência de uma turbina a vapor."
+    alternativas:
+      - W = m . (h_entrada - h_saida)
+      - P = W/Q
+      - n = w_util/(m . (h_entrada - h_saida))
+      - n = w_util/q_entrada
+      - Q - m . (h_entrada - h_saida)
+  - enunciado: "No ciclo de funcionamento de uma turbina a vapor, a fase de expansão corresponde a uma transformação termodinâmica do tipo"
+    alternativas:
+      - adiabática, resultando na produção de trabalho.
+      - isotérmica, resultando na condensação de vapor.
+      - isocórica, resultando na produção de calor.
+      - isovolumétrica, resultando no aumento de pressão.
+      - isobárica, resultando na produção de trabalho.
+  - enunciado: "O que caracteriza o princípio de funcionamento de um motor de combustão interna é a"
+    alternativas:
+      - conversão da energia química do combustível em energia mecânica.
+      - entrada do ar via turbo que aumenta taxa de compressão.
+      - combustão de gases no escapamento.
+      - compressão da mistura ar-combustível após a ignição do combustível.
+      - transformação direta da energia química para energia elétrica.
+  - enunciado: "Considerando que os compressores são componentes fundamentais em sistemas de refrigeração, assinale a opção correta."
+    alternativas:
+      - O compressor é o componente do sistema de refrigeração que realiza a compressão do gás refrigerante produzindo aumento de pressão e temperatura.
+      - Durante o processo de compressão, o gás refrigerante é comprimido, resultando no aumento significativo da entropia, o que ocorre por ser a transformação isocórica.
+      - O gás refrigerante comprimido liberado no condensador absorve calor do ambiente circundante (ou para um meio de resfriamento, como o ar ou a água), permitindo que o gás se estabilize e as sujidades condensem.
+      - No ciclo de refrigeração, o líquido refrigerante passa pelo evaporador, onde libera calor do ambiente a ser refrigerado, aumentando a entalpia e fazendo evaporar 50% da massa, e retorna ao compressor para reiniciar o ciclo.
+      - A eficiência do compressor é um fator crítico para a eficiência geral do sistema de refrigeração, pois o consumo de energia química do gás refrigerante tende a cair, o que faz que o desempenho seja otimizado no sistema.
+  - enunciado: "A ventilação e o ar-condicionado são aspectos fundamentais no controle do ambiente interno de edificações, proporcionando conforto térmico, qualidade do ar e eficiência energética. A esse respeito, assinale a opção correta."
+    alternativas:
+      - A ventilação natural utiliza aberturas, como janelas e portas, para permitir a entrada de ar fresco e a saída de ar viciado, buscando aproveitar as condições climáticas externas para aerar o ambiente.
+      - Em um ciclo típico de refrigeração de um sistema de ar-condicionado, ocorre, durante a fase de condensação, a absorção de calor do ambiente.
+      - A ventilação mecânica utiliza o ar fresco para arrefecê-la, de modo a misturar e diluir o ar contaminado, controlar o fluxo e a direção do ar, por insuflamento e exaustão.
+      - A característica principal de um sistema de ar-condicionado central, em comparação com um sistema dividido, é a maior flexibilidade de instalação.
+      - Uma característica comum dos sistemas de ventilação e ar-condicionado em relação à qualidade do ar interno é o aumento da concentração de contaminantes nos cantos não habitados dos ambientes.
+  - enunciado: |
+      Julgue os itens a seguir, relativos às diferenças entre manutenção preditiva e manutenção preventiva.
+
+      I Manutenção preditiva ocorre após a falha, enquanto a manutenção preventiva visa evitar a falha.
+      II A manutenção preditiva é baseada em monitoração contínua, enquanto a preventiva é programada.
+      III O custo de execução e planejamento da manutenção preventiva é sempre maior que o custo da manutenção preditiva.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas o item II está certo.
+      - Nenhum item está certo.
+      - Apenas o item I está certo.
+      - Apenas os itens I e III estão certos.
+      - Apenas os itens II e III estão certos.
+  - enunciado: "A respeito de manutenção e falha, assinale a opção correta."
+    alternativas:
+      - A falha ocorre quando um sistema ou um componente não executa suas funções conforme especificado, sendo a falha funcional aquela que se refere à perda da capacidade de desempenhar essa função.
+      - Manutenibilidade refere-se à capacidade de um sistema, componente ou processo de desempenhar sua função especificada sob condições preestabelecidas durante determinado período.
+      - A fase de falha prematura na curva da banheira em confiabilidade representa o início da vida útil aleatória.
+      - O acrônimo TPM, na gestão de manutenção, significa tecnologia de produção máxima.
+      - O objetivo principal das normas da série ISO 9000 na manutenção é padronizar e induzir a melhoria contínua.
+  - enunciado: "De acordo com as definições de doença profissional e doença do trabalho no âmbito da engenharia de segurança do trabalho, é correto afirmar que"
+    alternativas:
+      - doença profissional é aquela decorrente do exercício do trabalho peculiar a determinada atividade, enquanto doença do trabalho é a causada pelas condições do ambiente laboral, incluindo-se acidentes de trabalho.
+      - doença profissional é aquela adquirida no contexto profissional cotidiano, enquanto doença do trabalho é a adquirida em contextos excepcionais, como crises epidêmicas.
+      - doença do trabalho é aquela causada por um hábito desenvolvido pelo trabalhador ao executar suas atividades, enquanto doença profissional é a causada por agentes externos, incluindo-se ocorrências de sobrecarga física e mental.
+      - doença profissional, por abranger casos mais graves, justifica o direito a auxílio financeiro por tempo prolongado, ao passo que doença do trabalho, por se referir a casos mais simples, justifica o direito a auxílio financeiro limitado a 15 dias.
+      - doença do trabalho é aquela que está relacionada a problemas de ordem mental, enquanto doença profissional está relacionada a enfermidades físicas, incluindo-se casos de dores articulares.
+  - enunciado: "Acerca de doença profissional e suas ocorrências comuns, assinale a opção correta."
+    alternativas:
+      - Distúrbios musculoesqueléticos, como a LER/DORT, são exemplos de doenças profissionais comuns relacionadas ao ambiente de trabalho, em certas atividades.
+      - Osteoporose é considerada uma doença profissional comum devido à sua prevalência entre trabalhadores de escritório.
+      - As doenças profissionais estão relacionadas unicamente às lesões musculares decorrentes do levantamento de cargas pesadas.
+      - A obesidade é frequentemente classificada como uma doença profissional comum devido à sua associação direta e exclusiva com ambientes de trabalho sedentários.
+      - Síndromes respiratórias causadas pela exposição à poluição do ar são doenças profissionais raras.
+  - enunciado: "Assinale a opção correta em relação a uma doença do trabalho comum."
+    alternativas:
+      - Hipertensão arterial resultante do estresse crônico no trabalho é frequentemente classificada como uma doença do trabalho comum.
+      - Doenças de pele causadas pela exposição excessiva à luz solar durante o horário de expediente são raras como doenças do trabalho.
+      - Câncer de pulmão comprovadamente adquirido por tabagismo durante o expediente é classificado como uma doença do trabalho comum.
+      - Síndrome da exaustão é uma doença do trabalho comum associada exclusivamente a ambientes industriais.
+      - Lesões cortantes por objetos afiados são consideradas doenças do trabalho comuns relacionadas à exposição ocupacional.
+  - enunciado: "Assinale a opção correta no que diz respeito ao processo de avaliação e controle de riscos profissionais."
+    alternativas:
+      - A avaliação de riscos profissionais envolve a identificação e a análise dos perigos no ambiente de trabalho, sendo crucial para a implementação de medidas preventivas.
+      - O controle de riscos profissionais restringe-se ao fornecimento de equipamentos de proteção individual (EPI) de acordo com a percepção de risco dos trabalhadores.
+      - Após a conclusão da avaliação de riscos profissionais, os trabalhadores devem analisar os resultados e adequá-los às condições de trabalho, já que sua revisão é desaconselhável pelos custos que geram à organização.
+      - A despeito de sua relevância para a implementação de medidas de controle, a avaliação de riscos profissionais é um procedimento opcional.
+      - A responsabilidade pelo controle de riscos profissionais é exclusiva dos trabalhadores, cabendo aos empregadores liderar a implementação de medidas de controle.
+  - enunciado: "Com base nos princípios de prevenção e controle de riscos em máquinas, equipamentos e instalações, assinale a opção correta."
+    alternativas:
+      - A avaliação de riscos deve preceder qualquer intervenção em máquinas e sua prioridade é eliminar ou reduzir os riscos na sua origem.
+      - É terminantemente proibida a movimentação de máquinas e equipamentos fora das instalações físicas da empresa para reparos, adequações, modernização tecnológica.
+      - Durante serviços de manutenção, inspeção ou limpeza, são desnecessários o bloqueio e a etiquetagem de máquinas com o sistema LOTO, Lockout & Tagout, quando se trata de máquinas que liberam energia térmica, pois essa forma de energia apresenta riscos insignificantes.
+      - A capacitação para operar máquinas poderá ocorrer depois que o trabalhador assumir sua função, desde que seja realizada no horário contrário ao da jornada de trabalho.
+      - É proibida a segregação, o bloqueio e a sinalização que impeçam a utilização de máquinas e equipamentos, enquanto estiverem aguardando desativação.
+  - enunciado: "Em relação aos serviços especializados em segurança e medicina do trabalho (SESMT), assinale a opção correta."
+    alternativas:
+      - Para cumprimento das atividades dos SESMT em tempo integral, a organização pode contratar mais de um engenheiro de segurança do trabalho, desde que cada um dedique, no mínimo, a metade da carga horária semanal.
+      - Os trabalhadores devem contribuir para a garantia dos recursos necessários para o cumprimento dos objetivos e atribuições dos SESMT por meio de taxa simbólica definida em acordo coletivo com a organização.
+      - Aos profissionais dos SESMT é permitido, durante o horário de atuação nesses serviços, realizar vistorias nos armários dos trabalhadores para verificar se as condições de higiene estão de acordo com as normas previstas.
+      - Considera-se trabalho eventual aquele que, embora decorrente de evento programado no calendário comercial da organização, tenha sido realizado em local diverso do habitual.
+      - Cabe à equipe dos SESMT assumir as funções da comissão interna de prevenção de acidentes e de assédio (CIPA), quando esta não existir.
+  - enunciado: |
+      De acordo com a NR23, que estabelece medidas de prevenção contra incêndios nos ambientes de trabalho, julgue os itens a seguir, referentes às saídas de emergência nos locais de trabalho.
+
+      I O fechamento à chave das saídas de emergência durante a jornada de trabalho é uma medida essencial para evitar acesso não autorizado a elas e consequentes acidentes.
+      II A desobstrução das saídas de emergência é uma ação restrita aos momentos de treinamentos específicos de evacuação.
+      III Deve-se preservar a abertura das saídas de emergência e garantir que dispositivos de travamento permitam fácil abertura do interior do estabelecimento.
+
+      Assinale a opção correta.
+    alternativas:
+      - Apenas o item III está certo.
+      - Nenhum item está certo.
+      - Apenas o item I está certo.
+      - Apenas o item II está certo.
+      - Todos os itens estão certos.
+  - enunciado: "Em relação à NR2 e a suas disposições, assinale a opção correta."
+    alternativas:
+      - A NR20 define 3 classes de instalações de acordo com a aplicação e a capacidade de armazenamento destas.
+      - A realização de exercícios simulados como parte do plano de resposta a emergências é dispensável para as instalações de classe I.
+      - Segundo a NR20, as edificações residenciais unifamiliares enquadram-se na classe I, e as plataformas de exploração de petróleo offshore, na classe II e III.
+      - No projeto das instalações para armazenamento de inflamáveis e líquidos combustíveis, para qualquer classe, as normas nacionais devem ser seguidas apenas no caso da inexistência de uma norma internacional para o mesmo fim.
+      - Independentemente da classificação da instalação, a capacitação dos trabalhadores que nela atuem deve possuir a mesma carga horária, conteúdo programático e periodicidade de atualização.
+  - enunciado: "Com base no Anexo IV da NR20, que trata especificamente dos requisitos de segurança e saúde para as atividades com exposição ocupacional ao benzeno em postos de combustíveis automotivos, assinale a opção correta."
+    alternativas:
+      - Não havendo desligamento precoce do bico da bomba de combustível durante o abastecimento de veículos, é vedado o enchimento do tanque de combustível além do desarme automático.
+      - A adoção de sistemas de recuperação de vapores nos bicos de abastecimento das bombas de combustíveis é opcional.
+      - Durante o abastecimento dos tanques de armazenamento de combustível, os frentistas devem utilizar equipamento de proteção respiratória de face inteira com filtro adequado bem como de proteção para a pele.
+      - Em nenhuma hipótese é permitida a medição da quantidade de combustível nos tanques por meio de réguas.
+      - Os trabalhadores sujeitos a risco de exposição ocupacional ao benzeno devem receber treinamento que enfatize a identificação das situações de risco de exposição e as medidas de prevenção de acidentes, exceto nas atividades de conferência do produto no caminhão-tanque no ato do descarregamento e na coleta de amostras no caminhão-tanque com amostrador específico.
+  - enunciado: "Em relação à comissão interna de prevenção de acidentes e de assédio (CIPA), assinale a opção correta com base no que dispõe a NR5."
+    alternativas:
+      - O presidente da CIPA é designado pelo empregador/organização.
+      - As empresas públicas estão desobrigadas a constituir CIPA.
+      - O mandato dos membros da CIPA tem duração de dois anos, período que poderá ser prorrogado.
+      - As reuniões ordinárias da CIPA devem ocorrer a cada 2 meses.
+      - As reuniões ordinárias da CIPA podem ocorrer em qualquer horário, inclusive fora do expediente normal da empresa.
+  - enunciado: "Assinale a opção correta à luz do que dispõe a NR17 acerca da avaliação das situações de trabalho."
+    alternativas:
+      - Entre as situações que justificam a realização de uma análise ergonômica do trabalho cita-se a constatação de que as ações adotadas preliminarmente foram insuficientes.
+      - A avaliação ergonômica preliminar deve ser realizada pelos funcionários, sob supervisão de seu sindicato e de acordo com as orientações da CIPA, não havendo necessidade de seu registro.
+      - Não compete ao serviço de acompanhamento de saúde dos trabalhadores sugerir a realização de análise ergonômica do trabalho.
+      - A avaliação ergonômica preliminar envolve unicamente abordagens qualitativas, independentemente do risco e requisitos legais.
+      - Microempresas estão dispensadas de elaborar análise ergonômica do trabalho, independentemente de seu grau de risco.
+  - enunciado: "De acordo com o Anexo II da NR17, é correto afirmar que, no trabalho de teleatendimento,"
+    alternativas:
+      - o trabalhador que realize uma jornada de 4 horas de trabalho efetivo terá direito a 10 minutos de descanso contínuo.
+      - as pausas para descanso do trabalhador podem ser concedidas no próprio posto de trabalho.
+      - o tempo de trabalho efetivo nessa atividade é de, no máximo, 8 horas diárias, descontadas as pausas.
+      - devem ser adotadas medidas de ventilação ambiental para que haja correntes de ar aplicadas diretamente sobre os operadores, para assegurar-lhes o conforto térmico devido.
+      - deve-se obedecer a faixas de valores bem definidas tanto para o nível de ruído de fundo quanto para a temperatura, a velocidade e a umidade do ar ambiente.
