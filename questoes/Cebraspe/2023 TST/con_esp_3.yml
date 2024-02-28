@@ -1,0 +1,275 @@
+---
+materia: Desenvolvimento - Conhecimentos Específicos
+cargo: Apoio Especializado - Programação
+questoes:
+  - enunciado: |
+      ```
+      programa principal
+          inteiro i, contagem = 10, limite = 10;
+          para (i = 0; i > limite; i = i + 1) faça
+              contagem = contagem – 1;
+          fim para
+          imprime(contagem);
+      fim programa
+      ```
+      Com base no algoritmo precedente, escrito em pseudocódigo, assinale a opção que corresponde ao tipo de estrutura em que se realiza o decréscimo da variável `contagem`.
+    alternativas:
+      - estrutura de repetição
+      - estrutura de controle
+      - estrutura condicional
+      - atributo
+      - função
+  - enunciado: "Na orientação a objetos, os conceitos de superclasse e subclasse estão relacionados a"
+    alternativas:
+      - herança.
+      - interface.
+      - polimorfismo.
+      - array.
+      - coleção.
+  - enunciado: "Uma das vantagens do uso de funções predefinidas é"
+    alternativas:
+      - o reaproveitamento de código.
+      - a passagem de parâmetros.
+      - o recebimento do retorno das funções.
+      - o grau de abstração do sistema.
+      - a facilidade de implementação das funções.
+  - enunciado: "Assinale a opção que apresenta a representação correta de instruções, em pseudocódigo tipado, para definir uma variável e modificar e imprimir seu conteúdo em uma saída."
+    alternativas:
+      - |
+        inteiro variavel = 0;
+        variavel = 1 + 2;
+        imprime(variavel);
+      - |
+        variavel = 0;
+        variavel = 1 + 2;
+        imprime(variavel);
+      - |
+        inteiro variavel = 0;
+        variavel = 1 + 2;
+        imprime(inteiro);
+      - |
+        inteiro variavel = 0;
+        variavel = "1" + "2";
+        imprime(variavel);
+      - |
+        inteiro variavel = "0";
+        variavel = 1 + 2;
+        imprime(variavel);
+  - enunciado: "Uma das finalidades da utilização das funções de hashing é"
+    alternativas:
+      - mapear os dados de um objeto para um valor inteiro representativo.
+      - converter um número inteiro para uma sequência de caracteres.
+      - criptografar um arquivo com senha.
+      - recuperar informações a partir de um arquivo criptografado.
+      - garantir a autenticidade de uma mensagem.
+  - enunciado: "Em normalização de bancos de dados, a forma em que a tabela não possui atributos transitivamente dependentes da chave primária e em que não há colunas dependentes de outras colunas que não são chaves é denominada"
+    alternativas:
+      - terceira forma normal.
+      - primeira forma normal.
+      - associações.
+      - segunda forma normal.
+      - diagrama de dependências funcionais.
+  - enunciado: "Assinale a opção correspondente ao comando utilizado para adicionar, remover ou modificar colunas de tabelas de bancos de dados SQL."
+    alternativas:
+      - alter
+      - update
+      - insert
+      - create
+      - delete
+  - enunciado: "A fase do CRISP-DM em que se dá a aplicação das técnicas de mineração de dados propriamente ditas é denominada"
+    alternativas:
+      - modelagem.
+      - preparação dos dados.
+      - entendimento dos dados.
+      - implantação.
+      - avaliação.
+  - enunciado: "ElasticSearch"
+    alternativas:
+      - suporta pesquisas de texto completo (full-text search).
+      - é uma linguagem de programação.
+      - é usado no armazenamento de banco de dados.
+      - é um banco de dados relacional.
+      - não suporta buscas em tempo real.
+  - enunciado: "O projeto de software é a primeira atividade técnica voltada à construção de software e deve ser iniciada logo após"
+    alternativas:
+      - o projeto de dados.
+      - o teste de software.
+      - o projeto arquitetural.
+      - a análise e a especificação de requisitos.
+      - a codificação.
+  - enunciado: "Assinale a opção em que é apresentada uma técnica de desenvolvimento de software orientada a testes que é voltada para o atendimento dos requisitos do sistema com base no negócio, que utiliza exemplos e dublês de teste e que descreve funcionalidades por meio da sintaxe `dado que`, `quando` e `então`."
+    alternativas:
+      - desenvolvimento orientado por comportamento (BDD)
+      - teste unitário de software
+      - desenvolvimento guiado por testes (TDD)
+      - desenvolvimento guiado por testes de aceitação (ATDD)
+      - testes de aceitação de usuário (UAT)
+  - enunciado: "No Scrum, o artefato que apresenta uma lista de características do software que está sendo desenvolvido é denominado"
+    alternativas:
+      - backlog do produto.
+      - backlog da sprint.
+      - incremento.
+      - cartão.
+      - sprint.
+  - enunciado: "No processo de desenvolvimento de software ágil, uma narrativa que relata, sob a perspectiva do usuário final, como o software irá agregar valor ao negócio é denominada"
+    alternativas:
+      - história de usuário.
+      - sprint.
+      - iniciativa.
+      - requisito não funcional.
+      - épico.
+  - enunciado: "De acordo com o Manual de Práticas de Contagem do IFPUG, a contagem das funções de dados e das funções transacionais deve ser realizada imediatamente após a"
+    alternativas:
+      - determinação da fronteira da aplicação.
+      - determinação do escopo da contagem.
+      - identificação do tipo da contagem.
+      - identificação do propósito da contagem.
+      - identificação dos requisitos funcionais.
+  - enunciado: |
+      ```
+      <html>
+          <body>
+              <p id="demo"></p>
+                  <script>
+                  let x = 10;{
+                   let x = 1;
+                   x = x - 1;
+                  }
+                  {
+                   let x = 3;
+                   x = x + 5;
+                  }
+                  {
+                   let x = 20;
+                   x = x + 2;
+                  }
+                  document.getElementById("demo").innerHTML = x;
+                  </script>
+          </body>
+      </html>
+      ```
+      Considerando o código precedente, desenvolvido em ECMAScript 6, assinale a opção que apresenta o resultado mostrado ao usuário ao final da execução desse código.
+    alternativas:
+      - 10
+      - 0
+      - 8
+      - 12
+      - 22
+  - enunciado: |
+      ```
+      <?php
+      $ x = function($ a) {
+          return $ a ** 2;
+      };
+      $ y = range(3, 5);
+      $ y = array_map($ x, $ y);
+      print implode(' ', $ y);
+      ?>
+      ```
+      Com base no código precedente, desenvolvido em PHP, assinale a opção que corresponde ao resultado a ser apresentado ao final da execução desse código.
+    alternativas:
+      - 9 16 25
+      - 4
+      - 8
+      - 3 4 5
+      - 6 8 10
+  - enunciado: |
+      ```
+      <html>
+      <body>
+      <h3>TST</h3>
+      <form action="/action.php">
+        <label for="login">Login:</label>
+        <input type="text" id="login" name="login" #TST>
+        <input type="submit">
+      </form>
+      </body>
+      </html>
+      ```
+      Segundo a versão 3.1 do Modelo de Acessibilidade em Governo Eletrônico (eMAG), no HTML 5, há um atributo que especifica que um campo é obrigatório, informação que é lida pelo leitor de tela.
+      O código precedente foi desenvolvido com HTML 5. O arquivo action.php está na mesma pasta do arquivo que contém o código apresentado. O resultado da execução desse código está ilustrado na figura a seguir.
+      A partir dessas informações, é correto afirmar que, para fornecer instrução para a entrada de dados obrigatória e obter o mesmo resultado do apresentado na figura precedente quando o usuário clicar no botão `Enviar` sem preencher o campo de Login, o trecho `#TST` deverá ser substituído por
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 TST/imagens/con_esp_3 49.png?raw=true
+    alternativas:
+      - required.
+      - obligatory.
+      - must.
+      - formvalidade.
+      - mandatory.
+  - enunciado: "Assinale a opção que corresponde ao diretório no JBoss AS 7 sob o qual um controlador de host criará a área de trabalho para instâncias individuais de servidor (modo de domínio gerenciado)."
+    alternativas:
+      - jboss.domain.servers.dir
+      - jboss.server.base.dir
+      - jboss.server.data.dir
+      - java.home
+      - jboss.home
+  - enunciado: "De acordo com a Resolução n.º 335/2020 do Conselho Nacional de Justiça (CNJ), a Plataforma Digital do Poder Judiciário (PDPJ-Br) deve adotar, de forma obrigatória, soluções que abranjam"
+    alternativas:
+      - incremento da robotização e técnicas disruptivas de desenvolvimento de soluções.
+      - tecnologias com código aberto (open source).
+      - plataforma privada sob responsabilidade do CNJ, a ser por ele disponibilizada aos órgãos do Poder Judiciário.
+      - bancos de dados massivos.
+      - sistemas imunológicos digitais.
+  - enunciado: "Conforme a Portaria CNJ n.º 252/2020, que dispõe sobre o modelo de governança e gestão da PDPJ-Br, compete aos comitês gestores dos tribunais"
+    alternativas:
+      - propor a organização da estrutura de atendimento às demandas de seus usuários internos e externos.
+      - sugerir à Presidência do Comitê Gestor Nacional o modelo de rateio dos custos da nuvem computacional e, se aprovado, acompanhar sua execução.
+      - propor à Presidência do Comitê Gestor Nacional a política de tecnologia da informação a ser seguida pela PDPJ-Br.
+      - homologar e propor ajustes aos projetos de desenvolvimento de microsserviços.
+      - propor normas regulamentadoras à Comissão Permanente de Tecnologia da Informação e Infraestrutura do CNJ.
+  - enunciado: "Com base na Portaria CNJ n.º 253/2020, que institui os critérios e as diretrizes técnicas para o processo de desenvolvimento de módulos e serviços na PDPJ-Br, assinale a opção correta."
+    alternativas:
+      - A PDPJ-Br seguirá modelo arquitetural de microsserviços, preferencialmente modelados utilizando-se a metodologia DDD (domain driven design).
+      - As aplicações monolíticas deverão ser disponibilizadas por meio de mecanismos nativos como JSF e richfaces.
+      - Cada órgão que se integrar à PDPJ-Br deverá disponibilizar, em seu sítio público na nuvem (marketplace), a lista de projetos em andamento e pendentes de serem integrados à PDPJ-Br.
+      - As API (application programming interfaces) deverão ser providas por meio de tecnologia SOAP (simple object access protocol), exceto as do tipo stateless, e, em qualquer caso, obedecer aos padrões definidos na plataforma de documentações do CNJ.
+      - Os recursos e meios para testes de integração utilizados não poderão permitir a execução de pipelines ou testes automatizados, com vistas a garantir unicidade e padronização de testes a nível nacional.
+  - enunciado: "Em conformidade com a Portaria CNJ n.º 131/2021, que institui o grupo revisor de código-fonte das soluções da PDPJ-Br e do processo judicial eletrônico (PJe), assinale a opção correta."
+    alternativas:
+      - Caberá preferencialmente ao CNJ prover um ambiente de testes padronizado para análise dos merge requests, sem prejuízo de os demais integrantes do grupo revisor realizarem suas análises em ambiente próprio.
+      - Os servidores lotados na Divisão de Gestão de Sistemas Corporativos do CNJ são membros natos do grupo revisor em questão.
+      - Caberá ao grupo revisor de código-fonte a escolha dos projetos disponibilizados na PDPJ-Br, sendo ele o responsável pelos testes que orientarão tecnicamente as escolhas das soluções.
+      - Antes de ser encaminhado para análise do grupo revisor, o código-fonte deverá ser submetido às ferramentas de DAST (dynamic application security testing) e SCA (software composition analysis).
+      - O código-fonte que não alcançar os critérios mínimos definidos pelo CNJ no teste realizado deverá, antes de ser rejeitado, ser posto em quarentena, quando serão realizados novos testes por equipe distinta daquela que fez o teste que reprovou o código.
+  - enunciado: "De acordo com o disposto na Resolução CNJ n.º 396/2021, que institui a Estratégia Nacional de Segurança Cibernética do Poder Judiciário (ENSEC-PJ), assinale a opção correta. Nesse sentido, considere que as siglas STF, TIC e CGSI significam, respectivamente, Supremo Tribunal Federal, tecnologia da informação e comunicação e Comitê de Governança de Segurança da Informação."
+    alternativas:
+      - Cada órgão do Poder Judiciário, salvo o STF, deverá implementar a gestão de usuários de sistemas informatizados composta por gerenciamento de identidades, de acessos e de privilégios.
+      - Compete à área de TIC de cada órgão do Poder Judiciário realizar a governança da segurança da informação e, especialmente, implementar, no que lhe couber, a Política de Segurança Cibernética do Poder Judiciário.
+      - Cabe ao STF coordenar as ações para viabilizar a implementação do modelo de governança nacional na segurança cibernética do Poder Judiciário, de forma a promover a integração dos diversos entes relacionados com a segurança cibernética.
+      - Cada órgão do Poder Judiciário, incluído o STF, deverá constituir CGSI, ao qual caberá assessorar o chefe do setor de TIC nas questões relacionadas à segurança da informação.
+      - O CGSI será coordenado por equipe de TIC do respectivo órgão do Poder Judiciário, sendo sua composição definida pelo presidente do órgão especificamente para tal finalidade.
+  - enunciado: "Assinale a opção que indica o comando que só pode ser definido para executar em nível de instrução no banco de dados PostgreSQL."
+    alternativas:
+      - truncate
+      - after
+      - update
+      - instead of
+      - before
+  - enunciado: "Um dev que trabalha com integração contínua, para garantir que suas implementações funcionem com o restante do código, deve, sequencialmente, ao final de sua tarefa,"
+    alternativas:
+      - executar um build local, atualizar a cópia local do projeto, executar os testes localmente e fazer commit com o repositório central.
+      - atualizar a cópia local do projeto, executar os testes localmente, executar um build local e fazer commit com o repositório central.
+      - atualizar a cópia local do projeto, executar um build local, executar os testes localmente e fazer commit com o repositório central.
+      - fazer commit com o repositório central, executar um build local, atualizar a cópia local do projeto e executar os testes localmente.
+      - executar os testes localmente, executar um build local, atualizar a cópia local do projeto e fazer commit com o repositório central.
+  - enunciado: "Assinale a opção que apresenta a ferramenta utilizada no Swagger para expor e invocar definições de APIs feitas com o próprio Swagger."
+    alternativas:
+      - Swagger Socket
+      - Swagger Editor
+      - Swagger Parse
+      - Swagger Codegen
+      - Swagger JS
+  - enunciado: "No Git, o comando que envia as atualizações do repositório local para o repositório remoto é executado por meio da instrução"
+    alternativas:
+      - git push.
+      - git commit.
+      - git pull.
+      - git add.
+      - git merge.
+  - enunciado: "Single Sign-On é uma identidade federada que fornece um serviço de token de segurança por meio do"
+    alternativas:
+      - serviço de protocolo.
+      - ponto de contato.
+      - serviço de identidade.
+      - provisionamento.
+      - serviço de chave.
