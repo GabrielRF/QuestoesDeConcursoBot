@@ -1,0 +1,261 @@
+---
+materia: Contabilidade - Conhecimentos Complementares
+cargo: Contabilidade ou Ciências Contábeis / Economia ou Ciências Econômicas
+questoes:
+  - enunciado: |
+      Considerando o conceito de controle, seus tipos e suas formas, julgue os itens a seguir.
+
+      O controle constitui poder-dever dos órgãos a que a lei atribui essa função, precisamente pela sua finalidade corretiva.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O controle interno sobre os órgãos da administração direta decorre do poder de autotutela que permite à administração pública rever os próprios atos quando ilegais, inoportunos ou inconvenientes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os Poderes Executivo, Legislativo e Judiciário deverão instituir e manter sistemas de controle interno de forma separada com fito de aprimoramento e monitoramento da estrutura do Estado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Quanto ao órgão que o exerce, o controle pode ser administrativo, legislativo ou judicial."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O controle concomitante abrange atos como os de aprovação, homologação, anulação, revogação e convalidação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca do controle parlamentar da administração pública, julgue os itens seguintes.
+
+      Constitui hipótese de controle parlamentar o encaminhamento de pedidos escritos de informação, pelas mesas da Câmara dos Deputados e do Senado, dirigidos aos ministros de Estado.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Cabe ao controle jurisdicional fiscalizar os atos normativos do Poder Executivo, como regulamentos, resoluções, portarias, podendo estes ser invalidados pelo Poder Judiciário por qualquer via de impugnação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os próximos itens, relativos ao controle exercido pelos tribunais de contas.
+
+      Os tribunais de contas possuem competência para realizar o controle externo da administração pública, porém, no caso de fiscalização de contratos, estarão subordinados ao Poder Legislativo.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A fim de controlar as contas públicas, compete ao tribunal de contas apreciar as contas anuais de governo do chefe do Poder Executivo, mediante parecer prévio que subsidiará o julgamento a ser realizado pelo Poder Legislativo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os tribunais de contas têm o prazo de até dois anos para proceder à apreciação do ato sujeito a fiscalização, sob pena de perda da pretensão punitiva da irregularidade."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os tribunais de contas apreciam, quanto à legalidade, os orçamentos públicos, os quais são, obrigatoriamente, veiculados por lei específica, cujo projeto é submetido a processo legislativo próprio."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere ao controle administrativo, julgue os itens subsequentes.
+
+      É permitido ao Poder Judiciário ingressar na análise do mérito administrativo, a fim de apurar a conveniência e a oportunidade dos atos da administração.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O controle da administração pública sobre os próprios atos pode ser exercido ex officio, quando a autoridade competente constatar a ilegalidade de seu próprio ato."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca do recurso de administração e da reclamação, julgue os itens que se seguem.
+
+      O recurso hierárquico próprio é dirigido à autoridade imediatamente superior, dentro do mesmo órgão no qual o ato foi praticado.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Quando houver previsão legal de determinado recurso sem estipulação de prazo, o interessado poderá valer-se da reclamação administrativa para pleitear seus direitos perante a administração, devendo fazê-lo no prazo de até cinco anos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com base na Lei de Improbidade Administrativa (Lei n.º 8.429/1992), julgue os itens seguintes.
+
+      Aplica-se a lei de improbidade administrativa ao parlamentar, de qualquer dos níveis de governo, nos casos de crimes de opinião.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "São elementos essenciais para a configuração do ato de improbidade administrativa: sujeito ativo, sujeito passivo, dolo, além de ato tipificado como ilícito do qual decorram dano ao erário, enriquecimento ilícito ou conduta que atente contra os princípios da administração."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Quanto ao controle da atividade financeira do Estado, julgue os itens a seguir.
+
+      O controle da legitimidade deve recair sobre a legalidade e a economicidade da execução orçamentária e financeira, levando em conta o aspecto da justiça e a relação custo-benefício.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Compete exclusivamente ao Congresso Nacional fiscalizar as contas nacionais das empresas supranacionais de cujo capital social a União participe de forma direta e indireta."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação ao Tribunal de Contas da União (TCU) e aos tribunais de contas dos estados e do Distrito Federal, julgue os itens subsecutivos.
+
+      As fiscalizações de natureza operacional têm como objetivo definir padrões de desempenho e avaliar os resultados da gestão, à luz de parâmetros de eficiência, eficácia e economicidade.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "É de competência exclusiva do TCU julgar anualmente as contas prestadas pelo presidente da República e apreciar os relatórios sobre a execução dos planos de governo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para assegurar a eficácia do controle e instruir o julgamento das contas, o TCU fiscaliza os atos de que resulte receita ou despesa praticados pelos responsáveis sujeitos a sua jurisdição."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base nas Leis n.º 8.666/1993, n.º 14.133/2021 e n.º 10.520/2002, julgue os próximos itens.
+
+      Desde que justificado, o orçamento estimado da contratação pode ter caráter sigiloso, restrição esta que se aplica, inclusive, aos órgãos de controle interno e externo.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As contratações públicas devem submeter-se a práticas contínuas e permanentes de gestão de riscos e de controle preventivo, inclusive mediante adoção de recursos de tecnologia da informação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A omissão na prestação das informações dos atos licitatórios impede as deliberações dos órgãos de controle e retardam a aplicação dos prazos de tramitação e de deliberação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca do papel do Estado e da atuação do governo nas finanças públicas, julgue os itens a seguir.
+
+      A distribuição de renda decorrente das dotações dos fatores de produção pode gerar desigualdades na sociedade, cabendo ao governo alterar a estrutura de renda originária do mercado por meio de transferências, impostos e subsídios.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As finanças públicas não apenas asseguram a manutenção da administração e dos serviços públicos como também podem influenciar a promoção do emprego e a estabilidade dos preços."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A função alocativa do setor público está relacionada ao uso exclusivo do orçamento público para o provisionamento de bens públicos e bens meritórios em complemento àqueles produzidos pelo mercado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsequentes, a respeito dos princípios e das técnicas aplicadas ao orçamento público, da lei orçamentária anual (LOA) e da lei de diretrizes orçamentárias (LDO).
+
+      O Brasil adota o princípio da exclusividade orçamentária, segundo o qual a LOA não poderá conter dispositivo estranho à previsão da receita e à fixação da despesa, ressalvando-se as hipóteses expressamente previstas na Constituição Federal de 1988.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O orçamento público no Brasil é exclusivamente autorizativo, o que permite ao Poder Executivo contingenciar as dotações previstas na LOA, visando alcançar a meta de resultado primário estabelecida na LDO."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A metodologia predominante na organização das finanças públicas no Brasil é a do orçamento base-zero, cujo método consiste em organizar ou apresentar o orçamento público, voltando-se, antes de tudo, para a avaliação e a tomada de decisão sobre despesas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os próximos itens, relativos ao ciclo e ao processo orçamentário, ao plano plurianual (PPA), à LDO e à LOA.
+
+      No maior nível de classificação institucional do orçamento público encontram-se as unidades orçamentárias, que são responsáveis pelas ações necessárias para o alcance dos objetivos e metas determinados pela LDO.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Congresso Nacional poderá emendar o projeto de LOA, desde que a alteração seja compatível com o PPA e indique os recursos necessários para tal, como, por exemplo, a anulação de despesa relativa aos serviços da dívida."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os programas do PPA representam o conjunto coordenado de ações governamentais que, financiadas por recursos orçamentários e não orçamentários, visam à concretização do seu objetivo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere à estrutura programática e às classificações orçamentárias, julgue os itens subsecutivos.
+
+      Na estrutura programática do plano plurianual (PPA), as ações são tipificadas como projetos, atividades e operações especiais, as quais buscam aperfeiçoar os projetos do governo e têm como resultado um bem público entregue à coletividade.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A função orçamentária pode ser entendida como o instrumento de organização da atuação governamental, pois articula um conjunto de ações que concorrem para um objetivo comum preestabelecido, mensurado por indicadores fixados no PPA."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A modalidade de aplicação indica se os recursos do orçamento público serão aplicados mediante transferência financeira ou diretamente para entidades privadas sem fins lucrativos e outras instituições."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A subfunção representa uma partição da função com vistas a agregar determinado subconjunto de despesa do setor público, e poderá ser combinada com funções diferentes daquelas a que esteja vinculada."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca dos créditos ordinários e adicionais, julgue os itens a seguir.
+
+      Os créditos suplementares e especiais são autorizados por lei, abertos por decreto e dependem da existência de recursos disponíveis, bem como de requerimento devidamente justificado.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O INPI poderá solicitar crédito adicional extraordinário visando ao reforço de dotação orçamentária para pagamento de sua despesa com pessoal."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação a despesas públicas, julgue os itens seguintes.
+
+      O INPI utiliza a modalidade de empenho ordinário para o pagamento das contas de água, gás e luz de sua sede.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O pagamento é o terceiro estágio da despesa pública e somente será efetuado quando ordenado, após sua regular liquidação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O servidor declarado em alcance poderá receber do ordenador de despesa a concessão de suprimento de fundos, desde que não tenha a seu cargo a guarda ou a utilização do material a adquirir."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Vigente o prazo para cumprimento de obrigação assumida pelo credor, o empenho da referida despesa não será anulado em 31 de dezembro, mesmo que ela ainda não esteja liquidada."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os seguintes itens, relativos a receitas públicas.
+
+      A fonte é um critério específico de classificação dos recursos no orçamento público, sendo utilizada para indicar a sua finalidade precípua, ou seja, como são financiadas as despesas; nos casos dos recursos ordinários, quando não há vinculação, a alocação se dará livremente, desde que no âmbito das competências de cada órgão ou entidade.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em sentido amplo, receitas públicas são ingressos de recursos financeiros nos cofres do Estado, que se desdobram em receitas orçamentárias, quando representam disponibilidades de recursos financeiros para o erário, e ingressos extraorçamentários, quando representam apenas entradas compensatórias."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base na lei de responsabilidade fiscal, julgue os próximos itens.
+
+      Como forma de garantir a transparência da gestão fiscal, será disponibilizada para consulta e apreciação pelos cidadãos e instituições da sociedade a prestação de contas do chefe do Poder Executivo; no caso da União, a prestação de contas será acompanhada por demonstrativos do Tesouro Nacional e das agências financeiras oficiais de fomento.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No planejamento do Estado, a lei de diretrizes orçamentárias conterá o anexo de metas ficais com avaliação dos passivos contingentes e outros riscos capazes de afetar as contas públicas durante a vigência do plano plurianual."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue o seguinte item, a respeito do Tesouro Gerencial.
+
+      O Tesouro Gerencial é um sistema de consulta à execução orçamentária, financeira e patrimonial do governo federal no âmbito do orçamento fiscal e seguridade social, que possibilita a extração de informação de acordo com múltiplos aspectos presentes no documento de lançamentos contábil.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca do decreto de programação orçamentária e financeira, julgue o item que se segue.
+
+      Até sessenta dias após a publicação da lei que dispõe sobre os orçamentos fiscal e da seguridade social da União, o Poder Executivo é obrigado a publicar a programação financeira e o cronograma de execução mensal de desembolso das despesas discricionárias, em consonância com os termos estabelecidos no plano plurianual.
+    alternativas:
+      - Errado
+      - Certo
