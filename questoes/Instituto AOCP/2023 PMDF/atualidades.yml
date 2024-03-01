@@ -1,0 +1,63 @@
+---
+cargo: Soldado Policial Militar da Polícia Militar do Distrito Federal - QPPMC
+materia: Atualidades
+questoes:
+  - enunciado: "As mudanças climáticas em âmbito global afetam diretamente no clima local, isso torna necessário o enfrentamento da mudança do clima por meio de uma governança que adote ações de enfrentamento da mudança climática como parte do desenvolvimento local. Nesse sentido, foram sugeridas aos formuladores de políticas públicas e tomadores de decisão, a fim de promover a resiliência dos sistemas naturais e humanos e garantir o desenvolvimento sustentável do DF e da RIDE-DF, dentre outras, as seguintes estratégias, EXCETO"
+    alternativas:
+      - desenvolver políticas públicas educativas nas escolas de educação infantil tendo como foco as questões ambientais e o desenvolvimento sustentável.
+      - mobilizar centros geradores de conhecimento científico, academias científicas, universidades, institutos técnicos e fundações de apoio à pesquisa para a produção científica de pesquisas climáticas voltadas para o DF e a RIDE-DF.
+      - promover a revisão e a regulamentação da Lei de Clima do DF, orientando-se pelos últimos achados científicos para a escala local.
+      - requerer o aprofundamento de investigações científicas do clima voltadas à escala local, como forma de subsidiar permanentemente políticas públicas locais.
+      - requerer inventário periódico (off-line e on-line) de emissões e sumidouros de GEE, de modo a monitorar o cumprimento de metas e determinar as melhores opções, estratégias e tecnologias de mitigação.
+  - enunciado: "Em relação às mudanças no clima do Distrito Federal (DF) e da RIDE-DF observadas nas últimas décadas, assinale a alternativa correta."
+    alternativas:
+      - Houve uma diminuição da amplitude térmica (DRT) entre as temperaturas máxima e mínima diária.
+      - Diminuição da quantidade de dias com umidade relativa do ar abaixo de 30% no ano.
+      - O período mais quente ocorre entre julho e dezembro, no qual a média histórica das temperaturas mais altas chega aos quase 38 °C.
+      - Cerca de 90% da precipitação ocorre na estação das chuvas abril/maio a setembro.
+      - Diminuição de mais de 3°C na temperatura mínima no período no final do outono e início do inverno.
+  - enunciado: |
+      Analise as seguintes imagens:
+
+      Com base nas imagens apresentadas, é possível observar que
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Instituto AOCP/2023 PMDF/imagens/qppmc 26.png?raw=true
+    alternativas:
+      - o DF se destaca pelo seu PIB elevado, entretanto apresenta grande desigualdade social caracterizada pela variação da distribuição de renda entre as Regiões Administrativas.
+      - o DF possui um grande mercado consumidor que se baseia, economicamente, no setor industrial.
+      - no DF, os resultados do PIB e Renda per capita se devem à maioria da população economicamente ativa atuando no setor agropecuário.
+      - a Renda per capita está diretamente relacionada à densidade populacional das diferentes regiões do DF.
+      - no DF, o crescimento vegetativo alcançou níveis superiores a média nacional graças a sua renda per capita e à implantação de políticas públicas.
+  - enunciado: "Dentre as sete bacias que compõem o Distrito Federal, a única bacia totalmente inserida no DF é a do"
+    alternativas:
+      - Lago Paranoá.
+      - Rio das Mortes.
+      - Alto São Lourenço.
+      - Jequitinhonha.
+      - Paraguaçú.
+  - enunciado: "Os jardins do Teatro Municipal e do 308 South são exemplos de obras desenvolvidas pelo paisagista Burle Marx em Brasília. Uma das grandes características do artista em suas criações era"
+    alternativas:
+      - o emprego da diversidade da vegetação nativa na composição de formas orgânicas.
+      - o estilo Jardim Medieval, utilizando-se de plantas alimentícias, medicinais e floríferas.
+      - a inserção de espécies de origem europeia, visando a um jardim no estilo renascentista.
+      - a utilização de espaços para a meditação, pontes e plantas com topiaria em buxinhos.
+      - a implantação de jardins verticais e cascatas nas fachadas dos prédios para isolamento térmico.
+  - enunciado: "O espaço da Região Integrada de Desenvolvimento do Distrito Federal e Entorno (RIDE-DF) foi institucionalizado seguindo um modelo de vinculação entre o Estado brasileiro com suas regiões, evidenciando"
+    alternativas:
+      - as dificuldades em considerar tanto o território quanto a região como fragmentados.
+      - o rigor quanto aos pressupostos metodológicos das Regiões de Influência das Cidades.
+      - as similaridades culturais entre as cidades que constituem a RIDE-DF.
+      - as disparidades politicas existentes nas diversas regiões que compõem a RIDE-DF.
+      - a proposta de regionalização baseada nas características fisiográficas do território nacional.
+  - enunciado: |
+      A produção do espaço da RIDE-DF no atual momento é composto por diferentes macroprocessos. Em relação a esses macroprocessos, marque verdadeiro (V) ou falso (F) para os citados a seguir e assinale a alternativa com a sequência correta.
+
+      ( ) A expansão metropolitana de Brasília.
+      ( ) A expansão da agropecuária moderna.
+      ( ) As negociações para prestação de serviços junto aos países europeus.
+      ( ) A integração do eixo Brasília-Anápolis-Goiânia.
+    alternativas:
+      - V – V – F – V.
+      - V – V – F – F.
+      - F – V – F – V.
+      - V – F – V – V.
+      - F – F – V – V.

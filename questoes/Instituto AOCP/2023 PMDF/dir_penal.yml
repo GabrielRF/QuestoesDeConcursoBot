@@ -1,0 +1,53 @@
+---
+cargo: Soldado Policial Militar da Polícia Militar do Distrito Federal - QPPMC
+materia: Direito Penal
+questoes:
+  - enunciado: |
+      A coação moral irresistível, também denominada de vis compulsiva, à luz do ordenamento jurídico penal, é classificada como causa de
+    alternativas:
+      - exclusão da culpabilidade.
+      - diminuição da pena.
+      - extinção da punibilidade.
+      - exclusão da ilicitude.
+      - exclusão da tipicidade.
+  - enunciado: "Determinado agente público de trânsito, atendendo ao pedido do prefeito da cidade, deixou de multá-lo por avançar o sinal vermelho do semáforo. Nesse caso, nos termos do Código Penal, o agente de trânsito praticou o crime de"
+    alternativas:
+      - corrupção passiva.
+      - condescendência criminosa.
+      - advocacia administrativa.
+      - prevaricação.
+      - tráfico de influência.
+  - enunciado: "Nos termos da Lei de Abuso de Autoridade, presente o especial fim de agir do art. 1º, §1º, da citada Lei, configura crime de abuso de autoridade, EXCETO"
+    alternativas:
+      - submeter o preso capturado em flagrante delito a interrogatório policial durante o período de repouso noturno.
+      - deixar de identificar-se ou identificar-se falsamente ao preso por ocasião de sua captura ou quando deva fazê-lo durante sua detenção ou prisão.
+      - proceder à obtenção de prova, em procedimento de investigação ou fiscalização, por meio manifestamente ilícito.
+      - manter presos de ambos os sexos na mesma cela ou espaço de confinamento.
+      - constranger a depor, sob ameaça de prisão, pessoa que, em razão de função, ministério, ofício ou profissão, deva guardar segredo ou resguardar sigilo.
+  - enunciado: |
+      Em relação à Lei dos Crimes Hediondos e à Lei de Tortura, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta.
+
+      ( ) O Supremo Tribunal Federal, considerando a gravidade dos delitos, entende como constitucional a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados.
+      ( ) A prisão temporária em relação a crimes hediondos e equiparados terá o prazo de cinco dias, prorrogável por igual período em caso de extrema e comprovada necessidade.
+      ( ) Incide causa de aumento de pena no crime de tortura se dela resulta lesão corporal de natureza grave ou gravíssima.
+      ( ) A condenação pelo crime de tortura acarretará a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada.
+    alternativas:
+      - F – F – F – V.
+      - F – V – V – F.
+      - F – F – V – V.
+      - V – V – F – F.
+      - V – F – V – V.
+  - enunciado: "Em determinado dia, Zeus avista Hades, seu inimigo mortal, passeando pela orla da praia, momento em que, imediatamente, saca sua arma e dispara, matando Hades. Acontece que, a título de culpa, Zeus também matou Poseidon, vendedor ambulante local, porque o projétil perfurou o corpo de Hades, atravessando-o, e atingiu Poseidon no coração. Nesse caso, à luz da normativa penal, é correto afirmar que restou configurada hipótese de"
+    alternativas:
+      - erro na execução.
+      - erro sobre a pessoa.
+      - erro sobre o objeto.
+      - erro determinado por terceiro.
+      - aberratio causae.
+  - enunciado: "Acerca do Direito Penal, assinale a alternativa correta."
+    alternativas:
+      - O iter criminis é composto de quatro etapas, quais sejam: cogitação, preparação, execução e consumação.
+      - Salvo se utilizadas para beneficiar o réu, a analogia e a interpretação analógica não são admitidas pelo direito penal.
+      - Considera-se regime aberto a execução da pena em colônia agrícola, industrial ou estabelecimento similar.
+      - No concurso de crimes, quando adotado o sistema da exasperação, aplica-se ao réu o somatório das penas de cada uma das infrações penais pelas quais foi condenado.
+      - São causas de exclusão da tipicidade: a anistia, a graça e o indulto.

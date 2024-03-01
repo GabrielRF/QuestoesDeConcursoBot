@@ -1,0 +1,81 @@
+---
+cargo: Soldado Policial Militar da Polícia Militar do Distrito Federal - QPPMC
+materia: Legislação Aplicada à PMDF
+questoes:
+  - enunciado: |
+      Nos termos da Lei Federal nº 6.450/1977, que dispõe sobre a organização básica da Polícia Militar do Distrito Federal, os cargos de Subcomandante-Geral e de Chefe do Estado-Maior da Corporação serão exercidos por Oficiais do posto de Coronel PM do Quadro de Oficiais Policiais Militares, indicados pelo
+    alternativas:
+      - Comandante-Geral e nomeados pelo Governador do Distrito Federal.
+      - Governador do Distrito Federal e nomeados pelo Presidente da República.
+      - Estado-Maior e nomeados pelo Comandante-Geral.
+      - Secretário de Segurança Pública do Distrito Federal e nomeados pelo Comandante-Geral.
+      - Secretário de Segurança Pública do Distrito Federal e nomeados pelo Governador do Distrito Federal.
+  - enunciado: "Izaac é Soldado PM do Quadro de Praças Policiais Militares Combatentes. De acordo com a Lei Federal nº 12.086/2009, que dispõe sobre os militares da Polícia Militar do Distrito Federal, como regra geral, para que Izaac seja promovido à graduação de Cabo PM, entre outros requisitos legais, deve-se respeitar o interstício de"
+    alternativas:
+      - 120 meses.
+      - 36 meses.
+      - 48 meses.
+      - 60 meses.
+      - 90 meses.
+  - enunciado: "Determinado Praça da Polícia Militar do Distrito Federal está se julgando preterido no que tange ao seu direito de promoção. Nesse caso, à luz da Lei Federal nº 12.086/2009, como última instância na esfera administrativa, o Praça poderá interpor recurso ao"
+    alternativas:
+      - Comandante-Geral.
+      - Governador do Distrito Federal.
+      - Presidente da respectiva Comissão de Promoções.
+      - Corregedor-Geral.
+      - Secretário de Segurança Pública do Distrito Federal.
+  - enunciado: "Nos termos do Decreto Federal nº 10.443/2020, o órgão de assessoramento do Comandante-Geral da Polícia Militar do Distrito Federal responsável pelo planejamento estratégico e centro do sistema de planejamento, programação e orçamento é o/a"
+    alternativas:
+      - Estado-Maior.
+      - Alto-Comando.
+      - Departamento de Operações.
+      - Assessoria.
+      - Departamento de Logística e Finanças.
+  - enunciado: "Em relação ao Estatuto dos Policiais-Militares da Polícia Militar do Distrito Federal (Lei Federal nº 7.289/1984), assinale a alternativa correta."
+    alternativas:
+      - Posto é o grau hierárquico do Oficial, conferido por ato do Governador do Distrito Federal e confirmado em Carta Patente.
+      - Os policiais-militares da reserva remunerada são aqueles dispensados, definitivamente, da prestação de serviço na ativa, continuando, entretanto, a perceber remuneração do Distrito Federal.
+      - A hierarquia é a rigorosa observância e acatamento integral da legislação que fundamenta o organismo policial-militar e coordena seu funcionamento regular e harmônico.
+      - Acatar as autoridades civis e cumprir seus deveres de cidadão são manifestações essenciais do valor policial-militar.
+      - A subordinação não afeta, de modo algum, a dignidade pessoal do policial-militar e decorre, exclusivamente, da disciplina exigida pela Polícia Militar.
+  - enunciado: "Em relação ao Estatuto dos Policiais-Militares da Polícia Militar do Distrito Federal (Lei Federal nº 7.289/1984), assinale a alternativa INCORRETA."
+    alternativas:
+      - O Aspirante-a-Oficial PM, bem como as Praças com estabilidade assegurada, presumivelmente incapazes de permanecer como policiais-militares da ativa, serão submetidos a Conselho de Justificação.
+      - Em igualdade de posto ou graduação, os policiais-militares em atividade têm precedência sobre os da inatividade.
+      - Os Cabos e Soldados são essencialmente elementos de execução.
+      - Por motivo de luto, obedecidas as disposições legais e regulamentares, o policial-militar possui direito ao período de oito dias de afastamento total do serviço.
+      - A agregação é a situação na qual o policial-militar da ativa deixa de ocupar a vaga na escala hierárquica do seu quadro, nela permanecendo sem número.
+  - enunciado: "De acordo com o R-200 (Decreto Federal nº 88.777/1983), o aprestamento pode ser conceituado como"
+    alternativas:
+      - conjunto de medidas, incluindo instrução, adestramento e preparo logístico, para tornar uma organização policial-militar pronta para emprego imediato.
+      - atividade destinada a exercitar o policial-militar, individualmente e em equipe, desenvolvendo-lhe a habilidade para o desempenho das tarefas para as quais já recebeu a adequada instrução.
+      - ato ou efeito de estudar os assuntos pertinentes, propor soluções a cada um deles, elaborar diretrizes, normas e outros documentos.
+      - ato da autoridade competente, com objetivo de verificar, para fins de controle e coordenação, as atividades e os meios das Polícias Militares.
+      - exercício dinâmico do poder de polícia, no campo da segurança pública, manifestado por atuações predominantemente ostensivas, visando prevenir, dissuadir, coibir ou reprimir eventos que violem a ordem pública.
+  - enunciado: |
+      No que diz respeito ao Decreto nº 41.167/2020 do Distrito Federal, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta.
+
+      ( ) Aos órgãos de apoio, constituídos pelas Unidades Operacionais da Corporação, incumbem as atividades de policiamento ostensivo e de preservação da ordem pública, valendo-se dos meios inerentes a tal fim.
+      ( ) O Centro de Políticas de Segurança Pública, ao qual compete assessorar na implementação e consolidação das políticas de segurança pública e no desenvolvimento de programas sociais preventivos voltados à sociedade, subordina-se ao Subcomandante-Geral.
+      ( ) A estrutura básica dos Comandos de Policiamento compreende: Seção Administrativa, Seção de Inteligência e Seção de Planejamento, Operações e Instrução.
+      ( ) Os Comandos de Policiamento são considerados órgãos de execução de nível operacional.
+    alternativas:
+      - F – V – V – F.
+      - F – F – F – V.
+      - F – F – V – F.
+      - V – F – V – V.
+      - V – V – F – V.
+  - enunciado: "Acerca da Lei Orgânica do Distrito Federal, assinale a alternativa correta."
+    alternativas:
+      - Ao Distrito Federal são atribuídas as competências legislativas reservadas aos Estados e Municípios, cabendo-lhe exercer, em seu território, todas as competências que não lhe sejam vedadas pela Constituição Federal.
+      - Entre outros previstos, constitui valor fundamental do Distrito Federal promover, proteger e defender os direitos da criança, do adolescente e do jovem.
+      - O Distrito Federal organiza-se em Regiões Administrativas, com vistas à centralização administrativa, à utilização racional de recursos para o desenvolvimento sócio-econômico e à melhoria da qualidade de vida.
+      - Os bens do Distrito Federal destinar-se-ão exclusivamente ao uso público, respeitadas as normas de proteção ao meio ambiente, ao patrimônio histórico, cultural, arquitetônico e paisagístico, e garantido o interesse social.
+      - Os bens públicos tornar-se-ão disponíveis ou indisponíveis por meio de afetação ou desafetação, respectivamente.
+  - enunciado: "Em relação à Lei Orgânica do Distrito Federal, assinale a alternativa correta."
+    alternativas:
+      - A emenda à Lei Orgânica será promulgada pela Mesa Diretora da Câmara Legislativa, com o respectivo número de ordem.
+      - São Poderes do Distrito Federal, independentes e harmônicos entre si, o Executivo, o Legislativo e o Judiciário.
+      - Cabe à Câmara Legislativa, com a sanção do Governador, dispor sobre seu regimento interno, polícia e serviços administrativos.
+      - Em caso de impedimento do Governador e do Vice-Governador, ou de vacância dos respectivos cargos, será primeiramente chamado ao exercício da chefia do Poder Executivo o Presidente do Tribunal de Justiça do Distrito Federal e Territórios.
+      - É condição de elegibilidade para Governador e Vice-Governador do Distrito Federal a idade mínima de trinta e cinco anos.
