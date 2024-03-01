@@ -1,0 +1,47 @@
+---
+cargo: Soldado Policial Militar da Polícia Militar do Distrito Federal - QPPMC
+materia: Direito Processual Penal
+questoes:
+  - enunciado: |
+      De acordo com a Lei Federal nº 11.340/2006 (Lei Maria da Penha), assinale a alternativa correta.
+    alternativas:
+      - A ofendida tem a opção de propor ação de divórcio ou de dissolução de união estável no Juizado de Violência Doméstica e Familiar contra a Mulher.
+      - Para configuração da violência doméstica e familiar contra mulher, deve existir coabitação entre o autor e a ofendida.
+      - É direito da mulher em situação de violência doméstica e familiar o atendimento policial e pericial especializado, prestado, obrigatoriamente, por servidoras do sexo feminino previamente capacitadas.
+      - Inclui-se na competência dos Juizados de Violência Doméstica e Familiar contra a Mulher a pretensão relacionada à partilha de bens.
+      - O Ministério Público poderá propor transação penal para o autor de violência doméstica contra mulher, desde que ele seja primário.
+  - enunciado: "Com base na Lei nº 9.296/1996, que dispõe sobre o procedimento da Interceptação Telefônica, assinale a alternativa correta."
+    alternativas:
+      - Não se admite a interceptação telefônica se o fato investigado constitui infração penal punida, no máximo, com pena de detenção.
+      - A interceptação telefônica, como meio célere de obtenção de prova, pode ser admitida ainda que a prova possa ser feita por outros meios disponíveis.
+      - A interceptação telefônica não poderá exceder o prazo de 90 dias, sob pena de nulidade.
+      - A interceptação telefônica poderá ser admitida para apurar infração administrativa em procedimento administrativo disciplinar.
+      - O juiz deverá decidir, no prazo máximo de quarenta e oito horas, sobre o pedido de interceptação das comunicações telefônicas.
+  - enunciado: "No que concerne à prisão em flagrante, assinale a alternativa correta."
+    alternativas:
+      - Não havendo autoridade no lugar em que se tiver efetuado a prisão, o preso será logo apresentado à do lugar mais próximo.
+      - Ato contínuo à lavratura do auto de prisão em flagrante, será entregue ao preso a nota de culpa, assinada pelo condutor da prisão.
+      - O agente conduzido pelos policiais será recolhido à prisão, cabendo à autoridade policial o arbitramento de fiança em casos de crime com pena privativa de liberdade máxima não superior a cinco anos.
+      - A prisão em flagrante ocorre quando o agente é detido, após a prática da infração penal, mesmo sem a posse dos objetos relacionados à prática do delito, desde que possua antecedentes criminais, fato que denota ser ele o autor da infração.
+      - A falta de testemunhas da infração é impeditivo à lavratura do auto de prisão em flagrante, motivo pelo qual deverá ser instaurada portaria pela autoridade policial.
+  - enunciado: "De acordo com as disposições do Código de Processo Penal e sobre o inquérito policial, assinale a alternativa correta."
+    alternativas:
+      - O defensor constituído, no interesse do representado, poderá ter acesso amplo aos elementos de prova, desde que estejam documentados em procedimento investigatório.
+      - Caso a autoridade policial entenda que não há provas da materialidade e indícios suficientes da autoria, poderá mandar arquivar os autos de inquérito policial.
+      - Do despacho que indeferir o requerimento de abertura de inquérito policial caberá recurso ao Juízo.
+      - O inquérito policial, em caso de investigado preso, deverá ser concluído no prazo de 30 dias improrrogáveis.
+      - O inquérito, nos crimes em que a ação pública depender de representação, poderá sem ela ser iniciado, tendo em vista que se trata de procedimento oficioso.
+  - enunciado: "No que diz respeito aos Juizados Especiais Criminais (Lei Federal nº 9.099/95), assinale a alternativa correta."
+    alternativas:
+      - Nas infrações penais de menor potencial ofensivo, ao autor do fato que, após a lavratura do termo, for imediatamente encaminhado ao Juizado ou assumir o compromisso de a ele comparecer, não se imporá prisão em flagrante, nem se exigirá fiança.
+      - Consideram-se infrações penais de menor potencial ofensivo, para os efeitos da referida Lei, as contravenções penais e os crimes a que a lei comine pena máxima não superior a quatro anos, cumulada ou não com multa.
+      - A competência do Juizado será determinada pelo domicílio da vítima da infração penal.
+      - Oralidade, formalidade e celeridade são alguns dos princípios que norteiam o procedimento nos Juizados Especiais.
+      - Nos crimes em que a pena mínima cominada for igual ou inferior a dois anos, o Ministério Público, ao oferecer a denúncia, poderá propor a suspensão condicional do processo.
+  - enunciado: "Euclides foi preso em flagrante por dois policiais militares pela prática do crime de furto qualificado mediante escalada, disposto no artigo 155, §4º, inciso II, do Código Penal. Após todo deslinde investigativo, o Ministério Público denunciou Euclides nas disposições do delito mencionado, e o Juízo recebeu a exordial acusatória pelo procedimento do rito comum ordinário. O réu foi regularmente citado e, posteriormente, apresentou resposta à acusação. O Juízo, por sua vez, não vislumbrou nenhuma das hipóteses de absolvição sumária, razão pela qual designou audiência de instrução e julgamento. No dia da audiência, estavam presentes o ofendido, os policiais militares que efetuaram a prisão em flagrante, uma testemunha de defesa, mas, em contrapartida, o réu, que está solto, apesar de intimado, não compareceu ao ato. Acerca dos fatos, considerando que os policiais militares foram arrolados somente pelo Ministério Público, assinale a alternativa correta, conforme preceitua o Código de Processo Penal."
+    alternativas:
+      - Os policiais militares serão inquiridos após a colheita das declarações da vítima, mas antes da inquirição da testemunha de defesa.
+      - Considerando que o acusado não compareceu à audiência de instrução e julgamento, o Juízo deverá redesignar o ato, em observância aos princípios do contraditório e da ampla defesa.
+      - A testemunha de defesa deverá ser inquirida depois da colheita das declarações da vítima, mas antes da inquirição dos policiais militares.
+      - A vítima deverá prestar declarações depois da inquirição dos policiais militares e da testemunha de defesa.
+      - O Ministério Público poderá desistir da oitiva dos policiais militares, desde que a defesa concorde com a desistência.

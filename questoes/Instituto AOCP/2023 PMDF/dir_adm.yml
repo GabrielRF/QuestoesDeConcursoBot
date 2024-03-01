@@ -1,0 +1,52 @@
+---
+cargo: Soldado Policial Militar da Polícia Militar do Distrito Federal - QPPMC
+materia: Direito Administrativo
+questoes:
+  - enunciado: |
+      De acordo com a Lei de Acesso à Informação (Lei n° 12.527/2011), informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta.
+
+      ( ) Considera-se autenticidade a qualidade da informação que tenha sido produzida, expedida, recebida ou modificada por determinado indivíduo, equipamento ou sistema.
+      ( ) No caso de indeferimento de acesso a informações ou às razões da negativa do acesso, poderá o interessado interpor recurso contra a decisão no prazo de 10 (dez) dias a contar da sua ciência.
+      ( ) As informações ou documentos que versem sobre condutas que impliquem violação dos direitos humanos praticada por agentes públicos ou a mando de autoridades públicas poderão ser objeto de restrição de acesso.
+      ( ) As informações que puderem colocar em risco a segurança do Presidente e Vice-Presidente da República e respectivos cônjuges e filhos(as) serão classificadas como ultrassecretas e ficarão sob sigilo até o término do mandato em exercício ou do último mandato, em caso de reeleição.
+    alternativas:
+      - V – V – F – F.
+      - F – V – V – V.
+      - V – F – V – V.
+      - F – F – F – V.
+      - F – V – F – F.
+  - enunciado: "A Administração da cidade Alfa deseja contratar objeto que envolve uma inovação tecnológica, atendendo todos os requisitos para que seja utilizada a modalidade diálogo competitivo. Sobre essa modalidade, assinale a alternativa correta com base no que dispõe a Lei n° 14.133/2021."
+    alternativas:
+      - A Administração apresentará, por ocasião da divulgação do edital em sítio eletrônico oficial, suas necessidades e as exigências já definidas e estabelecerá prazo mínimo de 25 (vinte e cinco) dias úteis para manifestação de interesse na participação da licitação.
+      - Os critérios empregados para pré-seleção dos licitantes deverão ser previstos em edital, e serão admitidos os primeiros interessados que preencherem os requisitos objetivos estabelecidos, até o limite de cinco licitantes.
+      - O diálogo competitivo será conduzido por comissão de contratação composta de pelo menos 4 (quatro) servidores efetivos ou empregados públicos pertencentes aos quadros permanentes da Administração, não sendo admitida a contratação de profissionais para assessoramento técnico da comissão.
+      - As reuniões com os licitantes pré-selecionados serão sigilosas e não poderão ser registradas em ata.
+      - O edital não poderá prever a realização de fases sucessivas para a modalidade diálogo competitivo.
+  - enunciado: "Assinale a alternativa correta acerca dos bens públicos."
+    alternativas:
+      - Sobre as minas e jazidas, a autorização de pesquisa será sempre por prazo determinado e as autorizações e concessões não poderão ser cedidas ou transferidas, total ou parcialmente, sem prévia anuência do poder concedente.
+      - O uso comum do bem público por particular admite duas modalidades, o uso comum ordinário, que está sujeito à remuneração, e o uso comum especial, que é limitado a determinada categoria de usuários.
+      - O uso privativo dos bens públicos é o que a Administração Pública confere, mediante título jurídico individual, a pessoa ou grupo de pessoas determinadas, para que o exerçam, sem exclusividade, sobre parcela de bem público.
+      - Diante da atual Constituição Federal, a competência para legislar sobre águas foi reservada privativamente aos Estados e Municípios, afastando a competência da União.
+      - As águas públicas admitem o uso comum, sendo vedado o uso privativo. O uso comum é aberto a todos e, em regra, gratuito, podendo ser remunerado.
+  - enunciado: "Em relação ao processo administrativo, assinale a alternativa INCORRETA de acordo com a Lei n° 9.784/1999."
+    alternativas:
+      - Inexistindo disposição específica, os atos do órgão ou autoridade responsável pelo processo e dos administrados que dele participem devem ser praticados no prazo de dez dias, salvo motivo de força maior.
+      - Os prazos começam a correr a partir da data da cientificação oficial, excluindo-se da contagem o dia do começo e incluindo-se o do vencimento.
+      - As sanções, a serem aplicadas por autoridade competente, terão natureza pecuniária ou consistirão em obrigação de fazer ou de não fazer, assegurado sempre o direito de defesa.
+      - A Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos.
+      - Concluída a instrução de processo administrativo, a Administração tem o prazo de até trinta dias para decidir, salvo prorrogação por igual período expressamente motivada.
+  - enunciado: "Pedro, servidor público no exercício de suas funções, dolosamente, facilitou a aquisição de bem por preço superior ao de mercado, bem como facilitou o enriquecimento ilícito de terceiro. De acordo com o que dispõe a Lei n° 8.429/1992, assinale a alternativa que representa a classificação correta dos atos de improbidade administrativa praticados por Pedro."
+    alternativas:
+      - Os dois atos são de improbidade administrativa que causam prejuízo ao erário.
+      - O primeiro é um ato de improbidade administrativa que importa enriquecimento ilícito, e o segundo é um ato de improbidade administrativa que causa prejuízo ao erário.
+      - O primeiro é um ato de improbidade administrativa que causa prejuízo ao erário, e o segundo é um ato de improbidade administrativa que importa enriquecimento ilícito.
+      - O primeiro é um ato de improbidade administrativa que atenta contra os princípios da administração pública, e o segundo é um ato de improbidade administrativa que importa enriquecimento ilícito.
+      - Os dois atos são de improbidade administrativa que importa enriquecimento ilícito.
+  - enunciado: "Assinale a alternativa correta acerca do regime de concessão e permissão da prestação de serviços públicos, de acordo com o que prevê a Lei n° 8.987/1995."
+    alternativas:
+      - Declarada a caducidade da concessão, não resultará para o poder concedente qualquer espécie de responsabilidade em relação aos encargos, ônus, obrigações ou compromissos com terceiros ou com empregados da concessionária.
+      - Acerca da política tarifária, os contratos não poderão prever mecanismos de revisão das tarifas, a fim de preservar a segurança e a previsibilidade do negócio.
+      - No contrato de concessão, incumbe à concessionária a execução do serviço concedido, não sendo cabível a ela responder pelos prejuízos causados ao poder concedente, mas sim aqueles causados aos usuários ou a terceiros, sem que a fiscalização exercida pelo órgão competente exclua ou atenue essa responsabilidade.
+      - Incumbe ao poder concedente manter em dia o inventário e o registro dos bens vinculados à concessão, bem como captar, aplicar e gerir os recursos financeiros necessários à prestação do serviço.
+      - Considera-se encampação a retomada do serviço pelo poder concedente antes do início do prazo da concessão por motivo de interesse público, mediante lei autorizativa específica e posterior pagamento da indenização.

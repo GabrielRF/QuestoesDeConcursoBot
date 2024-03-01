@@ -1,0 +1,32 @@
+---
+cargo: Soldado Policial Militar da Polícia Militar do Distrito Federal - QPPMC
+materia: Criminologia
+questoes:
+  - enunciado: "Classificam-se como teorias de consenso de vertentes sociológicas:"
+    alternativas:
+      - a teria da anomia, a subcultura delinquente e a associação diferencial.
+      - a criminologia crítica, a associação diferencial e a teoria do etiquetamento.
+      - a teoria do etiquetamento, a criminologia marxista e a subcultura delinquente.
+      - a criminologia crítica, a teoria do etiquetamento e a escola de Chicago.
+      - a criminologia marxista, a criminologia crítica e a escola de Chicago.
+  - enunciado: "Constatar, como policial, que o número de casos de registro de extorsão, em determinada comunidade, tem baixo índice de notificação à autoridade significa reconhecer que questões práticas relativas à falta de confiança no Estado, à possibilidade de vingança privada e à deficiência no acesso à informação motivam a referida estatística criminal. Em consonância com essas hipóteses práticas, assinale a alternativa INCORRETA."
+    alternativas:
+      - As taxas de subnotificação não têm relação com o tema das cifras ocultas.
+      - As cifras douradas representam o índice de crimes de colarinho-branco.
+      - As cifras cinza dizem respeito aos casos de crimes que não chegaram à fase processual de persecução penal.
+      - Prognósticos estatísticos são aqueles que têm como base tabelas de predição que não levam em conta certos fatores internos e só servem para orientar o estudo de um tipo específico de crime e de seus autores.
+      - As cifras rosas de criminalidade dizem respeito às espécies de cifras ocultas ligadas aos crimes de intolerância e à discriminação sexual e homofóbica que não foram formalmente comunicados ao Estado.
+  - enunciado: "Sobre o método, objeto e natureza da Criminologia, é correto afirmar que"
+    alternativas:
+      - seu método é empírico e ela se ocupa do estudo do delito, do delinquente, da vítima e dos mecanismos de controle social.
+      - é pacífico na doutrina que a vitimologia configura uma ciência autônoma.
+      - seu método é dedutivo e ela se preocupa exclusivamente com o estudo do delinquente.
+      - seu método é indutivo e ela somente se ocupa de aspectos sociológicos do crime, da vítima e do delinquente.
+      - seu método é lógico-abstrato e ela se ocupa do estudo do delito, do delinquente, da vítima e dos mecanismos de controle social.
+  - enunciado: "Determinado policial militar é acionado para verificar ocorrência de violência doméstica envolvendo, como vítimas, esposa e filhas do suspeito agressor. Considerando os dispositivos legais e tratando da vitimologia na Lei Federal nº 11.340/2006, assinale a alternativa INCORRETA."
+    alternativas:
+      - O policial deve somente preservar o local do crime e, em nenhuma hipótese, determinar o afastamento do agressor do lar conjugal, sendo esta uma medida exclusiva do magistrado ou da autoridade policial.
+      - O policial deve ter cautela para não incidir no crime de violência institucional prevista na Lei de abuso de autoridade.
+      - O policial deve agir com cuidado para evitar a vitimização secundária ou revitimização das ofendidas.
+      - Caso seja constatado que as crianças estão em situação de risco, o policial deve adotar a cautela de acionar o Conselho Tutelar.
+      - O policial deve providenciar o afastamento do agressor do lar, domicílio ou local de convivência com a ofendida, caso o Município não seja sede de comarca e não haja delegado disponível no momento da denúncia.

@@ -1,0 +1,53 @@
+---
+cargo: Soldado Policial Militar da Polícia Militar do Distrito Federal - QPPMC
+materia: Direito Constitucional e Direitos Humanos
+questoes:
+  - enunciado: |
+      Sobre a defesa do estado e das instituições democráticas, em conformidade com o disposto na Constituição Federal de 1988, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta.
+
+      ( ) O decreto que instituir o estado de defesa não poderá indicar medidas de restrições aos direitos de reunião nem de sigilo de correspondência.
+      ( ) Na vigência do estado de defesa a prisão ou detenção de qualquer pessoa não poderá ser superior a cinco dias, salvo quando autorizada pelo Poder Judiciário.
+      ( ) As polícias militares e os corpos de bombeiros militares, forças auxiliares e reserva do Exército subordinam-se, juntamente com as polícias civis e as polícias penais estaduais e distrital, aos Governadores dos Estados, do Distrito Federal e dos Territórios.
+      ( ) O estado de sítio, no caso de comoção grave de repercussão nacional ou ocorrência de fatos que comprovem a ineficácia de medida tomada durante o estado de defesa, não poderá ser decretado por mais de trinta dias, nem prorrogado, de cada vez, por prazo superior.
+      ( ) A Mesa do Congresso Nacional, ouvidos os líderes partidários, designará Comissão composta de cinco de seus membros para acompanhar e fiscalizar a execução das medidas referentes ao estado de defesa e ao estado de sítio.
+    alternativas:
+      - F – F – V – V – V.
+      - V – F – V – V – F.
+      - F – V – V – F – V.
+      - V – V – F – V – F.
+      - F – V – F – V – F.
+  - enunciado: "Considere um caso de tortura envolvendo um brasileiro como vítima em outro país em que tanto o Brasil quanto esse outro Estado são partes da Convenção Contra a Tortura e Outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes. Com base nesse caso e no que prevê a referida Convenção promulgada pelo Decreto n° 40/1991, assinale a alternativa correta."
+    alternativas:
+      - O Brasil tomará as medidas necessárias para estabelecer sua jurisdição sobre o delito tendo em vista que a vítima é nacional do Estado em questão, se este o considerar apropriado.
+      - Como o autor do crime não é brasileiro, não poderão ser adotadas medidas por parte do Brasil.
+      - Os Estados Partes não poderão estabelecer sua jurisdição sobre o delito, salvo quando a tortura houver sido cometida no âmbito de sua jurisdição e sob sua supervisão e concessão.
+      - A referida Convenção exclui qualquer jurisdição criminal exercida de acordo com o direito interno.
+      - Se o crime foi cometido a bordo de aeronave ou de navio, não será considerado o registro desses no Estado Parte para o exercício da jurisdição, mas sim o local que se encontravam as embarcações ou aeronaves no momento em que ocorreu o delito.
+  - enunciado: "Assinale a alternativa correta acerca da Convenção Americana sobre os Direitos Humanos (Pacto de São José da Costa Rica), promulgado pelo Decreto n° 678/1992."
+    alternativas:
+      - Os juízes da Corte Interamericana de Direitos Humanos serão eleitos, em votação secreta e pelo voto da maioria absoluta dos Estados-Partes na Convenção, na Assembleia-Geral da Organização, de uma lista de candidatos propostos pelos mesmos Estados.
+      - Ninguém pode ser condenado por ações ou omissões que, no momento em que forem cometidas, não sejam delituosas, de acordo com o direito aplicável. Pode ser imposta pena mais grave que a aplicável no momento da perpetração do delito, ou mais leve se a lei dispuser depois da perpetração.
+      - Nos países que não houverem abolido a pena de morte, esta só poderá ser imposta pelos delitos mais graves, em cumprimento de sentença final de tribunal competente e em conformidade com lei que estabeleça tal pena, promulgada depois de haver o delito sido cometido, desde que este seja grave.
+      - Toda pessoa tem direito à liberdade de consciência e de religião. Assim, a liberdade de manifestar a própria religião e as próprias crenças não está sujeita às limitações prescritas pela lei.
+      - A Comissão Interamericana de Direitos Humanos compor-se-á de oito membros, que deverão ser pessoas de alta autoridade moral e de reconhecido saber em matéria de direitos humanos.
+  - enunciado: "Considerando a teoria geral dos direitos humanos acerca da terminologia, ressalvadas as particularidades linguísticas e regionais de uma minoria de países, assinale a alternativa INCORRETA."
+    alternativas:
+      - Os “direitos do homem” são aqueles direitos positivados que já ultrapassaram as fronteiras estatais de proteção e ascenderam ao plano da proteção internacional.
+      - Os chamados “direitos fundamentais” devem constar de todos os textos constitucionais, sob pena de o instrumento chamado “Constituição” perder o sentido de sua existência.
+      - Os “direitos humanos” se referem aos direitos inscritos em tratados e declarações ou previstos em costumes internacionais.
+      - Os “direitos do homem” versam sobre direitos que não estão expressamente previstos no direito interno ou no direito internacional.
+      - Os direitos garantidos e limitados no tempo e no espaço, objetivamente vigentes numa ordem jurídica concreta são denominados “direitos fundamentais”.
+  - enunciado: "De acordo com a Constituição Federal de 1988, assinale a alternativa correta acerca das ações e dos remédios constitucionais."
+    alternativas:
+      - Aos juízes federais compete processar e julgar os habeas corpus, em matéria criminal de sua competência ou quando o constrangimento provier de autoridade cujos atos não estejam diretamente sujeitos a outra jurisdição.
+      - Compete aos Tribunais Regionais Federais processar e julgar, originariamente, os habeas corpus, quando a autoridade coautora for juiz estadual.
+      - São recorríveis as decisões do Tribunal Superior Eleitoral, exceto as denegatórias de habeas corpus ou mandado de segurança.
+      - O mandado de segurança coletivo não pode ser impetrado por partido político com representação no Congresso Nacional, por não possuir legitimidade ativa para tanto.
+      - Cabe ao Superior Tribunal de Justiça julgar, em recurso ordinário, o habeas corpus, o mandado de segurança, o habeas data e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão.
+  - enunciado: "José tem dezenove anos e é analfabeto. Considerando o que dispõe a Constituição Federal de 1988 acerca dos direitos políticos, assinale a alternativa correta."
+    alternativas:
+      - Apesar de ser maior de dezoito anos, tanto o alistamento eleitoral quanto o voto são facultativos para José por ele ser analfabeto.
+      - O alistamento eleitoral é obrigatório para José por ele ser maior de dezoito anos, mas o voto é facultativo por ele ser analfabeto.
+      - O fato de José ser analfabeto não guarda relação com o alistamento eleitoral nem o voto, mas sim com as condições de elegibilidade.
+      - Tanto o alistamento eleitoral quanto o voto são proibidos para José pelo fato de ele ser analfabeto.
+      - O alistamento eleitoral e o voto são obrigatórios para José por ele ser maior de dezoito anos.

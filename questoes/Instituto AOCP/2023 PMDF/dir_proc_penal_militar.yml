@@ -1,0 +1,47 @@
+---
+cargo: Soldado Policial Militar da Polícia Militar do Distrito Federal - QPPMC
+materia: Direito Processual Penal Militar
+questoes:
+  - enunciado: |
+      No contexto de operação militar de garantia da lei e da ordem, determinado militar das Forças Armadas praticou crime doloso contra a vida de um civil. Nesse caso, à luz da legislação castrense, o referido delito será de competência do/da
+    alternativas:
+      - Justiça Militar da União.
+      - Justiça Comum Estadual.
+      - Justiça Comum Federal.
+      - Tribunal do Júri da Justiça Estadual.
+      - Justiça Militar Estadual.
+  - enunciado: "Conforme o Código de Processo Penal Militar, o processo ordinário inicia-se com o/a"
+    alternativas:
+      - recebimento de denúncia.
+      - encaminhamento do auto de prisão em flagrante ao juiz competente.
+      - regular citação do acusado.
+      - oferecimento da denúncia.
+      - instalação do Conselho de Justiça.
+  - enunciado: "Em relação ao Código de Processo Penal Militar, assinale a alternativa INCORRETA."
+    alternativas:
+      - Haverá conexão quando duas ou mais pessoas forem acusadas da mesma infração.
+      - Admitir-se-á a interpretação extensiva ou a interpretação restritiva, quando for manifesto, no primeiro caso, que a expressão da lei é mais estrita e, no segundo, que é mais ampla, do que sua intenção.
+      - Em atenção ao princípio da intranscendência, a ação penal militar somente pode ser proposta contra o autor da infração penal, não podendo ser instaurada, por exemplo, contra seus sucessores.
+      - A acusação apresentará o rol das testemunhas, que não poderá ser superior a seis, na própria denúncia.
+      - A lei de processo penal militar deve ser interpretada no sentido literal de suas expressões.
+  - enunciado: "No que concerne às exceções, preencha a lacuna e assinale a alternativa correta, de acordo com o Código de Processo Penal Militar. A arguição de __________ precederá a qualquer outra, salvo quando fundada em motivo superveniente."
+    alternativas:
+      - suspeição ou impedimento
+      - incompetência do juízo
+      - prescrição
+      - litispendência
+      - coisa julgada
+  - enunciado: "Jânio, policial militar, foi denunciado por ter cometido, em tese, o crime de incêndio, previsto no artigo 268 do Código Penal Militar. Contudo o Juízo Militar não vislumbrou justa causa suficiente para instaurar ação penal contra o investigado, motivo pelo qual decidiu pelo não recebimento da exordial acusatória. Irresignado, o órgão ministerial deseja impugnar essa decisão. Nesse caso, de acordo com o Código de Processo Penal Militar, o recurso cabível é"
+    alternativas:
+      - recurso em sentido estrito.
+      - apelação.
+      - recurso ordinário.
+      - recurso extraordinário.
+      - recurso inominado.
+  - enunciado: "Segundo o Código de Processo Penal Militar, assinale a alternativa correta."
+    alternativas:
+      - Compete à Polícia judiciária militar requisitar da polícia civil e das repartições técnicas civis as pesquisas e os exames necessários ao complemento e subsídio de inquérito policial militar.
+      - São consideradas medidas preliminares ao inquérito policial militar a prisão do infrator, a apreensão dos instrumentos que tenham relação com o fato e a oitiva de testemunhas.
+      - Por força do princípio da imparcialidade, o inquérito policial militar não pode ser iniciado em virtude de requisição do Ministério Público.
+      - O Policial Militar investigado por fato relacionado ao uso da força letal no exercício da profissão deverá ser citado da instauração do procedimento investigatório, podendo constituir defensor no prazo de até setenta e duas horas a contar do recebimento da citação.
+      - Independentemente de flagrante delito, o indiciado poderá ficar detido, durante as investigações policiais, até sessenta dias, comunicando-se a detenção à autoridade judiciária competente.

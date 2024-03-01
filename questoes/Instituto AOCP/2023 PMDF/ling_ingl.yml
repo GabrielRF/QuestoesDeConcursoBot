@@ -1,0 +1,60 @@
+---
+cargo: Soldado Policial Militar da Polícia Militar do Distrito Federal - QPPMC
+materia: Língua Inglesa
+questoes:
+  - enunciado: |
+      Choose the correct alternative according to the Text 1.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Instituto AOCP/2023 PMDF/imagens/qppmc 11.png?raw=true
+    alternativas:
+      - The man is frustrated, because it is necessary to be on social medial to be socially recognized.
+      - The dog is satisfied with the TV program it is watching.
+      - The man is disappointed because he can’t be on social media.
+      - The woman is surprised by the high number of followers the man has on social media.
+      - The man is happy, because everybody wants to follow him on social media.
+  - enunciado: "According to the Text 1 in ‘It’s *as if* I don’t exist’, ‘as if’ is expressing"
+    alternativas:
+      - comparison.
+      - contrast.
+      - condition.
+      - purpose.
+      - reason.
+  - enunciado: |
+      *TEXT 2*
+
+      *People who read books are nicer than those who don’t, study finds.*
+
+      People often think that, yes, books make you smarter but at the same time people who read a lot struggle when it comes to social relationships. A new study reveals that this is not true. In fact, reading could actually make you a _____, _____ person. It also makes you act in a _____ acceptable manner.
+      The study, conducted by Kingston University in London, involved 124 participants. Participants were quizzed on their preferences for books, TV, and plays. They were also tested on interpersonal skills including how much they considered other people’s feelings and whether they acted to help others.
+      The study found that those who preferred books were more likely to act in a socially acceptable manner compared to those who preferred watching TV. Those who preferred watching TV, on the other hand, came across as less friendly and less understanding of others’ views.
+      However, not all types of books tend to have the same effect. The study shows that the type of literature you choose also has a huge impact on your emotional intelligence. In particular, the study revealed that fiction fans showed more positive social behavior while readers of drama and romance novels were found to be the most empathic. In the same vein, fans of experimental books were most able to see things from alternative perspectives, and readers who favored comedy fans were best at relating to others.
+      “Exposure to fiction relates to a range of empathetic abilities [...] Engaging with fictional prose and comedy in particular could be key to enhancing people’s empathetic abilities,” said the researchers during the British Psychological Society conference in Brighton.
+      It should be borne in mind, however, that the study did not prove cause-and-effect. It may very well be that nicer people are more drawn to reading books.
+      `Adapted from: https://thelanguagenerds.com. Accessed on: 28 Feb. 2023.`
+
+      Do statements agree with the information from the Text 2? Decide True (T) if the statement agrees with the information from the article or False (F) if the statement contradicts the information from the article.
+
+      ( ) The study has shown that although people who read tend to be more intelligent, they have more difficulties with social interactions.
+      ( ) The study with 124 participants researched their own reading preferences as well as how they notice what is happening to other people.
+      ( ) People who prefer watching TV tend to be more polite and better behaved.
+      ( ) Literature as a whole affects people equally, regardless of the genre.
+      ( ) The study does not decisively prove that reading actually makes people become nicer.
+
+      Now choose the alternative with the correct sequence.
+    alternativas:
+      - F – T – F – F – T.
+      - T – F – T – F – T.
+      - T – T – F – T – F.
+      - F – T – F – T – F.
+      - F – F – T – F – T.
+  - enunciado: |
+      The following extract, Text 2, comes from the introductory paragraph of the article:
+
+      In fact, reading could actually make you a _____, _____ person. It also makes you act in a _____ acceptable manner.
+
+      The alternative with the sequence of words that accurately completes the extract is
+    alternativas:
+      - kinder / more empathetic / socially
+      - more kind / more empathetic / social
+      - most kind / most empathetic / socially
+      - kinder / more empathetic / more social
+      - kindest / most empathetic / socially

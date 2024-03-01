@@ -1,0 +1,75 @@
+---
+cargo: Soldado Policial Militar da Polícia Militar do Distrito Federal - QPPMC
+materia: Matemática e Raciocínio Lógico
+questoes:
+  - enunciado: "Durante uma patrulha diária, uma viatura se desloca com uma velocidade média de 40Km/h, completando certo percurso em 3 horas. Em quanto tempo faria esse mesmo percurso se a velocidade utilizada fosse de 48 km/h?"
+    alternativas:
+      - 2 horas e 30 minutos.
+      - 2 horas e 15 minutos.
+      - 2 horas e 50 minutos.
+      - 3 horas e 36 minutos.
+      - 3 horas e 60 minutos.
+  - enunciado: "Certa mercadoria era vendida a R$200,00 a unidade e teve um aumento de 25%, chegando a custar R$250,00. Caso o dono deseje dar um desconto sobre os R$250,00 para que o valor volte a ser R$200,00, qual deve ser o percentual de desconto?"
+    alternativas:
+      - 20%.
+      - 50%.
+      - 25%.
+      - 75%.
+      - 80%.
+  - enunciado: "Certa receita pedia que fossem usados “tomates” no preparo de certo alimento, sem mais instruções. Um homem, que nunca havia cozinhado, teve várias dúvidas sobre o preparo e percebeu que não havia uma forma única de se usar os tomates. Ao ir ao supermercado, viu que havia a opção de comprar “tomate cereja”, “tomate saladete” e “tomate longa vida”. Em casa, ficou em dúvida se deixaria com ou sem pele, da mesma forma que não sabia se deixava as sementes ou retirava. Se considerarmos todas as maneiras de se cozinhar, desde a escolha do tipo de tomate, escolher deixar ou retirar a pele, deixar ou retirar as sementes, quantas são essas maneiras?"
+    alternativas:
+      - 12
+      - 9
+      - 7
+      - 6
+      - 3
+  - enunciado: "Considere um quadrado de lado igual a √𝛑 unidades de comprimento e um círculo de raio medindo R unidades de comprimento. Se as áreas dessas duas figuras são iguais, quanto deve medir o raio R do círculo?"
+    alternativas:
+      - 1
+      - π
+      - √π
+      - -1
+      - √π − 1
+  - enunciado: "A afirmação “Todo dia é dia de luta” é falsa, sendo equivalente a dizer que"
+    alternativas:
+      - “Algum dia não é dia de luta”.
+      - “Chegaram os dias de paz”.
+      - “Nenhum dia é dia de luta”.
+      - “Todo dia é dia de não lutar”.
+      - “Toda luta acontece de dia”.
+  - enunciado: "Considere um hexaedro regular (cubo) de arestas medindo L unidades de comprimento. Suponha que uma de suas faces (base) esteja apoiada em uma superfície plana. Se unirmos cada vértice da base ao ponto médio da face oposta à base, determinamos uma pirâmide. A diferença entre o volume do cubo e o volume da pirâmide é igual a qual percentual aproximado do volume do cubo?"
+    alternativas:
+      - Aproximadamente 66,7%.
+      - Aproximadamente 25,7%.
+      - Aproximadamente 33,3%.
+      - Aproximadamente 50%.
+      - Aproximadamente 74,3%.
+  - enunciado: "Sabendo que todo compositor é poeta e que todo cantor é poeta, então, pode-se concluir corretamente que"
+    alternativas:
+      - algum poeta é cantor.
+      - todo poeta é compositor.
+      - todo compositor é cantor.
+      - nenhum compositor é cantor.
+      - algum compositor é cantor.
+  - enunciado: |
+      Durante uma ocorrência no DF, a Polícia Militar fez alguns levantamentos e determinou que todos os presentes seriam considerados suspeitos. No boletim de ocorrência, algumas informações foram anotadas sobre os suspeitos:
+
+      Informação 01: Havia 5 mulheres.
+      Informação 02: Entre os suspeitos, 6 usavam boné.
+      Informação 03: Entre os homens, 3 não usavam boné.
+      Informação 04: Entre as mulheres, 2 usavam boné.
+
+      Se todas as informações estão corretas, quantos são os suspeitos?
+    alternativas:
+      - 12
+      - 16
+      - 15
+      - 14
+      - 13
+  - enunciado: "A ocorrência de um crime contava com apenas duas testemunhas oculares. Após o início das investigações, as evidências apontaram para três irmãos gêmeos idênticos, sem qualquer característica física que permitisse distinguí-los naquela situação. Sabe-se que nenhum deles tem álibi e que um deles realmente é o único criminoso. As testemunhas, na ânsia de se livrarem rapidamente da situação, optaram por apontar aleatoriamente (ainda que de forma imprudente) um dos três irmãos como culpado. Considerando as informações constantes nesse problema, qual é a probabilidade de ambas as testemunhas terem apontado corretamente para o criminoso?"
+    alternativas:
+      - Aproximadamente 11%.
+      - Aproximadamente 50%.
+      - Aproximadamente 33%.
+      - Aproximadamente 17%.
+      - Aproximadamente 2%.

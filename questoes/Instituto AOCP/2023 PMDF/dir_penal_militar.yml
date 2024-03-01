@@ -1,0 +1,47 @@
+---
+cargo: Soldado Policial Militar da Polícia Militar do Distrito Federal - QPPMC
+materia: Direito Penal Militar
+questoes:
+  - enunciado: |
+      Nos termos do Código Penal Militar, podem ser classificadas como medidas de segurança pessoais não detentivas:
+    alternativas:
+      - a cassação de licença para direção de veículos motorizados e a proibição de frequentar determinados lugares.
+      - a interdição de estabelecimento ou sede de sociedade ou associação e o confisco.
+      - a internação em manicômio judiciário e a proibição de frequentar determinados lugares.
+      - o confisco e a cassação de licença para direção de veículos motorizados.
+      - a interdição de estabelecimento ou sede de sociedade ou associação e o exílio local.
+  - enunciado: "À luz do Código Penal Militar, assinale a alternativa que apresenta corretamente somente penas principais."
+    alternativas:
+      - Detenção, impedimento e suspensão do exercício do posto.
+      - Morte, reclusão e perda da função pública.
+      - Reclusão, detenção e inabilitação para o exercício de função pública.
+      - Morte, reforma e exclusão das Forças Armadas.
+      - Prisão, impedimento e perda da função pública.
+  - enunciado: "De acordo com o Código Penal Militar, no crime de deserção cometido por praça, embora decorrido o prazo da prescrição, esta só extingue a punibilidade quando o desertor atinge a idade de"
+    alternativas:
+      - quarenta e cinco anos.
+      - trinta anos.
+      - trinta e cinco anos.
+      - sessenta anos.
+      - setenta anos.
+  - enunciado: "Segundo o Código Penal Militar, o crime de conspiração consiste em"
+    alternativas:
+      - concertarem-se militares ou assemelhados para a prática do crime de motim ou de revolta.
+      - aliciar militar ou assemelhado para a prática de crimes contra a autoridade ou disciplina militar.
+      - incitar à desobediência, à indisciplina ou à prática de crime militar.
+      - reunirem-se militares ou assemelhados agindo contra a ordem recebida de superior, ou negando-se a cumpri-la.
+      - promover a reunião de militares, ou nela tomar parte, para discussão de ato de superior ou assunto atinente à disciplina militar.
+  - enunciado: "De acordo com o Código Penal Militar, assinale a alternativa INCORRETA."
+    alternativas:
+      - Cumpridos os requisitos legais, aplica-se a suspensão condicional da pena ao condenado por crime cometido em tempo de paz ou de guerra.
+      - A lei posterior que, de qualquer outro modo, favorece o agente, aplica-se retroativamente, ainda quando já tenha sobrevindo sentença condenatória irrecorrível.
+      - Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando, em virtude dela, a própria vigência de sentença condenatória irrecorrível, salvo quanto aos efeitos de natureza civil.
+      - O ajuste, a determinação ou instigação e o auxílio, salvo disposição em contrário, não são puníveis se o crime não chega, pelo menos, a ser tentado.
+      - Não é imputável o agente que, por embriaguez completa proveniente de caso fortuito ou força maior, era, ao tempo da ação ou da omissão, inteiramente incapaz de entender o caráter criminoso do fato ou de determinar-se de acordo com esse entendimento.
+  - enunciado: "No que concerne ao estado de necessidade, é correto afirmar que o Código Penal Militar adotou a"
+    alternativas:
+      - teoria diferenciadora, na qual o estado de necessidade, a depender do caso, atua como excludente de ilicitude ou de culpabilidade.
+      - teoria unitária, na qual o estado de necessidade atua apenas como excludente de tipicidade.
+      - teoria unitária, na qual o estado de necessidade atua apenas como excludente de ilicitude.
+      - teoria unitária, na qual o estado de necessidade atua apenas como excludente de culpabilidade.
+      - teoria diferenciadora, na qual o estado de necessidade, a depender do caso, atua como excludente de tipicidade ou de ilicitude.
