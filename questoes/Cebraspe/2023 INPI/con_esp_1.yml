@@ -1,0 +1,327 @@
+---
+materia: Administração - Conhecimentos Específicos
+cargo: Analista de Planejamento, Gestão e Infraestrutura em Proprierade Industrial - Gestão e Suporte
+questoes:
+  - enunciado: |
+      Acerca do planejamento estratégico organizacional, julgue os itens subsecutivos.
+
+      O mapa estratégico consiste na representação textual e na descrição pormenorizada da concepção das estratégias de uma organização.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A análise do ambiente interno tem por intuito identificar as qualidades e as deficiências da organização, isto é, os seus pontos fortes e fracos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Como exemplos de oportunidades para a organização estão o advento de novos concorrentes e a introdução, no ambiente externo, de novas tecnologias de difícil adoção e alto investimento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Impulsionar a inovação por meio da propriedade industrial pode ser entendido como a missão do INPI."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação a BSC (balanced scorecard), julgue os itens seguintes.
+
+      O investimento em qualificação dos empregados (avaliado pela relação reais/empregado) é exemplo de indicador na perspectiva de aprendizado e crescimento organizacional.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na perspectiva dos clientes, são identificados e mapeados os processos críticos organizacionais que causam o maior impacto na satisfação dos consumidores e na obtenção dos objetivos financeiros."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os próximos itens, relativos à gestão de pessoas.
+
+      No processo de racionalização, após o recebimento de um feedback, o ideal é que o empregado reflita sobre seus pontos fortes e fracos com vistas a melhorar seu desempenho.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Consoante o modelo contingencial, o desenho do cargo organizacional encerra-se na análise da variedade das habilidades exigidas, na autonomia do ocupante para executar o trabalho e na sua identificação com a tarefa."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A política salarial equitativa está relacionada ao pagamento proporcional ao esforço, à habilidade e à capacidade profissional do empregado."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens que se seguem, relativos à gestão da qualidade.
+
+      Além de documentar um processo, o fluxograma também auxilia os empregadores e todos os demais atores envolvidos a compreenderem cada fase da execução do processo e a proporem melhorias na sua implementação.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em sua contribuição para a gestão da qualidade, Deming defendia a inspeção em massa a fim de diminuir as não conformidades nos processos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Modelo da Excelência em Gestão propalado pela Fundação Nacional da Qualidade caracteriza-se por ser sistêmico e prescritivo, além de ser capaz de promover o aprendizado organizacional e de mensurar os resultados do negócio de forma objetiva."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Entre os custos da não qualidade, estão a reinspeção dos serviços retrabalhados e as horas extras para recuperar os atrasos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca da gestão de projetos e processos, julgue os itens que se seguem.
+
+      A gestão de projetos é voltada ao planejamento, ao acompanhamento e ao controle de atividades contínuas da organização.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um mesmo projeto pode ter vários programas a ele subordinados, os quais podem ser conduzidos em sequência ou paralelamente."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para se avaliar o desempenho de projetos, é possível adotar indicadores de sucesso estratégico, que refletem a percepção de atores externos à organização."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A análise e o levantamento de disfunções na gestão de um processo correspondem à etapa que precede à modelagem de um processo atual."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O mapeamento das cadeias de valor e de seus fluxos de atividades é tarefa associada à modelagem de um processo atual."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsequentes, relativos à legislação administrativa brasileira.
+
+      A inspeção médica oficial é um requisito necessário para a posse em cargo público.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Ascenção e transferência são admitidas como formas de provimento para cargos públicos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Admite-se a prestação de serviços gratuitos por servidor da administração pública, desde que devidamente justificada e aprovada pela chefia imediata do servidor."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com referência a aquisições públicas e governança, julgue os itens seguintes.
+
+      Na modalidade de licitação leilão, admite-se que um servidor seja designado para a condução do processo.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No Brasil, a vigente legislação de compras determina que, ao se executar indiretamente serviços de engenharia, pode-se adotar o regime por preço unitário."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os órgãos públicos municipais, ao estabelecerem seu planejamento de contratações públicas, devem atender às determinações da Portaria n.º 8.678/2021, que dispõe sobre a governança das contratações públicas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Ao elaborar seus planos de contratações anuais, os órgãos devem planejar o fracionamento de despesas prevendo a máxima eficiência nas contratações."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens seguintes, relativos à classificação de materiais.
+
+      A classificação de materiais segundo propriedades físico-químicas pode apoiar a setorização de almoxarifados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em um escritório de contabilidade, o item lápis compõe o grupo X da curva XYZ."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O processo produtivo pode servir de base para a classificação de materiais, o que determina a seguinte sequência lógica de classificação: matéria-prima, materiais em vias, componentes, materiais semiacabados e produtos acabados."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação a compras no setor privado, julgue os itens subsequentes.
+
+      O acompanhamento dos pedidos de compra é atribuição da equipe de almoxarifado, que deve acionar o setor de compras em caso de atrasos no fornecimento.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O espaço virtual, disponibilizado pela web, permite a redução dos custos de transação no processo de compras."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A liquidez elevada de determinado fornecedor pode indicar maiores possibilidades de negociação dos prazos de pagamento."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As compras únicas são imprescindíveis para o reabastecimento de itens em estoque."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Especificar situações econômicas e prever tendências de preços a partir delas são atribuições do setor de compras."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens que se seguem, acerca da gestão de estoques.
+
+      Quando o ponto de desacoplamento da demanda está no cliente, como no segmento de vestuário, os custos com estoques e fretes são maiores.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em um mercado com alta concorrência, o lead time tende a ser menor."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Denominam-se estoques ocasionais as quantidades de produtos adquiridas em excesso no período de baixas de vendas para permitir a regularidade do atendimento à demanda nos períodos de alta previstos ao longo do ano."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Quanto maiores forem os lotes de compra, maiores serão os custos de recebimento por unidade recebida."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O giro dos estoques é definido como o número de dias que um produto leva para sair do estoque."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os seguintes itens, que versam sobre armazenagem e distribuição de materiais.
+
+      Guindastes, pontes rolantes, empilhadeiras e elevadores são considerados equipamentos mecanizados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os paletes permitem a formação da carga unitária."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Melhorar as condições de trabalho é um dos objetivos do arranjo físico."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Para que possa ser realizada, a roteirização das entregas de produtos a clientes depende de software específico."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A aplicação da filosofia just in time demanda altos níveis de estoques, o que implica custos significativos de inventário."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os operadores logísticos integrados trabalham exclusivamente com transportes ou com estoques ou com armazenagem."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca de gestão logística integrada, julgue os itens a seguir.
+
+      Uma empresa cuja estratégia de negócios seja a redução de custos pode optar por aumentar o número de armazéns e, assim, aumentar o custo de transportes e diminuir o custo de estoque.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um fornecedor que consigna estoques dentro das instalações do cliente amplia a necessidade de realizar entregas de produtos solicitados."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma vantagem dos softwares ERP é a capacidade de fornecer informações em tempo real aos gestores."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A integração logística funcional manifesta-se quando as empresas abordam a produção não como algo exclusivo de um país ou região, mas a concebem em uma escala mais ampla, alcançando diversos mercados."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma desvantagem do sistema ERP é sua reputação de ser muito caro e de difícil implementação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens que se seguem, referentes a logística, logística reversa e canais reversos de distribuição.
+
+      A logística é uma atividade recente, que surgiu com a popularização dos computadores pessoais.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um fato de grande importância na logística empresarial foi a invenção, na década de 90 do século XX, do código de barras."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A disputa mercadológica tem levado as empresas a intensificarem o lançamento de novos produtos em todos os segmentos empresariais, movimento que minimiza a descartabilidade."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um exemplo de canal reverso de pós-venda ocorre quando um consumidor adquire um produto na Internet, mas se arrepende da compra e o devolve ao varejista."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em um canal reverso de reuso, há uma extensão do uso de um produto de pós-consumo, com uma função diferente daquela para a qual ele foi concebido e com algum tipo de remanufatura."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca de logística, julgue os itens que se seguem.
+
+      Um sistema de gerenciamento eletrônico de documentos limita-se ao gerenciamento de arquivos digitais.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os elementos físicos de um sistema de transporte são compostos por infraestrutura, veículos e equipamentos de controle, programação e sistemas de comunicação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A unitização consiste na disposição de um conjunto de mercadorias em uma única unidade com dimensões padronizadas, de modo a tornar mais fáceis as operações de armazenamento e a movimentação da carga por meio de processos mecanizados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Recomenda-se o modal rodoviário para o transporte de grandes volumes de produtos de baixo valor agregado por longas distâncias."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O porta-paletes é um tipo de estrutura de armazenagem que permite seletividade nas operações de carregamento."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      À luz do disposto na Lei n.º 14.133/2021, julgue os itens a seguir.
+
+      Maior desconto, maior retorno econômico, menor preço, melhor técnica ou conteúdo artístico, e técnica e preço são critérios de julgamento que podem ser utilizados na modalidade de licitação concorrência.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As disposições da Lei n.º 14.133/2021 são aplicáveis às empresas públicas, uma vez que o governo detém parte do capital social destas ou a sua totalidade."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O diálogo competitivo é modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As contratações realizadas no âmbito das repartições públicas sediadas no exterior obedecerão às peculiaridades locais e aos princípios básicos estabelecidos pela Lei n.º 14.133/2021, sob a forma de regulamentação específica a ser editada pelo Senado Federal."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens seguintes, no que se refere à delegação e à avocação da competência administrativa, conforme disposições da Lei n.º 9.784/1999.
+
+      Será permitida, em qualquer caso, a avocação temporária de competência atribuída a órgão hierarquicamente inferior.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As decisões tomadas por delegação devem mencionar, explicitamente, essa qualidade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As matérias de competência exclusiva do órgão ou da autoridade, a edição de atos de caráter enunciativo e a decisão de recursos administrativos não podem ser objetos de delegação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito do processo licitatório, julgue os itens seguintes, de acordo com o Decreto n.º 11.462/2023, a Lei n.º 14.133/2021, a Instrução Normativa SEGES/MPOG n.º 5/2017 e a Instrução Normativa SEGES/ME n.º 81/2022.
+
+      A adoção do sistema de registro de preços pela administração pública vincula-se às hipóteses previstas no Decreto n.º 11.462/2023, não sendo possível a adoção de juízo de conveniência.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Caracteriza ato de ingerência, cuja prática é vedada à administração pública, direcionar a contratação de pessoas para trabalhar nas empresas contratadas."
+    alternativas:
+      - Certo
+      - Errado
