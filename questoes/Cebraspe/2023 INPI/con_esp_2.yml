@@ -1,0 +1,334 @@
+---
+cargo: Analista de Planejamento, Gestão e Infraestrutura em Propriedade Industrial - Gestão e Suporte
+materia: Direito - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      Acerca de atos administrativos e processo administrativo federal, julgue os itens seguintes.
+
+      O decreto é ato administrativo privativo do chefe do Poder Executivo, podendo ser classificado em decreto normativo e decreto individual.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A caducidade, a cassação e a anulação são formas de extinção do ato administrativo por manifestação de vontade da administração pública que pressupõem a existência de ilegalidade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "É cabível a decisão administrativa coordenada entre os entes federativos para, conjuntamente, deliberarem sobre a execução de políticas públicas comuns, como saúde e educação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Caso um parecer obrigatório e vinculante não seja emitido no prazo fixado, o processo administrativo não poderá ter seguimento."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que concerne às autarquias, julgue os itens seguintes.
+
+      Desde que promovida por lei de iniciativa privativa do chefe do Poder Executivo, é possível a extinção de autarquia que desenvolva atividades já atendidas satisfatoriamente pela iniciativa privada ou não previstas no seu objeto social.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No caso das autarquias, a supervisão ministerial incluirá a aprovação anual da proposta de orçamento-programa e da programação financeira da entidade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As autarquias gozam de imunidade tributária recíproca, que veda a instituição de impostos sobre o seu patrimônio, ainda que o imóvel seja arrendado ou locado a empresa privada exploradora de atividade econômica com fins lucrativos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com base nos princípios da administração pública, julgue os itens a seguir.
+
+      A motivação do ato administrativo será obrigatória quando dela depender o exercício do contraditório e da ampla defesa.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A confiança legítima e a boa-fé, embora semelhantes, são princípios autônomos e distintos, de modo que, para o reconhecimento da confiança legítima, não se faz necessária a presença da boa-fé."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O nepotismo, o partidarismo e a promoção pessoal são vícios que maculam o princípio da impessoalidade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O princípio da publicidade encerra o seu escopo na publicação oficial dos atos administrativos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere às normas de licitação e contratos administrativos previstas na Lei n.º 8.666/1993 e na Lei n.º 14.133/2021, julgue os itens a seguir.
+
+      Na dispensa de licitação em razão do valor reduzido, a Lei n.º 8.666/1993 prevê limites dobrados para compras, serviços e obras contratados por autarquia qualificada como agência executiva, estando tal previsão preservada na Lei n.º 14.133/2021.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A locação, pela administração pública, de imóvel destinado ao atendimento das finalidades precípuas da administração pública cujas características ou necessidades de instalação e de localização tornem necessária a sua escolha configura hipótese de dispensa de licitação segundo a Lei n.º 8.666/1993, ao passo que figura como causa de inexigibilidade de licitação na Lei n.º 14.133/2021."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os servidores, os empregados públicos e os agentes de licitação das autarquias integram a primeira linha de defesa das contratações públicas no âmbito da entidade, segundo a Lei n.º 14.133/2021."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "De acordo com a Lei n.º 14.133/2021, a sanção de declaração de inidoneidade para licitar ou contratar a ser aplicada pelas autarquias federais é ato que compete ao ministro de Estado a que se subordina a entidade."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considerando o entendimento do Supremo Tribunal Federal (STF), julgue os itens a seguir, relativos ao princípio da separação dos Poderes.
+
+      A intervenção do Poder Judiciário em políticas públicas voltadas à realização de direitos fundamentais, em caso de deficiência do serviço, viola o princípio da separação dos Poderes.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para fins de proteção ao princípio da separação dos Poderes, é inadmissível que o Poder Judiciário faça o controle jurisdicional de atos interna corporis das Casas Legislativas, ainda que caracterizado o desrespeito às normas constitucionais pertinentes ao processo legislativo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de direitos e garantias fundamentais, julgue os itens a seguir.
+
+      É assegurada, nos termos da lei, a proteção às participações individuais em obras coletivas e à reprodução da imagem e da voz humanas, salvo nas atividades desportivas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A liberdade de associação, segundo a Constituição Federal de 1988 (CF), compreende o direito de criar associação, mas depende, em determinados casos, de autorização legal."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A lei assegura aos autores de inventos industriais privilégio temporário para sua utilização."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca das atribuições do presidente da República, julgue os seguintes itens.
+
+      É competência privativa do presidente da República conceder indulto e comutar penas, com audiência, se necessário, dos órgãos instituídos em lei, podendo delegar tal atribuição ao advogado-geral da União.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Compete ao presidente da República, na condição de chefe de Estado, proceder à autorização de guerra no caso de agressão estrangeira."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A competência privativa do presidente da República para iniciar o processo legislativo das leis ordinárias e complementares não pode ser delegada."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de aplicação das leis civis, de pessoas naturais e jurídicas e de bens, julgue os itens seguintes.
+
+      O negócio jurídico referente ao bem principal excepcionalmente abrangerá as pertenças relativas a esse bem.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Lei nova, que estabeleça disposições especiais a par das já existentes, modifica, mas não revoga a lei anterior."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Ao contrato em curso será aplicada a lei vigente ao tempo da celebração, ainda que sobrevenha lei nova."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Se uma pessoa viver alternadamente em mais de uma residência, será considerada seu domicílio aquela em que permanecer por mais tempo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O início da existência legal de uma fundação ocorre com a inscrição do ato constitutivo no registro civil de pessoas jurídicas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca de fatos e negócios jurídicos, de atos jurídicos, de prescrição e decadência, de prova dos fatos jurídicos e de contratos, julgue os itens a seguir.
+
+      O fato jurídico em sentido amplo, embora passível de modificar direitos, não tem o condão de, por si só, extinguir relações jurídicas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Caso os contratantes decidam subordinar os efeitos do negócio jurídico a evento futuro e incerto, estará caracterizada uma condição."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Ainda que o abuso de direito possa ser caracterizado como ato lícito, haverá sempre obrigação de indenizar o prejudicado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Se a coisa recebida em virtude de contrato comutativo tiver seu valor diminuído em decorrência de defeito oculto, é lícito ao prejudicado enjeitá-la."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A anulação do negócio jurídico concluído pelo representante em conflito de interesses com o representado sujeita-se a prazo prescricional."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A confissão feita por representante da parte poderá ter eficácia."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando as disposições da Lei Complementar n.º 123/2006, que trata da microempresa e da empresa de pequeno porte, julgue os itens a seguir.
+
+      O desenquadramento da sociedade empresária como microempresa ou empresa de pequeno porte implica a denúncia dos contratos por elas anteriormente firmados.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O enquadramento como microempresa e empresa de pequeno porte é condição indispensável para a verificação do direito de preferência nas aquisições de bens e serviços pelos poderes públicos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "É vedado o ingresso no Simples Nacional de empresa de pequeno porte de cujo capital participe outra pessoa jurídica."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O recolhimento unificado de tributos decorrente da opção da empresa pelo Simples Nacional não exclui a incidência da contribuição para o fundo de garantia do tempo de serviço devida na qualidade de contribuinte ou responsável tributário."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "São enquadradas no conceito de microempresa as sociedades empresárias cujo faturamento médio anual não ultrapasse R$ 81.000 ao mês."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      De acordo com a Lei n.º 8.934/1994, que trata do registro público de empresas mercantis e atividades afins, julgue os itens a seguir.
+
+      Entre as finalidades do registro público de empresas mercantis inclui-se a de proceder à matrícula dos agentes auxiliares do comércio.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As empresas estrangeiras em funcionamento no Brasil estão dispensadas de cadastrar-se no registro público de empresas mercantis."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As declarações de microempresa não se sujeitam ao registro público de empresas mercantis."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A alteração social consolidada das sociedades empresárias, registrada perante a respectiva junta comercial, estadual ou distrital, produz efeito jurídico em todo o território nacional."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A proteção ao nome empresarial decorre do arquivamento dos atos constitutivos, exceto quando retratado por alterações."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, referentes a direitos e obrigações relativos à propriedade industrial a que se refere a Lei n.º 9.279/1996.
+
+      Caso dois autores realizem registros da mesma invenção, o direito à patente será daquele que provar primeiro a data da invenção.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "É vedado o deferimento de pedido de patente com base em tratado ou convenção internacional que tenham sido firmados pelo Brasil."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O direito à propriedade industrial é considerado bem móvel."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O sucessor do autor presume-se legitimado a obter a patente, salvo prova em contrário."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A patente de modelo de utilidade vigorará pelo prazo de 15 anos contados da data de depósito."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando o conceito e a classificação dos tributos, julgue os itens a seguir, de acordo com Código Tributário Nacional.
+
+      A denominação adotada pelo legislador é relevante para a definição da natureza jurídica específica do tributo, dada a presunção de racionalidade do legislador.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As taxas têm como fato gerador o exercício regular do poder de polícia, ou a utilização, efetiva ou potencial, de serviço público específico e divisível, prestado ao contribuinte ou posto à sua disposição."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As multas decorrentes do poder de polícia administrativa configuram tributo, visto que constituem prestação pecuniária compulsória, instituída por lei e cobrada mediante atividade plenamente vinculada."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, relativos a garantias e privilégios do crédito tributário, com base na jurisprudência dos tribunais superiores.
+
+      Nos termos da jurisprudência do Superior Tribunal de Justiça (STJ), a presunção de fraude à execução, em razão da alienação de bens pelo devedor após a inscrição do débito em dívida ativa, não alcança as alienações sucessivas, haja vista a boa-fé dos demais adquirentes.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No concurso de preferências entre créditos de pessoas jurídicas de direito público, os créditos da União preferem aos dos estados, do Distrito Federal e dos territórios, e os créditos de todos estes preferem aos dos municípios."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca das imunidades, julgue os próximos itens, conforme o disposto na Constituição Federal de 1988 (CF) e a jurisprudência do STF.
+
+      O INPI não faz jus à imunidade tributária recíproca, uma vez que constitui autarquia federal com personalidade jurídica distinta da dos órgãos da administração direta da União.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A imunidade tributária de livros, jornais, periódicos e do papel destinado à sua impressão não alcança os livros eletrônicos, em razão da regra hermenêutica que determina a interpretação restritiva de favores fiscais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A imunidade tributária recíproca não abrange todas as espécies tributárias, limitando-se aos impostos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação a taxas, julgue os seguintes itens, à luz da jurisprudência do STF.
+
+      É constitucional a taxa de renovação de funcionamento e localização municipal, desde que efetivo o exercício do poder de polícia, demonstrado pela existência de órgão e estrutura competentes para o respectivo exercício.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O serviço de iluminação pública não pode ser remunerado mediante taxa, uma vez que tem caráter inespecífico e indivisível."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Relativamente às normas constitucionais de direito financeiro, julgue os itens a seguir.
+
+      A denominada “PEC do teto de gastos”, objeto da Emenda Constitucional n.º 95/2016, que instituiu o novo regime fiscal no âmbito dos orçamentos fiscal e da seguridade social da União, continua em vigor, haja vista que ainda não foi aprovada lei complementar de que trata a Emenda Constitucional n.º 126/2022.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "É vedada a imposição ou a transferência, por meio de lei, de qualquer encargo financeiro decorrente da prestação de serviço público para a União sem previsão de fonte orçamentária e financeira necessária à realização da despesa ou sem a correspondente transferência de recursos financeiros necessários ao seu custeio, salvo as obrigações espontaneamente assumidas pela União e as decorrentes da fixação do salário mínimo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "É possível a abertura de crédito extraordinário por meio de medida provisória, desde que atendidas as condições de relevância, urgência e imprevisibilidade da despesa."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Algumas limitações legais previstas para a criação e a expansão de programas públicos são dispensadas temporariamente se as despesas forem destinadas ao enfrentamento de calamidade pública nacional e de suas consequências."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "É constitucional lei que determine o cancelamento automático de precatórios e requisições de pequeno valor depositados em instituição financeira oficial e não resgatados, pelo credor, no prazo de dois anos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que tange ao direito econômico, julgue os itens seguintes.
+
+      A lei que cria a agência reguladora pode legitimamente conferir-lhe competência para efetuar busca e apreensão no setor regulado, haja vista o poder de polícia atribuído à agência.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "É inconstitucional resolução do Conselho Monetário Nacional que admita a cobrança de tarifa pela disponibilização de cheque especial pelas instituições financeiras."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Não é possível a transferência do controle societário das concessionárias de serviços públicos, visto que tal ato viola o princípio da vinculação do edital."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "É necessária lei específica para a inclusão de sociedade de economia mista ou de empresa pública em programa de desestatização."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os municípios não podem legitimamente criar novas hipóteses de parcerias público-privadas."
+    alternativas:
+      - Certo
+      - Errado
