@@ -1,0 +1,109 @@
+---
+materia: Contábeis - Conhecimentos Específicos
+cargo: Analista de Planejamento, Gestão e Infraestrutura em Propriedade Industial - Gestão e Suporte
+questoes:
+  - enunciado: |
+      Relativamente à elaboração das demonstrações contábeis segundo a Lei n.º 6.404/1976 e a legislação complementar, julgue os itens que se seguem.
+
+      Caso o ciclo operacional da entidade supere o ano civil, a classificação em circulante e não circulante terá por base o prazo do ciclo operacional.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As modificações na posição do caixa e seus equivalentes de uma entidade em dado exercício social poderão ser segregadas em mais de três fluxos de atividades."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A demonstração dos lucros ou prejuízos acumulados é uma demonstração facultativa."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considerando os dados precedentes, extraídos do balanço patrimonial ajustado para análise de certa empresa em dado período, julgue os itens seguintes.
+
+      A disponibilidade de capital de giro da empresa no período dado foi superior a R$ 110 mil.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 INPI/imagens/con_esp_3 104.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A liquidez geral da empresa é superior a 1,25."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A empresa se financia principalmente com recursos de terceiros."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação ao orçamento público, julgue os itens seguintes, considerando que a sigla LOA, sempre que empregada, se refere à lei orçamentária anual.
+
+      Para conhecer de forma mais detalhada os programas do Poder Executivo, deve-se recorrer à LOA.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Diferentemente das receitas correntes, as receitas de capital, em geral, não produzem impacto sobre o patrimônio líquido do ente público."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O princípio orçamentário da unidade ou totalidade estabelece que a LOA de cada ente federado deverá conter todas as receitas e despesas de todos os poderes, órgãos, entidades, fundos e fundações instituídos e mantidos pelo poder público."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere à contabilidade de custos e aos seus usos para fins de valoração de estoques e de gestão, julgue os itens subsequentes.
+
+      Em uma entidade na qual todos os produtos fabricados em determinado período forem vendidos, não havendo quaisquer estoques iniciais ou finais, as metodologias de custeio por absorção e variável evidenciarão o mesmo resultado final do exercício.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Considere-se que uma empresa possua margem de contribuição por unidade igual a R$ 5 e custos e despesas fixas iguais a R$ 3.500. Nessa hipótese, o ponto de equilíbrio contábil será atingido após a venda de 800 unidades."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A margem de contribuição em termos percentuais é calculada pela divisão da margem de contribuição monetária pelos custos variáveis do período."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, relativos ao tratamento contábil dos ativos intangíveis do setor público.
+
+      Restringir o acesso de terceiros aos benefícios por ele gerados é uma evidência de controle de um ativo intangível.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Deve ser mantido o reconhecimento dos custos no valor contábil de um ativo intangível quando ele estiver nas condições operacionais pretendidas pela administração."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Quanto à consolidação das Demonstrações Contábeis Aplicadas ao Setor Público (DCASP), julgue os itens subsequentes.
+
+      O tribunal de contas ao qual a entidade governamental encontra-se vinculada deve indicar as contas obrigatórias e o nível de detalhamento mínimo a fim de garantir a consolidação das contas nacionais.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No Brasil, a consolidação das DCASP pode ser feita tanto em cada ente da Federação (intragovernamental) como em âmbito nacional (intergovernamental)."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, a cerca das etapas e dos estágios das despesas e receitas públicas.
+
+      O lançamento da receita orçamentária é a etapa que antecede à fixação do montante da despesa orçamentária que irá constar na lei orçamentária anual.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O estágio da liquidação da despesa orçamentária deve ser limitado quando houver frustração da receita estimada no orçamento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os seguintes itens, a respeito das classes de contas do Plano de Contas Aplicado ao Setor Público (PCASP) e da natureza das informações contábeis.
+
+      Os atos e os fatos relacionados ao planejamento e à execução orçamentária somente podem ser registrados utilizando-se as classes de contas com a natureza de informação orçamentária (classes 5 e 6).
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Como pertencem à mesma natureza de informação patrimonial, uma conta da classe 1 (ativo) pode ter como contrapartida uma conta da classe 4 (variação patrimonial aumentativa)."
+    alternativas:
+      - Certo
+      - Errado
