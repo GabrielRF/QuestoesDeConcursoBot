@@ -57,9 +57,10 @@ def new_button_and_edit(user_id, message_id, button):
 
 def remove_button_and_edit(query):
     clicked_data = query.data
-    for data in query.json['message']['reply_markup']['inline_keyboard']:
-        if data[0]['callback_data'] == clicked_data:
-            clicked = data[0]['text']
+    for data_1 in query.json['message']['reply_markup']['inline_keyboard']:
+        for data_2 in data_1:
+            if data_2['callback_data'] == clicked_data:
+                clicked = data_2['text']
     bot.edit_message_text(
         text=f'{query.message.text}\n<b>{clicked}</b>',
         chat_id=query.from_user.id,
@@ -148,15 +149,19 @@ def concurso_query(query, page=0):
         'Próxima »',
         callback_data=f'page_materia {page+1}'
     )
+    botao_banca = telebot.types.InlineKeyboardButton(
+        f'{banca} ⥣',
+        callback_data=f'Banca {banca}'
+    )
     if len(materias) > paginacao:
         if start == 0:
-            button.row(botao_inicio, botao_avancar)
+            button.row(botao_banca, botao_avancar)
         elif end >= len(materias):
-            button.row(botao_voltar, botao_inicio)
+            button.row(botao_voltar, botao_banca)
         else:
-            button.row(botao_voltar, botao_inicio, botao_avancar)
+            button.row(botao_voltar, botao_banca, botao_avancar)
     else:
-        button.row(botao_inicio)
+        button.row(botao_banca)
     message_text = 'Escolha uma matéria:'
     if editar:
         materia_msg = new_button_and_edit(
