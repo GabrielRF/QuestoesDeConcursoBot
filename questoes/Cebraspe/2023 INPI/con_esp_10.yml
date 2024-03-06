@@ -1,0 +1,108 @@
+---
+cargo: Analista de Planejamento, Gestão e Infraestrutura em Propriedade Industrial - Gestão e Suporte
+materia: Infraestrutura - Conhecimentos Específico
+questoes:
+  - enunciado: |
+      Julgue os itens subsequentes, que tratam de sistemas de proteção e de armazenamento de dados.
+
+      Na recuperação do becape incremental, é necessário restaurar um becape completo primeiro; por isso, ela é mais rápida que a recuperação do becape diferencial, mas não tão rápida quanto a do becape completo.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um armazenamento definido por software consiste em um sistema de abstração de armazenamento de dados em que o aprovisionamento e o gerenciamento do armazenamento são separados do hardware subjacente, permitindo, assim, que diferentes pools de recursos de armazenamento físico possam ser gerenciados como um único dispositivo lógico."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O becape diferencial copia somente os dados modificados desde o último becape completo, enquanto o incremental copia somente os arquivos modificados desde o último becape, independentemente do tipo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de contêineres, máquinas virtuais e DevOps, julgue os itens a seguir.
+
+      Contêineres e máquinas virtuais são equivalentes, sendo ambos uma cópia digital de uma máquina física; os contêineres, além de serem uma cópia digital, contêm o código de uma aplicação, suas bibliotecas e outras dependências.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "DevOps opera com base em princípios, entre os quais está a entrega contínua, que permite realizar tarefas repetitivas de maneira eficiente e confiável, reduzindo erros e liberando tempo para atividades de maior valor."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de redes de computadores, julgue os itens subsequentes.
+
+      Todas as conexões TCP são full-duplex e não permitem os processos de broadcasting.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em um hub, os sinais que chegam a uma de suas interfaces serão repetidos eletricamente para as demais interfaces."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os padrões IEEE 802.11n e IEEE 802.11ac operam nas faixas de 2,4 GHz e 5 GHz e suportam a funcionalidade de beamforming."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com base no modelo de referência OSI, julgue os próximos itens.
+
+      A camada de enlace de dados é responsável pela transmissão dos bites através de um canal de comunicação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O gerenciamento de tokens é feito na camada de sessão, para impedir que duas partes tentem executar a mesma operação crítica simultaneamente."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação a ambiente Linux e integração com ambiente Windows, julgue os próximos itens.
+
+      Um computador com Linux pode ser integrado a uma rede Windows por meio do Active Directory, o que permite que os usuários acessem recursos em ambos os sistemas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em um computador com Linux instalado, se o resultado da busca das permissões de um arquivo for `-rw-rw-r--`, então todos os usuários do computador poderão ler e escrever nesse arquivo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os aplicativos necessários para a configuração do ambiente Linux ficam instalados no diretório /root, o qual não pode ser deletado por qualquer tipo de usuário."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens que se seguem, a respeito do servidor Apache.
+
+      O protocolo SSL atua como ligação entre a interface da aplicação, conhecida com front-end, e a camada de serviço, conhecida como back-end.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As requisições a um servidor Apache sempre retornam um código de status e, opcionalmente, um corpo de resposta."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens que se seguem, relativos a instalação e suporte de TCP/IP, DHCP e DNS em ambiente Microsoft Windows.
+
+      A configuração do TCP/IP em um computador Windows necessita apenas de dois parâmetros: o endereço IP e o gateway padrão.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em computadores Windows com adaptadores configurados para a obtenção automática de um endereço IP, o comando `ipconfig/release` permite renovar a configuração do DHCP para todos os adaptadores."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O procedimento para mudar o DNS no Windows e utilizar um DNS público, por exemplo, requer que se tenha, como única condição, acesso administrativo ao sistema."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em referência ao uso dos serviços de arquivo em rede de comunicação em ambiente Microsoft Windows, julgue os itens seguintes.
+
+      O NTFS (new tecnology file system) oferece uma solução de compartilhamento de arquivos em ambientes heterogêneos, permitindo a transferência de arquivos entre computadores que executam o Windows e outros sistemas operacionais, como o Linux, por exemplo.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Ao se executar o comando `\\localhost` na barra de endereços do Explorador de Arquivos do Windows, serão mostrados quais arquivos ou pastas estão compartilhados em rede."
+    alternativas:
+      - Certo
+      - Errado

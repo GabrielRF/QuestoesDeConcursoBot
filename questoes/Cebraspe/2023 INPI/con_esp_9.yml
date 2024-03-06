@@ -1,0 +1,129 @@
+---
+cargo: Analista de Planejamento, Gestão e Infraestrutura em Propriedade Industrial - Gestão e Suporte
+materia: Desenvolvimento - Conhecimentos Específico
+questoes:
+  - enunciado: |
+      A respeito de metodologias e técnicas prescritas pela engenharia de software para o desenvolvimento e para a gestão de produtos, julgue os itens que se seguem.
+
+      Na metodologia Scrum, caso diversos incrementos sejam criados em uma sprint, um deles pode ser entregue aos stakeholders antes da conclusão da sprint.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na gestão do backlog de um produto usando-se uma metodologia ágil, o controle do versionamento dos artefatos é adequado para procurar manter o backlog com a característica de emergente."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na entrega de software funcionando para a produção de forma ágil, o DevOps prestigia a entrega contínua; nesse sentido, um princípio recomendado é que as atualizações de arquivo do servidor, por meio de uma operação de atualização de arquivos (commit) realizada pelos desenvolvedores, sejam centralizadas em uma máquina de integração."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No processo de desenvolvimento utilizando um produto mínimo viável (MVP), entre as etapas do ciclo build, measure e learn (construir, medir e aprender), a etapa build (construir) é a mais aderente ao objetivo central do MVP."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O desenvolvimento dirigido por testes (TDD) é modelado em três estados: vermelho, verde e refatorar. Um exemplo da ação de refatoração é a simulação do comportamento dos componentes que interagem com a unidade de teste que está falhando."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os próximos itens, relativos a padrão de projetos e Scrum.
+
+      De acordo com o Scrum, durante uma sprint planning, para cada item do product backlog selecionado, cabe ao product owner planejar o trabalho necessário para criar um incremento de valor que atenda à forma como isso será feito.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No padrão de projetos adapter, um algoritmo pode variar independentemente dos clientes que o utilizam, de modo a fornecer diferentes implementações de um mesmo comportamento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os seguintes itens, relativos DevOps, CI/CD, contêiner e arquitetura de banco de dados.
+
+      Em que pese o fato de não serem particionáveis, os bancos de dados do tipo chave-valor, por possuírem estrutura maleável aos dados, permitem o armazenamento de objetos complexos, proporcionando escalabilidade vertical de forma mais fácil que os do tipo orientado a documento.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma das etapas na implementação do DevOps é o processo de build que envolve tarefas necessárias para se conseguir executar um programa, como, por exemplo, vinculação com bibliotecas, compilação, download e resolução de dependências, conforme a linguagem de programação que se estiver utilizando."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Kubernetes é uma ferramenta de orquestração de contêineres capaz de oferecer suporte às equipes de DevOps e que pode ser integrada aos fluxos de trabalho de CI/CD; a orquestração de contêineres permite automatizar a implantação, o gerenciamento, o dimensionamento e a rede de contêineres."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, relativos a HTML5, BootStrap e Python.
+
+      Considere-se a figura a seguir.
+
+      Caso se pretenda apresentar, por meio de HTML5, o resultado apresentado na figura precedente, deve-se substituir, no código fonte que se segue, o caractere `#` pela palavra datalist.
+      ```
+      <html>
+      <head>
+      <title>HTML5 INPI </title>
+      </head>
+      <body>
+      <input list=“browsers” />
+      <# id=“browsers”>
+       <option value=“Chrome”>
+       <option value=“Firefox”>
+       <option value=“Internet Explorer”>
+       <option value=“Opera”>
+       <option value=“Safari”>
+      </#>
+      </body>
+      </html>
+      ```
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 INPI/imagens/con_esp_9 111.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considere-se o seguinte código em Python.
+      ```
+      lista = ['I', 'N', 'P', 'I']
+      lista = list(dict.fromkeys(lista))
+      print(lista)
+      ```
+      Ao se executar o código em Python precedente, o resultado será o apresentado a seguir.
+      ```
+      ['I', 'I', 'N', 'P']
+      ```
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os próximos itens, relativos a Hibernate Envers e Swagger.
+
+      Um documento Swagger é o equivalente a API REST de um documento WSDL para um serviço web baseado em SOAP.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O Hibernate Envers permite realizar gerenciamento de identidade por meio de JPA no WildFly ou JBoss, de modo a habilitar single-sign on nas aplicações, uma vez que, logado no Envers, os usuários não precisam fazer login novamente para acessar um aplicativo diferente."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens que se seguem, a respeito de qualidade de software.
+
+      Um dos princípios básicos da garantia da qualidade do software é o controle de qualidade, cujo foco está na identificação, na rastreabilidade e no gerenciamento das mudanças no sistema.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O código correspondente ao grafo a seguir tem complexidade ciclomática igual a 2."
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 INPI/imagens/con_esp_9 117.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Considere-se o seguinte cenário, relativo ao índice de álcool encontrado no sangue de um motorista: normal, para índice inferior a 0,06%; multa, para índice entre 0,06% e 0,33%; crime, para índice superior a 0,33%. Nesse cenário, serão necessários, no mínimo, três casos de teste a fim de se atingir 100% de cobertura da análise do valor-limite de um programa desenvolvido para avaliar o referido índice."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um método que for longo demais ou difícil de entender e que exija muitos comentários ficará mais claro com a criação de variáveis temporárias, usando-se a técnica de refatoração de código extract method."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um teste de software de regressão estará corretamente projetado quando se considera, em cada uma das funções principais do software, apenas os testes que tratam de uma ou mais classes de erros."
+    alternativas:
+      - Certo
+      - Errado
