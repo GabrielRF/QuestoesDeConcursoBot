@@ -1,0 +1,339 @@
+---
+cargo: Analista de Planejamento, Gestão e Infraestrutura em Propriedade Industrial - Gestão e Suporte
+materia: Biologia - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      A distrofia muscular de Duchenne, doença muscular grave que afeta principalmente homens, é causada por variantes patogênicas (mutações) no gene DMD localizado no cromossomo X. Recentemente, foram aprovados tratamentos para essa doença. O atalureno, por exemplo, interage com o ribossomo, fazendo que este ignore códons de parada prematuros, o que permite a síntese de uma proteína completa e funcional. Outras terapias utilizam RNA antissenso para promover o salto de exons, o que favorece a síntese de uma proteína encurtada, mas parcialmente funcional, na qual exons com mutações de mudança do quadro de leitura são removidos.
+      Tendo as informações do texto acima como base, julgue os itens que se seguem.
+
+      A detecção de mutações sem sentido ou de mudança do quadro de leitura em pacientes com distrofia muscular de Duchenne pode ser feita por sequenciamento completo de exoma.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O sequenciamento de DNA de terceira geração não detecta variantes estruturais do genoma."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O splicing alternativo leva à produção de diferentes moléculas maduras de RNAm a partir de um mesmo transcrito inicial."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A utilização de organoides celulares representou um grande avanço nos estudos de biologia do desenvolvimento e no estudo de doenças e terapias. Acerca das vantagens do uso de organoides, julgue os itens subsequentes.
+
+      Os organoides podem ser desenvolvidos a partir das próprias células do paciente.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A ausência de células do sistema imune na cultura do organoide permite o estudo de respostas inflamatórias a infecções ou drogas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Células-tronco adultas podem ser propagadas em organoides e linhagens de tecido específicas podem ser cultivadas com mínimas contribuições de outros tipos celulares."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Tendo em vista que a metilação do DNA é um dos principais mecanismos epigenéticos conhecidos, julgue os próximos itens, relativos à epigenética.
+
+      A plataforma de sequenciamento da Oxford Nanopore permite identificar globalmente regiões metiladas do DNA tanto pela identificação de 5mC (5-metilcitosina) como de 5HmC (5-hidroximetilcitosina) simultaneamente ao sequenciamento do DNA.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A metilação do DNA é resultado da adição de um grupo metila em uma citosina na quinta posição de uma ilha CpG por meio de desacetilases."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os RNAs longos não codificantes (LnRNAs) interagem com moléculas de RNAm, o que impede a tradução."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em determinado processo, enzimas específicas são utilizadas para catalisar reações químicas complexas na síntese de um composto químico denominado enzimina A, de interesse na produção de medicamentos.
+
+      Acerca do processo hipotético acima, julgue os itens a seguir.
+
+      O uso de enzimas no referido processo pode envolver a redução da energia de ativação, acelerando a velocidade das reações químicas envolvidas no caminho de síntese do composto.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Fatores como temperatura e pH do meio de reação devem ser controlados para garantir a eficácia do processo de síntese em questão."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A manipulação genética de enzimas é desaconselhada, pois pode comprometer sua atividade catalítica natural."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em casos semelhantes ao do processo hipotético em apreço, a inibição enzimática é uma estratégia comum para controlar o término da reação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A enzimina A destina-se, provavelmente, à produção de um medicamento de alto custo, uma vez que a maioria dos processos em que se utilizam enzimas tende a ter custos econômicos muito elevados, pois tais processos são altamente específicos e não geram subprodutos ou contaminantes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em determinado processo inovador, empregam-se microrganismos geneticamente modificados para potencializar suas propriedades de degradação de resíduos na limpeza de superfícies sólidas.
+
+      No que se refere ao processo hipotético acima mencionado, julgue os itens que se seguem.
+
+      Nos processos microbiológicos, neles incluso o processo hipotético em tela, a utilização de microrganismos geneticamente modificados faz que o processo seja ecologicamente prejudicial ao meio ambiente.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Por serem geneticamente modificados, os microrganismos objetos do processo hipotético em comento, quando submetidos à coloração de Gram, retêm o cristal violeta e aparecem na cor roxa ao microscópio."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A utilização de meios de cultura seletivos pode ser fundamental para garantir o crescimento seletivo do microrganismo geneticamente modificado em detrimento de outros microrganismos, mantendo sua atividade metabólica no processo de limpeza."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As técnicas de centrifugação e sedimentação suave, se empregadas cuidadosamente, podem ser utilizadas para a separação dos microrganismos no referido processo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A microscopia óptica convencional, mediante a aplicação da coloração de Gram, é uma técnica simples e apropriada para monitorar os microrganismos envolvidos no processo em questão."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em microbiologia, testes bioquímicos e análises por microscopia permitem a identificação e a compreensão de características metabólicas e morfológicas essenciais dos microrganismos; além disso, várias técnicas, como a criogenia e a liofilização, desempenham papel crucial na preservação de isolados. Acerca desse tema, julgue os itens a seguir.
+
+      A detecção da enzima citocromo c oxidase em bactérias Gram-negativas é uma característica útil na diferenciação bacteriana.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O método da coloração de Gram é amplamente empregado na microbiologia para classificar bactérias com base em características de seus pili sexuais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A capacidade de manter a viabilidade e a integridade genética dos isolados ao longo do tempo são vantagens da criopreservação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O teste de coagulase é comumente utilizado para diferenciar Staphylococcus aureus e S. intermedius de outros Staphylococcus."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Os organismos procariontes e eucariontes desempenham papéis cruciais nos ecossistemas terrestres e aquáticos, contribuindo para a manutenção da vida e o equilíbrio ambiental. Considerando as principais diferenças observadas entre esses dois grupos de organismos, julgue os itens que se seguem.
+
+      O material genético dos organismos procariontes é composto por moléculas de DNA linear associadas a proteínas histonas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os organismos procariontes se caracterizam pela ausência de núcleo definido, sendo essa uma das principais distinções em relação aos eucariontes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os ribossomos em procariontes são do tipo 80S, enquanto em eucariontes são do tipo 70S."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação às boas práticas de laboratório e às rotinas de biossegurança, julgue os itens a seguir.
+
+      O uso de equipamento de proteção individual é obrigatório para minimizar riscos ocupacionais em laboratórios.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As boas práticas de laboratório abrangem procedimentos técnicos e incluem a manutenção de registros detalhados sobre experimentos e resultados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A manipulação de substâncias químicas não requer ventilação adequada no laboratório, já que a exposição a vapores é considerada insignificante nesses ambientes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação aos processos de fermentação, julgue os itens a seguir.
+
+      As hifas apresentam grande capacidade de penetrar em material sólido; por isso, os fungos possuem vantagem na colonização desse tipo de substrato.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em processos de fermentação, é recomendado que a temperatura seja mantida na faixa entre 25 ºC e 36 ºC; temperaturas inferiores retardam o processo, enquanto temperaturas superiores favorecem a evaporação do álcool e contribuem para o surgimento de contaminações."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Nos processos fermentativos que envolvem fungos, as enzimas secretadas no meio de cultura exigem a lise da célula; terminada a fermentação, a enzima pode ser recuperada no meio ou caldo de cultura."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os próximos itens, a respeito das enzimas, suas funções e ações.
+
+      As frutas com processamento industrial contêm uma quantidade variável da enzima pectina: na fruta verde, ela se encontra na forma insolúvel e é responsável pela firmeza da fruta; na fruta madura, ela é parcialmente transformada na forma solúvel, quando a fruta ganha viscosidade e perde aos poucos a cor e o aroma.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em um processo de sacarificação, a amiloglucosidase pode hidrolisar completamente o amido, transformando-o em glicose."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As α-amilases são capazes de transformar amido em dextrinas, gerando glicose e maltose, acelerando as reações de Maillard."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A enzima glicose isomerase oxida a glicose em ácido glucônico e é utilizada para a remoção de oxigênio nas embalagens de alimentos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere a processos biotecnológicos, julgue os itens subsequentes.
+
+      O hipoclorito de sódio é um desinfetante de amplo espectro utilizado na indústria, apresentando efeito fungicida e bactericida e forte ação contra vírus e bactérias esporuladas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O processo de fermentação para a produção de penicilina deve ser realizado em meio anaeróbio."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A cana-de-açúcar utilizada como matéria-prima nas indústrias de álcool e açúcar pode conter inicialmente níveis de 10³ fungos por grama de planta."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A proteômica estuda o conjunto de proteínas expressas por um organismo, célula ou tecido em um determinado momento. Ela busca compreender a estrutura, a função e as interações das proteínas, bem como investigar como suas expressões variam em resposta a diferentes condições fisiológicas ou patológicas. Considerando as inúmeras aplicações da proteômica, julgue os itens a seguir.
+
+      A proteômica serve para o diagnóstico precoce de doenças por meio da identificação de biomarcadores específicos.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A aplicação da proteômica está restrita ao diagnóstico; essa técnica não contribui para o desenvolvimento de terapias personalizadas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A proteômica é exclusivamente aplicada na investigação de doenças genéticas, pois não possui o condão de contribuir para a compreensão de doenças multifatoriais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A análise proteômica pode ser utilizada na pesquisa de novos alvos terapêuticos, pois permite a identificação de proteínas envolvidas em vias patológicas específicas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Nas últimas duas décadas, os laboratórios de análises clínicas sofreram transformações radicais, como consequência direta do aumento populacional, da quantidade de técnicos de laboratório e da demanda por serviços. Quando utilizada da forma correta, a automação pode trazer uma série de benefícios. Com pertinência à importância da automação bioquímica em laboratórios de análises clínicas, julgue os itens que se seguem.
+
+      Atualmente, a automação bioquímica é aplicada em laboratórios de grande porte, não sendo viável para instalações de pequena escala.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A automação bioquímica em laboratórios de análises clínicas contribui para a melhoria da precisão e da exatidão dos resultados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A automação bioquímica tem como desvantagem a diminuição da segurança dos processos laboratoriais, uma vez que os métodos manuais são mais seguros que os sistemas automatizados."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A dosagem de hormônios e enzimas desempenha um papel crucial no diagnóstico clínico de diversas doenças, proporcionando informações valiosas sobre o funcionamento fisiológico do organismo. Acerca dos métodos de dosagem e suas aplicações clínicas, julgue os itens seguintes.
+
+      A dosagem de ALT (alanina aminotransferase) é específica para o diagnóstico de doenças hepáticas, enquanto a de AST (aspartato aminotransferase) não tem relevância nesse contexto clínico.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A dosagem de creatinoquinase pode indicar problemas musculares como, por exemplo, infarto do miocárdio, o que a torna uma medida útil em diversos contextos clínicos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A dosagem de cortisol na saliva ou na urina é fundamental em investigações de distúrbios como a síndrome de Cushing."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação a bioinformática, julgue os itens a seguir.
+
+      Ubuntu é um sistema operacional de código aberto.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Linux é uma das linguagens de programação mais utilizada em bioinformática."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O alinhamento de sequências pode ser realizado utilizando-se uma ferramenta de trimagem dos dados."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Passo crucial em uma boa análise bioinformática é o controle de qualidade dos dados, que pode ser realizada pelo FASTQC."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Tendo em vista que a genômica e a bioinformática são fundamentais para o desenvolvimento e a aplicação da medicina personalizada e de precisão, assim como no auxílio para a transferência de informações a médicos especialistas, julgue os itens a seguir, relativos a medicina de precisão.
+
+      Muito utilizada na medicina de precisão, a análise de exoma baseia-se na busca de variantes polimórficas na sequência referência e em grandes bancos de dados, como no banco do Projeto 1.000 Genomas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um desafio no desenho de primers para PCR multiplex é evitar os dímeros de primers, cuja probabilidade de ocorrência aumenta à medida que aumenta o número de regiões genômicas a serem incluídas na reação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os arquivos VCFs são arquivos de texto que contêm variações de sequência, obtidos na saída de programas de chamadas de variantes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os arquivos BAM contêm os resultados finais das análises genômicas que serão utilizados nas análises de contexto biológico."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A identificação de padrões em um conjunto de dados com o uso de machine learning é um passo na criação de novos modelos que facilitem a predição de soluções, minimizando a interferência humana na tomada de decisões."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsecutivos, com relação às organelas citoplasmáticas, estruturas que desempenham papéis cruciais no funcionamento celular.
+
+      O retículo endoplasmático rugoso se limita à síntese de proteínas e ao processo de glicosilação, não tendo papel na produção de lipídeos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As mitocôndrias participam da degradação de proteínas defeituosas formadas durante a síntese proteica."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os lisossomos são organelas diretamente envolvidas com a digestão intracelular, podendo inclusive digerir organelas e macromoléculas da própria célula."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O mau funcionamento do complexo de Golgi pode levar a doenças relacionadas com a retenção de proteínas ou a uma redução do tráfego de substâncias nessa organela."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca de aspectos relacionados à técnica de microscopia eletrônica de varredura (MEV) e aos métodos de preparo de amostras biológicas, julgue os itens a seguir.
+
+      As amostras preparadas para MEV, por serem altamente higroscópicas, são muito resistentes, não havendo necessidade de serem fotografadas imediatamente.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na MEV, a imagem é formada pela transmissão de elétrons através da amostra, o que proporciona uma visão detalhada da estrutura interna das células."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No preparo de amostras biológicas para MEV, uma etapa essencial é o congelamento rápido, que pode evitar artefatos causados pela formação de grandes cristais de gelo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base na imagem precedente, que ilustra os componentes de um microscópio óptico, julgue os itens que se seguem.
+
+      O componente indicado por I é denominado ocular, lente localizada na extremidade do tubo do microscópio, por onde se observa a imagem ampliada pela objetiva.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 INPI/imagens/con_esp_12 118.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O parafuso micrométrico, indicado por III, é usado para focar a amostra com aj uste fino, a fim de garantir que a imagem esteja nítida e bem definida."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O condensador, indicado por II, controla o foco da objetiva, ajustando a nitidez da imagem observada."
+    alternativas:
+      - Errado
+      - Certo
