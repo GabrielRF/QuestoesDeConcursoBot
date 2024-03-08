@@ -1,0 +1,343 @@
+---
+materia: Redes - Conhecimentos Específicos
+cargo: Analista de Planejamento, Gestão e Infraestrutura em Propriedade Industrial - Gestão e Suporte
+questoes:
+  - enunciado: |
+      Em relação à comutação digital, julgue os itens a seguir.
+
+      Quando o sistema possui comutação e transmissão digitais, há uma queda de desempenho devido às sucessivas etapas de conversão analógico-digital e digital-analógica.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na comutação espacial, as palavras de código mudam de linha multiplexada no tempo e também mudam de time slot."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em uma estrutura espacial-temporal-espacial, o primeiro estágio espacial faz a expansão do tráfego."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma das vantagens da comutação espacial é a ausência de retardo na comutação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na comutação temporal, se o número de portas de saída for maior que o número de portas de entrada, o sistema é dito com bloqueio."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca dos indicadores de desempenho dos sistemas de comunicação, julgue os próximos itens.
+
+      Para uma boa recepção de sinal de vídeo, o valor mínimo da relação sinal/ruído em sistemas digitais deve ser maior que o referido valor em sistemas analógicos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A modulação 1024-QAM possui uma menor eficiência em relação à probabilidade de erro de bite se comparada à modulação 64-QAM."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Comparando-se a probabilidade de erro de bite, a modulação QAM possui melhor desempenho que a ASK."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando o diagrama de blocos simplificado de um transmissor digital anteriormente apresentado, julgue os itens que se seguem.
+
+      No modulador digital com 256 sinais disponíveis para transmissão, cada vez que um sinal é transmitido, 8 bites são enviados através do canal.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 INPI/imagens/con_esp_14 60.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O ruído interno presente nos equipamentos de transmissão e recepção é gerado pelas colisões de elétrons da corrente elétrica nos dispositivos semicondutores e resistivos desses equipamentos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Caso o sinal que entra no codificador de fonte seja contínuo, será necessária uma etapa de quantização antes do processamento no codificador."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O codificador de canal insere informação redundante à sequência de informação para aumentar a confiabilidade da informação recebida no receptor."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsequentes, a respeito de modulações analógica e digital.
+
+      A modulação ASK bipolar possui componente em quadratura igual a zero.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Ao se utilizar quantização linear na modulação PCM, os sinais de pequena amplitude sofrem menor interferência do ruído de quantização."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma modulação 128-QAM possui constelação quadrada."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na modulação AM-SSB, a supressão da portadora é realizada pelo modulador balanceado e a eliminação de uma das bandas laterais, por um filtro passa-faixa."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na transmissão analógica com modulação em frequência, com a maior frequência do sinal modulante de 15 kHz e desvio máximo da portadora de 75 kHz, a banda ocupada na transmissão é de 180 kHz."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Tendo por base os tipos de código utilizados na codificação de canal, julgue os itens seguintes.
+
+      Um codificador convolucional com um registrador de deslocamento de dois estágios possui uma máquina de estados com quatro estados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em um sistema digital, o codificador de canal é capaz de manter a taxa de erro dentro de um limite máximo aceitável pelo usuário."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O peso da palavra código `c = [1 1 0 0 1]` é igual a 2."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Se a taxa de transmissão de dados de um sistema é maior que a capacidade do canal, existe um código corretor de erro que permite transmitir a informação com qualidade suficiente."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, relativos às técnicas de multiplexação em frequência (FDM) e no tempo (TDM).
+
+      Se comparada ao FDM, uma das desvantagens da técnica do TDM com PCM é a necessidade de utilização de diversos filtros.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na FDM, pode ser transmitido um sinal cossenoidal não modulado para facilitar a sintonia na recepção."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Se um MUX PCM utiliza um comutador que amostra 100 canais de voz a 4 kHz cada um, com codificação de 8 bites por amostra, a taxa de amostragem é de 32 kbits/s."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação a comunicações ópticas, julgue os itens a seguir.
+
+      A atenuação e a difração das ondas eletromagnéticas na faixa óptica tornam o uso do sistema wireless óptico inviável, sobretudo para grandes distâncias.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em comparação à situação no espaço livre, um sinal luminoso que se propaga em uma fibra óptica com índice de refração igual a 1,8 terá o valor do comprimento de onda multiplicado por um fator de 0,9."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A fibra óptica é considerada um guia de ondas, pois o sinal fica confinado na estrutura da fibra."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A propagação da onda eletromagnética ao longo da fibra óptica ocorre devido ao fenômeno de difração da onda no núcleo da fibra."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A dependência da velocidade da onda em função da frequência na fibra óptica é um problema de fácil correção; por isso, não é um problema grave em sistema de comunicação por fibra óptica."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para uma fibra com 20 dB de atenuação, a potência do sinal na saída da fibra será 100 vezes menor que na entrada."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma das desvantagens do sistema de comunicação que utiliza fibra óptica é a interferência no sinal causada por campos eletromagnéticos externos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsequentes, a respeito de sistemas digitais de radiodifusão.
+
+      O sistema de rádio digital IBOC (in band on channel) tem como principal vantagem o uso simultâneo das faixas de AM e FM entre os sistemas analógico e digital.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Independentemente do padrão de implementação do rádio digital, o sistema permitirá que um sinal analógico seja detectado por qualquer sistema digital em operação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma das principais vantagens do rádio digital é a melhoria da qualidade do som: por comparação, o rádio AM fica com qualidade de FM; e o rádio FM, com qualidade de CD."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação a elementos de interconexão de redes de comunicação, julgue os itens a seguir.
+
+      Duas ou mais estações transmitindo quadros ao mesmo tempo geram colisão no meio físico compartilhado.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O segmento de rede composto por um hub de 24 portas possui 24 domínios de colisão, sendo um para cada porta do equipamento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os próximos itens, a respeito dos campos do IPv4.
+
+      O campo ECN (Explicit Congestion Notification) é utilizado para o descarte de pacotes e constitui um recurso obrigatório que os endpoints devem implementar, segundo a RFC do IP.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O campo IHL (Internet Header Length) contém o tamanho do cabeçalho do pacote IP; o tamanho mínimo permitido equivale a 20 bytes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca das características de uma rede local (LAN), julgue os itens subsecutivos.
+
+      Em uma LAN, os dispositivos podem usar uma única conexão com a Internet, compartilhar arquivos entre si e imprimir em impressoras compartilhadas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em função de suas características fundamentais, uma LAN pode ser classificada como pequena ou grande; entretanto, ela pode suportar no máximo 254 computadores por segmento de domínio de broadcast."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com base no padrão IEEE 802.11ax, também conhecido como WIFI 6, julgue os itens seguintes.
+
+      O padrão IEEE 802.11ax não prevê compatibilidade com o padrão IEEE 802.11ac.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O referido padrão prevê o uso de OFDMA (Orthogonal Frequency Division Multiple Access) ao custo de aumentar a sobrecarga e reduzir a latência."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, a respeito do CSMA/CD (Carrier Sense Multiple Access with Collision Detection), considerando as principais características de switches Ethernet e seu funcionamento na camada 2 do modelo OSI.
+
+      No uso do CSMA/CD, o preâmbulo, composto por 7 octetos, é responsável por permitir a sincronização do receptor com o remetente para que seja localizado o início do quadro.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "CSMA/CD é um algoritmo de acesso ao meio compartilhado e, antes de uma transmissão ser realizada, é necessário determinar se o canal e seus recursos estão disponíveis."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação ao padrão IEEE 802.11n utilizado em redes sem fio, julgue os itens a seguir.
+
+      No padrão IEEE 802.11n, a largura de canal pode ser de 20 MHz ou de 40 MHz.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Esse padrão, que utiliza o espectro na banda de 2,4 GHz, não é compatível com a banda de 5 GHz."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considerando que uma rede IPv4 possui um range de endereços limitado a um endereço classe C, julgue os itens subsequentes.
+
+      Uma máscara de rede classe C possui 4 bytes, por padrão.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O endereço IP 172.16.10.1/24 é um exemplo de endereço classe C."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na rede em questão, se o endereço IP 192.168.10.10/25 e o endereço IP 192.168.10.254/25 estiverem em uso, então ambos estarão no mesmo domínio de broadcast da rede."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Um dos conceitos trazidos pelo 5G é o da numerologia, que, em conjunto com a multiplexação por divisão em frequência ortogonal (OFDM) e o fatiamento da rede (network slicing), dá à quinta geração dos sistemas móveis celulares flexibilidade suficiente para garantir qualidade de serviço (QoS) em casos de uso diversos, que exigem requisitos bem distintos, muitas vezes divergentes.
+
+      Tendo como referência o texto precedente, julgue os itens seguintes.
+
+      Para determinada largura de banda que for alocada ao sistema, quanto maior for a numerologia empregada em um fatiamento da rede, menor será o espaçamento entre subportadoras OFDM e maior será a taxa de transmissão alcançável.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um fatiamento de rede que opere com maior numerologia terá menos dificuldade em atender a requisitos de baixa latência que um fatiamento de rede que opere com menor numerologia."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A flexibilidade do sistema 5G mencionada no texto advém, em parte, da capacidade do sistema de operar com duração de frame (quadro) variável e com ajuste dinâmico para cada usuário dentro da área de cobertura da célula, o que permite ajustar os parâmetros do sistema às condições do canal de comunicação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No 5G, é possível operar com ordem de modulação diferente entre blocos de recursos distintos, o que permite oferecer taxas de transmissão diferentes aos usuários dentro de um mesmo subframe."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O tempo de guarda entre símbolos OFDM é empregado com o intuito de se mitigar a interferência intersimbólica; porém, quanto maior for o tempo de guarda, menor será a taxa de transmissão alcançável no fatiamento de rede, se forem mantidos inalterados os demais parâmetros do sistema."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Nas pilhas de protocolos empregadas nos planos de usuário e de controle da rede de acesso via rádio (RAN) do 5G, incluem-se os protocolos RLC (radio link control), PDCP (packet data convergence protocol), SDAP (service data adaptation protocol) e RRC (radio resource control). Acerca dessas pilhas de protocolos, julgue os itens subsequentes.
+
+      O escalonamento da transmissão de dados por meio da camada física é controlado pelo protocolo RLC, que também provê a escolha do esquema de modulação e de codificação de canal a ser utilizado em determinado subframe.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O SDAP, encontrado apenas na pilha de protocolos do plano de usuário, consiste em um protocolo de sinalização entre o núcleo da rede 5G e o equipamento de usuário, realizando o gerenciamento das sessões de dados e da mobilidade do usuário nas áreas de cobertura do sistema móvel celular."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O RRC, encontrado apenas na pilha de protocolos do plano de controle, consiste em um protocolo de sinalização, implementando funções que atuam no estabelecimento de conexões entre o equipamento móvel e a estação gNB."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O PDCP implementa funções de transporte de dados que incluem compressão de cabeçalho e proteção de integridade e encriptação de dados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação às tecnologias empregadas na terceira geração de sistemas de comunicações móveis celulares, julgue o itens que se seguem.
+
+      Tanto o HSPA quanto o EVDO são capazes de oferecer taxas de transmissão superiores a 150 Mbps, ao empregarem técnicas de múltiplo acesso ao meio de comunicação do tipo não ortogonal, que permitem obter ganhos de multiplexação em canais altamente dispersivos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O W-CDMA, empregado no UMTS, utiliza técnicas de espalhamento espectral com portadoras de 5 MHz de largura de banda. Com o objetivo de atingir maiores taxas de transmissão de dados e melhorar a experiência em banda larga dos usuários, foi proposta a solução HSPA, que introduziu, durante a fase de evolução do UMTS, o emprego de modulação de ordem superior, a agregação de portadoras e de sistemas MIMO, que utilizam múltiplas antenas na transmissão e na recepção dos dados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Entre os componentes principais da rede LTE, empregada em sistemas de comunicação móvel de quarta geração, encontram-se o MME (mobility management entity), o SGW (serving gateway) e o PGW (packet data network gateway). Com relação ao LTE, à sua arquitetura e a tecnologias empregadas, julgue os itens a seguir.
+
+      Tanto o MME quanto o SGW são componentes do núcleo da rede móvel e utilizam variações da interface S1 para a comunicação com componentes da rede de acesso via rádio.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O LTE emprega o espalhamento espectral como forma de mitigar os efeitos do canal de comunicação dispersivo, o que garante taxas de transmissão acima de 1 Gbps e latência inferior a 1 ms."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As funções de ativação e desativação do serviço de transporte de dados denominado bearer são executadas pelo PGW, de forma a prover conectividade entre um equipamento móvel de usuário e uma rede externa ao sistema móvel, tal como a Internet, com atributos de QoS configuráveis pela operadora do sistema."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação aos sistemas de comunicação móvel celular, julgue os itens subsequentes.
+
+      Diferentemente do 5G, o LTE possui arquitetura embasada em software, que permite a virtualização das funções de rede bem como o emprego de conceitos de redes definidas por software.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A área de cobertura de uma célula do sistema móvel é impactada pela frequência de operação da portadora utilizada; assim, a área de cobertura tende a ser menor quanto maior for a frequência de operação da portadora utilizada na célula, mantidas as demais condições de propagação da onda eletromagnética no ambiente da célula."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O LTE provê suporte à comunicação IoT por meio da tecnologia NB-IoT, que integra aos canais lógicos, de transporte e físicos do LTE capacidades de comunicação do tipo máquina, permitindo atingir taxas de transmissão de até 10 Mbps tanto no uplink quanto no downlink."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O desvanecimento de pequena escala não seletivo em frequência, caso presente em um canal de comunicação móvel, é capaz de acarretar degradação da taxa de erro na detecção de símbolos transmitidos, quando se o compara com o canal AWGN (additive white gaussian noise)."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O emprego de técnicas de diversidade do tipo maximum ratio combining é eficaz na mitigação dos efeitos causados pelo desvanecimento de pequena escala seletivo em frequência, presente no canal de comunicação móvel com delay spread acentuado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O esquema de reúso de frequência do tipo fracional permite empregar fator de reúso de frequência superior a 1 na borda das células, enquanto emprega fator de reúso de frequência igual a 1 no interior de cada célula de um sistema móvel. Essa estratégia busca contribuir na mitigação da interferência co-canal na borda da célula e, por consequência, no aumento da taxa de transmissão de dados para usuários que se encontrem na borda da célula."
+    alternativas:
+      - Certo
+      - Errado

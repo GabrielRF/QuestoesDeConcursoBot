@@ -1,0 +1,328 @@
+---
+cargo: Analista de Planejamento, Gestão e Infraestrutura em Propriedade Industrial - Gestão e Suporte
+materia: Biologia 2 - Conhecimentos Específicos
+questoes:
+  - imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 INPI/imagens/con_esp_13 51.png?raw=true
+    enunciado: |
+      Tendo como referência a figura precedente, que ilustra uma estrutura de anticorpos que possuem ligações dissulfeto entre as cadeias leves e pesadas, julgue os itens a seguir.
+
+      Anticorpos são biomoléculas classificadas como ácidos nucleicos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As ligações dissulfeto ilustradas na figura ajudam a manter a estrutura quaternária dos anticorpos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os referidos anticorpos apresentam uma região denominada sítio catalítico, onde ocorre a ligação do antígeno, com estrutura inicialmente complementar ao sítio; ao ocorrer tal ligação, o anticorpo acelera a reação de transformação do antígeno e a liberação do produto."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As mencionadas biomoléculas são passíveis de purificação por cromatografia de afinidade que apresente, covalentemente ligados à fase estacionária, anticorpos secundários que reconheçam tais moléculas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsequentes, considerando o metabolismo que ocorre em hepatócitos humanos em situação de hipoglicemia.
+
+      A oxidação de ácidos graxos estará estimulada, sendo seus produtos utilizados como fonte de carbono para a síntese de glicose.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na situação em questão, a etapa que envolve os intermediários frutose-6-fosfato e frutose-1,6-bifosfato estará estimulada no sentido catabólico e inibida no sentido anabólico."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na referida situação, as vias anabólicas de polissacarídios estarão estimuladas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O grupo amino de uma parte dos aminoácidos cetogênicos disponíveis será liberado na forma de ureia, e sua cadeia carbônica será liberada na forma de acetil-coenzima A ou de corpos cetônicos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Consideradas as células musculares estriadas humanas em situação de hipoglicemia e, ao mesmo tempo, realizando esforço muscular leve, abaixo do limiar aeróbico, julgue os itens que se seguem.
+
+      Essas células apresentam a fosforilação oxidativa como uma das etapas do mecanismo predominante de obtenção de energia.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A síntese de ácidos graxos é estimulada pela presença de insulina; em hipoglicemia, a concentração de insulina circulante é reduzida, o que diminui a velocidade dessa via."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As referidas células respondem à hipoglicemia por meio da degradação da reserva de glicogênio e da liberação de glicose na circulação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      O metabolismo de lipídeos e nucleotídeos em um hepatócito humano envolve diversos aspectos metabólicos e permite que esses grupos de biomoléculas apresentem funções variadas. Em relação a esse assunto, julgue os próximos itens.
+
+      Lipídeos liberados por tecidos extra-hepáticos podem ser transportados até o fígado por meio de lipoproteínas de alta densidade.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As vias de síntese de nucleotídeos apresentam um precursor comum com a via de síntese de lipídeos, o fosforribosilpirofosfato, também conhecido por sua sigla em inglês PRPP."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Lipídeos esteroidais podem ser transformados em sais biliares nos hepatócitos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O produto final da betaoxidação de ácidos graxos pode ser utilizado como precursor da cadeia carbônica de aminoácidos aromáticos em hepatócitos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere a estrutura, funções e reações de ácidos nucleicos, julgue os itens seguintes.
+
+      Na maioria das moléculas de DNA de fita dupla, a soma da quantidade de resíduos de purinas é aproximadamente igual à soma da quantidade de resíduos de pirimidinas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A estrutura de dupla hélice do DNA é mantida por ligações covalentes que unem as bases das fitas complementares."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Organismos que apresentam mRNA policistrônico têm a capacidade de codificar modificações pós-traducionais em seu material genético."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A replicação do DNA de dupla fita gera uma molécula com as duas fitas originais e outra molécula com as duas fitas novas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, em relação ao sistema imunológico, suas características e composição.
+
+      A resposta imune inata ocorre logo após a exposição a um organismo infeccioso e é responsável pela liberação dos linfócitos para o reconhecimento dos antígenos invasores.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os linfócitos B e T surgem na medula óssea, enquanto a sua diferenciação ocorre na medula e no timo, respectivamente."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A interação de um linfócito T duplo positivo (CD4+CD8+) com uma célula epitelial tímica que apresenta uma molécula classe I do MHC fará com que esse linfócito passe a expressar apenas a molécula T CD4+."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os anticorpos da classe IgM apresentam afinidade maior que os anticorpos de classe IgG ao se ligarem aos seus respectivos antígenos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os leucócitos polimorfonucleares são produzidos em grande quantidade durante a resposta imunológica e, pelo processo de fagocitose, são responsáveis pela formação de pus em locais infectados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito do funcionamento do sistema imunológico, julgue os itens que se seguem.
+
+      Muitos agentes não são neutralizados pelos anticorpos; nessa situação, os anticorpos podem ativar células efetoras acessórias como macrófagos e neutrófilos, que ingerem bactérias recobertas por IgG.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A neutropenia congênita severa é comumente causada por mutações do gene que codifica a elastase neutrofílica; um alvo inapropriado da elastase 2 defeituosa causa apoptose de mielocitos em desenvolvimento e o bloqueio no estágio de promielócito-mielócito."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A IgE tem papel importante na proteção das superfícies das mucosas contra patógenos, enquanto a IgA é responsável pelo recrutamento de células inflamatórias por meio da ativação de mastócitos e basófilos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os próximos itens, relativos a metodologias de diagnóstico biológico e à utilização de vacinas.
+
+      Todos os retrovírus são vírus de genoma RNA, mas nem todos os vírus de genoma RNA são retrovírus; o HIV é exemplo de retrovírus.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em uma imunoeletroforese, os antígenos são fracionados por eletroforese e, na sequência, ocorre a difusão dos antígenos contra o antissoro específico; essa reação é evidenciada pela formação de linhas ou bandas de precipitação no gel."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Sensibilidade é a capacidade de um teste excluir indivíduos que não são afetados por determinada patologia."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A formulação das vacinas de macromoléculas apresenta moléculas derivadas de microrganismos, entre as quais estão as vacinas de antígenos recombinantes, que utilizam os antígenos polissacarídicos da cápsula bacteriana fusionados com antígenos proteicos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsequentes, relacionados à imunologia humana.
+
+      Após processarem o antígeno ligado ao receptor de superfície (BCR), os linfócitos B funcionam como células apresentadoras de antígeno.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Avidez é a força de ligação de um anticorpo ao seu antígeno em um único sítio de ligação, enquanto afinidade é a força total de ligação de uma molécula a mais de um sítio de ligação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Durante a imunização passiva natural, ocorre a transferência de anticorpos da mãe para o bebê: IgG através da placenta, e IgA através do leite e do colostro."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Durante o processo de maturação, a IgM é a primeira imunoglobulina sintetizada pelo linfócito B."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Tendo como base a imunologia, ciência responsável pelo estudo do sistema imunológico e suas funções, julgue os itens subsecutivos.
+
+      As moléculas de MHC classe II se ligam a peptídeos originados da degradação proteica; o processo de degradação do antígeno ocorre em condições de PH básico, que é o PH ótimo para a ação das enzimas proteolíticas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os adjuvantes aumentam a imunogenicidade de outras substâncias injetadas junto a elas, formando, para isso, ligações estáveis com o imunógeno."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Linfócitos T e B ganham maturidade funcional em dois órgãos linfoides primários, o timo e a medula óssea; após deixar esses órgãos, os linfócitos circulantes no sangue migram para órgãos secundários, os linfonodos e o baço."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Determinar como os cromossomos são posicionados e dobrados dentro do núcleo interfásico é fundamental para entender o papel da topologia da cromatina na regulação gênica. Vários métodos estão disponíveis para estudar a arquitetura cromossômica, isso é, para mapear a arquitetura cromossômica 3D, cada um com diferentes pontos fortes e limitações. Acerca desse tema, julgue os itens que se seguem.
+
+      Como resultado do mapeamento da arquitetura cromossômica 3D realizado em células de diversos órgãos de um mesmo indivíduo, espera-se que os territórios que os cromossomos ocupem no núcleo interfásico sejam, aproximadamente, os mesmos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em uma célula eucariota, o núcleo é o local onde ocorre toda a produção de ácidos nucleicos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A técnica de hibridização fluorescente in situ (FISH) permite a observação dos territórios cromossômicos em microscopia de fluorescência."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A integridade estrutural do aparelho de Golgi é vital para seu funcionamento normal. A fragmentação e o desmantelamento desse aparelho podem resultar em uma ampla gama de doenças e distúrbios. Entre as consequências para a célula está a apoptose celular precoce, o que contribui para a patogênese de muitas doenças, como doenças neurodegenerativas, acidente vascular cerebral isquêmico, doenças cardiovasculares, hipertensão arterial pulmonar, doenças infecciosas e câncer. Com relação ao aparelho de Golgi e temas correlatos, julgue os itens a seguir.
+
+      Durante o processo de apoptose, a célula incha e seu conteúdo vaza por canais específicos situados na membrana plasmática.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Entre as funções do aparelho de Golgi estão as modificações proteicas pós-traducionais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Diferentes células podem apresentar essa organela com volumes distintos, a depender da demanda de produção e secreção de compostos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A fragmentação do aparelho de Golgi afeta diretamente a síntese proteica."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      O câncer de mama é uma das neoplasias malignas mais comuns e a principal causa de mortes entre mulheres no mundo relacionadas a tumores. A desregulação do ciclo celular é uma das características do câncer, resultando em descontrole da proliferação celular. As quinases dependentes de ciclina (CDKs) são centrais para o sistema de controle do ciclo celular, e a desregulação dessas quinases leva ao desenvolvimento de malignidades, incluindo o câncer de mama. Um exemplo de desregulação é a superexpressão de ciclinas que desencadeia uma superativação de CDKs, desregulando o ciclo celular. Terapias estão sendo desenvolvidas com o objetivo de obter um inibidor de CDK desregulado.
+
+      Tendo as informações acima como referência inicial, julgue os itens subsequentes, acerca de CDKs.
+
+      CDKs são enzimas que, quando ativadas por uma ciclina, fosforilam proteínas-alvo específicas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Utilizar inibidores de CDK como terapia visa à indução da transcrição de genes de ciclinas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na fase S do ciclo celular, as CDKs atuam diretamente na replicação do DNA."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Ácidos nucleicos contêm a codificação para a síntese de diversas moléculas vitais aos seres vivos. Considerando os aspectos estruturais dos ácidos nucleicos e os diferentes níveis de organização da informação genética, julgue os itens a seguir.
+
+      O termo locus se refere à posição do centrômero de um determinado cromossomo.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A leitura dos códons no processo de tradução ocorre de forma consecutiva e não sobreposta."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma das diferenças entre o processo de transcrição e o de replicação do DNA é que a transcrição não requer um iniciador."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A maioria das proteínas sofre desnaturação pelo aquecimento a 90 °C, porém os ácidos nucleicos resistem a esse aquecimento sem se desnaturar."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Os grandes avanços na biologia molecular observados nas últimas décadas partem de princípios e métodos simples, que foram progressivamente aprimorados, o que permitiu as manipulações genéticas observadas atualmente. Tendo em conta as principais abordagens em biologia molecular, julgue os itens que se seguem.
+
+      Uma nuclease de restrição com sequência-alvo de oito pares de nucleotídeos provavelmente clivará uma longa molécula de DNA em mais pontos que uma nuclease de restrição com sequência-alvo de quatro pares de nucleotídeos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A enzima DNA ligase é útil ao processo de clonagem gênica, pois catalisa a formação de ligações fosfodiéster unindo extremidades de fragmentos de DNA."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma biblioteca genômica pode ser composta por plasmídeos clonados contendo fragmentos de DNA derivados do DNA cromossômico do organismo de interesse e dividida em diversas colônias bacterianas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O método conhecido como sequenciamento Illumina envolve a ação de uma polimerase que adiciona nucleotídeos marcados e bloqueados a uma fita; porém, tanto a marcação quanto o bloqueio são removidos após a adição, o que permite que a polimerase continue a adicionar resíduos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A hibridização do DNA tem como produto, após o resfriamento, fitas simples contendo uma região de DNA de organismo de outra espécie inserida, formando um híbrido."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Cada ciclo da reação em cadeia da polimerase (PCR) é capaz de gerar 1.024 cópias de DNA a partir de um par de iniciadores e uma fita molde."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Apesar da grande conservação do material genético entre as células de um mesmo indivíduo e entre os indivíduos de uma mesma espécie, variações e alterações são observadas em determinadas regiões desse material. Acerca desse assunto, julgue os itens seguintes.
+
+      A maioria dos polimorfismos de um nucleotídeo único apresenta pouco efeito sobre a aptidão humana.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Cromossomos artificiais bacterianos (BACs) são plasmídeos formados por sequências curtas, entre 20 e 50 pares de nucleotídeos; o BAC está presente em dezenas de cópias por célula bacteriana."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Existem dois tipos de reparo de DNA por excisão: a remoção da base nitrogenada errada e a remoção de uma pequena sequência contendo o erro; ambos os tipos são aplicados nas duas fitas simultaneamente."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O forte empacotamento do DNA em heterocromatina normalmente provoca o silenciamento dos genes nas regiões em que ocorre."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Nas últimas décadas, vêm sendo progressivamente adotadas técnicas moleculares para o diagnóstico de doenças infecciosas, como a PCR. Devido à sua capacidade em detectar agentes infecciosos com alta sensibilidade e especificidade, sem necessidade de se encontrar microrganismos viáveis na amostra biológica, a PCR tornou-se uma ferramenta valiosa e muito confiável para o diagnóstico e monitoramento de doenças.
+
+      Com pertinência a esse tema, julgue os itens subsequentes.
+
+      A técnica de PCR utiliza uma DNA polimerase termoestável, sendo capaz de catalisar reações a temperaturas acima de 70 °C na maioria dos casos.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A PCR multiplex demanda o uso de uma Taq polimerase específica para cada alvo a ser amplificado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A PCR em tempo real utiliza um termociclador que também é capaz de realizar a excitação do fluoróforo e a detecção de fluorescência."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma das vantagens da realização de PCR em tempo real com marcadores como o SYBR green é o fato de o marcador ser específico para as sequências alvo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Existem enzimas que apresentam as atividades de polimerase e de exonuclease na mesma estrutura quaternária."
+    alternativas:
+      - Certo
+      - Errado
