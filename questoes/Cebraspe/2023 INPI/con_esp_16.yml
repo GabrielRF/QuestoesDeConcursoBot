@@ -1,0 +1,336 @@
+---
+materia: Instrumentos de Medição - Conhecimentos Específicos
+cargo: Pesquisador em Propriedade Industrial
+questoes:
+  - enunciado: |
+      Uma proteína específica presente em uma solução que contém uma mistura de cinco proteínas foi analisada com o objetivo de se caracterizar a massa molecular, o ponto isoelétrico, a composição de aminoácidos e a sequência de aminoácidos dessa proteína. O sequenciamento deve determinar pelo menos 30% da estrutura primária. O método de separação e análise utilizado para atingir tal objetivo permitiu o isolamento da proteína de interesse, separando-a das outras quatro proteínas, além de sua visualização por meio de marcação com prata e uma estimativa de sua massa molecular. A amostra contendo a proteína isolada por esse método foi dividida em alíquotas, denominadas I, II e III.
+
+      Acerca dessa situação hipotética, julgue os itens a seguir.
+
+      Os resultados descritos para o método utilizado são compatíveis com o que seria obtido por uma separação e análise por eletroforese.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Se a alíquota I for hidrolisada em ácido clorídrico para rompimento de todas as ligações peptídicas, seguida por marcação com fluoróforo e análise cromatográfica, então a análise dos resultados desse procedimento permitirá a determinação da composição de aminoácidos da proteína de interesse."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Considere-se que a alíquota III teve a proteína clivada por ação da tripsina e que os peptídeos resultantes foram aplicados em um sistema que permitiu sua separação cromatográfica seguida por aplicação em sistema de ionização por eletropulverização, análise em quadrupolos, fragmentação, análise dos fragmentos em quadrupolos e detecção dos componentes ionizados. Nesse caso, o métodode análise após a separação cromatográfica é denominado espectrometria de massa por dessorção a laser e análise por tempo de voo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A aplicação da alíquota II em um sistema de isoeletrofocalização permitirá a determinação da sequência de aminoácidos da proteína de interesse."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de sensores e biossensores, julgue os seguintes itens.
+
+      Sensores eletroquímicos podem ser classificados como potenciométricos, capacimétricos e amperométricos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os métodos eletroquímicos são os mais utilizados em biossensores para detecção de pesticidas, pois oferecem a vantagem da portabilidade, mesmo que tenham sensibilidade inferior se comparados a outras técnicas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Sensores baseados em nanotubos de carbono possuem alta seletividade com resposta a poucos materiais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Sensores baseados em transistores ISFET são construídos utilizando-se canais no modo enriquecimento, de forma a permitirem maior sensibilidade com relação à grandeza mensurada."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsecutivos, referentes a analisadores de bioquímica.
+
+      Sistemas automatizados de análise bioquímica possibilitam uma análise muito mais rápida e mais segura para os seres humanos, comparativamente aos sistemas não automatizados, além de prescindirem da expertise e da experiência humanas para a realização da análise.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Biochips sempre são associados com sistemas microfluídicos para processamento de amostras, o que aumenta o alcance dos dispositivos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, acerca de bioimpedância e transdutores.
+
+      Limite de detecção de um sensor é a menor quantidade ou concentração de um analito que pode ser distinguida indubitavelmente de uma concentração nula para determinado grau de confiança.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A membrana celular possui caráter predominantemente capacitivo em baixas frequências e, por isso, se comporta como uma barreira para o fluxo de corrente nessa faixa de frequências."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com referência a técnicas, instrumentos e processos de diagnóstico, julgue os itens a seguir.
+
+      Na audiometria tonal liminar, utilizam-se tons puros em variadas frequências e intensidades para aferir o limiar mínimo de audição de um indivíduo. Esse método mostra-se eficiente na determinação do nível de perda auditiva, mas não é capaz de diferenciar entre as distintas categorias da perda, tais como a auditiva condutiva e a auditiva sensorioneural.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No diagnóstico oftalmológico, a oftalmoscopia indireta é empregada principalmente na inspeção da superfície externa ocular, abrangendo a córnea e a conjuntiva; por outro lado, a retinoscopia é comumente realizada mediante a utilização de um feixe de luz ultravioleta para se observar o reflexo luminoso na retina."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A espirometria é empregada com a finalidade de avaliar a funcionalidade pulmonar, mensurando tanto o volume quanto a velocidade do ar exalado pelo paciente, sendo frequentemente aplicada em avaliações ocupacionais, com o intuito de mensurar os impactos decorrentes da exposição a agentes tóxicos no ambiente laboral."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A ceratometria, técnica oftalmológica utilizada para se medir a curvatura da córnea, fornece informações detalhadas sobre o raio de curvatura da córnea em diferentes meridianos, permitindo a detecção de astigmatismo irregular."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Na tarefa de avaliar novos equipamentos e tecnologias em modalidades terapêuticas, incumbe ao pesquisador realizar uma avaliação cuidadosa, na medida em que vários desses dispositivos interagem diretamente com a fisiologia do paciente. Relativamente a essas tecnologias, julgue os itens que se seguem.
+
+      A fototerapia é adotada de forma exclusiva no tratamento de desordens psicológicas, a exemplo da depressão sazonal; nela, o paciente é exposto a doses significativas de radiação ultravioleta com o propósito de modular a química cerebral e consequentemente melhorar o estado de ânimo do paciente.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os sistemas a laser de aplicação médica são primordialmente empregados em procedimentos de natureza estética, incluindo a remoção de tatuagens e tratamentos para o rejuvenescimento cutâneo. Em virtude de sua elevada imprecisão e do seu limitado controle operacional, os lasers médicos são associados a um risco acentuado de danos aos tecidos em contextos cirúrgicos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A crioterapia consiste na aplicação de temperaturas reduzidas em áreas específicas ou no conjunto do corpo humano com propósitos terapêuticos. Esse método é usado para atenuar a inflamação e aliviar a dor associadas a lesões musculoesqueléticas, tais como entorses e distensões."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito dos instrumentos de diagnóstico embasados em sinais biomédicos e imagens médicas, julgue os itens a seguir.
+
+      No traçado de um sinal de eletrocardiograma, a onda T corresponde à repolarização dos átrios.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na ultrassonografia, um dos aspectos que influenciam a resolução da imagem é a duração dos pulsos de ultrassom transmitidos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na ressonância nuclear magnética, imagens com predominância de contraste T2 são obtidas usando-se tempo de repetição (TR) e tempo de eco (TE) longos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na radiografia, elevar a tensão entre catodo e anodo resulta em aumento do comprimento de onda médio dos fótons emitidos pelo tubo de raios X."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na tomografia, a distância entre os detectores deve ser maior que a largura do feixe de raios X."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca da análise da caminhada, julgue os itens subsequentes.
+
+      Em um gráfico de aceleração versus tempo, a área sob a curva representa o deslocamento horizontal do centro de massa do indivíduo durante a caminhada.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A velocidade da caminhada é produto do comprimento pela frequência da passada e, por isso, ambos contribuem igualmente para o aumento da velocidade da caminhada."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em um gráfico de posição versus tempo, um pico de deslocamento (isto é, um extremo local) indica o instante em que a velocidade de deslocamento do indivíduo é máxima."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As modificações na velocidade da caminhada podem ser analisadas a partir da área sob a curva de aceleração versus tempo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Tendo em vista que, a partir de uma série de eventos eletro-químico-mecânicos, o sistema nervoso central (SNC) controla a força produzida pelos músculos, e que esse controle é fundamental para a realização de tarefas do cotidiano ou para a prática de exercícios físicos, julgue os itens que se seguem, acerca da modulação da força muscular.
+
+      A força muscular pode ser aumentada ou diminuída a partir de modificações na taxa de disparo (isto é, potenciais de ação) que são transmitidos do SNC para o músculo.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O comprimento das fibras musculares, a velocidade de encurtamento dessas fibras, a taxa de ativação e o recrutamento das unidades motoras são os fatores que determinam a quantidade de força gerada pelo músculo durante uma tarefa, como, por exemplo, em uma caminhada ou em uma corrida."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A vantagem mecânica de determinado músculo é intimamente relacionada com a sua função no corpo. Essa vantagem é determinada por: geometria óssea, posição articular e  linha de ação do músculo. Os flexores plantares desempenham papel fundamental na articulação do tornozelo, auxiliando no controle postural.
+
+      Com referência às informações apresentadas nos diagramas de corpo livre anteriormente apresentados, usados para estimar a força dos flexores plantares de um indivíduo em pé (a) e inclinando o corpo à frente (b), em que Fm representa a quantidade de força equivalente à força de reação contra o solo (FRS), julgue o item a seguir.
+
+      Se, para equilibrar o corpo em pé, na situação a, os flexores plantares do tornozelo precisarem produzir uma força Fm, e se, ao se inclinar o corpo em alguns graus à frente, como mostrado em b, o centro de pressão do médio pé em direção ao antepé for deslocado, então a força gerada pelos flexores para manter o corpo em equilíbrio deverá ser, em b, no mínimo, 50% maior que em a.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 INPI/imagens/con_esp_16 83.png?raw=true
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      O arremesso de peso é uma modalidade olímpica do atletismo em que os atletas competem para arremessar uma bola de metal com 12 cm de diâmetro e 7,26 kg o mais longe possível. Considere que um atleta da referida modalidade tenha arremessado a bola com velocidade inicial de 14 m/s, ângulo de lançamento igual a 40° e altura igual a 2,2 m, e que, após o lançamento, a bola tenha tocado o chão a 22,04 m do local de arremesso.
+
+      Com base nessa situação, julgue o próximo item.
+
+      Se o atleta lançasse o peso com um ângulo de 45°, o alcance do arremesso seria maior.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere à biomecânica clínica e esportiva, julgue os itens seguintes, relativos a métodos de avaliação de altura no salto vertical.
+
+      O método mais simples e objetivo de se estimar a altura do salto vertical requer a determinação da duração do voo do salto, que então é usado nas equações cinemáticas para movimentos unidimensionais sob aceleração constante.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O método mais acurado e com maior precisão para determinar a altura do salto requer que o avaliado salte sobre uma plataforma de força. A altura é obtida usando-se o teorema trabalho-energia a partir da integração numérica do sinal de força e deslocamento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com relação a aspectos técnico-científicos e normativos aplicáveis a dispositivos implantáveis de uso médico-hospitalar, julgue os itens a seguir.
+
+      Produto descartável é aquele de uso médico-hospitalar, apirogênico e estéril. Habitualmente, o produto descartável possui componentes confeccionados em polímeros plásticos ou outros materiais sensíveis ao calor e com preço baixo, sendo seu desmonte difícil ou com impedimento de acesso ao seu lúmen ou a suas engrenagens. Por tais motivos, sua reutilização é estimulada.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Sondas nasogástricas são dispositivos utilizados para administrar medicação através da uretra, sendo fabricadas com diferentes bitolas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Sondas nasoentéricas são empregadas para passar do nariz ao intestino alimentação enteral e, também, medicamentos a serem administrados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Cerâmicas relativamente bioinertes são dispositivos que devem ser capazes de manter suas propriedades físicas e mecânicas enquanto estão implantadas nos usuários."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Válvulas cardíacas artificiais são dispositivos implantáveis que atuam interrompendo o fluxo sanguíneo e destruindo glóbulos que por elas passem."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca das características técnicas de dispositivos, materiais e tecnologias para saúde, julgue os itens subsequentes.
+
+      Embora já seja capaz de produzir biomaterial a partir da combinação de polímero sintético com colágeno extraído da pele do peixe tilápia, a engenharia de tecidos ainda não obteve êxito na aplicação da pele de tilápia para utilização como enxerto de pele artificial.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os implantes dentários são suportes ou estruturas de metal, normalmente de titânio, que são posicionados cirurgicamente no osso maxilar abaixo da gengiva, para substituir as raízes dentárias. Uma vez colocados, eles permitem ao dentista montar dentes substitutos sobre eles."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Dispositivos médicos implantáveis que são usados para tratar doenças vasculares, os implantes endovasculares incluem stents, marca-passos, cardiodesfibriladores, próteses e órteses. Ao serem colocados dentro dos vasos sanguíneos, tais implantes ajudam a manter o fluxo sanguíneo normal."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O silicone industrial e o silicone usado na saúde possuem destinações e características diferentes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação a sistemas computacionais aplicados às ciências da vida, julgue os itens seguintes.
+
+      Na transdução de sinais biomédicos, a adequação entre o sinal de entrada, também denominado mensurando, e o sinal de saída do transdutor, também denominado dado, pode se dar na ocorrência de conversão físico-química.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na transdução de sinais biomédicos, o gel utilizado na eletrocardiografia é o mesmo usado na ultrassonografia, pois a função principal desse gel, em ambos os casos, é tornar úmida a superfície onde ocorre a transdução."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O prontuário médico do paciente consiste em uma das principais fontes de informação em saúde e, por esse motivo, deve ser aberto a consultas, sem restrições de acesso."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A mineração de dados, ou datamining, consiste em obter informações úteis a partir do estudo dos minérios, como o manganês e o cobalto, geralmente presentes nos resíduos tecnológicos da intervenção em saúde, evitando-se impacto potencial adverso sobre a saúde de pacientes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Redes neurais artificiais foram inicialmente inspiradas no potencial de ação de células nervosas, que são ativadas a partir dos estímulos que chegam aos dendritos (entradas) e são influenciados pela força das conexões (sinapses), antes de serem processados por essas células, gerando estímulos nas saídas (axônios)."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca de tecnologias aplicadas à saúde, julgue os itens a seguir.
+
+      Patentes são licenças públicas temporárias, outorgadas pelo Estado, que garantem aos inventores e concessionários a exploração econômica de suas invenções, razão por que não podem ser concedidas a produtos da área de bioinformática.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Dados epidemiológicos em saúde representam agregados capazes de referir aspectos da saúde de uma população-alvo e geralmente não trazem informação particularizada dos pacientes envolvidos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A presença potencial do choque elétrico e o uso de equipamentos eletromédicos no ambiente hospitalar justificaram a inserção de profissionais de engenharia biomédica no ambiente assistencial da saúde, o que deu origem à engenharia clínica, que pode ser considerada uma subárea derivada da primeira."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A manutenção de equipamentos médico-hospitalares é função que deve ser atribuída ao engenheiro clínico, não sendo a única atividade de rotina desse profissional desenvolvida no gerenciamento de tecnologia médico-hospitalar."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No monitoramento de indicadores de atividade da engenharia clínica, inclui-se o monitoramento de falhas dos dispositivos e equipamentos, que tem por objetivo garantir o menor tempo possível entre falhas desses dispositivos e equipamentos, assegurando-se, assim, a manutenção da rotina de um ambiente médico."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A engenharia clínica é área com forte atuação profissional no gerenciamento de risco, na tecnovigilância e no gerenciamento da tecnologia em saúde, visando ao aumento da segurança do paciente."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O marca-passo pode ser considerado um exemplo de dispositivo de bioinformática, no sentido de que atua estimulando eletricamente o coração, valendo-se de leituras de biossinais cardíacos, do processamento computacional desses sinais e da geração de estímulos elétricos controlados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca de tomografia computadorizada, julgue os itens a seguir.
+
+      A resolução espacial depende, além de outros fatores, do tamanho do ponto focal do tubo de raios X e do tamanho dos canais (ou células) de detecção.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A presença de ruído no sinograma resulta em artefatos estruturados na imagem reconstruída, devido à natureza do algoritmo de retroprojeção."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O termo endurecimento de feixe se refere à diminuição da energia média do feixe de fótons associada à absorção de fótons de alta energia à medida que o feixe atravessa o tecido."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na retroprojeção filtrada, um filtro passa-baixas é aplicado ao sinograma antes do processo de retroprojeção."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de visualização e manipulação de imagens 3D, julgue os próximos itens.
+
+      Na renderização 3D, o fotorrealismo é alcançado por meio da simulação da interação da luz vinda de uma ou mais fontes de luz com a cena tridimensional iluminada.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A dispensação da segmentação de objetos é uma das vantagens do método de renderização de superfície."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O método de renderização de volume é mais adequado quando a matriz tridimensional de voxels é bastante preenchida, de modo que poucos voxels terão alto valor de transparência."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No método de renderização de volume, cada voxel é tratado como um objeto e renderizado individualmente, associando a cada voxel um valor de transparência (ou de opacidade)."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsequentes, com relação a aprendizado de máquina, que é uma forma de inteligência artificial com vasta aplicação na área de diagnóstico por imagem.
+
+      A radiômica é um método para extrair, de uma região de interesse traçada na imagem, um grande número de valores (denominados features), os quais quantificam diferentes características do objeto de análise, como tamanho, forma e textura de um tumor em uma imagem de ressonância magnética.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No aprendizado não supervisionado, o modelo é treinado com base em um conjunto de entradas (por exemplo, dados extraídos de imagens médicas de vários pacientes) e de saídas corretas associadas a cada uma dessas entradas (por exemplo, o diagnóstico de cada paciente)."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Quando se dispõe de um conjunto limitado de observações (por exemplo, imagens de poucos pacientes) para treinar o modelo, é adequado o uso de algoritmos de aprendizado profundo (deep learning)."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "PCA (principal component analysis) é uma técnica empregada para reduzir a dimensionalidade do conjunto de dados, reduzindo o número de valores usados para representar cada observação, mas sem reduzir o número de observações; ela pode ser usada, por exemplo, para reduzir o número de variáveis quantitativas usadas para caracterizar as imagens de cada paciente."
+    alternativas:
+      - Certo
+      - Errado
