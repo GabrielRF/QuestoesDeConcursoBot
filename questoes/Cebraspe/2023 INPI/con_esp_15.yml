@@ -1,0 +1,308 @@
+---
+cargo: Pesquisador em Propriedade Industrial
+materia: Processamento de Sinais - Conhecimentos Específicos
+questoes:
+  - enunciado: |
+      Julgue os itens que se seguem, a respeito de sistemas de numeração.
+
+      O binário `11110101011110011110` é igual a `F579E` em hexadecimal.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O número 25 em decimal é igual a 11001 na base binária."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens seguintes, relacionados à álgebra booleana.
+
+      Se L1 e L2 forem variáveis booleanas que representem duas lâmpadas em uma sala, então a situação em que a sala estará iluminada apenas quando ambas as lâmpadas estiverem acesas será representada pela expressão booleana F = L1 L2.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Considere que, para ser patenteada, uma invenção deve satisfazer as seguintes características representadas pelas varáveis booleanas A, B e C: se a invenção é uma novidade, A é verdadeiro; se a invenção apresenta atividade inventiva, B é verdadeiro; se a invenção possui aplicação industrial, C é verdadeiro. Nessa situação, a expressão booleana F que representa a condição em que uma patente será aprovada, com base nessas características, é F = AB + AC + BC."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere a aplicações e princípios da eletrônica digital, julgue os itens que seguem.
+
+      Conforme o primeiro teorema de De Morgan, o complemento do produto de duas variáveis é igual à soma dos complementos das variáveis individuais; em termos de portas, ele pode ser expresso por
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 INPI/imagens/con_esp_15 55.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em comparação com outras tecnologias de circuitos integrados digitais, uma das vantagens dos dispositivos lógicos programáveis é gerar um ciclo de projeto com menor tempo de execução e custos reduzidos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Um circuito combinacional caracteriza-se por dependência do valor atual: nele, o valor da saída no instante t depende exclusivamente da combinação dos valores das entradas nesse instante, e os estados anteriores não têm relevância. Já o circuito sequencial caracteriza-se pela influência de entradas anteriores: nele, o valor da saída no instante t não depende apenas dos valores das entradas nesse instante, mas também da sequência das entradas anteriores."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Considere um sistema digital, composto por flip-flops e portas lógicas, que opere de acordo com a equação de estado `Qn+1 = D ⊕ Qn` em que D é a entrada e Qn é o estado atual. Nesse caso, o próximo estado Qn+1 será o resultado da operação `OU` entre a entrada D e o estado atual Qn."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um conversor digital-analógico de 5 bites que produz 0,3 V na saída quando a entrada é 00001 produzirá 9,3 V de saída se a entrada for 11111."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Um demux (demultiplexador) é um circuito lógico que aceita uma entrada de dados e a distribui por várias saídas, com base em linhas de seleção, ao passo que o decodificador utiliza as linhas de seleção como linhas de entrada."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens seguintes, quanto a temporizadores, microprocessadores e microcontroladores.
+
+      Uma das premissas do temporizador com tempo de retardo é que a carga seja acionada antes desse tempo e agilize a velocidade de resposta.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Multivibradores monoestáveis apresentam um estado estável e um estado não estável na saída; por sua vez, os multivibradores astáveis apresentam dois estados não estáveis na saída."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No PWM (pulse width modulation), a saída é projetada para fornecer pulsos com largura de tempo em estado alto ajustável por meio de software, o que permite controlar a intensidade média do sinal PWM. Ao se ajustar o ciclo de trabalho, é possível variar a quantidade de energia entregue ao componente ou dispositivo conectado à saída PWM, oferecendo controle preciso sobre o sistema."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Um contador de ondulação de oito estágios que use um flip-flop com atraso de propagação de 45 ns e largura de pulso do estroboscópio de 40 ns terá operação adequada se a frequência do sinal de entrada for de 2,5 MHz, aproximadamente."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O microcontrolador oferece diferentes protocolos de comunicação serial, incluindo UART/Enhanced UART, SPI, I2C e CAN bus, cada um destinado a finalidades específicas, como a comunicação entre periféricos, chips e ambientes industriais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em programas para armazenar valores nos microcontroladores, apenas variáveis do tipo fixo Int podem ser utilizadas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca de instrumentos utilizados em sistemas de telecomunicações e eletrônicos, julgue os itens a seguir.
+
+      O gerador de funções é um dispositivo que fornece uma variedade de formas de onda controladas, para serem utilizadas na avaliação e verificação de desempenho de um equipamento sob teste.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O analisador de rede é capaz de medir diversas características de transferência, como resposta em frequência, perda de retorno, perda de conversão e ganho versus frequência; ele permite uma análise detalhada das propriedades de um sistema, identificando como o sistema responde a diferentes estímulos em várias frequências."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O analisador de espectro permite visualizar a forma de onda de sinais modulados, essenciais para compreender a transmissão de dados através de cabos coaxiais e fios de par trançado, sendo útil apenas na análise de sistemas de comunicação via cabo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em um osciloscópio, o botão DC OFFSET permite somar ao sinal de saída um sinal alternado cujo valor pode ser variado continuamente entre –x V e +x V, dependendo do fabricante."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para minimizar a interferência das pontas de prova de um osciloscópio, é correto elevar a resistência de entrada do osciloscópio de 10 MΩ para 100 MΩ, o que significa uma atenuação de dez vezes no sinal detectado pela ponta de prova."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em determinada aplicação de telefonia digital, sinais analógicos de voz são digitalizados no sistema transmissor, transmitidos por um sistema digital e, enfim, são reconstruídos no sistema receptor.
+      Nessa aplicação, a digitalização é composta de três etapas: filtragem anti-aliasing, amostragem e quantização, nessa ordem. Na etapa de filtragem anti-aliasing, usa-se um filtro passa-baixas ideal com frequência de corte de 10 kHz. Na etapa de amostragem, usa-se um circuito de sample-and-hold. Na etapa de quantização, usa-se um conversor A/D com 512 níveis de classificação.
+      Por sua vez, a reconstrução é composta de duas etapas: conversão D/A e filtragem de reconstrução. Na etapa de conversão D/A, usa-se um sistema capaz de inverter adequadamente o processo de conversão A/D realizada no sistema transmissor. Na etapa de filtragem de reconstrução, usa-se um filtro passa-baixas ideal com frequência de corte de 10 kHz.
+
+      Com base nessas informações, julgue os itens a seguir.
+
+      A amostragem deve ser realizada a uma taxa de, no mínimo, 10.000 amostras por segundo, de modo a evitar aliasing.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Caso a amostragem seja realizada a uma taxa de 5.000 amostras por segundo, uma eventual componente de 3 kHz presente no sinal analógico de voz será reconstruída, no sistema receptor, como uma soma de componentes de 2 kHz, 3 kHz, 7 kHz e 8 kHz."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A conversão A/D deve ser realizada usando-se, no mínimo, uma profundidade de 9 bits para codificar cada amostra do sinal."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O efeito do circuito de sample-and-hold equivale a uma filtragem passa-altas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Um filtro analógico é caracterizado pela seguinte equação diferencial:
+
+      em que x(t) é o sinal de entrada, y(t) é o sinal de saída e t é dado em segundos.
+
+      Com base nessas informações e considerando s = jw, julgue os itens que se seguem.
+
+      O ganho do referido filtro para a frequência ω = 10 rad/s é de aproximadamente −20 dB.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 INPI/imagens/con_esp_15 80.png?raw=true
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A resposta em frequência da função de transferência do referido filtro é dada por jw / (10 + jw)."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O módulo da função de transferência do filtro em questão é dado por:"
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 INPI/imagens/con_esp_15 82.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O filtro em apreço é um filtro passa-baixas de 1.ª ordem."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considerando o sinal de tempo discreto `x[n]` e sabendo que a transformada Z de x[n] é X(z), julgue os próximos itens.
+
+      X(z) = 1 / (1 - (2/5 Z^-1))
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2023 INPI/imagens/con_esp_15 84.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "X(z) tem zero em `z = 0` e um polo em `z = 2/5`."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A região de convergência de X(z) é `|z| > 0`."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Um filtro digital é caracterizado pela seguinte equação de diferenças:
+      ```
+      y[n] - 3/y y[n-1] = x[n]
+      ```
+      em que x[n] é o sinal de entrada e y[n] é o sinal de saída.
+
+      Com base nessas informações, julgue os itens a seguir.
+
+      A função de transferência do referido filtro é H(z) = 1 / (1 - (3/7)z^-1), com região de convergência `|z| > 3/7`.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O filtro em questão consiste em um passa-baixas de 1.ª ordem, logo tem um zero em z=0 e polo em z=3/7."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em uma implantação, em tempo real, do referido filtro em um processador digital de sinais, serão necessárias, no mínimo, duas operações MAC (mutiply-accumulate) para se calcular cada amostra do sinal de saída."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O filtro em apreço é do tipo FIR (finite impulse response) e sua resposta ao impulso é `h[n] = (3/7)^n u[n]`."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O referido filtro é um sistema causal e estável."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que diz respeito a TV digital, julgue os itens seguintes.
+
+      A modulação OFDM envia múltiplos sinais em uma mesma frequência através da multiplexação por divisão de frequência.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O protocolo MPEG-2 é utilizado na camada de modulação do modelo de TV digital presente no Brasil."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma das vantagens da camada de middleware é permitir a portabilidade de aplicações para diferentes receptores que suportem o middleware adotado."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O ATSC evoluiu para uma arquitetura de sistema em camada única."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A técnica SISO possui um melhor desempenho para a redução de interferências destrutivas que a técnica MISO."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Referentemente à codificação de áudio, julgue os itens subsequentes.
+
+      Nos codificadores lossless, não há perdas geradas no momento da compressão.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Nos codificadores lossless, quanto maior for a quantidade de informação redundante no áudio, maior será o tamanho do arquivo ao final da compressão."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os codificadores com perda consideram as características da audição humana para detectar informações ignoradas pelo ouvido humano."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os codificadores de sub-banda exploram as redundâncias do sinal de áudio no domínio do tempo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma das desvantagens da codificação por transformação é a sua capacidade de trabalhar somente com áudio de baixa fidelidade."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considerando o processamento de sinais de áudio, julgue os itens seguintes.
+
+      Se a banda do sinal de áudio de um CD for de 20 kHz, então, para que ele possa ser perfeitamente reconstruído, a frequência de amostragem deverá ser de, no mínimo, 30 kHz.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um dos problemas encontrados em decomposição por sub-bandas de um sinal de áudio é a resposta imperfeita em frequência dos filtros digitais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A utilização de sobreamostragem simplifica o hardware analógico utilizado em um sistema de som, mas, por outro lado, aumenta a taxa de dados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os algoritmos de codificação de áudio operam sobre o sinal contínuo no tempo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O uso de conversor analógico-digital Sigma-Delta dificulta a utilização de sobreamostragem em sistemas de alta-fidelidade."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação às metodologias e tecnologias envolvidas no processamento digital de imagens, julgue os próximos itens.
+
+      Uma imagem colorida é uma função bidimensional discreta cujas variáveis são espaciais, e o valor da função em qualquer ponto é inversamente proporcional à intensidade luminosa.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O processamento digital de imagens se inicia com a captura da imagem, a qual pode ser considerada como a iluminação refletida na superfície dos objetos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O pré-processamento envolve a filtragem de ruídos introduzidos por sensores e a correção das distorções advindas do próprio sensor."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Para separar o objeto do pano de fundo, podem ser utilizadas técnicas como segmentação, regularização e modelagem."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Combinando-se três a três e em diferentes intensidades as cores primárias do modelo cromático RGB, obtêm-se as cores secundárias ciano, magenta e amarelo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens que se seguem, relativos ao processamento e à codificação de vídeos.
+
+      Os padrões MPEG especificam o processo de codificação, mas não estabelecem os requisitos de sintaxe e semântica das sequências de bits e o processo de decodificação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O MPEG utiliza o processo de subamostragem de cor, no qual são levadas em consideração as características do sistema visual humano."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma fonte de sinal de vídeo colorido deve ter três componentes: uma de luminância e duas de crominância, que, combinadas, definem a tonalidade da cor."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os valores de pixels são independentes, sem correlação com seus vizinhos tanto no mesmo frame quanto entre frames consecutivos."
+    alternativas:
+      - Errado
+      - Certo
