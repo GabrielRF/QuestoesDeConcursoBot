@@ -1,0 +1,28 @@
+---
+materia: Matemática
+cargo: CFOBM - Quadro de Oficiais Bombeiros Militares Combatentes
+questoes:
+  - enunciado: "Considere que numa competição interestadual anual dos cursos de formação de oficiais bombeiros militares, as provas constituem simulações de prevenção e extinção de incêndios, busca e salvamento, socorro em caso de sinistro, ações de emergência médica, dentre outras atividades. Na edição 2017, se inscreveram alunos de treze comandos de distintas unidades da federação brasileira, das quais oito pertencentes ao eixo sul-sudeste e cinco, ao eixo norte-nordeste. Deseja-se formar um comitê de cinco alunos inscritos com, no mínimo, três alunos representantes de unidades do eixo sul-sudeste e, pelo menos, um aluno representante de unidades do eixo norte-nordeste. Dessa forma, o número de possibilidades para se formar esse comitê é:"
+    alternativas:
+      - 910.
+      - 560.
+      - 740.
+      - 860.
+  - enunciado: "A altura de um triângulo retângulo forma, na hipotenusa, segmentos de medida 9 cm e 16 cm. Logo, a soma das medidas do perímetro desse triângulo com sua altura é igual a, em cm:"
+    alternativas:
+      - 72.
+      - 60.
+      - 80.
+      - 96.
+  - enunciado: "Dada a igualdade `(4/x)i + yi - 1 + 3i = 3yi - x + 1 - i`, a soma dos reais `x` e `y` é igual a:"
+    alternativas:
+      - 5.
+      - 3.
+      - 7.
+      - 8.
+  - enunciado: "Seja a função `f(x) = (2x – 1)^3`. O valor inteiro de k tal que f’(k) = 14 é:"
+    alternativas:
+      - +1.
+      - -1.
+      - +2.
+      - -2.
