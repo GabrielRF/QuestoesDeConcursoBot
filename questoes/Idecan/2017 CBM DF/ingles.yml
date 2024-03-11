@@ -1,0 +1,55 @@
+---
+materia: Língua Inglesa
+cargo: CFOBM - Quadro de Oficiais Bombeiros Militares Combatentes
+questoes:
+  - enunciado: |
+      *Eating well may count more than exercise for weight loss: study*
+      `(By Lizette Borreli on 2/12/17 AT 9:10 AM.)`
+
+      We’ve all heard that to lose weight we need to do two things: eat less, exercise more. This makes sense: Burning more calories than we consume will lead to weight loss. But this exercise-based approach provides only short-term results. Now, researchers at Loyola University of Chicago confirm that a healthy diet, not exercise, is the key to losing weight – and keeping it off.
+      “Our study results indicate that physical activity may not protect you from gaining weight,” said Lara Dugas, lead author of the study and an assistant professor in the Department of Public Health Sciences of Loyola University Chicago Stritch School of Medicine, in a statement.
+      Previous research has found exercise does help people lose weight by burning fat. A 10-month study split 141 obese or overweight people into three groups to see how cardio affected them – group 1 had to burn 400 calories doing cardio, 5 days a week; group 2 had to burn 600 calories doing cardio, 5 days a week; and group 3 did no exercise. Most participants lost 4.3 percent of their body weight in group 1; group 2 lost a little more at 5.7 percent; and the control group actually gained 0.5 percent.
+      The benefits of exercise on weight are notable, but most studies don't take into account its behavioral effects. For example, working out makes people hungrier, which means they are more likely to consume more calories. This suggests how much and what we eat has a bigger impact on our weight than exercise.
+      In the new study, published in Peer J, Dugas and her colleagues examined about 2,000 adults from the U.S. and four other countries: Ghana, South Africa, Jamaica and Seychelles, to measure their physical activity levels and weight change throughout the course of three years. Participants wore tracking devices – accelerometers – on their waists for a week, to track their energy expenditure and step count. Weight, height and body fat were also measured at baseline, one year and two years after.
+      In the beginning, Ghana participants had the lowest average weights (139 pounds for both men and women), and Americans the highest weights (202 pounds for women, 206 pounds for men). Ghanaians were more fit han Americans; 76 Ghanaian men and 44 percent Ghanaian women met the U.S. Surgeon General physical activity guidelines, while only 44 percent of American men and 20 percent of American women met the guidelines. Adults need 2 hours and 30 minutes of moderate-intensity aerobic activity, like brisk walking, each week, according to the Centers for Disease Control and Prevention.
+      Surprisingly, participants with higher rates of physical activity actually gained more weight than those with lower rates. American men who met the guidelines gained a half pound per year, while American men who did not meet the guidelines lost 0.6 pounds. This shows there's no significant relationship between sedentary time at baseline, and subsequent weight gain or weight loss. The only factors that were significantly linked to weight at baseline were age and gender.
+      “From our study it is not evident that higher volumes of PA [physical activity] alone are protective against future weight gain, and by deduction our data suggest that other environmental factors such as the food environment may have a more critical role”, concluded the researchers.
+      Exercise-focused weight loss regimens yield low success rates because we tend to poorly estimate calories we consume and calories we burn. For example, a 2010 study found when participants were asked to consume the amount of food they believed they burned in calories, they ended up eating two to three times the amount of calories they burned. This suggests calorie expenditure doesn’t really count for much.
+      Diet is a major factor in weight control; portion sizes and what we're eating is crucial to maintaining a healthy body weight. To lose weight and improve health, we need to both eat well and find the time to exercise.
+      `(Available: http://www.newsweek.com/eating-well-count-more-exercise-weight-loss-554821.)`
+      About the text, it is true that: choose the correct alternative.
+    alternativas:
+      - Burning more calories than we consume will lead to weight loss provides not only short-term results but also long-term results.
+      - The amount of food calories we burn is the same of we consume.
+      - Exercising, portion sizes and eating well is the combination of weight control.
+      - Participants with lower rates of physical activity actually gained more weight than those with higher rates.
+  - enunciado: |
+      Read the comic strip carefully
+      `(Available: http://www.gocomics.com/calvinandhobbes/. https://cronicasurbanas.wordpress.com/tag/tirinhas/page/4/.)`
+
+      Read the comic strip. In the context “Resolutions” are
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Idecan/2017 CBM DF/imagens/ingles 37.png?raw=true
+    alternativas:
+      - purposes we make on January 1st about something we are going to do or stop doing during the new year.
+      - things everybody needs to do before the January 1st.
+      - announcements of the New Year.
+      - half-heartednesses.
+  - enunciado: "Read the Comic strip. About the text, we can infer that Calvin is"
+    alternativas:
+      - an overbearing person.
+      - an upright person.
+      - a wise person.
+      - a sensible person.
+  - enunciado: |
+      *Fire in South Korea*
+
+      Four people died after a fire broke out in a shopping centre in South Korea. The fire broke out in a children ́s play area inside the centre. There were no children inside at the time.
+      The centre is next to some flats. More than a hundred people from the flats immediately evacuated.
+      `(Available: https://www.newsinlevels.com/products/fire-in-south-korea.)`
+
+      “Broke out” (1 st par) means. Read the text and choose the correct option
+    alternativas:
+      - started.
+      - hit.
+      - forbade.
+      - changed.
