@@ -1,0 +1,85 @@
+---
+cargo: CFOBM - Quadro de Oficiais Bombeiros Militares Combatentes
+materia: Química
+questoes:
+  - enunciado: |
+      “A meia-vida de um elemento radioativo é o intervalo de tempo em que uma amostra deste elemento se reduz à metade. Este intervalo de tempo também é chamado de período de semidesintegração. À medida que os elementos radioativos vão se desintegrando, no decorrer do tempo, a sua quantidade e atividade vão reduzindo e, por consequência, a quantidade de energia emitida por ele, em razão da radioatividade, também é reduzida.”
+      `(ALMEIDA, Frederico Borges de. “Meia-Vida”; Brasil Escola. Disponível em http://brasilescola.uol.com.br/fisica/meiavida.htm. Acesso em: 24 de fevereiro de 2017.)`
+
+      Assinale a alternativa que corresponde à massa residual de um material radioativo, que continha 10 g iniciais, após ter sua terceira meia-vida.
+    alternativas:
+      - 1,25.
+      - 0,312.
+      - 0,625.
+      - 2,5.
+  - enunciado: |
+      Sobre as propriedades consideradas organolépticas, analise:
+
+      I. Cor.
+      II. Ponto de fusão.
+      III. Maleabilidade.
+      IV. Odor.
+      V. Textura.
+
+      Estão corretas apenas as alternativas
+    alternativas:
+      - I, IV e V.
+      - I e IV.
+      - II e III.
+      - III e V.
+  - enunciado: "A soma da massa dos reagentes é igual à soma da massa dos produtos; na natureza nada se perde, nada se ganha, tudo se transforma. Estas afirmações literais referem-se a leis ponderais, ou seja, aquelas que ponderam sobre certas situações cotidianas. Levando isso em conta e, sabendo que estas leis seguem certo padrão, calcule a quantidade (em massa) de gás carbônico (CO2) formado a partir da decomposição de 140 g de ácido carbônico."
+    alternativas:
+      - 99,35 g.
+      - 2,25 g.
+      - 40,65 g.
+      - 44 g.
+  - enunciado: "“Número de oxidação é o número de elétrons que certo elemento pode doar para estabilizar um composto e ele irá depender da eletronegatividade dos outros elementos envolvidos no composto.” A partir desta afirmativa, assinale o composto com maior quantidade de elétrons doados por um ametal."
+    alternativas:
+      - Sulfato de potássio.
+      - Ácido clórico.
+      - Ácido nítrico.
+      - Cloreto de sódio.
+  - enunciado: |
+      Analise os compostos a seguir de acordo com suas propriedades de ligação entre moléculas.
+
+      I. Metado.
+      II. Monóxido de carbono.
+      III. Ácido clorídrico.
+      IV. Gás cloro.
+
+      As alternativas que contêm somente moléculas apolares são:
+    alternativas:
+      - I e IV.
+      - I e II.
+      - II e III.
+      - II e IV.
+  - enunciado: |
+      Observe a reação (não balanceada) a seguir e assinale a alternativa que corresponde à soma dos coeficientes estequiométricos dos sais.
+      ```
+      CrCl3 + NaOH + H2O2 -> Na2CrO4 + NaCl + H20
+      ```
+    alternativas:
+      - 10.
+      - 6.
+      - 16.
+      - 31.
+  - enunciado: "Vários compostos orgânicos são produzidos a partir de reações específicas, criando novas substâncias ou derivados de compostos naturais. Sendo assim, assinale a alternativa que apresenta o nome da reação de um éster em solução aquosa com uma base inorgânica forte produzindo um sal orgânico e álcool."
+    alternativas:
+      - Saponificação.
+      - Hidrólise.
+      - Alcoólise.
+      - Esterificação.
+  - enunciado: |
+      Observe os produtos que são liberados a partir de uma reação de combustão completa do etanol.
+
+      I. Gás carbônico.
+      II. Gás oxigênio.
+      III. Água.
+      IV. Carbono.
+
+      Estão corretas apenas as alternativas
+    alternativas:
+      - I e III.
+      - I e II.
+      - II e IV.
+      - II, III e IV.

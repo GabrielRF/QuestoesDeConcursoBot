@@ -1,0 +1,60 @@
+---
+cargo: CFOBM - Quadro de Oficiais Bombeiros Militares Combatentes
+materia: Física
+questoes:
+  - enunciado: "Três amigos disputaram uma corrida de 15 km de distância. O último colocado percorreu o trajeto em 62 minutos e 30 segundos, o segundo colocado teve uma velocidade média 25% maior que a velocidade média do último colocado e o primeiro colocado chegou com um tempo 10% menor que o do segundo colocado. O tempo médio dos três amigos, para completar o trajeto, foi:"
+    alternativas:
+      - 52 minutos e 30 segundos.
+      - 48 minutos e 30 segundos.
+      - 50 minutos e 50 segundos.
+      - 52 minutos e 50 segundos.
+  - enunciado: "Certa onda eletromagnética se propaga com a velocidade da luz (3,0 . 10^5 km/s) e tem comprimento de onda igual a 4 m. A frequência dessa onda é:"
+    alternativas:
+      - 72 MHz.
+      - 7,2 MHz.
+      - 7,5 MHz.
+      - 75 MHz.
+  - enunciado: |
+      Sávio prendeu uma esfera de massa M em uma mola cuja constante elástica é 4 N/m e a posicionou em uma superfície de atrito desprezível. Ao deslocar a esfera de sua posição de equilíbrio e soltá-la, a esfera começou a descrever um movimento harmônico simples de período igual a 1,57 segundo. É correto afirmar que a massa M da esfera é:
+      `(Considerar: 𝝅 = 3,14)`
+    alternativas:
+      - 250 g.
+      - 100 g.
+      - 150 g.
+      - 200 g.
+  - enunciado: |
+      Uma mesa com 70 cm de altura e cujo tampo é circular com raio de 1,25 m encontra-se posicionada abaixo de uma fonte luminosa puntiforme localizada no ponto central do teto de uma sala quadrada de 5 m de lado e cuja altura é de 3,2 m. Tem-se ainda que o centro do tampo da mesa encontra-se alinhado verticalmente com o ponto no qual se encontra a fonte luminosa. Sendo assim a área do piso da sala que se apresenta plenamente iluminada por essa fonte de luz é:
+      `(Considerar: 𝝅 = 3)`
+    alternativas:
+      - 17,32 metros quadrados.
+      - 15,26 metros quadrados.
+      - 18,64 metros quadrados.
+      - 19,48 metros quadrados.
+  - enunciado: "Dona Ana percebeu que havia uma goteira no teto da sua casa. Por não saber onde ficava o registro da água, ela colocou um balde vazio de 20 litros embaixo da goteira e ligou para o bombeiro que chegou 8 minutos depois. Sabendo que no instante em que o bombeiro chegou na residência de Ana o balde estava com 60% de seu volume coberto de água, então a vazão da goteira era de:"
+    alternativas:
+      - 2,5 . 10^-5 metros cúbicos por segundo.
+      - 0,25 litros por segundo.
+      - 0,025 metros cúbicos por segundo.
+      - 2,5 . 10^-3 litros por segundo.
+  - enunciado: "Uma barra A(a = 29 . 10^–6 °C–1) e uma barra B(a = 64 . 10^–6 °C–1), estando a 25°C, foram aquecidas até 65°C. Sabendo que a barra B dilatou 1,468 cm a mais que a barra A e que o comprimento inicial da barra A era de 5 m, então o comprimento inicial da barra B era de:"
+    alternativas:
+      - 8 metros.
+      - 6 metros.
+      - 6,5 metros.
+      - 7,2 metros.
+  - enunciado: |
+      Observe o circuito a seguir.
+
+      A corrente do circuito é
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Idecan/2017 CBM DF/imagens/fisica 34.png?raw=true
+    alternativas:
+      - 7/6 A.
+      - 6 A.
+      - 7 A.
+      - 6/7 A.
+  - enunciado: "Em um jogo de futebol, Olavo recebeu um passe e correu em direção ao gol do time adversário, mantendo a velocidade da bola constante de 14,4 km/h. Ao se aproximar do gol, ele chutou a bola, aplicando uma força de 125 N durante 0,12 s na mesma, e fez o gol. Sabendo que bola tem massa m = 468,75 g, então a velocidade da bola no momento exato após o chute era de:"
+    alternativas:
+      - 129,6 km/h.
+      - 115,2 km/h.
+      - 126 km/h.
+      - 133,2 km/h.
