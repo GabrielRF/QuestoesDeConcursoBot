@@ -1,0 +1,58 @@
+---
+cargo: CFOBM - Quadro de Oficiais Bombeiros Militares Combatentes
+materia: Legislação Pertinente ao CBMDF
+questoes:
+  - enunciado: "A Lei Orgânica do Distrito Federal, com redação atual, determina expressamente que representante do Corpo de Bombeiros Militar do Distrito Federal integrará o Conselho de:"
+    alternativas:
+      - Meio Ambiente do Distrito Federal.
+      - Assistência Social.
+      - Defesa do Patrimônio Cultural do Distrito Federal.
+      - Educação Física, Desporto e Lazer do Distrito Federal.
+  - enunciado: "Nos termos do Estatuto dos Bombeiros-militares, instituído pela Lei nº 7.479/86, é correto afirmar que:"
+    alternativas:
+      - Aplicam-se aos bombeiros-militares, no que couber, as disposições estabelecidas na legislação Penal Militar.
+      - A pena disciplinar de detenção ou prisão do bombeiro-militar não pode ultrapassar de vinte dias.
+      - O direito de recorrer contra ato de composição de quadro de acesso prescreve em cento e vinte dias.
+      - Cabe ao Governador, em primeira instância, julgar os recursos que forem interpostos no Conselho de Disciplina.
+  - enunciado: "A agregação é a situação na qual o bombeiro-militar da ativa deixa de ocupar vaga na escala hierárquica do seu Quadro, nela permanecendo sem número. Nos termos do Estatuto dos bombeiros-militares, ainda não configura hipótese de agregação o bombeiro militar afastado, temporariamente do serviço, por motivo de haver"
+    alternativas:
+      - ultrapassado três meses contínuos em licença para tratar de interesse particular.
+      - sido julgado incapaz, definitivamente, enquanto tramita o processo de reforma.
+      - se candidatado a cargo eletivo, desde que conte cinco anos ou mais de efetivo serviço.
+      - ultrapassado seis meses contínuos em licença para tratamento de saúde de pessoa da família.
+  - enunciado: "Os órgãos de execução do Corpo de Bombeiros Militar do Distrito Federal são classificados segundo a natureza dos serviços que prestam ou as peculiaridades do emprego. Nos termos da atual redação da Lei nº 8.255/91, algumas subunidades passaram a denominar-se unidade, sendo certo que foi extinta a subunidade de:"
+    alternativas:
+      - Prevenção, Apoio e Serviços.
+      - Busca e Salvamento.
+      - Proteção Ambiental.
+      - Prevenção e Combate a Incêndio.
+  - enunciado: "Nos termos da Lei nº 12.086/09, são condições básicas imprescindíveis que habilitam o bombeiro militar de Carreira à promoção ao posto ou graduação superior, EXCETO:"
+    alternativas:
+      - Obter o aproveitamento mínimo de 75% no teste de aptidão física da Corporação.
+      - Possuir o tempo de serviço arregimentado, previsto na lei.
+      - Possuir o interstício exigido para o respectivo grau hierárquico, previsto na lei.
+      - Frequentar, com aproveitamento, a Instrução Geral e a Instrução Específica, conforme regulamento.
+  - enunciado: "A Lei nº 12.086/09 alterou a Lei nº 7.479/86 em alguns dispositivos. Uma das novidades trazidas pela alteração é"
+    alternativas:
+      - a altura mínima de um metro e sessenta centímetros para homens.
+      - a idade mínima de 18 anos para matrícula.
+      - a idade máxima de 25 anos para ingresso no quadro de oficiais.
+      - a altura mínima de um metro e cinquenta e oito centímetros para mulheres.
+  - enunciado: "Nos termos do Decreto nº 7.163/10, que regulamenta a Lei nº 8.255/91, são atribuições dos Departamentos do Corpo de Bombeiros Militar, EXCETO:"
+    alternativas:
+      - Aprovar e estabelecer indicadores de qualidade e produtividade, tanto dos processos quanto dos recursos humanos e materiais empregados nas diretorias e demais órgãos.
+      - Promover estudos e análises, com vistas ao aprimoramento da gestão de suas atividades e da legislação pertinente.
+      - Colaborar com o Estado-Maior-Geral na elaboração de propostas de políticas e diretrizes relativas à sua área de competência.
+      - Expedir instruções e normas e elaborar planos e programas relativos à execução das atividades que lhe são pertinentes, com base nas políticas e diretrizes estratégicas aprovadas pelo Comandante-Geral.
+  - enunciado: "Conforme o Decreto nº 7.163/10, que regulamenta a Lei nº 8.255/91, são competências da Diretoria de Vistorias do Corpo de Bombeiros Militar, EXCETO:"
+    alternativas:
+      - Elaborar as normas técnicas relacionadas com os sistemas de prevenção e proteção contra incêndio.
+      - Emitir e aprovar laudos e pareceres técnicos relativos à sua área de atuação.
+      - Fiscalizar as instalações de segurança contra incêndio de edificações, de acordo com a legislação específica.
+      - Credenciar e controlar as atividades de pessoas físicas e jurídicas relacionadas com os serviços de segurança contra incêndio e pânico no Distrito Federal.
+  - enunciado: "Nos termos do Decreto GDF nº 31.817/10, que regulamenta a Lei nº 8.255/91, são competências comuns do Comando Operacional, do Subcomando Operacional, do Estado-Maior Operacional, do Comando Especializado e das Unidades a estes subordinadas, EXCETO:"
+    alternativas:
+      - Coordenar o Gabinete de Gerência de Incidentes, órgão de caráter eventual, baseado no Sistema de Comando de Incidentes.
+      - Expedir declarações, certidões e outros documentos específicos de sua competência.
+      - Promover estudos e análises com vistas ao aprimoramento da gestão de suas atividades e da legislação pertinente.
+      - Cooperar com o Estado-Maior Geral na formulação e no desenvolvimento da doutrina relativa à sua área de atuação.
