@@ -1,0 +1,34 @@
+---
+cargo: CFOBM - Quadro de Oficiais Bombeiros Militares Combatentes
+materia: Noções de Agenda Ambiental
+questoes:
+  - enunciado: "No Brasil tem-se uma vasta quantidade e disponibilidade de água que depende de diversos aspectos, dentre eles: ciclo anual das chuvas e de vazões nas bacias. Atualmente, atividades antropogênicas e naturais têm levantado grande preocupação nas áreas científicas, políticas, na mídia e afetado a população em geral. São diretrizes da Política Nacional sobre Mudança do Clima, EXCETO:"
+    alternativas:
+      - Medidas de adaptação para ampliar os efeitos adversos da mudança do clima e a vulnerabilidade dos sistemas ambiental, social e econômico.
+      - Estratégias integradas de mitigação e adaptação à mudança do clima nos âmbitos local, regional e nacional.
+      - As ações de mitigação da mudança do clima em consonância com o desenvolvimento sustentável, que sejam, sempre que possível, mensuráveis para sua adequada quantificação e verificação a posteriori.
+      - Compromissos assumidos pelo Brasil na Convenção-Quadro das Nações Unidas sobre Mudança do Clima, no Protocolo de Kyoto e nos demais documentos sobre mudança do clima dos quais vier a ser signatário.
+  - enunciado: "Os reservatórios de hidrelétricas vêm sendo estudados desde década de 90 como causadores e/ou intensificadores do efeito estufa por meio da emissão de gases, como o dióxido de carbono (CO2) e o metano (CH4). A Política Nacional sobre Mudança do Clima – PNMC visa, EXCETO:"
+    alternativas:
+      - O aperfeiçoamento da observação sistemática e precisa do clima e suas manifestações no território nacional e nas áreas oceânicas contíguas.
+      - À compatibilização do desenvolvimento econômico-social com a proteção do sistema climático.
+      - Ao fortalecimento das remoções antrópicas por sumidouros de gases de efeito estufa no território nacional.
+      - À preservação, à conservação e à recuperação dos recursos ambientais, com particular atenção aos grandes biomas naturais tidos como Patrimônio Nacional.
+  - enunciado: "As mudanças climáticas causam efeito sobre a biodiversidade. A ocorrência de modificações climáticas globais é inquestionável, mas o que é importante para o Brasil são as alterações nos biomas. A subsequente queima de biomassa e sua degradação injetam grandes volumes de gases de efeito estufa e aerossóis que exacerbam a variação climática natural. Os instrumentos institucionais de acordo com o artigo 7º para a atuação da Política Nacional de Mudança do Clima incluem, EXCETO:"
+    alternativas:
+      - O Plano Nacional sobre Mudança do Clima.
+      - O Fórum Brasileiro de Mudança do Clima.
+      - O Comitê Interministerial sobre Mudança do Clima.
+      - A Comissão de Coordenação das Atividades de Meteorologia, Climatologia e Hidrologia.
+  - enunciado: "A sociedade demanda por soluções na área de resíduos, o que reflete a demanda por mudanças motivadas pelos elevados custos socioeconômicos e ambientais. Os resíduos sólidos, quando bem manejados, adquirem valor comercial e podem ser utilizados como matérias-primas ou novos insumos. A implantação de um Plano de Gestão trará reflexos positivos no âmbito social, ambiental e econômico, pois não só tende a diminuir o consumo dos recursos naturais, como proporciona e diminui os impactos ambientais provocados pela disposição inadequada dos resíduos. Assinale a alternativa correta em relação às definições da Lei nº 12.305/2010."
+    alternativas:
+      - Controle social: conjunto de mecanismos e procedimentos que garantam à sociedade informações e participação nos processos de formulação, implementação e avaliação das políticas públicas relacionadas aos resíduos sólidos.
+      - Área órfã contaminada: local onde há contaminação causada pela disposição, regular ou irregular, de quaisquer substâncias ou resíduos.
+      - Acordo setorial: série de etapas que envolvem o desenvolvimento do produto, a obtenção de matérias-primas e insumos, o processo produtivo, o consumo e a disposição final.
+      - Disposição final ambientalmente adequada: conjunto de ações exercidas, direta ou indiretamente, nas etapas de coleta, transporte, transbordo, tratamento e destinação final ambientalmente adequada dos resíduos sólidos e disposição final ambientalmente adequada dos rejeitos, de acordo com plano municipal de gestão integrada de resíduos sólidos ou com plano de gerenciamento de resíduos sólidos, exigidos na forma desta Lei.
+  - enunciado: "De acordo com o Instituto Brasileiro de Geografia e Estatística, os resíduos sólidos urbanos correspondem aos resíduos domiciliares e de limpeza urbana apresentam-se em uma maior quantidade no âmbito urbano que rural. O gerenciamento adequado dos resíduos sólidos de construção civil ainda encontra obstáculos pelo desconhecimento da natureza dos resíduos e pela ausência de cultura de separação. Dessa forma, conhecer e diagnosticar os resíduos gerados possibilitará o melhor encaminhamento para o plano de gestão e o gerenciamento desses resíduos. Com relação ao plano municipal de gestão integrada de resíduos sólidos, assinale a afirmativa INCORRETA."
+    alternativas:
+      - Diagnóstico da situação dos resíduos sólidos gerados no respectivo território, contendo a origem, o volume, a caracterização dos resíduos e as formas de destinação e disposição final adotadas.
+      - Mecanismos para a criação de fontes de negócios, emprego e renda, mediante a valorização dos resíduos sólidos.
+      - Indicadores de desempenho operacional e ambiental dos serviços públicos de limpeza urbana e de manejo de resíduos sólidos.
+      - Normas e condicionantes técnicas para o acesso a recursos do Estado, para a obtenção de seu aval ou para o acesso de recursos administrados, direta ou indiretamente, por entidade estadual, quando destinados às ações e programas de interesse dos resíduos sólidos.
