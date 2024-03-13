@@ -1,0 +1,111 @@
+---
+cargo: CFOBM - Quadro de Oficiais Bombeiros Militares Combatentes
+materia: Emergência Pré-Hospitalar
+questoes:
+  - enunciado: "A coluna vertebral se sobrepõe constituindo um canal que aloja a medula nervosa ou espinhal; é dividida sequencialmente nas seguintes regiões:"
+    alternativas:
+      - Coluna cervical, coluna torácica, coluna lombar, coluna sacral e cóccix.
+      - Coluna cervical, coluna lombar, coluna sacral e cóccix.
+      - Coluna cervical, coluna torácica, coluna lombar e coluna sacral.
+      - Coluna cervical, costelas, coluna lombar, coluna sacral e cóccix.
+  - enunciado: "O choque é o estado de perfusão tecidual inadequada que gera suprimento insuficiente de oxigênio (O2) e nutrientes aos tecidos, além de impedir a remoção dos produtos de excreção celular, caracterizado pelo desequilíbrio entre a perfusão e as necessidades celulares. Dentre os tipos de choque, assinale a alternativa que corresponde ao choque cardiogênico."
+    alternativas:
+      - Falência da bomba cardíaca.
+      - Hemorragia e desidratação.
+      - Tamponamento pericárdico e embolia pulmonar.
+      - Resposta do organismo a uma infecção sistêmica.
+  - enunciado: "A posição anatômica é uma convenção adotada em anatomia para descrever as posições espaciais dos órgãos, ossos e demais componentes do corpo humano. Na posição anatômica, o corpo estudado deverá ficar:"
+    alternativas:
+      - Ereto, os calcanhares unidos, com os olhos voltados para o horizonte, os pés também apontados para frente e perpendiculares ao restante do corpo, os braços estendidos e aplicados ao tronco e com as palmas das mãos voltadas para frente.
+      - Deitado, os calcanhares unidos, com os olhos voltados para o horizonte, os pés lateralizados e perpendiculares ao restante do corpo, os braços dobrados em cima do abdômen com as palmas das mãos voltadas para baixo.
+      - Ereto, os calcanhares unidos, com os olhos voltados para baixo, os pés apontados para frente e perpendiculares ao restante do corpo, os braços estendidos e aplicados ao tronco e com as palmas das mãos voltadas para trás.
+      - Deitado, os calcanhares unidos, com os olhos voltados para cima, os pés apontados para frente e perpendiculares ao restante do corpo, os braços estendidos e aplicados ao tronco e com as palmas das mãos voltadas para trás.
+  - enunciado: "O corpo humano na posição anatômica pode ser dividido conceitualmente em planos: mediano, sagital, coronal e horizontal. Quanto às divisões, assinale a afirmativa INCORRETA."
+    alternativas:
+      - Um plano sagital é perpendicular ao plano mediano.
+      - O plano mediano é um plano vertical que passa através do eixo mais longo que cruza o corpo, dos pés até a cabeça; este plano separa o corpo em antímeros direito e esquerdo.
+      - O plano coronal é um plano vertical que passa pelo eixo maior (dos pés à cabeça), é perpendicular ao plano mediano, separando a frente do corpo, ou ventre, da parte de trás, ou dorso.
+      - O plano horizontal, transverso ou axial atravessa o eixo menor do corpo, do dorso até o ventre, isto é, da posição posterior para a anterior. Divide a estrutura atravessada em porções superior e inferior.
+  - enunciado: "“Músculo estriado esquelético extenso que separa a cavidade torácica da abdominal. É muito importante no processo de respiração dos seres humanos, também é auxiliado pelos músculos intercostais e outros músculos acessórios. É encontrado em todos os mamíferos e também em algumas espécies de aves.” A afirmativa trata-se do(s) músculo(s):"
+    alternativas:
+      - Diafragma.
+      - Escalenos.
+      - Serrátil anterior.
+      - Oblíquo externo.
+  - enunciado: "A circulação sanguínea humana pode ser dividida em dois grandes circuitos: um leva o sangue aos pulmões para oxigená-lo, e o outro leva sangue oxigenado a todas as células do corpo. Por isso se diz que nossa circulação é dupla. Quanto à circulação pulmonar, assinale a alternativa que descreve corretamente o trajeto do sangue."
+    alternativas:
+      - Ventrículo direito – artéria pulmonar – pulmões – veias pulmonares – átrio esquerdo.
+      - Ventrículo esquerdo – artéria aorta – sistemas corporais – veias cavas – átrio direito.
+      - Ventrículo direito – veia pulmonar – pulmões – artérias pulmonares – átrio esquerdo.
+      - Ventrículo esquerdo – artéria pulmonar – sistemas corporais – veias pulmonares – átrio direito
+  - enunciado: "O sistema reprodutor feminino é constituído por dois ovários, duas tubas uterinas (trompas de Falópio), um útero, uma vagina e uma vulva. Ele está localizado no interior da cavidade pélvica. Os ovários são as gônadas femininas que produzem dois hormônios sexuais femininos. Quais são esses hormônios?"
+    alternativas:
+      - Estrógeno e progesterona.
+      - Testosterona e GH.
+      - Estrógeno e insulina.
+      - Progesterona e melatonina.
+  - enunciado: "O choque hipovolêmico é definido como volume sanguíneo insuficiente relativo ao tamanho do compartimento intravascular, causado por perda de líquidos, hemorragia interna ou retorno venoso deficiente. Os sinais e os sintomas apresentados pelo paciente incluem:"
+    alternativas:
+      - Alteração do nível de consciência, taquicardia, respirações rápidas e superficiais e hipotensão.
+      - Nível de consciência alerta, taquicardia, eupneia e hipotensão.
+      - Nível de consciência alerta, bradicardia, bradipneia e hipotensão.
+      - Alteração do nível de consciência, bradicardia, respirações rápidas e superficiais e hipertensão.
+  - enunciado: "Os cuidados com pacientes neurológicos a cada dia são mais explorados e exigem um grande conhecimento por parte dos profissionais. O enfermeiro deve estar atento, pois cuidados inadequados podem piorar o quadro geral do paciente, agravando o quadro neurológico. Quanto ao cuidado de manter o paciente em decúbito a 30°, com a cabeça em posição neutra, alinhada ao tórax, justifica-se para:"
+    alternativas:
+      - Evitar estase venosa e facilitar a drenagem venosa do cérebro.
+      - Evitar tração do cateter.
+      - Diminuir o risco de infecção.
+      - Detectar interferências nos valores.
+  - enunciado: "A pressão intracraniana reflete a relação entre o conteúdo da caixa craniana (cérebro, líquido cefalorraquidiano e sangue) e o volume do crânio, que pode ser considerado constante. O reflexo de Cushing representa uma resposta vasomotora a episódios de isquemia cerebral, resultantes da elevação aguda da pressão intracraniana (PIC). São considerados sinais de elevação rápida da pressão intracraniana, que frequentemente ocasionam herniações cerebrais e óbito:"
+    alternativas:
+      - Bradicardia, arritmia respiratória e hipertensão arterial.
+      - Cefaleia, taquicardia e edema de papila.
+      - Taquicardia, hipotensão arterial e bradpneia.
+      - Alteração da consciência, hipotensão arterial e taquipneia.
+  - enunciado: "Entre os órgãos atingidos pelas queimaduras, a pele é a mais frequentemente afetada. Considerada o maior órgão do corpo humano, a pele é a parte do organismo que recobre e resguarda a superfície corporal, tendo algumas funções, tais como controlar a perda de água e proteger o corpo contra atritos. Um jovem de 25 anos, que sofreu queimaduras no membro superior esquerdo anteriormente, membro superior direito por completo, tórax e abdômen anteriormente e genitália, apresentará qual percentual de área corporal queimada?"
+    alternativas:
+      - 32,5%.
+      - 19,5%.
+      - 28%.
+      - 37%.
+  - enunciado: "O sistema nervoso é envolto por membranas conjuntivas denominadas meninges que são classificadas como:"
+    alternativas:
+      - Dura-máter, aracnoide e pia-máter.
+      - Encéfalo e medula.
+      - Bulbo, mesencéfalo e ponte.
+      - Diencéfalo, cerebelo e tronco.
+  - enunciado: "O bulbo é o órgão que está em contato direto com a medula espinhal; é via de passagem de nervos para os órgãos localizados mais acima. Uma lesão no bulbo provavelmente apresenta distúrbio:"
+    alternativas:
+      - Na respiração.
+      - No sono.
+      - Na visão.
+      - Na temperatura corporal.
+  - enunciado: "O sistema nervoso autônomo é dividido em dois ramos: simpático e parassimpático, que se distinguem tanto pela estrutura quanto pela função. As fibras nervosas simpáticas e parassimpáticas inervam os mesmos órgãos, mas trabalham em oposição. Enquanto um dos ramos estimula determinado órgão, o outro inibe. Assinale a alternativa que define corretamente a função do sistema nervoso simpático."
+    alternativas:
+      - Aceleração dos batimentos cardíacos e aumento da pressão sanguínea.
+      - Miose e broncoconstrição.
+      - Midríase e redução dos batimentos cardíacos.
+      - Reduções do ritmo cardíaco e da pressão sanguínea.
+  - enunciado: "Para produzir a reação de luta ou fuga, o hipotálamo ativa dois sistemas, aumentando a frequência cardíaca, a frequência respiratória e o retorno venoso. Estas alterações fisiológicas são estimuladas pelo(s):"
+    alternativas:
+      - Sistema nervoso simpático.
+      - Sistema límbico.
+      - Reflexos medulares.
+      - Sistema nervoso parassimpático.
+  - enunciado: |
+      Quanto à profundidade da queimadura, relacione adequadamente as colunas a seguir.
+
+      1. Primeiro grau.
+      2. Segundo grau.
+      3. Terceiro grau.
+
+      ( ) Afeta somente a epiderme, sem formar bolhas. Apresenta vermelhidão, dor, edema e descama em 4 a 6 dias.
+      ( ) Afeta a epiderme, a derme e estruturas profundas. É indolor. Existe a presença de placa esbranquiçada ou enegrecida. Possui textura coreácea. Não reepiteliza e necessita de enxertia de pele.
+      ( ) Afeta a epiderme e parte da derme, forma bolhas ou flictenas. Superficial: a base da bolha é rósea, úmida e dolorosa. Profunda: a base da bolha é branca, seca, indolor e menos dolorosa (profunda). A restauração das lesões ocorre entre 7 e 21 dias.
+
+      A sequência está correta em
+    alternativas:
+      - 1, 3, 2.
+      - 1, 2, 3.
+      - 2, 3, 1.
+      - 3, 1, 2.
