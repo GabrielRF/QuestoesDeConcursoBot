@@ -1,0 +1,437 @@
+---
+cargo: Exame Nacional do Ensino Médio
+materia: Ciências da Natureza e suas Tecnologias
+questoes:
+  - enunciado: |
+      Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira.
+      Na prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?
+      `SOUSA, M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012 (adaptado).`
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Inep/2023 Enem/imagens/ciencia 91.png?raw=true
+    alternativas:
+      - Amplitude.
+      - Altura.
+      - Período.
+      - Velocidade.
+      - Comprimento de onda.
+  - enunciado: |
+      Informações digitais — dados — são gravadas em discos ópticos, como CD e DVD, na forma de cavidades microscópicas. A gravação e a leitura óptica dessas informações são realizadas por um laser (fonte de luz monocromática). Quanto menores as dimensões dessas cavidades, mais dados são armazenados na mesma área do disco. O fator limitante para a leitura de dados é o espalhamento da luz pelo efeito de difração, fenômeno que ocorre quando a luz atravessa um obstáculo com dimensões da ordem de seu comprimento de onda. Essa limitação motivou o desenvolvimento de lasers com emissão em menores comprimentos de onda, possibilitando armazenar e ler dados em cavidades cada vez menores.
+      Em qual região espectral se situa o comprimento de onda do laser que otimiza o armazenamento e a leitura de dados em discos de uma mesma área?
+    alternativas:
+      - Violeta.
+      - Azul.
+      - Verde.
+      - Vermelho.
+      - Infravermelho.
+  - enunciado: |
+      O bluetooth é uma tecnologia de comunicação sem fio, de curto alcance, presente em diferentes dispositivos eletrônicos de consumo. Ela permite que aparelhos eletrônicos diferentes se conectem e troquem dados entre si. No padrão bluetooth, denominado de Classe 2, as antenas transmitem sinais de potência igual a 2,4 mW e possibilitam conectar dois dispositivos distanciados até 10 m. Considere que essas antenas se comportam como fontes puntiformes que emitem ondas eletromagnéticas esféricas e que a intensidade do sinal é calculada pela potência por unidade de área. Considere 3 como valor aproximado para π.
+      Para que o sinal de bluetooth seja detectado pelas antenas, o valor mínimo de sua intensidade, em W/m^2 , é mais próximo de
+    alternativas:
+      - 2,0 x 10^-6
+      - 2,0 x 10^-5.
+      - 2,4 x 10^-5.
+      - 2,4 x 10^-3.
+      - 2,4 x 10^-1.
+  - enunciado: |
+      Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. Contudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica de preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente de uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, como troncos de árvores, pedaços de ossos e esterco, capaz de manter um solo fértil por anos.
+      Admite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos orgânicos do tipo carboxilato em sua superfície, carregados negativamente (—COO−). Esses grupos atraem íons positivos necessários como nutrientes, tais quais os provenientes do potássio (K), do cálcio (Ca) e do magnésio (Mg), além de micronutrientes, como zinco (Zn) e ferro (Fe). Essa ligação no solo fertilizado é predominantemente iônica, conforme ilustra a figura, em que Mn+ representa os cátions metálicos. De acordo com a escala de Pauling, a eletronegatividade do elemento oxigênio é igual a 3,44.
+      O quadro apresenta os valores de eletronegatividade desses cinco elementos metálicos.
+      O cátion que resultará em uma interação de maior caráter iônico com o ânion carboxilato será aquele proveniente do elemento
+      `MICHALOVIC, M. Ancient Soil Chemists of the Amazon. ChemMatters, fev. 2009 (adaptado).`
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Inep/2023 Enem/imagens/ciencia 94.png?raw=true
+    alternativas:
+      - potássio.
+      - cálcio.
+      - magnésio.
+      - zinco.
+      - ferro.
+  - enunciado: |
+      Em uma indústria alimentícia, para produção de doce de leite, utiliza-se um tacho de parede oca com uma entrada para vapor de água a 120 °C e uma saída para água líquida em equilíbrio com o vapor a 100 °C. Ao passar pela parte oca do tacho, o vapor de água transforma-se em líquido, liberando energia. A parede transfere essa energia para o interior do tacho, resultando na evaporação de água e consequente concentração do produto.
+      No processo de concentração do produto, é utilizada energia proveniente
+    alternativas:
+      - do calor sensível e do calor latente de condensação.
+      - somente do calor latente de vaporização.
+      - somente do calor latente de condensação.
+      - do calor sensível e do calor latente de vaporização.
+      - do calor latente de condensação e do calor latente de vaporização.
+  - enunciado: |
+      A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas, de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis.
+      Entre esses compostos, aquele que conferirá maior desempenho como combustível é o
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Inep/2023 Enem/imagens/ciencia 96.png?raw=true
+    alternativas:
+      - III.
+      - I.
+      - II.
+      - IV.
+      - V.
+  - enunciado: |
+      De acordo com a Constituição Federal, é competência dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem.
+      `ZVEIBIL, V. Z. et al. Cartilha de limpeza urbana. Disponível em: www.ibam.org.br. Acesso em: 6 jul. 2015 (adaptado).`
+      Suponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produtos gasosos à temperatura de 650 °C, no momento da explosão.
+      Considere:
+      ```
+      R = 0,082 . (L . atm)/(mol . K)
+      ```
+      A pressão, em atm, dentro do frasco, no momento da explosão, é mais próxima de
+    alternativas:
+      - 76.
+      - 756.
+      - 533.
+      - 53.
+      - 13.
+  - enunciado: |
+      O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada (L 1, L 2 e L 3) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L 2 queima, enquanto as demais permanecem acesas.
+      Em relação à situação em que todas as lâmpadas funcionam, após a queima de L 2, os brilhos das lâmpadas serão
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Inep/2023 Enem/imagens/ciencia 98.png?raw=true
+    alternativas:
+      - menos intensos.
+      - os mesmos.
+      - mais intensos.
+      - menos intenso para L 1 e o mesmo para L 3.
+      - mais intenso para L 1 e menos intenso para L 3.
+  - enunciado: |
+      A tecnologia de vacinas de RNA mensageiro (RNAm) é investigada há anos. Avanços científicos em genética molecular permitiram desenvolver uma vacina para controle da pandemia da covid-19 causada pelo vírus de RNA SARS-CoV-2. A vacina de RNAm tem sequências de genes do vírus. Entretanto, por ser muito instável, o RNAm deve ser recoberto por uma capa de lipídios que evita sua degradação e favorece sua ação. Dessa forma, o RNAm desempenhará sua função específica atuando no mesmo compartimento celular de sempre.
+      `Disponível em: https://sbim.org.br. Acesso em: 29 nov. 2021 (adaptado).`
+      A imunização produzida por esse tipo de vacina é alcançada por meio da
+    alternativas:
+      - tradução do RNAm em proteína viral, desencadeando a resposta antigênica.
+      - estimulação de leucócitos induzida pela capa lipídica contendo RNAm.
+      - atuação do RNAm como sequestrador do vírus para o meio extracelular.
+      - competição entre o RNAm vacinal e o RNA viral pelos sítios dos ribossomos.
+      - incorporação do RNAm viral ao genoma do hospedeiro, gerando novo fenótipo.
+  - enunciado: |
+      Na fertilização in vitro, espermatozoides são adicionados aos gametas femininos retirados de uma mulher. Após o período de incubação, a fecundação é favorecida pela ação de enzimas. Em um procedimento realizado, observou-se que nenhum dos gametas femininos foi fertilizado e, posteriormente, verificou-se que havia sido adicionado, equivocadamente, um coquetel de inibidores das enzimas do acrossomo, no lugar de um dos nutrientes constituintes do meio de cultura.
+      O coquetel de inibidores impediu o(a)
+    alternativas:
+      - passagem do espermatozoide pela corona radiata e zona pelúcida.
+      - formação do pronúcleo masculino.
+      - início da divisão mitótica do zigoto.
+      - término da segunda divisão meiótica do ovócito.
+      - fusão das membranas plasmáticas do ovócito e do espermatozoide.
+  - enunciado: |
+      O fogão por indução funciona a partir do surgimento de uma corrente elétrica induzida no fundo da panela, com consequente transformação de energia elétrica em calor por efeito Joule. A principal vantagem desses fogões é a eficiência energética, que é substancialmente maior que a dos fogões convencionais.
+      A corrente elétrica mencionada é induzida por
+    alternativas:
+      - campo magnético variável.
+      - radiação.
+      - condução.
+      - campo elétrico variável.
+      - ressonância eletromagnética.
+  - enunciado: |
+      Uma academia decide trocar gradualmente seus aparelhos de musculação. Agora, os frequentadores que utilizam os aparelhos do tipo 1 podem também utilizar os aparelhos do tipo 2, representados na figura, para elevar cargas correspondentes às massas M1 e M 2, com velocidade constante. A fim de que o exercício seja realizado com a mesma força F , os usuários devem ser orientados a respeito da relação entre as cargas nos dois tipos de aparelhos, já que as polias fixas apenas mudam a direção das forças, enquanto a polia móvel divide as forças.
+      Em ambos os aparelhos, considere as cordas inextensíveis, as massas das polias e das cordas desprezíveis e que não há dissipação de energia.
+      Para essa academia, qual deve ser a razão M2/M1 informada aos usuários?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Inep/2023 Enem/imagens/ciencia 102.png?raw=true
+    alternativas:
+      - 2.
+      - 1/4.
+      - 1/2.
+      - 1.
+      - 4.
+  - enunciado: |
+      Um garoto comprou vários abacates na feira, mas descobriu que eles não estavam maduros o suficiente para serem consumidos. Sua mãe recomendou que ele colocasse os abacates em um recipiente fechado, pois isso aceleraria seu amadurecimento. Com certa dúvida, o garoto realizou esta experiência: colocou alguns abacates no recipiente e deixou os demais em uma fruteira aberta. Surpreendendo-se, ele percebeu que os frutos que estavam no recipiente fechado amadureceram mais rapidamente.
+      A aceleração desse processo é causada por
+    alternativas:
+      - acúmulo de gás etileno.
+      - redução da umidade do ar.
+      - aumento da concentração de CO2 .
+      - diminuição da intensidade luminosa.
+      - isolamento do contato com O 2 atmosférico.
+  - enunciado: |
+      Há muito tempo são conhecidas espécies de lesmas-do-mar com uma capacidade ímpar: guardar par te da maquinaria das células das algas que consomem — os cloroplastos — e mantê-los funcionais dentro das suas próprias células, obtendo assim parte do seu alimento. Investigadores portugueses descobriram que essas lesmas-do-mar podem ser mais eficientes nesse processo do que as próprias algas que consomem.
+      `Disponível em: www.cienciahoje.pt. Acesso em: 10 fev. 2015 (adaptado).`
+      Essa adaptação confere a esse organismo a capacidade de obter primariamente
+    alternativas:
+      - carboidratos.
+      - ácidos nucleicos.
+      - proteínas.
+      - vitaminas.
+      - lipídios.
+  - enunciado: |
+      A leishmaniose visceral é uma zoonose causada por um protozoário do gênero Leishmania que é encontrado em diversos tecidos. Ela é transmitida ao homem de forma indireta, por vetores do ambiente doméstico. O cão é considerado um importante hospedeiro desse protozoário, podendo ou não apresentar os sintomas da doença, como perda de peso, anemia, ferimentos na pele, diarreia, conjuntivite e insuficiência renal. Em uma região que sofre com alta incidência dessa doença, uma campanha do centro de zoonoses buscou verificar a presença desse protozoário nos cães para tentar controlar a doença.
+      Em qual material biológico dos cães a presença desse protozoário representa risco de transmissão dessa zoonose?
+    alternativas:
+      - Sangue.
+      - Urina.
+      - Saliva.
+      - Fezes.
+      - Secreção ocular.
+  - enunciado: |
+      Um professor lança uma esfera verticalmente para cima, a qual retorna, depois de alguns segundos, ao ponto de lançamento. Em seguida, lista em um quadro todas as possibilidades para as grandezas cinemáticas.
+      Ele solicita aos alunos que analisem as grandezas cinemáticas no instante em que a esfera atinge a altura máxima, escolhendo uma combinação para os módulos e sentidos da velocidade e da aceleração.
+      A escolha que corresponde à combinação correta é
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Inep/2023 Enem/imagens/ciencia 106.png?raw=true
+    alternativas:
+      - v = 0 e a ≠ 0 para baixo.
+      - v = 0 e a ≠ 0 para cima.
+      - v ≠ 0 para cima e a = 0.
+      - v ≠ 0 para cima e a ≠ 0 para cima.
+      - v ≠ 0 para baixo e a ≠ 0 para baixo.
+  - enunciado: |
+      Muitas mulheres sofrem com desconfortos nos dias que antecedem a menstruação, a chamada tensão pré-menstrual. Entre outros sintomas, podem ocorrer alterações de humor. Atualmente, acredita-se que os sintomas são resultado da queda na concentração do neurotransmissor serotonina, que, por sua vez, está relacionado com a diminuição na produção dos hormônios ovarianos estrógeno e progesterona, observada nessa fase do ciclo feminino.
+      `DIMMOCK, P. W. et al. Efficacy of Selective Serotonin-Reuptake Inhibitors in Premenstrual Syndrome: a Systematic Review. The Lancet, n. 9 236, 2000 (adaptado).`
+      A redução da produção desses hormônios nessa fase está relacionada com o(a)
+    alternativas:
+      - regressão do corpo lúteo ovariano.
+      - diminuição na produção de ocitocina.
+      - liberação do gameta feminino na ovulação.
+      - aumento nos níveis dos hormônios LH e FSH.
+      - elevação nos níveis sorológicos de adrenalina.
+  - enunciado: |
+      As cetonas fazem parte de famílias olfativas encontradas em muitos alimentos. A molécula de hexan-3-ona é um exemplo desses compostos voláteis responsáveis pelo aroma, podendo ser obtida por processos energéticos realizados em meio ácido, na presença de oxidantes como o permanganato de potássio.
+      Para se produzir esse composto volátil em laboratório, deve-se oxidar a molécula de
+    alternativas:
+      - hexan-3-ol.
+      - hexanal.
+      - hexan-1-ol.
+      - hex-1-en-1-ol.
+      - ácido hexanoico.
+  - enunciado: |
+      Durante a evolução das plantas, ocorreu uma transição do ambiente aquático para o ambiente terrestre graças ao surgimento de algumas estruturas que as tornaram independentes da água. Esse fato permitiu maior dispersão desse grupo de seres vivos, sendo possível observá-los em diferentes ambientes na atualidade.
+      Qual estrutura possibilitou a independência da água para a fecundação dos seres vivos citados acima?
+    alternativas:
+      - Tubo polínico.
+      - Fruto.
+      - Esporo.
+      - Semente.
+      - Vaso condutor.
+  - enunciado: |
+      O vidro contendo alumínio em sua composição é um excelente material para acondicionar medicamentos e suplementos, porque pode ser esterilizado por aquecimento. No entanto, quando o medicamento ou suplemento contém substâncias que se ligam for temente ao íon desse metal, a dissolução do alumínio é promovida em função do deslocamento do equilíbrio químico estabelecido entre a espécie imobilizada no vidro e a espécie em solução. Por essa razão, recomenda-se que suplementos de nutrição de recém-nascidos contendo gluconato de cálcio sejam acondicionados em embalagens plásticas, e não nesse tipo de vidro.
+      `Atualização da recomendação da Sociedade Portuguesa de Neonatologia. Disponível em: www.spneonatologia.pt. Acesso em: 22 out. 2021 (adaptado).`
+      Caso esse suplemento seja acondicionado em embalagem desse tipo de vidro, o risco de contaminação por alumínio será maior se o(a)
+    alternativas:
+      - concentração de gluconato de cálcio for alta.
+      - vidro do frasco for translúcido.
+      - frasco de vidro apresentar uma maior espessura.
+      - vidro for previamente esterilizado em altas temperaturas.
+      - reação do alumínio com gluconato de cálcio for endotérmica.
+  - enunciado: |
+      Barbatimão é o nome popular de uma árvore cuja casca é utilizada para fins medicinais. Essa casca é constituída principalmente de dois tecidos vegetais: periderme e floema. A extração da casca tem levado à morte muitos indivíduos dessa espécie, quando o corte retira um anel completo ao longo da circunferência do tronco. Aqueles que têm parte da casca retirada sem completar essa circunferência podem sobreviver.
+      A morte desses indivíduos, decorrente da retirada do anel completo da casca, é provocada pela interrupção da
+    alternativas:
+      - nutrição das raízes.
+      - fotossíntese.
+      - transpiração.
+      - troca de gases.
+      - formação de brotos.
+  - enunciado: |
+      O descarte de detergentes comuns nos esgotos domésticos ocasiona a formação de uma camada de espuma que impede a entrada de oxigênio na água. Os microrganismos que vivem nessas águas não são capazes de quebrar moléculas ramificadas, ocorrendo assim um desequilíbrio ambiental nos rios. A fórmula a seguir representa a estrutura química de um tensoativo presente na composição de um detergente não biodegradável.
+      Qual modificação química na estrutura desse tensoativo o tornaria um detergente biodegradável?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Inep/2023 Enem/imagens/ciencia 112.png?raw=true
+    alternativas:
+      - Modificar a cadeia carbônica para cadeia normal.
+      - Retirar a parte polar da molécula.
+      - Eliminar as insaturações do anel aromático.
+      - Trocar o grupo aniônico por um grupo neutro.
+      - Alterar o grupo aniônico por um grupo catiônico.
+  - enunciado: |
+      *Avaliação de substâncias genotóxicas*
+      O ensaio de micronúcleos é um teste de avaliação de genotoxicidade que associa a presença de micronúcleos (pequenos núcleos que aparecem próximo aos núcleos das células) com lesões genéticas. Os micronúcleos são fragmentos de DNA encapsulados, provenientes do fuso mitótico durante a divisão celular.
+      `DIAS, V. M. Micronúcleos em células tumorais: biologia e implicações para a tumorigênese. Dissertação de Mestrado. USP, 2006 (adaptado).`
+      Os micronúcleos se originam dos(as)
+    alternativas:
+      - cromossomos.
+      - nucléolos.
+      - lisossomos.
+      - ribossomos.
+      - mitocôndrias.
+  - enunciado: |
+      O petróleo é uma matéria-prima muito valiosa e métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais estratificados medindo-se a velocidade de propagação do som (onda mecânica) através deles. Considere que uma camada de 450 m de um líquido se encontra presa no subsolo entre duas camadas rochosas, conforme o esquema. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde são posteriormente recebidas duas vibrações refletidas (ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e a chegada do primeiro eco é de 0,5 s. O segundo eco chega 1,1 s após a emissão do pulso.
+      A velocidade do som na camada líquida, em metro por segundo, é
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Inep/2023 Enem/imagens/ciencia 114.png?raw=true
+    alternativas:
+      - 1500.
+      - 270.
+      - 540.
+      - 818.
+      - 1800.
+  - enunciado: |
+      É comum em viagens de avião sermos solicitados a desligar aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas, como celulares. A justificativa dada para esse procedimento é, entre outras coisas, a necessidade de eliminar fontes de sinais eletromagnéticos que possam interferir nas comunicações, via rádio, dos pilotos com a torre de controle.
+      Essa interferência poderá ocorrer somente se as ondas emitidas pelo celular e as recebidas pelo rádio do avião
+    alternativas:
+      - tiverem a mesma frequência.
+      - forem ambas audíveis.
+      - tiverem a mesma potência.
+      - tiverem a mesma intensidade.
+      - propagarem-se com velocidades diferentes.
+  - enunciado: |
+      O Aldrin é um inseticida agrícola organoclorado sintético de baixa polaridade, cuja estrutura molecular simétrica, de fórmula C 12 H 8 Cl 6 , está representada na figura. Introduzido na agricultura a partir da década de 1950, esse composto apresenta alta persistência no meio ambiente e acumulação nos organismos, sendo danoso para a saúde.
+      Um pesquisador coletou fluidos biológicos de indivíduos de uma população contaminada por esse inseticida agrícola. Ele analisou amostras de saliva, sangue, lágrima, urina e leite quanto à presença dessa substância.
+      Em qual dos fluidos o pesquisador provavelmente encontrou a maior concentração dessa substância?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Inep/2023 Enem/imagens/ciencia 116.png?raw=true
+    alternativas:
+      - Leite, por causa do alto teor de gorduras.
+      - Saliva, por consequência da atividade de enzimas.
+      - Sangue, em função das hemácias e leucócitos.
+      - Lágrima, em razão da concentração de sais.
+      - Urina, pela presença de moléculas de ureia.
+  - enunciado: |
+      Uma cafeteria adotou copos fabricados a partir de uma composição de 50% de plástico reciclado não biodegradável e 50% de casca de café. O copo é reutilizável e retornável, pois o material, semelhante a uma cerâmica, suporta a lavagem. Embora ele seja comercializado por um preço considerado alto quando comparado ao de um copo de plástico descartável, essa cafeteria possibilita aos clientes retornarem o copo sujo e levarem o café quente servido em outro copo já limpo e higienizado. O material desse copo oferece também o conforto de não esquentar na parte externa.
+      `Cafeteria adota copo reutilizável feito com casca de café. Disponível em: www.gazetadopovo.com.br. Acesso em: 5 dez. 2019 (adaptado).`
+      Quais duas vantagens esse copo apresenta em comparação ao copo descartável?
+    alternativas:
+      - Ter baixa condutividade térmica e reduzir o resíduo não biodegradável na natureza.
+      - Ter a durabilidade de uma cerâmica e ser totalmente biodegradável.
+      - Ser tão durável quanto uma cerâmica e ter alta condutividade térmica.
+      - Ser um mau condutor térmico e aumentar o resíduo biodegradável na natureza.
+      - Ter alta condutividade térmica e possibilitar a degradação do material no meio ambiente.
+  - enunciado: |
+      O consumo exagerado de refrigerantes é preocupante, pois contribui para o aumento de casos de obesidade e diabetes. Considere dois refrigerantes enlatados, um comum e um diet, e que ambos possuam a mesma quantidade de aditivos, exceto pela presença de açúcar. O refrigerante comum contém basicamente água carbonatada e grande quantidade de açúcar; já o refrigerante diet tem água carbonatada e adoçantes, cujas massas são muito pequenas.
+      `CAVAGIS, A. D. M.; PEREIRA, E. A.; OLIVEIRA, L. C. Um método simples para avaliar o teor de sacarose e CO 2 em refrigerantes. Química Nova na Escola, n. 3, ago. 2014 (adaptado).`
+      Entre as duas versões apresentadas, o refrigerante comum possui
+    alternativas:
+      - maior densidade.
+      - menor viscosidade.
+      - maior volume de gás dissolvido.
+      - menor massa de solutos dissolvidos.
+      - maior temperatura de congelamento.
+  - enunciado: |
+      A síndrome de Down é uma alteração genética associada à trissomia do cromossomo 21, ou seja, o indivíduo possui três cromossomos 21 e não um par, como é normal. Isso ocorre pela união de um gameta contendo um cromossomo 21 com um gameta possuidor de dois cromossomos 21. Embora, normalmente, as mulheres com a síndrome sejam estéreis, em 2008, no interior de São Paulo, uma delas deu à luz uma menina sem a síndrome de Down.
+      `MORENO, T. Três anos após dar à luz, mãe portadora de síndrome de Down revela detalhes de seu dia a dia. Disponível em: www.band.uol.com.br. Acesso em: 31 out. 2013 (adaptado).`
+      Sabendo disso, um jovem casal, ambos com essa síndrome, procura um médico especialista para aconselhamento genético porque querem ter um bebê.
+      O médico informa ao casal que, com relação ao cromossomo 21, os zigotos formados serão
+    alternativas:
+      - normais, trissômicos ou tetrassômicos.
+      - todos normais.
+      - todos tetrassômicos.
+      - apenas normais ou tetrassômicos.
+      - apenas trissômicos ou tetrassômicos.
+  - enunciado: |
+      Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade farmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago (onde o meio é fortemente ácido e há várias enzimas que reagem mediante catálise ácida), deve ser capaz de atravessar as membranas celulares e ser solúvel no plasma sanguíneo (sistema aquoso). Para os fármacos cujas estruturas são formadas por cadeias carbônicas longas contendo pelo menos um grupamento amino, um recurso tecnológico empregado é sua conversão no cloridrato correspondente. Essa conversão é representada, de forma genérica, pela equação química:
+      ```
+      R3 N + HCl -> (R3 NH)+ Cl-
+      ```
+      O aumento da eficiência de circulação do fármaco no sangue, promovido por essa conversão, deve-se ao incremento de seu(sua)
+    alternativas:
+      - caráter iônico.
+      - basicidade.
+      - lipofilicidade.
+      - cadeia carbônica.
+      - estado de oxidação.
+  - enunciado: |
+      *Toxicidade do cianeto*
+      A produção de ATP depende do gradiente de prótons gerado pela cadeia respiratória. Nessas reações, os elétrons provenientes da oxidação do NADH em NAD+ percorrem a cadeia até chegarem à citocromo c oxidase reduzindo o Fe 3+ a Fe2+. O oxigênio atua como aceptor final desses elétrons formando água. O cianeto é uma espécie química altamente tóxica que tem grande afinidade pelo Fe3+. Quando células são expostas ao cianeto, ele se liga ao sítio de Fe 3+ da citocromo c oxidase, impedindo a sua conversão em Fe2+ e bloqueando a cadeia respiratória.
+      Esse bloqueio aumenta a concentração celular de
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Inep/2023 Enem/imagens/ciencia 122.png?raw=true
+    alternativas:
+      - NADH.
+      - ATP.
+      - água.
+      - dióxido de carbono.
+      - citocromo c oxidase.
+  - enunciado: |
+      O número de abelhas encontra-se em declínio em várias regiões do mundo, inclusive no Brasil, sendo que vários fatores contribuem para o colapso de suas colmeias. Nos Estados Unidos, bombas de sementes de espécies vegetais nativas têm sido utilizadas para combater o desaparecimento desses insetos. Elas são pequenas bolinhas recheadas com sementes, adubo e argila. Quando são arremessadas e ficam expostas ao sol e à chuva, germinam até mesmo em solo pouco fértil.
+      `DARAYA, V. Disponível em: http://planetasustentavel.abril.com.br. Acesso em: 2 fev. 2015 (adaptado).`
+      Esse método contribui para a preservação das abelhas porque
+    alternativas:
+      - aumenta a oferta de alimento.
+      - reduz sua predação.
+      - reduz o uso de pesticidas.
+      - reduz a competição por abrigo.
+      - aumenta os locais de reprodução.
+  - enunciado: |
+      Os mais antigos cozinhavam o feijão na panela de ferro a fim de acabar com a palidez de seus filhos. Alguns chegavam até a colocar um prego enferrujado nesse cozimento para liberar o ferro contido nele. Sabe-se que esse elemento pode ser encontrado na sua forma metálica ou iônica, sendo essencial para a manutenção da vida humana.
+      As estratégias citadas eram utilizadas com o objetivo de
+    alternativas:
+      - prevenir a anemia.
+      - tratar a diarreia.
+      - evitar as verminoses.
+      - remediar o raquitismo.
+      - combater a febre amarela.
+  - enunciado: |
+      A utilização de tecnologia nuclear é um tema bastante controverso, por causa do risco de acidentes graves, como aqueles ocorridos em Chernobyl (1986), em Goiânia (1987) e em Fukushima (2011). Apesar de muitas desvantagens, como a geração de resíduos tóxicos, a descontaminação ambiental dispendiosa em caso de acidentes e a utilização em armas nucleares, a geração de energia nuclear apresenta vantagens em comparação a outras fontes de energia.
+      A geração dessa energia tem como característica:
+    alternativas:
+      - Produzir calor sem o consumo de combustíveis fósseis.
+      - Formar resíduos facilmente recicláveis.
+      - Promover o aumento do desmatamento.
+      - Contribuir para a produção de chuva ácida.
+      - Emitir gases tóxicos que são lançados no ambiente.
+  - enunciado: |
+      Em uma indústria, o controle da dureza da água é importante quando ela é utilizada em caldeiras, uma vez que sais pouco solúveis, formados a partir de sulfatos e carbonatos, podem acumular-se no interior das tubulações, causando obstruções. Para avaliar a água utilizada nessa indústria, foram realizados testes de qualidade que consideraram os seguintes parâmetros:
+      Qual teste deve ser considerado para controlar a formação desse tipo de obstrução de tubulações?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Inep/2023 Enem/imagens/ciencia 126.png?raw=true
+    alternativas:
+      - 1.
+      - 2.
+      - 3.
+      - 4.
+      - 5.
+  - enunciado: |
+      As aves apresentam dois tipos de músculos em seus corpos: vermelhos e brancos. Aves migratórias como garças, gansos e patos selvagens têm os músculos vermelhos bem desenvolvidos, com ampla rede de vasos sanguíneos.
+      Nas viagens por grandes distâncias, tais músculos são fundamentais, pois favorecem o(a)
+    alternativas:
+      - metabolismo corpóreo elevado.
+      - execução de manobras.
+      - manutenção da aerodinâmica.
+      - deslocamento a grandes velocidades.
+      - capacidade de voo em grandes altitudes.
+  - enunciado: |
+      Existe no comércio um produto antimofo constituído por uma embalagem com tampa perfurada contendo cloreto de cálcio anidro, CaCl 2 . Uma vez aberto o lacre, essa substância absorve a umidade ambiente, transformando-se em cloreto de cálcio di-hidratado, CaCl2 ⋅ 2H2O.
+      Considere a massa molar da água igual a 18 g mol^−1, e a massa molar do cloreto de cálcio anidro igual a 111 g mol^−1.
+      Na hidratação da substância presente no antimofo, o ganho percentual, em massa, é mais próximo de
+    alternativas:
+      - 32%.
+      - 14%.
+      - 16%.
+      - 24%.
+      - 75%.
+  - enunciado: |
+      Uma equipe de segurança do transporte de uma empresa avalia o comportamento das tensões que aparecem em duas cordas, 1 e 2, usadas para prender uma carga de massa M = 200 kg na carroceria, conforme a ilustração. Quando o caminhão parte do repouso, sua aceleração é constante e igual a 3 m/s2 e, quando ele é freado bruscamente, sua frenagem é constante e igual a 5 m/s 2 . Em ambas as situações, a carga encontra-se na iminência de movimento, e o sentido do movimento do caminhão está indicado na figura. O coeficiente de atrito estático entre a caixa e o assoalho da carroceria é igual a 0,2. Considere a aceleração da gravidade igual a 10 m/s^2 , as tensões iniciais nas cordas iguais a zero e as duas cordas ideais.
+      Nas situações de aceleração e frenagem do caminhão, as tensões nas cordas 1 e 2, em newton, serão
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Inep/2023 Enem/imagens/ciencia 130.png?raw=true
+    alternativas:
+      - aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 600 e T2 = 0.
+      - aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 1400 e T2 = 0.
+      - aceleração: T1 = 0 e T2 = 600; frenagem: T1 = 600 e T2 = 0.
+      - aceleração: T1 = 560 e T2 = 0; frenagem: T1 = 0 e T2 = 960.
+      - aceleração: T1 = 640 e T2 = 0; frenagem: T1 = 0 e T2 = 1040.
+  - enunciado: |
+      A biorremediação designa tratamentos que usam organismos para reduzir a quantidade de substâncias tóxicas no ambiente ou degradá-las em substâncias não tóxicas ou de menor toxicidade. Uma planta aquática, o aguapé, tem sido utilizada para a biorremediação de ambientes contaminados por metais tóxicos. Sabe-se que esses poluentes serão captados para dentro do corpo do vegetal.
+      Dentro do corpo do vegetal, esses contaminantes serão
+    alternativas:
+      - acumulados nos tecidos.
+      - digeridos por enzimas.
+      - eliminados pelos estômatos.
+      - metabolizados por glândulas.
+      - utilizados como fonte energética.
+  - enunciado: |
+      O ciclo do nitrogênio é composto por várias etapas, conforme a figura, sendo cada uma desempenhada por um grupo específico de microrganismos.
+      Se o grupo dos microrganismos decompositores fosse exterminado, qual etapa não ocorreria?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Inep/2023 Enem/imagens/ciencia 132.png?raw=true
+    alternativas:
+      - 2.
+      - 1.
+      - 3.
+      - 4.
+      - 5.
+  - enunciado: |
+      Os raios cósmicos são fontes de radiação ionizante potencialmente perigosas para o organismo humano. Para quantificar a dose de radiação recebida, utiliza-se o sievert (Sv), definido como a unidade de energia recebida por unidade de massa. A exposição à radiação proveniente de raios cósmicos aumenta com a altitude, o que pode representar um problema para as tripulações de aeronaves. Recentemente, foram realizadas medições acuradas das doses de radiação ionizante para voos entre Rio de Janeiro e Roma. Os resultados têm indicado que a dose média de radiação recebida na fase de cruzeiro (que geralmente representa 80% do tempo total de voo) desse trecho intercontinental é 2 μSv/h. As normas internacionais da aviação civil limitam em 1 000 horas por ano o tempo de trabalho para as tripulações que atuem em voos intercontinentais. Considere que a dose de radiação ionizante para uma radiografia torácica é estimada em 0,2 mSv.
+      `RUAS, A. C. O tripulante de aeronaves e a radiação ionizante. São Paulo: Edição do Autor, 2019 (adaptado).`
+      A quantas radiografias torácicas corresponde a dose de radiação ionizante à qual um tripulante que atue no trecho Rio de Janeiro−Roma é exposto ao longo de um ano?
+    alternativas:
+      - 8.
+      - 10.
+      - 80.
+      - 100.
+      - 1000.
+  - enunciado: |
+      Entre os medicamentos mais comuns consumidos para o alívio da dor está o ibuprofeno, um composto quiral com ação anti-inflamatória e efeito analgésico, que é comercializado como fármaco opticamente puro, ou seja, sem a mistura com outro isômero óptico. A fórmula estrutural plana do ibuprofeno é:
+      Além do ibuprofeno, destacam-se também os princípios ativos a seguir, presentes em outros medicamentos para o alívio da dor:
+      O princípio ativo que apresenta o mesmo tipo de isomeria espacial que o ibuprofeno é o(a)
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Inep/2023 Enem/imagens/ciencia 134.png?raw=true
+    alternativas:
+      - butilbrometo de escopolamina.
+      - fenacetina.
+      - paracetamol.
+      - dipirona sódica.
+      - diclofenaco sódico.
+  - enunciado: |
+      Uma concessionária é responsável por um trecho de 480 quilômetros de uma rodovia. Nesse trecho, foram construídas 10 praças de pedágio, onde funcionários recebem os pagamentos nas cabines de cobrança. Também existe o serviço automático, em que os veículos providos de um dispositivo passam por uma cancela, que se abre automaticamente, evitando filas e diminuindo o tempo de viagem. Segundo a concessionária, o tempo médio para efetuar a passagem em uma cabine é de 3 minutos, e as velocidades máximas permitidas na rodovia são 100 km/h, para veículos leves, e 80 km/h, para veículos de grande porte.
+      Considere um carro e um caminhão viajando, ambos com velocidades constantes e iguais às máximas permitidas, e que somente o caminhão tenha o serviço automático de cobrança.
+      Comparado ao caminhão, quantos minutos a menos o carro leva para percorrer toda a rodovia?
+    alternativas:
+      - 42.
+      - 30.
+      - 72.
+      - 288.
+      - 360.
