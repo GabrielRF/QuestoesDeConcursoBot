@@ -380,11 +380,11 @@ questoes:
       Nas situações de aceleração e frenagem do caminhão, as tensões nas cordas 1 e 2, em newton, serão
     imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Inep/2023 Enem/imagens/ciencia 130.png?raw=true
     alternativas:
-      - aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 600 e T2 = 0.
-      - aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 1400 e T2 = 0.
-      - aceleração: T1 = 0 e T2 = 600; frenagem: T1 = 600 e T2 = 0.
-      - aceleração: T1 = 560 e T2 = 0; frenagem: T1 = 0 e T2 = 960.
-      - aceleração: T1 = 640 e T2 = 0; frenagem: T1 = 0 e T2 = 1040.
+      - "aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 600 e T2 = 0."
+      - "aceleração: T1 = 0 e T2 = 200; frenagem: T1 = 1400 e T2 = 0."
+      - "aceleração: T1 = 0 e T2 = 600; frenagem: T1 = 600 e T2 = 0."
+      - "aceleração: T1 = 560 e T2 = 0; frenagem: T1 = 0 e T2 = 960."
+      - "aceleração: T1 = 640 e T2 = 0; frenagem: T1 = 0 e T2 = 1040."
   - enunciado: |
       A biorremediação designa tratamentos que usam organismos para reduzir a quantidade de substâncias tóxicas no ambiente ou degradá-las em substâncias não tóxicas ou de menor toxicidade. Uma planta aquática, o aguapé, tem sido utilizada para a biorremediação de ambientes contaminados por metais tóxicos. Sabe-se que esses poluentes serão captados para dentro do corpo do vegetal.
       Dentro do corpo do vegetal, esses contaminantes serão
