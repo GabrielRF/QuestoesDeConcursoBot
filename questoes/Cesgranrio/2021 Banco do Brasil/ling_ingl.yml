@@ -1,0 +1,53 @@
+---
+materia: Língua Inglesa
+cargo: Escriturário - Agente Comercial
+questoes:
+  - enunciado: |
+      *Robots, the next generation of soccer players*
+      If you think a robot will steal your job, you are not alone. Soccer players should be worried too. The next Messi probably won’t be of flesh and blood but plastic and metal.
+      The concept emerged during the conference “Workshop on grand challenges in artificial intelligence,” held in Tokyo in 1992, and independently, in 1993, when Professor Alan Mackworth from the University of Bristol in Canada described an experiment with small soccer players in a scientific article.
+      Over 40 teams already participated in the first RoboCup tournament in 1997, and the competition is held every year. The RoboCup Federation wants to play and win a game against a real-world cup humans’ team by 2050.
+      The idea behind artificially intelligent players is to investigate how robots perceive motion and communicate with each other. Physical abilities like walking, running, and kicking the ball while maintaining balance are crucial to improving robots for other tasks like rescue, home, industry, and education.
+      Designing robots for sports requires much more than experts in state-of-the-art technology. Humans and machines do not share the same skills. Engineers need to impose limitations on soccer robots to imitate soccer players as much as possible and ensure following the game’s rules.
+      RoboCup Soccer Federation, the “FIFA” of robots, which supports five leagues, imposes restrictions on players’ design and rules of the game. Each has its own robot design and game rules to give room for different scientific goals. The number of players, their size, the ball type, and the field dimensions are different for each league.
+      In the humanoid league the players are humanlike robots with human-like senses. However, they are rather slow. Many of the skills needed to fully recreate actual soccer player movements are still in the early stages of research.
+      The game becomes exciting for middle and small size leagues. The models are much simpler; they are just boxes with a cyclopean eye. Their design focuses on team behavior: recognizing an opponent, cooperating with team members, receiving and giving a standard FIFA size ball.
+      Today, soccer robots are entirely autonomous. They wireless “talk” to each other, make decisions regarding strategy in real-time, replace an “injured” player, and shoot goals. The only person in a RoboCup game is the referee. The team coaches are engineers in charge of training the RoboCups’ artificial intelligence for fair play: the robots don’t smash against each other or pull their shirts.
+      The next RoboCup competition will soon be played, virtually, with rules that will allow teams to participate without establishing physical contact.
+      `Available at:<https://www.ua-magazine.com/2021/05/12/robots-the-next-generation-of-soccer-players>. Retrieved on: July 4th, 2021. Adapted.`
+
+      According to the second paragraph, the concept of robotic soccer players emerged
+    alternativas:
+      - in the 1990s
+      - in 1997
+      - before the 1990s
+      - in the beginning of the 20th century
+      - in the beginning of the 21st century
+  - enunciado: "In the sentence fragment of the fifth paragraph “*Designing* robots for sports requires much more than *experts* in state-of-the-art technology”, the words in bold can be replaced, without any change in meaning, by the following words:"
+    alternativas:
+      - "planning / specialists"
+      - "drawing / scholars"
+      - "creating / amateurs"
+      - "finishing / professionals"
+      - "manufacturing / engineers"
+  - enunciado: "In the text fragment of the sixth paragraph “RoboCup Soccer Federation, the “FIFA” of robots, which supports five leagues, imposes restrictions on players’ design and rules of the game”, the word *which* refers to"
+    alternativas:
+      - RoboCup Soccer Federation
+      - game
+      - FIFA
+      - players
+      - leagues
+  - enunciado: "In paragraph 7, the word *However* in the fragment “In the humanoid league, the players are human-like robots with human-like senses. However, they are rather slow” can be replaced, without change in meaning, by"
+    alternativas:
+      - nevertheless
+      - unless
+      - indeed
+      - futhermore
+      - consequently
+  - enunciado: "In paragraph 9, there is the information that in RoboCup competitions the game referee and the team coaches are"
+    alternativas:
+      - real people
+      - humanoids
+      - computers
+      - robotic engineers
+      - virtual mechanisms
