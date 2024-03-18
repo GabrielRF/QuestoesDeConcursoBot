@@ -1,0 +1,106 @@
+---
+cargo: Escriturário - Agente Comercial
+materia: Conhecimentos Bancários
+questoes:
+  - enunciado: "No Brasil, o órgão responsável pela fiscalização do Sistema Financeiro Nacional é o"
+    alternativas:
+      - Banco Central do Brasil
+      - Conselho Monetário Nacional
+      - Ministério da Economia
+      - Banco do Brasil
+      - Banco Nacional de Desenvolvimento Econômico e Social (BNDES)
+  - enunciado: |
+      Considere o texto a seguir para reponder às questões a seguir
+
+      A crise econômica causada pela pandemia do novo coronavírus provocou a maior fuga de capitais da história do Brasil. Dados divulgados nesta quarta-feira (24/6) pelo Banco Central (BC) explicam que os investidores estrangeiros retiraram US$ 31,7 bilhões do mercado brasileiro de títulos e ações só em março, abril e maio deste ano. Por isso, as retiradas somam R$ 50,9 bilhões nos últimos 12 meses; o maior índice da série histórica do BC.
+      `BARBOSA, M. US$ 50,9 bilhões saíram do mercado financeiro brasileiro em 12 meses. Correio Braziliense, 24/6/2020. Disponível em: <https://www.correiobraziliense.com.br/app/noticia/economia/2020/06/24/internas_economia,866513/us-50-9-bilhoes-sairam-do-mercado-financeiro-brasileiro-em-12-meses.shtml>. Acesso em: 22 jan. 2021.`
+
+      Considerando-se os efeitos sanitários, econômicos e sociais decorrentes da pandemia da Covid-19 na economia global, o principal fator que justifica tamanha fuga de capitais do Brasil no ano passado é o(a)
+    alternativas:
+      - maior percepção de risco, por parte dos estrangeiros, em investir em ativos denominados em moeda brasileira.
+      - aumento desenfreado da dívida externa brasileira.
+      - aumento das taxas de juros no mercado internacional.
+      - necessidade de recursos, no estrangeiro, para financiar as pesquisas científicas de vacinas contra o coronavírus.
+      - manipulação das taxas de câmbio nos mercados globais.
+  - enunciado: "O principal impacto decorrente da enorme fuga de capitais do Brasil em 2020, descrita na reportagem mencionada anteriormente, foi o(a)"
+    alternativas:
+      - expressiva desvalorização do real brasileiro
+      - queda das taxas de juros internas
+      - aumento do preço das ações na Bovespa
+      - valorização dos ativos brasileiros
+      - aumento da dívida interna do Tesouro
+  - enunciado: |
+      Com evidências do enorme descolamento entre as taxas de juros de curto e de longo prazo no Brasil, o texto abaixo reproduz matéria jornalística, publicada no início de agosto de 2020, dando conta da enorme incerteza futura associada aos impactos adversos decorrentes da crise pandêmica da Covid-19 sobre a economia brasileira.
+
+      Os juros futuros encerraram os negócios desta segunda-feira em alta firme, afetados por um movimento de maior incorporação de prêmio de risco ao longo da curva a termo, especialmente nos trechos mais longos (com vencimento no longo prazo). No fim da sessão regular, a taxa do contrato de Depósito Interfinanceiro (DI) para janeiro de 2021 passava de 1,87% no ajuste anterior para 1,88%; a do DI para janeiro de 2022 ia de 2,65% para 2,67%; a do contrato para janeiro de 2023 subia de 3,76% para 3,79%; a do DI para janeiro de 2025 escalava de 5,40% para 5,47%; e a do contrato para janeiro de 2027 saltava de 6,35% para 6,43%.
+      `REZENDE, V. Risco fiscal leva a alta das taxas de juros futuros e curva tem maior inclinação desde fim de junho. Valor Econômico, 10/08/2020. Disponível em: <https://valorinveste.globo.com/produtos/renda-fixa/noticia/2020/08/10/risco-fiscal-leva-a-alta-das-taxas-de-juros-futuro-e-curva-tem-maior-inclinacao-desde-fim-de-junho.ghtml>. Acesso em: 7 fev. 2021. Adaptado.`
+
+      Para minorar os impactos da crise, a Emenda Constitucional n o 106, de 7 de maio de 2020, conhecida como o “Orçamento de Guerra”, instituiu uma diversidade de medidas nos âmbitos fiscal, financeiro e de contratações para enfrentamento da calamidade pública nacional, decorrente da pandemia da Covid-19. Dentre as medidas aprovadas, o Banco Central do Brasil ficou autorizado, temporariamente, a operar com instrumentos de política monetária considerados não convencionais.
+      A medida de política monetária não convencional, por parte do Banco Central do Brasil, que poderia ter estimulado a redução das taxas de juros de longo prazo no ano passado é a
+    alternativas:
+      - compra de títulos públicos e privados no mercado secundário
+      - redução da taxa de juros básica de curto prazo (Selic)
+      - venda de títulos públicos e privados no mercado secundário
+      - redução do percentual dos depósitos compulsórios
+      - venda de títulos mediante operações compromissadas
+  - enunciado: |
+      Dentre as escolhas mais populares de investimentos, a caderneta de poupança é uma das opções mais utilizadas pelos brasileiros, sendo considerada um investimento de renda fixa.
+      São também investimentos de renda fixa
+    alternativas:
+      - os CDB
+      - as Ações
+      - as Opções
+      - as Commodities
+      - os ETF de Ações
+  - enunciado: |
+      O Banco do Brasil (BB) oferece diversas linhas de crédito destinadas a custear os dispêndios realizados pelos produtores rurais.
+      A modalidade de crédito rural, oferecida pelo BB, destinada ao beneficiamento, custeio e industrialização da produção é denominada
+    alternativas:
+      - Pronaf Agroindústria
+      - Funcafé Custeio
+      - Custeio Agropecuário
+      - Pronamp Custeio
+      - Crédito Rural Pronaj Custeio
+  - enunciado: |
+      O anúncio seguinte constava no site do Banco do Brasil no dia 8 de fevereiro de 2021:
+
+      Financiamento de veículos
+      Financie o seu veículo, novo ou usado, com as melhores opções e taxas reduzidas até 28 de fevereiro. Durante a promoção, é possível financiar* carros novos e seminovos (até 2 anos de fabricação) com condições diferenciadas. Você pode fazer tudo sem precisar comparecer a uma agência. Basta acessar o App BB para simular as condições, escolher a opção que se encaixa no seu orçamento e finalizar a contratação com o envio dos documentos.
+      * Crédito sujeito à aprovação cadastral e demais condições do produto.
+      `Banco do Brasil. Disponível em: <https://www.bb.com.br/pbb/pagina-inicial/voce/produtos-e-servicos/financiamentos/financiar-veiculos#/>. Acesso em: 8 fev. 2021.`
+
+      A nota descrita em asterisco ( * ) destaca que, além da análise cadastral, a aprovação do crédito está sujeita às “demais condições do produto”. Uma dessas condições diz respeito à garantia do financiamento que, no caso supramencionado, será o próprio veículo a ser comprado pelo devedor.
+      Trata-se de uma forma de garantia denominada
+    alternativas:
+      - alienação fiduciária
+      - aval
+      - penhor mercantil
+      - fiança
+      - hipoteca
+  - enunciado: |
+      A revista inglesa The Economist publica periodicamente o famoso Índice do Big Mac, que consiste em avaliar os preços, em dólares, do conhecido sanduíche em diferentes países na economia global. Os resultados são frequentemente replicados pela imprensa internacional, incluindo a brasileira. A metodologia de apuração é simples: com base nas taxas de câmbio nominais das moedas nacionais em relação ao dólar, cotadas num mesmo dia, converte-se o preço do Big Mac avaliado nessas moedas para o seu respectivo valor em dólares.
+      Considerando-se que na edição de 12 de janeiro de 2021, os cálculos da The Economist mostravam que o preço, em dólares, do Big Mac no Brasil estava cerca de 30% mais barato do que o sanduíche similar vendido e cotado, também em dólares, nos Estados Unidos, o resultado indicava que o real brasileiro estava
+    alternativas:
+      - subvalorizado em relação ao dólar
+      - valorizado em relação ao dólar
+      - sobrevalorizado em relação ao dólar
+      - com alinhamento nominal em relação ao dólar
+      - na paridade real do poder de compra em relação ao dólar
+  - enunciado: |
+      H é correntista da instituição financeira XYZ e mantém com esta instituição relação estável, com movimentação de recursos monetários correspondente a cem salários mínimos por ano. A partir de 2019, sua movimentação anual passou a ser de mil e duzentos salários mínimos, com aportes mensais de cem salários mínimos.
+      A partir das regras apresentadas na Carta-Circular n o 4001/2020 do Banco Central do Brasil, nesse caso, as operações devem ser monitoradas como situações relacionadas com operações em espécie, em moeda nacional, com a utilização de contas de
+    alternativas:
+      - depósitos
+      - aplicações
+      - fundos
+      - garantia
+      - preferência
+  - enunciado: |
+      B é gerente de determinada instituição financeira e recebe, como tarefa laboral, a responsabilidade de convencer os clientes a investirem na aquisição de ações de sociedade empresária que busca abrir seu capital em bolsa de valores. Após vários contatos, B consegue bater a sua meta pessoal, no sentido de ter conquistado um número significativo de novos clientes, decorrentes do desempenho da aludida tarefa, bem como auxiliar seus colegas de setor para que alcancem o mesmo objetivo.
+      A esse respeito, e de acordo com o Código de Ética do Banco do Brasil, o oferecimento de serviços e produtos deve ocorrer com
+    alternativas:
+      - diligência
+      - individualidade
+      - comedimento
+      - parcialidade
+      - limitação
