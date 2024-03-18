@@ -1,0 +1,65 @@
+---
+materia: Matemática Financeira
+cargo: Escriturário - Agente Comercial
+questoes:
+  - enunciado: |
+      Um negociador de investimentos de uma instituição financeira pergunta ao gerente de tal instituição qual a taxa de juros anual máxima que pode oferecer a um cliente investidor, e o gerente afirma que ficará satisfeito com uma taxa anual máxima de 8,36%. O negociador entra em contato com o cliente que pretende investir um capital C 1 e diz que, ao final de um ano, ele receberá C 2 , que corresponde a C 1 acrescido de 5,00% de juros, mas não tem sucesso nessa negociação inicial. O negociador resolve aplicar uma nova taxa sobre C 2 , mas sem ultrapassar a taxa anual máxima que está autorizado a oferecer.
+      Qual o valor máximo da taxa a ser aplicada sobre C 2 ?
+    alternativas:
+      - "3,20%"
+      - "2,16%"
+      - "2,24%"
+      - "7,96%"
+      - "16,72%"
+  - enunciado: |
+      Um cliente montou uma estratégia financeira, aplicando parte de seu décimo terceiro salário, sempre no início de janeiro, de 2018 a 2021, conforme mostrado na Tabela a seguir.
+      ```
+      jan/2018 - R$ 10.000,00
+      jan/2019 - R$ 10.000,00
+      jan/2020 - R$ 10.000,00
+      jan/2021 - R$ 10.000,00
+      ```
+      A partir da orientação financeira de um especialista, ele conseguiu obter nesse período, com essas aplicações, uma taxa de retorno de 10% ao ano, sempre na comparação com o ano anterior. Ele pretende atingir o valor total acumulado de 65 mil reais no início de jan/2023.
+      Considerando-se que essa taxa de retorno se mantenha, o valor mínimo, em reais, que esse cliente precisará depositar em Jan/2022, para atingir a meta em Jan/2023, a partir das aproximações dadas, pertence ao intervalo:
+      ```
+      Dados:
+      1,1^5 = 1,611;
+      1,1^4 = 1,464;
+      1,1^3 = 1,331.
+      ```
+    alternativas:
+      - R$ 8.000,00 a R$ 8.199,00
+      - R$ 8.200,00 a R$ 8.399,00
+      - R$ 8.400,00 a R$ 8.599,00
+      - R$ 8.600,00 a R$ 8.799,00
+      - R$ 8.800,00 a R$ 8.999,00
+  - enunciado: |
+      Devido às oscilações de receita em seu negócio durante a pandemia, um cliente vai precisar pagar um boleto, cujo principal (até a data de vencimento) é de R$ 25.000,00, com 12 dias de atraso. Nesse caso, são cobrados adicioalmente, sobre o valor do principal, dois encargos: 2% de multa, mais juros simples de 0,2% ao dia. Por causa dos juros altos, o cliente procurou seu gerente, que não conseguiu uma solução menos custosa.
+      Com isso, nas condições dadas, o cliente deverá pagar nessa operação um valor total de
+    alternativas:
+      - "R$ 26.100,00"
+      - "R$ 25.600,00"
+      - "R$ 25.800,00"
+      - "R$ 26.300,00"
+      - "R$ 26.500,00"
+  - enunciado: |
+      Um cliente fez um investimento de R$ 100.000,00 em janeiro de 2019, comprando cotas de um fundo imobiliário, o que lhe proporcionou uma taxa de retorno de 21%, ao final de 12 meses de aplicação. Em janeiro de 2020, buscando maior rentabilidade, procurou um especialista financeiro indicado pelo seu gerente, que lhe recomendou aplicar todo o montante da operação anterior em renda variável. O cliente fez conforme recomendado, o que lhe proporcionou um retorno de 96% em 12 meses, resgatando o novo montante em janeiro de 2021.
+      Considerando-se um sistema de juros compostos, a taxa de retorno equivalente, obtida em cada período de 12 meses pelo cliente, de janeiro de 2019 a janeiro de 2021, foi igual a
+    alternativas:
+      - "54%"
+      - "56%"
+      - "58%"
+      - "60%"
+      - "62%"
+  - enunciado: |
+      Devido à pandemia, um microempreendedor precisou tomar um empréstimo no valor de R$ 20.000,00, em dez/2020, a ser pago em 24 prestações mensais iguais e postecipadas no sistema PRICE, de modo que a primeira fosse paga em jan/21, e a última, em dez/22. Considere que o Banco cobre R$ 660,00 de taxas, que serão financiadas juntamente com o valor do empréstimo, por escolha do cliente, e que a taxa de juros cobrada, devido ao risco da operação, seja de 3% ao mês.
+      Desconsiderando-se o IOF na operação e supondo-se que a primeira prestação foi paga na data de vencimento, o valor da segunda prestação, em sua respectiva data de vencimento será de, aproximadamente,
+      ```
+      Dados: 1,03^24 = 2,033
+      ```
+    alternativas:
+      - "R$ 1.220,00"
+      - "R$ 1.120,00"
+      - "R$ 1.320,00"
+      - "R$ 1.420,00"
+      - "R$ 1.520,00"
