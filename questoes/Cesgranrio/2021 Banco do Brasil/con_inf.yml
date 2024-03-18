@@ -1,0 +1,143 @@
+---
+materia: Conhecimentos de Informática
+cargo: Escriturário - Agente Comercial
+questoes:
+  - enunciado: |
+      Existem soluções de hardware e software que buscam minimizar as chances de um ataque a sistemas computacionais ser bem-sucedido. Dentre tais soluções de segurança, há uma que monitora o tráfego de entrada e saída de rede, funcionando como um filtro de pacotes, permitindo ou não a sua liberação a partir de um conjunto de regras específicas.
+      Essa solução é o
+    alternativas:
+      - Firewall
+      - Antimalware
+      - Dispositivo USB
+      - Phishing
+      - SQL injection
+  - enunciado: |
+      O armazenamento de dados ou informações em sistemas computacionais é possível com a utilização de arquivos, que servem como importante suporte tecnológico para o atendimento das diversas demandas dos usuários.
+      Do ponto de vista técnico, esses arquivos podem ser considerados
+    alternativas:
+      - coleções nomeadas de informações relacionadas que são gravadas em memória secundária do computador.
+      - abstrações feitas pelo sistema operacional das características lógicas das informações armazenadas.
+      - organizações físicas de pastas em um dispositivo de armazenamento volátil.
+      - imagens construídas utilizando os formatos jpeg, png ou bmp para identificá-los.
+      - sequências de caracteres organizados em linhas e possivelmente em páginas, quando forem arquivos de vídeo.
+  - enunciado: |
+      A gravação de vídeos digitais gera, em boa parte das vezes, arquivos com tamanho aumentado, o que é um desafio para a sua transmissão ou armazenamento em disco. Para contornar esse problema, existem formas de compactação e descompactação de vídeos chamadas codecs. Um codec é baseado em um algoritmo que explora algum tipo de redundância no conteúdo do arquivo como forma de reduzir seu tamanho com a menor perda possível. Existem diversos tipos de codecs, com características variadas.
+      Um dos tipos de codec de vídeo é o
+    alternativas:
+      - MPEG
+      - BMP
+      - JPEG
+      - MP3
+      - UNICODE
+  - enunciado: |
+      Devido à pandemia, muitos funcionários de um determinado banco precisaram trabalhar de casa. Percebendo que seria necessário um novo procedimento de acesso remoto que atendesse às necessidades de segurança, o setor de TI desse banco determinou o uso de um mecanismo seguro que conectasse, via internet pública, o computador do funcionário, em sua casa, com a rede privada da instituição financeira, bloqueando o acesso de terceiros ao trânsito de informações.
+      Para garantir a segurança dessa conexão, essa instituição deve adotar a tecnologia de rede conhecida como
+    alternativas:
+      - VPN
+      - HTTP
+      - PGP
+      - WEK
+      - WPA2
+  - enunciado: |
+      As informações sobre um processo essencial de determinado banco nunca foram documentadas, porém são conhecidas implicitamente por seus muitos funcionários. Responsável por recuperar e documentar esse conhecimento, um funcionário protagonizou uma iniciativa para que os próprios funcionários criassem a documentação, instalando e gerenciando um site baseado na tecnologia Wiki na intranet desse banco.
+      Qual a principal característica dos Wikis?
+    alternativas:
+      - Permitir que o leitor de uma página Web edite seu conteúdo.
+      - Gerar documentação em PDF automaticamente, facilitando a criação de documentos distribuíveis.
+      - Manter um fórum de discussões estruturado em forma de árvore e orientado a assuntos.
+      - Transformar, rapidamente, documentos Word em páginas Web.
+      - Gerenciar listas de discussão feitas por e-mail e guardar seu conteúdo.
+  - enunciado: |
+      Um funcionário de um banco foi incumbido de acompanhar o perfil dos clientes de um determinado produto por meio da Análise de Dados, de forma a aprimorar as atividades de marketing relativas a esse produto. Para isso, ele utilizou a variável classe social desses clientes, coletada pelo banco, que tem os valores A, B, C, D e E, sem referência a valores contínuos.
+      Sabendo-se que essa é uma escala ordinal, qual é a medida de tendência central adequada para analisar essa variável?
+    alternativas:
+      - mediana
+      - média aritmética
+      - média geométrica
+      - quartis
+      - variância
+  - enunciado: |
+      O serviço de buscas do Google é um dos mais usados em todo o mundo. Para as pesquisas, o mais comum é a pessoa informar livremente algumas palavras e verificar se o resultado atende às suas expectativas.
+      Como solicitar corretamente ao Google que seja pesquisada uma correspondência exata da frase “Prédio mais alto do Brasil”?
+    alternativas:
+      - "“Prédio mais alto do Brasil”"
+      - "/Prédio mais alto do Brasil/"
+      - "-Prédio -mais -alto -do -Brasil"
+      - "#Prédio #mais #alto #do #Brasil"
+      - "exato (“Prédio mais alto do Brasil”)"
+  - enunciado: |
+      O envio e o recebimento de mensagens de correio eletrônico são atividades corriqueiras, tanto nas organizações quanto no dia a dia da grande maioria da população brasileira. No entanto, há situações em que as mensagens enviadas são devolvidas com um aviso de que não puderam ser entregues ao destinatário.
+      Um dos motivos que justificam a não entrega de uma mensagem de correio eletrônico ao destinatário é porque
+    alternativas:
+      - a caixa postal de correio eletrônico do destinatário atingiu algum limite predeterminado de tamanho, como por exemplo, em bytes.
+      - a estação de trabalho que o destinatário utiliza está desligada.
+      - o destinatário possui muitos endereços de correio eletrônico cadastrados no domínio internet.
+      - o destinatário não estava utilizando a sua estação de trabalho no momento do recebimento da mensagem de correio eletrônico.
+      - o destinatário estava utilizando muitos programas ativos na estação de trabalho no momento do recebimento da mensagem de correio eletrônico.
+  - enunciado: |
+      A Segurança da Informação é uma preocupação permanente dos agentes comerciais, principalmente em relação a assuntos contratuais e financeiros e às facilidades advindas dos meios digitais.
+      Os recursos providos pelas áreas de TI das empresas, no que se refere à segurança da informação, incluem a irretratabilidade, que deve garantir a
+    alternativas:
+      - impossibilidade de negar a autoria de uma mensagem.
+      - manutenção exata e completa do conteúdo das mensagens desde a origem até o destino.
+      - possibilidade do acesso a qualquer mensagem quando necessário.
+      - impossibilidade de os conteúdos das mensagens serem lidos e compreendidos por pessoas não autorizadas.
+      - impossibilidade de o destinatário negar o recebimento de uma mensagem.
+  - enunciado: |
+      O agente comercial de uma empresa elaborou uma planilha no software Microsoft Excel para lançar os débitos de seus clientes. Ele a configurou para controlar automaticamente as seguintes regras:
+      ```
+      a) admitir, apenas, débitos entre R$ 40.000,00 e R$ 110.000,00; e
+      b) destacar, em cor diferente, os débitos entre R$ 90.000,00 e R$ 110.000,00.
+      ```
+      Quais são os recursos do Microsoft Excel que o agente comercial deverá utilizar, respectivamente, para obter esse controle?
+    alternativas:
+      - Validação de dados; Formatação condicional
+      - Formatação condicional; Gerenciador de cenários
+      - Verificação de erros; Teste de hipóteses
+      - Função de consolidação; Formatação condicional
+      - Classificar e Filtrar; Validação de dados
+  - enunciado: |
+      Um funcionário de um determinado banco, ao ser designado para trabalhar no data center da instituição, identificou problemas de segurança. Por essa razão, formulou duas propostas de melhoria: instalar um controle de acesso biométrico nas portas do data center, que estavam sempre abertas, e exigir que as senhas do servidor principal, que nunca expiravam, fossem trocadas a cada 30 dias.
+      Pelo tipo de controle que implementam, as melhorias propostas pelo funcionário são classificadas, respectivamente, como
+    alternativas:
+      - física e processual
+      - física e tecnológica
+      - processual e física
+      - processual e tecnológica
+      - tecnológica e processual
+  - enunciado: |
+      Muitos códigos maliciosos aproveitam-se de um recurso do Windows 10 que possibilita a execução de um programa presente em um dispositivo de armazenamento USB imediatamente após a sua conexão ao computador.
+      Esse recurso, que pode ser desativado, é conhecido como
+    alternativas:
+      - reprodução automática
+      - inicialização automática
+      - execução automática
+      - atualização automática
+      - configuração automática
+  - enunciado: |
+      O Mozilla Firefox apresentou uma página de resultado de uma pesquisa na Web na qual o usuário deseja procurar uma palavra específica.
+      Para fazer isso, o usuário pode acessar a caixa de texto de procura na página, pressionando, em conjunto, as teclas
+    alternativas:
+      - Ctrl e F
+      - Ctrl e T
+      - Ctrl e N
+      - Ctrl e P
+      - Ctrl e S
+  - enunciado: |
+      No código de práticas de segurança da informação, recomenda-se que o acesso ao ambiente operacional (área de trabalho) do computador seja bloqueado quando o usuário do sistema se ausentar do seu posto de trabalho.
+      O atalho do teclado no Windows 10 para fazer esse bloqueio requer o pressionamento combinado das teclas
+    alternativas:
+      - logotipo de Windows e L
+      - Ctrl e C
+      - Ctrl e Z
+      - Alt e F4
+      - logotipo do Windows e D
+  - enunciado: |
+      A segurança da informação deve fazer parte da postura dos colaboradores da empresa no dia a dia de trabalho. Com o objetivo de garantir a autoria dos seus documentos digitais, o colaborador deve executar o processo de assinatura digital para cada documento criado.
+      A assinatura digital é criada pelo signatário do documento com o uso da sua chave
+    alternativas:
+      - privada
+      - pública
+      - simétrica
+      - compartilhada
+      - certificada
