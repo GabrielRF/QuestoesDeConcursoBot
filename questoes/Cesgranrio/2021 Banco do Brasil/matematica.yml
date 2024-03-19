@@ -1,0 +1,45 @@
+---
+materia: Matemática
+cargo: Escriturário - Agente Comercial
+questoes:
+  - enunciado: |
+      Antes de iniciar uma campanha publicitária, um banco fez uma pesquisa, entrevistando 1000 de seus clientes, sobre a intenção de adesão aos seus dois novos produtos. Dos clientes entrevistados, 430 disseram que não tinham interesse em nenhum dos dois produtos, 270 mostraram-se interessados no primeiro produto, e 400 mostraram-se interessados no segundo produto.
+      Qual a porcentagem do total de clientes entrevistados que se mostrou interessada em ambos os produtos?
+    alternativas:
+      - "10%"
+      - "15%"
+      - "20%"
+      - "25%"
+      - "30%"
+  - enunciado: |
+      J modelou um problema de matemática por uma função exponencial do tipo
+      ```
+      a(x)=1000 e^(kx)
+      ```
+      , e L, trabalhando no mesmo problema, chegou à modelagem
+      ```
+      b(x)=10^(2x+3)
+      ```
+      . Considerando-se que ambos modelaram o problema corretamente, e que `ln x = loge(x)`, qual o valor de k?
+    alternativas:
+      - ln 100
+      - ln 2
+      - ln 3
+      - ln 10
+      - ln 30
+  - enunciado: "O método da bisseção é um algoritmo usado para encontrar aproximações das raízes de uma equação. Começa-se com um intervalo [a,b], que contém uma raiz, e, em cada passo do algoritmo, reduz-se o intervalo pela metade, usando-se um teorema para determinar se a raiz está à esquerda ou à direita do ponto médio do intervalo anterior. Ou seja, após o passo 1, obtém-se um intervalo de comprimento (b-a)/2; após o passo 2, obtém-se um intervalo de comprimento (b-a)/4; e após o passo n, obtém-se um intervalo de comprimento (b-2)/(2^n). Esse processo continua até que o intervalo obtido tenha comprimento menor que o erro máximo desejado para a aproximação. Para aplicar esse método no intervalo [1,5], quantos passos serão necessários para obter-se um intervalo de comprimento menor que 10^-3?"
+    alternativas:
+      - 12
+      - 9
+      - 10
+      - 11
+      - 13
+  - enunciado: |
+      Uma loja vende um produto em dois tipos de embalagem: unitária (com uma unidade do produto) e dupla (com duas unidades do produto). Em certo mês, foram vendidas 16 embalagens duplas e 20 unitárias, gerando uma receita para a loja de R$ 488,00. No mês seguinte, foram veddidas 30 embalagens duplas e 25 unitárias, gerando uma receita de R$ 790,00.
+      Qual foi a porcentagem do desconto dado em cada unidade do produto ao se comprar a embalagem dupla?
+    alternativas:
+      - "10%"
+      - "5%"
+      - "8%"
+      - "12%"
+      - "15%"

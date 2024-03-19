@@ -1,0 +1,47 @@
+---
+cargo: Escriturário - Agente Comercial
+materia: Atualidades do Mercado Financeiro
+questoes:
+  - enunciado: |
+      Uma das funções desempenhadas pela moeda é a de reserva de valor, no entanto, a moeda não é o único ativo que desempenha tal função.
+      O motivo que faz com que os cidadãos retenham moeda como reserva de valor é o fato de ela
+    alternativas:
+      - possuir liquidez absoluta.
+      - oferecer um rendimento a seu detentor.
+      - prestar algum serviço ao seu possuidor.
+      - propiciar um aumento no seu valor.
+      - ser protegida contra inflação.
+  - enunciado: "O Registrato é um sistema criado em 2014 e administrado pelo Banco Central, que permite aos cidadãos terem acesso pela internet a relatórios contendo informações sobre"
+    alternativas:
+      - seus relacionamentos com as instituições financeiras, suas operações de crédito e operações de câmbio.
+      - suas receitas e despesas realizadas em todas as instituições financeiras onde têm conta-corrente.
+      - seus dados registrados junto aos serviços de proteção de crédito.
+      - seus relacionamentos interpessoais com pessoas da mesma família (ex: pai, filho e irmão, entre outros) que também possuem contas-correntes.
+      - seus contratos de prestação de serviço firmados na esfera cível.
+  - enunciado: |
+      Um token físico, no contexto de transações bancárias, é um dispositivo eletrônico que possui um botão de ativação e um pequeno visor. O token permite gerar senhas aleatórias, temporárias e numéricas (por exemplo, de seis dígitos). Essa senha é utilizada para dar mais segurança às transações bancárias realizadas via internet. No passado, os bancos comerciais disponibilizavam esses pequenos dispositivos aos seus clientes, de modo que pudessem ser afixados a um chaveiro.
+      Mais recentemente, nos últimos 10 anos, esses dispositivos foram sendo gradativamente substituídos para a grande maioria dos clientes, por um
+    alternativas:
+      - aplicativo de cada banco, instalado e configurado no celular do correntista.
+      - dispositivo que continua com apenas essa funcionalidade, porém um pouco maior, mas que ainda assim cabe em um bolso de camisa.
+      - porta-moedas eletrônico, semelhante aos cartões que dão acesso a meios de transporte.
+      - cartão de crédito que permite autorizar operações por aproximação.
+      - sensor específico para captura de impressões digitais.
+  - enunciado: |
+      A partir do início de 2021, começou a primeira fase de implantação do open banking (sistema financeiro aberto) no Brasil. As instituições financeiras participantes devem obedecer a regras definidas pelo Banco Central e pelo Conselho Monetário Nacional.
+      O open banking tem, entre outros, o objetivo de
+    alternativas:
+      - possibilitar o compartilhamento de informações, mediante autorização expressa de cada cliente, e a movimentação de suas respectivas contas bancárias, entre diferentes instituições financeiras.
+      - criar um mercado eletrônico exclusivo para operação das fintechs.
+      - permitir que mais instituições participem como bancos comerciais do mercado brasileiro, abrindo esse mercado.
+      - controlar as operações de concessão de crédito de cada instituição financeira participante autorizada pelo Banco Central, dando mais transparência ao setor.
+      - recomendar a utilização de um sistema de informações único, de código aberto, para gestão de contas-correntes e suas movimentações, de modo a ser adotado por todas as instituições financeiras em operação no Brasil.
+  - enunciado: |
+      Uma investidora está querendo saber a relação entre a blockchain e o bitcoin.
+      Em sua pesquisa, ela esclareceu sua dúvida, ao descobrir que
+    alternativas:
+      - blockchain é o meio utilizado para registrar e armazenar transações de bitcoin.
+      - blockchain é a tecnologia de inteligência artificial aplicada na bitcoin.
+      - bitcoin é uma moeda digital e blockchain é uma moeda em blocos.
+      - bitcoin é tecnologia usada para implementar a blockchain.
+      - bitcoin e blockchain são duas formas de implementar criptomoedas.
