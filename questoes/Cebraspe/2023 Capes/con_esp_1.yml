@@ -1,0 +1,347 @@
+---
+materia: Ciência e Tecnologia - Conhecimentos Específicos
+cargo: Analista em Ciência e Tecnologia
+questoes:
+  - enunciado: |
+      Julgue os itens a seguir, acerca de aspectos referentes a Estado, governo e administração pública.
+
+      Serviço público é toda atividade que a administração pública executa, direta ou indiretamente, para satisfazer à necessidade coletiva, sob regime jurídico predominantemente público.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em sentido estrito, a administração pública compreende, sob o aspecto subjetivo, apenas os órgãos administrativos, excluídos os órgãos governamentais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Administração pública, em sentido subjetivo, designa a natureza da atividade exercida pelos órgãos e agentes públicos incumbidos de exercer a função administrativa."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação à organização da administração pública, às entidades paraestatais e ao terceiro setor, julgue os itens a seguir.
+
+      As organizações sociais prestam serviço público por delegação do poder público.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As entidades paraestatais são, em regra, criadas pelo Estado, porém a instituição de apenas algumas delas é autorizada por lei ou, pelo menos, depende de algum tipo de impulso estatal."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As entidades da administração indireta com personalidade de direito privado desempenham unicamente atividade delegada pelo Estado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que concerne aos poderes e deveres administrativos, julgue os itens a seguir.
+
+      A discricionariedade existe como poder autônomo, na medida em que permite que um órgão administrativo aprecie, de forma autônoma, determinada situação não regulamentada.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A administração pública, no exercício do poder de polícia, regulamenta as leis e controla sua aplicação, preventivamente, por meio de ordens, notificações, licenças ou autorizações."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, relativos a atos administrativos.
+
+      Os elementos do ato administrativo são o sujeito, o objeto, a forma, o motivo e a finalidade.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em razão da tipicidade, a administração pública é impedida de praticar um ato unilateral e coercitivo sem previsão legal."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os atos normativos emanados do Poder Executivo são atos administrativos, pelo critério subjetivo, orgânico ou formal."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que concerne à investidura em cargo público e à estabilidade dos servidores públicos conforme a Lei n.º 8.112/1990, julgue os itens a seguir.
+
+      Adquirirá estabilidade o servidor que, após o término do vínculo de experiência, permanecer por um período de três anos em efetivo exercício de cargo típico de Estado.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A investidura em cargo público ocorre com a posse."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base na Lei n.º 9.784/1999, que regula o processo administrativo no âmbito da administração pública federal, julgue o item a seguir.
+
+      É dever dos administrados prestar contas concernentes ao interesse da sociedade unicamente quanto ao aspecto financeiro.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, acerca de controle interno e externo da administração pública.
+
+      O controle interno se distingue do externo pelo fato de o primeiro ser um autocontrole, integrante da estrutura própria de cada um dos Poderes da República.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A finalidade do controle é assegurar que a administração pública atue em consonância com os princípios que lhe são impostos pelo ordenamento jurídico, como os da legalidade, da moralidade, da finalidade pública, da publicidade, da motivação e da impessoalidade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de improbidade administrativa, julgue os itens a seguir.
+
+      Constitui ato de improbidade administrativa perceber, dolosamente, vantagem econômica, direta ou indireta, para facilitar a aquisição, permuta ou locação de bem móvel ou imóvel no exercício de cargo público.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Configura improbidade a ação ou omissão decorrente de divergência interpretativa da lei."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue o item a seguir, acerca da responsabilidade civil do Estado.
+
+      A responsabilidade civil do Estado consiste na sua obrigação de reparar economicamente os danos que causar a terceiros no âmbito patrimonial ou moral.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base na Lei n.º 12.527/2011 (Lei de Acesso à Informação), julgue os itens a seguir.
+
+      O acesso à informação compreende, entre outros, o direito de obter informação sobre atividades exercidas pelos órgãos e pelas entidades públicas, exceto as relativas à sua política, à sua organização e a seus serviços.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "É proibido negar acesso à informação necessária à tutela judicial ou administrativa de direitos fundamentais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsecutivos de acordo com a Lei n.º 13.709/2018 (Lei Geral de Proteção de Dados Pessoais — LGPD).
+
+      As sanções previstas na LGPD não podem ser aplicadas cumulativamente.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O poder público pode coletar e tratar dados pessoais manifestadamente tornados públicos pelo seu titular, sem necessidade do consentimento deste, nos casos em que houver persecução do interesse público."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que diz respeito às principais abordagens da administração, às reformas administrativas e à nova gestão pública, julgue os próximos itens.
+
+      No processo evolutivo da administração pública, a administração gerencial destaca-se por concentrar-se no alcance de resultados, rompendo com todos os princípios da administração burocrática.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Prestar serviços públicos de melhor qualidade, reduzir custos e tornar a administração pública mais eficiente foram objetivos estabelecidos na Reforma do Aparelho do Estado, ocorrida a partir de 1995."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A elevação dos níveis de produtividade, por meio de métodos e técnicas da engenharia industrial, caracteriza uma das pretensões originais da administração científica."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A teoria comportamental da administração agregou abordagens das ciências comportamentais à teoria administrativa, sem abandonar as posições normativas e prescritivas das teorias clássica e burocrática."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere às funções de administração e ao planejamento estratégico, julgue os itens seguintes.
+
+      Na análise SWOT de uma instituição educacional, a existência de avançadas metodologias de avaliação de aprendizagem disponíveis no mercado é considerada uma força.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A capacidade de um gestor orientar e supervisionar as equipes de trabalho, visando à correta execução das atividades e ao alcance dos resultados estabelecidos no planejamento, está vinculada à função de direção."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Suponha que, no sítio eletrônico de determinada instituição de fomento à pós-graduação, conste a seguinte frase entre as informações acerca da instituição: “Fomentar a pós-graduação no país a partir da concessão de bolsas e de recursos financeiros para estimular a formação de pessoal qualificado em nível superior e atender ao crescimento do Sistema Nacional de Pós-Graduação, promovendo-se, assim, a qualidade da pós-graduação brasileira.”. Nesse caso, é correto considerar tal frase como a declaração de missão da instituição, por constituir um propósito orientador da sua atuação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Organização é a função de administração que se define pela avaliação e mensuração dos resultados de uma entidade com base em padrões preestabelecidos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação a estratégias genéricas, planejamento tático, planejamento operacional, balanced scorecard e processo decisório, julgue os próximos itens.
+
+      Fatores como inteligência, nível social, costumes e crenças são fundamentais para definir o comportamento do decisor, mas, muitas vezes, o fator emocional é o que desempenha maior influência no ato da tomada de decisão.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "De acordo com a metodologia balanced scorecard, os processos críticos da organização devem ser classificados na perspectiva do cliente, com vistas ao alcance da satisfação e fidelização da clientela."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma empresa que se dedica a prestar atendimento personalizado a seus clientes e a usar em seus produtos matéria-prima de alta qualidade, independentemente dos custos envolvidos, adota uma estratégia de enfoque."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os planos elaborados pelas unidades funcionais de uma instituição para dar consecução ao planejamento estratégico são decorrentes do planejamento tático."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O planejamento operacional de uma instituição deve gerar planos compostos pela especificação das etapas para realização das metas e estabelecer procedimentos, programações e cronogramas de execução."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsequentes, a respeito de estrutura organizacional, departamentalização, organização informal, cultura organizacional, motivação e liderança.
+
+      A motivação dos colaboradores de uma organização decorre da necessidade de alcançar objetivos estabelecidos, independentemente da maneira pela qual a liderança exerça seu poder de influência.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Nas estruturas organizacionais verticalizadas, os colaboradores são capacitados para ter autonomia na tomada de decisão, ao passo que, nas estruturas horizontalizadas, é respeitada a hierarquia."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A departamentalização territorial é recomendável para uma organização que necessite focar nas diferentes características das regiões em que atua."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As culturas organizacionais são relativamente estáveis, na medida em que alterações nelas ocorrem de maneira lenta e gradual, e distintas organizações possuem culturas diferentes entre si, ainda que pertençam a um mesmo ramo de atividade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A organização informal é constituída de maneira espontânea necessariamente pelos colaboradores que integram um mesmo departamento, em razão do seu convívio diário."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens seguintes, relativos a comunicação organizacional, delegação e controle.
+
+      Um controle organizacional adequadamente estabelecido deve englobar o estabelecimento de objetivos, a avaliação do desempenho obtido, a comparação com os padrões estabelecidos e a adoção de medidas corretivas para eventuais distorções constatadas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em uma organização, a integração entre comunicação e marketing permite conferir mais consistência às mensagens da organização, otimizar custos, evitar retrabalhos e alcançar melhores resultados financeiros."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os controles estratégicos de uma organização englobam os controles realizados em cada uma das unidades organizacionais e estão, geralmente, orientados para o exercício anual vigente."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para que a delegação de autoridade ocorra de maneira adequada e efetiva, é necessário que o delegante explique com clareza ao subordinado os resultados esperados, controlando as condições para que este não tenha que tomar decisões."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um adequado sistema de controle deve indicar a ocorrência de eventuais desvios rapidamente, por meio de uma visão panorâmica acerca de onde as variações estão ocorrendo, e fornecer orientação a respeito do que deve ser feito para corrigi-las adequadamente."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Amélia trabalha na área de administração de recursos materiais de uma organização e acaba de receber diversos itens para organizar no estoque, nos quais se incluem resmas de papel.
+      Considerando essa situação hipotética, julgue os itens seguintes, acerca da classificação de materiais.
+      Os itens relacionados à indispensabilidade ou ao grau de dificuldade de sua obtenção no mercado devem ser classificados segundo sua importância operacional.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Caso Amélia classifique os itens em função do atributo abrangência, ela deverá descrever os seus aspectos físicos, financeiros e contábeis."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Se Amélia optar por classificar os itens por meio do atributo de praticidade, o qual não demanda procedimentos complexos, ela deverá caracterizá-los de forma a permitir interfaces de comunicação entre os diversos tipos de classificação porventura existentes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Ao classificar os materiais para organizá-los no estoque, Amélia deve utilizar a metodologia da curva ABC, que estabelece a importância dos materiais em função do valor expresso pela quantidade do item a ser armazenado em determinado período."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As resmas de papel A4 são exemplos de materiais aplicados em diversos setores da organização, podendo, portanto, ser classificadas por Amélia como materiais de consumo geral."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os seguintes itens, relacionados à gestão de estoques nas organizações.
+
+      Os custos de falta de estoque ocorrem quando o estoque mantido é inferior à demanda, o que acarreta a falta do item no momento de sua necessidade.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Se, em determinada organização, tenha sido apurado o consumo anual de 2.200 canetas esferográficas e o estoque médio, nesse período, tenha sido de 440 canetas esferográficas, conclui-se que o giro de estoque, nesse período, foi equivalente a 4."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma das funções dos estoques é proteger as organizações de eventuais oscilações de demanda, embora eles não possam salvaguardá-las das oscilações do mercado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os custos de riscos de estoques estão associados a potenciais perdas, furtos, roubos e avarias."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "De acordo com o método da média móvel, o consumo de determinado item de estoque para o próximo período é obtido a partir da média aritmética ponderada dos dados de consumo dos períodos anteriores."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, a respeito de compras nas organizações.
+
+      Além de dados e informações tradicionais, nos cadastros de fornecedores voltados às compras inteligentes, podem ser incluídos as condições de atendimento de pós-venda, o custo de embalagens e os custos diferenciados por acréscimos ou reduções de quantidades.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Embora a diligência junto aos fornecedores não conste como requisito das funções do setor de compras de uma organização, tais funções requerem que se assegure o efetivo suprimento de materiais e serviços nas quantidades e nos prazos demandados pelos clientes internos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma das utilidades da estrutura centralizada de compras consiste na redução da possibilidade de haver compras duplicadas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As compras do setor público diferem das compras das organizações privadas apenas no que diz respeito à exigência de licitação pública em relação àquele."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A atuação de forma transparente nas compras públicas bem como o tratamento isonômico conferido a potenciais fornecedores são condutas esperadas do servidor público da área de contratações."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere às compras no setor público, julgue os próximos itens, relativos a objeto e edital de licitação.
+
+      Em se tratando de contratação para a elaboração de projetos executivos de engenharia, devem ser previstos, no edital de licitação, alguns elementos obrigatórios, tais como: objeto, com descrição sucinta e clara; prazo e condições para assinatura do contrato; e sanções para o caso de inadimplemento.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Quando da elaboração do edital de licitação, deve-se atentar para o fato de que tipo de licitação diz respeito ao próprio procedimento licitatório, ou seja, ao modo de se proceder à licitação, ao passo que modalidade de licitação consiste no critério de julgamento utilizado pela administração pública para a seleção da proposta mais vantajosa."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Caso o objeto de licitação seja a execução de obras de engenharia, não é permitido que se proíba ou se limite, por meio do edital, a subcontratação dos serviços."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para fins de elaboração de edital, consideram-se bens e serviços comuns aqueles que não carecem de alto grau de customização, como, por exemplo, lápis, borrachas, colas de papel, aparelhos de ar condicionado de especificação usual e pintura de paredes por método convencional."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens seguintes, acerca da gestão patrimonial nas organizações públicas.
+
+      A infestação total de uma mesa de escritório por cupins, com risco de contaminação de outros bens móveis de madeira, constitui fator motivador para a baixa patrimonial e inutilização do referido bem.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No tombamento do bem patrimonial, a etiqueta de identificação do bem deve conter o número da correspondente nota fiscal de aquisição."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A ocorrência de sinistro que envolva bem patrimonial não se caracteriza como fato motivador para a sua baixa patrimonial."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A movimentação de bens patrimoniais como veículos limita-se às seguintes condições: requisição de cliente interno, devolução ou recolhimento."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Quando o levantamento de todos os bens patrimoniais é efetuado no encerramento do exercício fiscal, o inventário é denominado geral."
+    alternativas:
+      - Certo
+      - Errado
