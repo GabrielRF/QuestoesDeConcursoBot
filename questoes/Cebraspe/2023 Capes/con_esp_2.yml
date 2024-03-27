@@ -1,0 +1,350 @@
+---
+materia: Biblioteconomia - Conhecimentos Específicos
+cargo: Analista em Ciência e Tecnologia
+questoes:
+  - enunciado: |
+      Acerca dos conceitos de documentação, biblioteconomia e ciência da informação, julgue os itens a seguir.
+
+      A disciplina ciência da informação surgiu como uma ciência eminentemente social, mas ao longo do tempo identificou-se cada vez mais com o escopo das ciências humanas, à medida que adotou uma abordagem na qual os sujeitos tornaram-se o foco principal tanto em termos de atores quanto de objetivos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A mediação, que antes se concentrava na difusão do conhecimento, agora é definida como ação de interferência realizada pelo profissional da informação. A mudança ressalta mais a transmissão de conhecimento que o diálogo entre os leitores."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A documentação, preconizada por Paul Otlet, tem por objetivo fornecer informação precisa, abrangente, rápida, atualizada, completa e verdadeira."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A definição de documento, como qualquer elemento, concreto ou simbólico, preservado ou registrado com a intenção de representar, reconstituir ou demonstrar um fenômeno, seja físico ou intelectual, é inadequada para o contexto do documento digital."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A documentação moderna é caracterizada por práticas de organização da informação e do conhecimento: indexação, resumos, bibliografias, publicações seriadas, sistemas de informação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito das tecnologias para bibliotecas digitais, julgue os itens subsequentes.
+
+      As bibliotecas adquirem coleções de livros digitais licenciados conforme as diretrizes e modelos de negócio ditados pelos agentes da cadeia de valor do mercado editorial, embora sejam as maiores consumidoras desse tipo de material.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma questão a ser antevista na proposta de uma biblioteca digital é o equilíbrio dos direitos autorais com a liberdade de difusão cultural."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A biblioteca digital compreende coleções de recursos bibliográficos e informacionais que são disponibilizados eletronicamente, acessíveis localmente ou remotamente."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Para que uma coleção seja legitimamente reconhecida como uma biblioteca digital, é imprescindível que haja um equivalente físico do material digitalizado, servindo como reserva ou salvaguarda."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As bibliotecas digitais deverão ofertar, no mínimo, os seguintes três serviços: a categorização e indexação, a síntese de conteúdo em resumos e a análise de dados bibliométricos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "É totalmente factível que uma biblioteca digital oferte serviços como empréstimo, devolução e reserva de alguns dos seus recursos eletrônicos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que tange às normas técnicas para a área de documentação, julgue os próximos itens.
+
+      Ao referenciar parte de monografia em meio eletrônico, indica-se o tipo de suporte, acrescida de indicação de página.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Atos administrativos normativos incluem despachos, editais, portarias, avisos, entre outros. Nesse caso, dados como vigência e atualização são itens essenciais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em títulos e subtítulos extensos, é admissível a omissão das palavras finais desde que tal procedimento não comprometa o sentido original da frase. A supressão deve ser sinalizada por meio da inserção de reticências entre colchetes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As referências bibliográficas devem seguir um formato de espaçamento simples, alinhamento justificado do texto, e separadas por uma linha em branco também com espaçamento simples."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere à elaboração de índices e tesauros, julgue os itens que se seguem.
+
+      Os tesauros têm sua utilidade limitada, por causa da dificuldade de termos representativos para a padronização da linguagem, mesmo que sejam atualizados de acordo com a evolução ou atualização dos conceitos de um domínio.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "É imprescindível que as indicações das palavras-chave sejam retiradas do vocabulário controlado que representa o conteúdo do documento, e cada palavra-chave deve ser separada uma da outra por ponto e vírgula."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A categorização é essencial para a sistematização do conhecimento da realidade, fornecendo princípios para o estabelecimento de relacionamentos associativos. Na elaboração de tesauros, essa prática é crucial para agrupar conceitos de mesma natureza em classes gerais ou facetas, facilitando a construção de cadeias e renques de conceitos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Para a criação do índice, é possível utilizar informações que não estejam explicitamente mencionadas no documento."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca dos estudos de usuários como parte da administração de bibliotecas e desenvolvimento de acervos, julgue os itens seguintes.
+
+      Para a gestão de bibliotecas, principalmente para o desenvolvimento de coleções e a identificação do público-alvo, é essencial priorizar a coleta de dados dos usuários existentes em detrimento dos potenciais, já que a prioridade são os usuários reais.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O descarte é um processo de remanejamento ou retirada do material bibliográfico. A decisão para essa fase precisa ser embasada na política de desenvolvimento de acervo, desde que o estudo de usuário esteja atualizado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A análise dos aspectos do comportamento informacional dá base para criar formas de se comunicar melhor e manter a biblioteca e seus serviços visíveis nas redes sociais. Com isso, fica mais fácil interagir com os usuários e divulgar de maneira eficaz os recursos e conteúdos disponíveis, alcançando mais pessoas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As entrevistas interpretativas e os grupos focais são abordagens metodológicas empregadas para investigar as práticas informacionais, as quais têm sido cada vez mais direcionadas ao estudo do cotidiano, dos ambientes informais e dos domínios do lazer e da cultura."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere aos metabuscadores e aos metadados, julgue os itens subsequentes.
+
+      Dublin core é um conjunto de itens de metadados utilizados para descrever recursos disponíveis em rede.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os metadados contêm informações relativas tanto à natureza bibliográfica do objeto quanto à localização onde é possível encontrá-lo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Se houver muitos sítios relevantes para serem encontrados nos mecanismos de busca, os mecanismos de metabusca frequentemente não encontrarão a maioria deles."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Um dos pontos fortes de um mecanismo de metabusca é executar uma pesquisa em quase todos os mecanismos de busca existentes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação ao tesauro, ao desenvolvimento de coleções e às fontes de informação, julgue os itens que se seguem.
+
+      No âmbito da seleção de materiais de informação, é preciso estabelecer, para documentos disponíveis na Internet, critérios de qualidade semelhantes aos utilizados para a seleção de materiais tradicionais.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A existência de um documento formal de política de seleção justifica-se apenas por seu caráter político, ao proporcionar um instrumento para gerenciamento de conflitos e pressões em torno da coleção."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A primeira etapa do subconjunto da memória documentária, que é a terceira etapa do ciclo da informação, é identificada pelos processos de seleção e aquisição."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Embora o método de categorias tenha trazido para o campo da documentação o princípio norteador para a organização de conceitos em um dado domínio, o tesauro não é considerado um sistema de conceitos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A formação e o desenvolvimento de acervos continuam sendo o foco principal de todos os serviços de informação, mesmo após o aumento da preocupação com a informação propriamente dita e com a qualidade dos serviços."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Quanto à estrutura e às características das publicações a serem feitas no Diário Oficial da União, julgue o item seguinte.
+
+      São publicados na seção 3 do Diário Oficial da União extratos de instrumentos contratuais, editais e comunicados, além de outros atos da administração pública.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere a serviço de referência, disseminação seletiva da informação (DSI), serviços de alerta e estratégia de busca, julgue os próximos itens.
+
+      Antes de consultar qualquer fonte, a pessoa que faz uma busca precisa se certificar de que situou o assunto da consulta na parte correta do campo do conhecimento, e o de que o fez classificando-o.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A definição de instrumentos de alerta e disseminação seletiva de informações é um dos requisitos imprescindíveis para a escolha de um software de bibliotecas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em uma busca, os termos que definem da maneira mais pertinente e mais precisa possível o assunto de uma pesquisa podem ser retirados da linguagem natural, pois raramente os bancos de dados possuem sua própria linguagem de consulta."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O serviço de referência e-reference abarca tanto o atendimento remoto como o atendimento em tempo real."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca do estudo de usuário, da automação de bibliotecas e do gerenciamento de documentos eletrônicos, julgue os itens que se seguem.
+
+      Os bancos de dados ampliam as possibilidades de recuperação da informação para suas bases, oferecendo inclusive recursos para análises estatísticas e bibliométricas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A automação de serviços e sistemas de informação de bibliotecas trata unicamente do uso direto de computadores, da construção e do acesso a bases de dados virtuais nas bibliotecas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em uma entrevista para estudo de usuário, questões idênticas oriundas de diferentes pessoas podem exigir respostas muito diferentes, pois, ainda que o assunto seja o mesmo, a quantidade, o nível e a forma do material talvez não sejam iguais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No âmbito da automação de bibliotecas, a confidencialidade é a propriedade da segurança da informação que garante que a informação seja proveniente da fonte anunciada."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O formato MARC é ferramenta de domínio exclusivo do bibliotecário, que o utiliza na atividade de descrição bibliográfica."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação ao conceito e à classificação de bibliografia, julgue os itens subsecutivos.
+
+      A bibliografia analítica é caracterizada pela utilização direta das bibliografias especializadas existentes.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A bibliografia é um instrumento ou veículo de informação que desempenha uma função inteiramente positiva, conforme a intenção de fazer circular ou restringir o uso dos livros."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com pertinência às bibliotecas digitais, julgue os itens que se seguem.
+
+      Os documentos digitais podem ser facilmente combinados, mas não é possível integrar em um único documento qualquer tipo de material originalmente analógico.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A definição de biblioteca digital é equivalente ao conceito de uma coleção digitalizada datada de instrumentos de gestão da informação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação às abordagens clássica, burocrática e sistêmica da administração, julgue os itens a seguir.
+
+      Os adeptos da abordagem sistêmica na administração defendem a seleção de alguns sistemas sociais a serem estudados quanto à manutenção, ao atingimento de metas, à adaptabilidade e à integração.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A administração burocrática, segundo Weber, corresponde a um sistema que busca organizar, de forma estável e duradoura, a cooperação de poucos indivíduos, cada um detendo funções semelhantes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O pensamento central da escola clássica pode ser sintetizado na afirmação de que o profissional será um bom administrador à medida que seus passos forem planejados, organizados e coordenados de maneira cuidadosa e racional."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere à evolução da administração pública no Brasil após 1930, às reformas administrativas e à nova gestão pública, julgue os próximos itens.
+
+      A reforma administrativa para a implantação da administração pública gerencial começou a ser discutida no país em 1980.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Estado social percebe o cidadão como titular de direitos sociais, e o aparelho estatal como uma fonte de atendimento às necessidades a ele associadas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em 1930, ocorreu a consolidação do modelo de administração burocrática no Brasil, iniciada, ainda no século XIX, por Dom Pedro II."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A crise do Estado no início dos anos 1980 e a posterior crise da União Soviética e das economias dos regimes do Leste Europeu fizeram a efetividade do Estado social ser questionada."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito das funções da administração, julgue os itens subsequentes.
+
+      A função controle mede, regula ou corrige o desempenho da organização e dos recursos utilizados para o atingimento dos objetivos organizacionais.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O planejamento é uma atividade constante nas organizações bem-sucedidas, configurando-se como a primeira das funções administrativas que compõem o processo administrativo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca da estrutura organizacional, julgue os itens subsecutivos.
+
+      A departamentalização permite a criação de órgãos que abrangem a combinação de recursos humanos, financeiros, materiais e tecnológicos, sem representar um papel específico ou focar o alcance do planejamento da organização.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O organograma consiste na representação gráfica da estrutura organizacional, da superposição de órgãos, de forma a representar os órgãos que têm maior ou menor autoridade hierárquica em relação aos demais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação à cultura organizacional, julgue os itens que se seguem.
+
+      O estudo do que é ensinado aos novos membros de um grupo é uma forma de conhecer aspectos superficiais de determinada cultura.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A cultura organizacional compõe-se apenas de comportamentos aprendidos que sejam visivelmente manifestos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Valores expostos constituem regras implícitas, não escritas, vulgarmente conhecidas como “macetes”, que o iniciante deve aprender para ser aceito como membro de uma organização."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considerando que qualidade é definida como a totalidade das características de uma entidade que lhe confere a capacidade de satisfazer necessidades explícitas e implícitas dos clientes, julgue os seguintes itens, a respeito da gestão da qualidade.
+
+      As sete ferramentas para o controle estatístico de qualidade desenvolvidas por Ishikawa são as seguintes: folha de verificação; estratificação; diagrama de Pareto; histograma; diagrama de Ishikawa; diagrama de dispersão; e gráfico de controle de processos, ou de Shewhart.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O controle de qualidade envolve técnicas e atividades operacionais que visam satisfazer os requisitos da qualidade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação ao comportamento organizacional, julgue os itens que se seguem.
+
+      O comportamento organizacional só pode ser compreendido a partir do estudo de indivíduos e grupos em organizações de grande porte, não sendo, portanto, possível sua percepção em ambientes de trabalho de pequenas e médias empresas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A motivação corresponde às forças responsáveis pelo nível, pela direção e pela persistência do esforço que uma pessoa dispende no trabalho."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que diz respeito à gestão de processos, julgue os itens a seguir.
+
+      A modelagem de processos abrange a identificação, o mapeamento, a análise e o redesenho dos processos.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A análise de processos é acompanhada de várias técnicas, entre as quais se incluem mapeamento, entrevistas e simulações."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca da administração direta e indireta federal, julgue os próximos itens.
+
+      A CAPES é uma autarquia federal vinculada ao Ministério da Educação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A administração federal direta possui personalidade jurídica própria, sendo composta pelos ministérios e pelas empresas estatais a eles vinculadas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito dos atos administrativos, julgue os itens que se seguem.
+
+      Entre os atributos dos atos administrativos está o da autoexecutoriedade, que consiste na obrigação de a administração pública utilizar-se da supremacia do interesse público sobre o privado para criar, unilateralmente, obrigações para si e para o particular, sem necessitar da anuência deste.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os atos nulos são aqueles que apresentam defeitos graves insuscetíveis de convalidação, os quais tornam obrigatória a sua anulação."
+    alternativas:
+      - Certo
+      - Errado
