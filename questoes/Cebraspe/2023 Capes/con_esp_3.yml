@@ -1,0 +1,364 @@
+---
+materia: Contabilidade - Conhecimentos Específicos
+cargo: Analista em Ciências e Tecnologia - Contabilidade
+questoes:
+  - enunciado: |
+      Julgue os próximos itens, considerando as Leis n.º 6.404/1976, n.º 11.638/2007, n.º 11.941/2009 e n.º 12.249/2010.
+
+      A fiscalização do exercício da profissão contábil é atribuição exclusiva dos conselhos regionais de contabilidade.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Cumpridos os requisitos legais, a reserva de capital pode ser utilizada para resgate de partes beneficiárias."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma das alterações promovidas na legislação societária foi a classificação, no balanço patrimonial, do ativo em circulante e não circulante, sendo extinto o ativo permanente."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Obedecidos as normas e os dispositivos legais aplicáveis, as contrapartidas a aumentos ou diminuições de valor atribuídos a elementos do ativo ou do passivo, devido a sua avaliação a valor justo, são realizadas em conta de ajustes de avaliação patrimonial, no patrimônio líquido, até que possam ser efetivadas em conta de resultado do exercício, em obediência ao regime de competência."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere à elaboração da demonstração de fluxos de caixa pelos métodos direto e indireto, julgue os itens seguintes.
+
+      Os fluxos de caixa das atividades operacionais, de investimento e de financiamento podem ser apresentados em bases líquidas, em situações específicas previstas nos normativos.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Equivalentes de caixa são numerários em espécie e depósitos bancários disponíveis."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A aplicação do método direto na apuração do fluxo líquido das atividades operacionais dispensa a conciliação entre o lucro líquido e o fluxo de caixa líquido dessas atividades."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Ganhos obtidos com a venda de ativos originalmente utilizados com o objetivo de gerar renda de aluguel integram os fluxos de caixa das atividades operacionais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que diz respeito aos critérios para elaboração do balanço patrimonial, julgue os itens a seguir.
+
+      Ausente o direito, na data do balanço, de diferimento da liquidação de uma obrigação por, pelo menos, doze meses após a data do balanço, o passivo será classificado como circulante.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Considere que, ao final de um exercício social, uma entidade tenha contraído, junto a um fornecedor, uma obrigação a ser quitada em 18 meses, mas que, para se beneficiar de um desconto por quitação antecipada, a entidade tenha previsto liquidar a obrigação até o final do exercício seguinte. Nessas condições, a obrigação deverá, desde seu reconhecimento inicial, ser classificada no passivo circulante."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O grupo investimentos deve evidenciar todas as participações societárias da entidade avaliadas pelo método do valor justo em outros resultados abrangentes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No corrente exercício, uma entidade apurou mais tributo do que deveria pagar, em função de um evento temporário. Em virtude disso, a entidade gerou um ativo fiscal diferido em montante de R$ 45 mil. A previsão é que o ativo diferido gere benefícios por período superior a um exercício social. A entidade divide seus ativos em circulantes e não circulantes, conforme determina a legislação societária.
+
+      A partir da situação hipotética precedente, julgue o próximo item.
+
+      A entidade deverá segregar o ativo fiscal gerado em circulante e não circulante, de acordo com a expectativa de aproveitamento do crédito.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsequentes, a respeito das demonstrações do resultado do exercício e do resultado abrangente.
+
+      Considere que, em determinado exercício social, uma entidade não tenha incorrido em nenhum outro resultado abrangente além daqueles apresentados em sua demonstração do resultado do exercício. Apesar disso, nessa situação, a apresentação de uma demonstração zerada de outros resultados abrangentes é requerida.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Alternativamente ao método obrigatório, o resultado do período poderá ser segregado em valores atribuíveis aos sócios controladores e aos não controladores."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Entre os outros resultados abrangentes devem ser evidenciados os ganhos e as perdas decorrentes de desreconhecimento de ativos financeiros avaliados pelo custo amortizado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na reclassificação de um ativo financeiro da categoria mensurado ao valor justo por meio de outros resultados abrangentes para a categoria mensurado ao valor justo no resultado, os ganhos ou as perdas acumulados antes da reclassificação devem ser transferidos para o resultado do período."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Na tabela a seguir, que representa o balanço patrimonial de uma empresa, 20X0 é o ano inicial, 20X1 é o ano final do período em análise, e os valores estão em reais.
+
+      Tendo como referência as informações precedentes, julgue os itens que se seguem.
+
+      O risco da entidade para investidores é maior no final do período analisado que no início.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em ambos os anos analisados, os recursos onerosos de terceiros financiaram mais de 40% dos investimentos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Durante todo o período analisado, o indicador de composição das exigibilidades manteve-se inferior a 70%."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na comparação entre o início e o fim do período em análise, houve redução no uso de fontes de terceiros para financiar os investimentos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação à análise vertical e horizontal de demonstrações financeiras, julgue os itens subsequentes.
+
+      O grau de imobilização do ativo emprega a mesma metodologia da análise vertical.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A análise horizontal é um bom método para avaliar se a dependência da entidade em relação aos capitais de terceiros é significativa em um dado exercício."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Tanto a análise vertical como a análise horizontal de demonstrações financeiras têm caráter dinâmico, uma ao longo dos exercícios sociais, e outra dentro de um mesmo exercício."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca de sistema de contabilidade federal, noções gerais da contabilidade pública, patrimônio e transações no setor público, julgue os itens a seguir.
+
+      O reconhecimento de uma variação patrimonial aumentativa é registrado concomitantemente à ocorrência do fato gerador da receita pública, não havendo possibilidade de que esse reconhecimento ocorra posteriormente à arrecadação desta.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Sistema de Contabilidade Federal visa a evidenciar a situação financeira, operacional e patrimonial da União bem como prover o planejamento do orçamento federal."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Impostos, taxas e contribuições de melhoria são contabilizados como variações patrimoniais qualitativas aumentativas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No campo de atuação da contabilidade pública, incluem-se tanto as empresas públicas como as sociedades de economia mistas que sejam consideradas empresas estatais dependentes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsequentes, a respeito das transações no setor público e do registro contábil das receitas.
+
+      São considerados como dedução de receita orçamentária os recursos que o ente público tenha a competência de arrecadar, mas que pertencem a outro ente, assim como valores recebidos a maior, como a parcela do imposto de renda retido na fonte além do devido pelas pessoas físicas e jurídicas, mas que deve ser restituído ao contribuinte.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A receita orçamentária realizada tem natureza contábil credora, por isso é registrada no grupo 6 do plano de contas do setor público quando de seu recebimento efetivo, momento em que também são debitadas a conta caixa e a equivalente de caixa, sendo esta última de natureza patrimonial."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os registros das transferências voluntárias entre entes governamentais podem ser contabilizados pelo ente transferidor como uma despesa ou como uma dedução de receita."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os restos a pagar não processados referem-se a despesas empenhadas pendentes de liquidação e pagamento."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A previsão de receitas antecede à fixação do montante de despesas que irão constar nos orçamentos anuais, servindo, também, como base da estimativa das necessidades de financiamento do governo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação aos registros contábeis e ao plano de contas aplicado do setor público (PCASP), julgue os itens que se seguem.
+
+      O lançamento contábil seguinte refere-se ao registro de uma variação patrimonial diminutiva (débito), em face da redução de um ativo (crédito).
+
+      Natureza da informação: patrimonial
+      D 3.x.x.x.x.xx.xx Redução ao valor recuperável de intangíveis
+      C 1.x.x.x.x.xx.xx (-) Redução ao valor recuperável de intangível
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Nos registros contábeis, a verificabilidade é a característica da informação que possibilita aos usuários identificar semelhanças e diferenças entre dois conjuntos de fenômenos, o que representa a qualidade da relação entre dois ou mais itens de informação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As contas orçamentárias de crédito empenhado liquidado e crédito empenhado pago possuem a mesma natureza e pertencem à mesma classe de contas no PCASP."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O ato da inscrição de um crédito em dívida ativa configura fato contábil aumentativo que altera positivamente o valor do patrimônio líquido do ente público, em face do reconhecimento de um direito de longo prazo no ativo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Tendo em vista as regras para as demonstrações contábeis do manual de contabilidade aplicado ao setor público (MCASP), e as receitas e despesas públicas, julgue os itens seguintes.
+
+      Receita orçamentária efetiva é aquela registrada no momento dos ingressos de disponibilidades no caixa do tesouro, como a das operações de crédito.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No balanço orçamentário, ocorrendo um déficit, este será demonstrado pela diferença negativa entre as receitas realizadas e as despesas empenhadas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A ocorrência de uma despesa orçamentária efetiva reduz a situação líquida patrimonial da entidade, por isso constitui fato contábil permutativo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os atos potenciais, resultantes ou independentes da execução orçamentária, que possuem natureza de informação de controle, são integrantes da demonstração das variações patrimoniais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A demonstração das variações patrimoniais de um órgão público que não consolida balanços de outros entes não exclui as contas intraorçamentárias."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, a respeito de regras básicas para a execução orçamentária e financeira, plano de contas, custos, sistema de administração financeira (SIAFI) e suprimentos de fundos.
+
+      Uma despesa executada por meio de suprimento de fundos, a qual é uma espécie de adiantamento de recursos financeiros para que um servidor público execute gastos em nome do órgão a que pertence, deve ser sempre precedida de licitação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      O lançamento contábil a seguir pode ser admitido para representar a aquisição de material de consumo por um determinado órgão da administração direta, sem autorização orçamentária, por meio de aceite de uma nota promissória no valor de R$ 5.000,00.
+
+      Reconhecimento do passivo
+      Natureza da informação: patrimonial
+      D 1.x.x.x.x.xx.xx Almoxarifado (P) 5.000,00
+      C 2.x.x.x.x.xx.xx Fornecedores e contas a pagar a curto prazo (P) 5.000,00
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O sistema de informação de custos do governo federal é um sistema gerencial e de processamento de transações orçamentárias e financeiras destinado à apuração dos custos das operações realizadas no SIAFI e no sistema de administração de pessoal (SIAPE)."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na liquidação de uma despesa, a nota da dotação representa o documento de entrada que habilita o gestor a registar a obrigação de pagamento decorrente do passivo assumido pela prestação de serviço pela empresa contratada mediante licitação."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No plano de contas aplicado ao setor público (PCASP), os custos das mercadorias vendidas, as variações patrimoniais diminutivas e os controles de aprovação do orçamento são registrados em contas de natureza devedora."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação às abordagens clássica, burocrática e sistêmica da administração, julgue os itens a seguir.
+
+      A administração burocrática, segundo Weber, corresponde a um sistema que busca organizar, de forma estável e duradoura, a cooperação de poucos indivíduos, cada um detendo funções semelhantes.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os adeptos da abordagem sistêmica na administração defendem a seleção de alguns sistemas sociais a serem estudados quanto à manutenção, ao atingimento de metas, à adaptabilidade e à integração."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O pensamento central da escola clássica pode ser sintetizado na afirmação de que o profissional será um bom administrador à medida que seus passos forem planejados, organizados e coordenados de maneira cuidadosa e racional."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere à evolução da administração pública no Brasil após 1930, às reformas administrativas e à nova gestão pública, julgue os próximos itens.
+
+      A reforma administrativa para a implantação da administração pública gerencial começou a ser discutida no país em 1980.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em 1930, ocorreu a consolidação do modelo de administração burocrática no Brasil, iniciada, ainda no século XIX, por Dom Pedro II."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Estado social percebe o cidadão como titular de direitos sociais, e o aparelho estatal como uma fonte de atendimento às necessidades a ele associadas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A crise do Estado no início dos anos 1980 e a posterior crise da União Soviética e das economias dos regimes do Leste Europeu fizeram a efetividade do Estado social ser questionada."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito das funções da administração, julgue os itens subsequentes.
+
+      A função controle mede, regula ou corrige o desempenho da organização e dos recursos utilizados para o atingimento dos objetivos organizacionais.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O planejamento é uma atividade constante nas organizações bem-sucedidas, configurando-se como a primeira das funções administrativas que compõem o processo administrativo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca da estrutura organizacional, julgue os itens subsecutivos.
+
+      A departamentalização permite a criação de órgãos que abrangem a combinação de recursos humanos, financeiros, materiais e tecnológicos, sem representar um papel específico ou focar o alcance do planejamento da organização.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O organograma consiste na representação gráfica da estrutura organizacional, da superposição de órgãos, de forma a representar os órgãos que têm maior ou menor autoridade hierárquica em relação aos demais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação à cultura organizacional, julgue os itens que se seguem.
+
+      A cultura organizacional compõe-se apenas de comportamentos aprendidos que sejam visivelmente manifestos.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O estudo do que é ensinado aos novos membros de um grupo é uma forma de conhecer aspectos superficiais de determinada cultura."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Valores expostos constituem regras implícitas, não escritas, vulgarmente conhecidas como “macetes”, que o iniciante deve aprender para ser aceito como membro de uma organização."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considerando que qualidade é definida como a totalidade das características de uma entidade que lhe confere a capacidade de satisfazer necessidades explícitas e implícitas dos clientes, julgue os seguintes itens, a respeito da gestão da qualidade.
+
+      As sete ferramentas para o controle estatístico de qualidade desenvolvidas por Ishikawa são as seguintes: folha de verificação; estratificação; diagrama de Pareto; histograma; diagrama de Ishikawa; diagrama de dispersão; e gráfico de controle de processos, ou de Shewhart.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O controle de qualidade envolve técnicas e atividades operacionais que visam satisfazer os requisitos da qualidade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação ao comportamento organizacional, julgue os itens que se seguem.
+
+      O comportamento organizacional só pode ser compreendido a partir do estudo de indivíduos e grupos em organizações de grande porte, não sendo, portanto, possível sua percepção em ambientes de trabalho de pequenas e médias empresas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A motivação corresponde às forças responsáveis pelo nível, pela direção e pela persistência do esforço que uma pessoa dispende no trabalho."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que diz respeito à gestão de processos, julgue os itens a seguir.
+
+      A modelagem de processos abrange a identificação, o mapeamento, a análise e o redesenho dos processos.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A análise de processos é acompanhada de várias técnicas, entre as quais se incluem mapeamento, entrevistas e simulações."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca da administração direta e indireta federal, julgue os próximos itens.
+
+      A CAPES é uma autarquia federal vinculada ao Ministério da Educação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A administração federal direta possui personalidade jurídica própria, sendo composta pelos ministérios e pelas empresas estatais a eles vinculadas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito dos atos administrativos, julgue os itens que se seguem.
+
+      Entre os atributos dos atos administrativos está o da autoexecutoriedade, que consiste na obrigação de a administração pública utilizar-se da supremacia do interesse público sobre o privado para criar, unilateralmente, obrigações para si e para o particular, sem necessitar da anuência deste.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os atos nulos são aqueles que apresentam defeitos graves insuscetíveis de convalidação, os quais tornam obrigatória a sua anulação."
+    alternativas:
+      - Certo
+      - Errado
