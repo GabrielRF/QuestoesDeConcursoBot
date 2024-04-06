@@ -188,10 +188,11 @@ def bancas_query(query):
         editar=True
         banca = f'{query.data.replace("Banca ", "")}'.split('#')[0]
     concursos = os.listdir(f'questoes/{banca}')
+    concursos = list(reversed(sorted(concursos)))
     button = telebot.types.InlineKeyboardMarkup()
     start = page*paginacao
     end = (page+1)*paginacao
-    for concurso in reversed(sorted(concursos)[start:end]):
+    for concurso in concursos[start:end]:
         if '.swp' in concurso:
             continue
         button.row(
