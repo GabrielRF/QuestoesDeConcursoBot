@@ -1,0 +1,399 @@
+---
+materia: Nível Médio - Dutos e Terminais
+cargo: "Ênfase 2: Dutos e Terminais"
+questoes:
+  - enunciado: "A distribuição eletrônica e a posição na tabela periódica, do elemento químico com número atômico 12, em seu estado fundamental, são, respectivamente,"
+    alternativas:
+      - 1s2 2s2 2p6 3s2 - 3o período; grupo 2
+      - 1s2 2s2 2p4 3s2 - 2o período; grupo 2
+      - 1s2 2s2 2p6 3s2 - 2o período; grupo 3
+      - 1s2 2s2 2p4 3s2 - 3o período; grupo 2
+      - 1s2 2s2 2p6 3s2 - 3o período; grupo 3
+  - enunciado: |
+      A molécula de oxigênio pode ser representada como :Ö=Ö: , segundo o modelo de estruturas de Lewis.
+      O número de elétrons que estão sendo compartilhados para formar a ligação covalente é igual a
+    alternativas:
+      - '4'
+      - '2'
+      - '8'
+      - '10'
+      - '12'
+  - enunciado: |
+      Um balão flexível contém um gás que se comporta idealmente. Na situação inicial, o volume ocupado pelo gás é de 35,0 m3 a 25,0°C e 1,00 atm. Considere o aquecimento do balão, com expansão do volume para 50,0 m3, de tal forma que a pressão permaneceu constante.
+      Nessa situação final, a temperatura do balão, em K, é
+      `Dado: T(K) = T(°C) + 273`
+    alternativas:
+      - '425,7'
+      - '152,7'
+      - '218,1'
+      - '340,6'
+      - '510,8'
+  - enunciado: "À luz da teoria de ácidos e bases de Brönsted-Lowry, conclui-se que um(a)"
+    alternativas:
+      - ácido mais forte tem maior tendência à transferência de um íon H+ do que um ácido mais fraco.
+      - ácido é a espécie com tendência de aceitar um íon H+.
+      - base é a espécie com tendência de transferir um íon H+.
+      - base mais forte tem menor tendência para aceitar um íon H+ do que uma base mais fraca.
+      - amina primária (–NH2) é uma espécie ácida e transfere íons H+.
+  - enunciado: |
+      O entendimento do efeito fotoelétrico, no início do século XX, desempenhou um papel crucial no desenvolvimento da teoria quântica e gerou avanços na compreensão da natureza elétrica da matéria.
+      O princípio fundamental do efeito fotoelétrico consiste na
+    alternativas:
+      - ejeção de elétrons de uma superfície metálica quando ela é exposta à luz.
+      - emissão de luz quando elétrons colidem com átomos de uma superfície metálica.
+      - reflexão total da luz em uma superfície metálica.
+      - refração total da luz em uma superfície transparente.
+      - produção de um campo elétrico em resposta à luz incidida.
+  - enunciado: |
+      Considere o sistema de equações a seguir, que envolvem reações de hidrocarbonetos.
+      As substâncias X, Y e Z são, respectivamente
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_dutos_27.png?raw=true
+    alternativas:
+      - CH4, CH3Cl, HONO2
+      - CH3Cl, CH4, HONO2
+      - CH3Cl, HONO2, CH4
+      - CH4, HONO2, CH3Cl
+      - HONO2, CH4, CH3Cl
+  - enunciado: |
+      Um carrinho utilizado na movimentação de cargas em um armazém é puxado do repouso até uma velocidade de 2,0 m/s em 4 segundos e com movimento uniformemente variado.
+      A distância, em metros, percorrida pelo carrinho durante esse tempo é
+    alternativas:
+      - '4'
+      - '2'
+      - '6'
+      - '8'
+      - '10'
+  - enunciado: |
+      Uma viga de seção transversal retangular de dimensões b x h é submetida a um momento fletor M, conforme indicado na Figura.
+      A tensão normal compressiva máxima na seção mostrada atuará no(s) ponto(s)
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_dutos_29.png?raw=true
+    alternativas:
+      - B e C
+      - A, apenas
+      - B, apenas
+      - A e D
+      - A e B
+  - enunciado: |
+      O descarregamento de uma caixa de massa m é realizado com o deslizamento da caixa por um plano inclinado de a graus (10º < a < 30º), conforme mostrado na Figura.
+      Considerando-se nulo o atrito entre a caixa e o plano, e sendo g a aceleração da gravidade, a aceleração de deslizamento da caixa sobre o plano
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_dutos_30.png?raw=true
+    alternativas:
+      - independe da massa da caixa.
+      - é nula.
+      - é igual a g.
+      - independe do ângulo alfa.
+      - é proporcional à massa da caixa.
+  - enunciado: |
+      Na Figura abaixo, representa-se uma força concentrada F, aplicada à extremidade da viga biapoiada ABCD, com o objetivo de elevar uma carga posicionada conforme indicado.
+      O menor valor da força F, expressa em newtons, para elevar uma carga P de 2.100 N, que faz com que a reação no apoio A seja nula, é
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_dutos_31.png?raw=true
+    alternativas:
+      - '700'
+      - '525'
+      - '1.575'
+      - '1.050'
+      - '2.100'
+  - enunciado: |
+      A estrutura representada na Figura abaixo é constituída de 3 barras unidas pelo pino B. Considere que as barras 1 e 2 tenham área de seção transversal de 1,0 cm2, e a barra 3, área de 1,2 cm2.
+      As tensões normais que atuam nas barras 1, 2 e 3 para suportar a carga P de 2.400 N são, em MPa, respectivamente, de
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_dutos_32.png?raw=true
+    alternativas:
+      - 24 (compressão), 24 (compressão) e 20 (tração)
+      - 20 (compressão), 24 (compressão) e 24 (tração)
+      - 20 (tração), 20 (compressão) e 24 (tração)
+      - 24 (compressão), 24 (tração) e 20 (compressão)
+      - 24 (compressão), 24 (compressão) e 24 (tração)
+  - enunciado: |
+      O Sistema Internacional de Unidades (SI) admite a utilização de múltiplos e submúltiplos das unidades.
+      Uma força de 1,0 kN que atua no sentido de comprimir uma barra cuja seção transversal é de 5,0 cm2 provocará uma tensão normal compressiva, expressa em MPa, de
+    alternativas:
+      - '2,0'
+      - '0,1'
+      - '0,2'
+      - '1,0'
+      - '10,0'
+  - enunciado: |
+      Todo processo de transformação do estado de uma determinada substância em uma cadeia de processamento, para a composição de um produto final, envolve operações que necessitam de controle, a fim de manter algumas grandezas dentro de valores pré-estabelecidos. A vazão é uma das principais variáveis desse tipo de processo e pode ser medida utilizando-se um medidor de vazão por área variável, no qual um flutuador varia sua posição dentro de um tubo cônico, proporcionalmente à vazão do fluido.
+      Esse tipo de medidor é denominado
+    alternativas:
+      - rotâmetro
+      - célula capacitiva
+      - manômetro
+      - placa orifício
+      - tubo Venturi
+  - enunciado: |
+      Considere uma força magnética atuando em um condutor retilíneo de comprimento l, percorrido por uma corrente i. Esse condutor está imerso em uma região onde existe um campo magnético uniforme (B), que forma um ângulo θ com o condutor.
+      Essa força magnética é representada pela seguinte equação:
+    alternativas:
+      - F = B (sen θ / il)
+      - F = B (sen B / il)
+      - F = B i l cos θ
+      - F = B (tan θ / il)
+      - F = B i l
+  - enunciado: |
+      Um técnico atuante na área de óleo e gás deve ter conhecimento dos riscos inerentes ao trabalho de extração, refino e manipulação de petróleo e de seus derivados. Um conhecimento muito importante é sobre os sistemas instrumentados de segurança que operam acima da camada de controle de processo e que atuam na presença de falha de algum componente ou do desvio dos limites toleráveis de operação do processo, garantindo a segurança dos trabalhadores e das instalações.
+      O nível de integridade de segurança (SIL) que oferece o maior nível de redução do fator de risco é o
+    alternativas:
+      - '4'
+      - '0'
+      - '3'
+      - '5'
+      - '6'
+  - enunciado: "A partir de dois métodos de conversão de sinal — método de equilíbrio de força e método de equilíbrio de movimento — são fabricados os tipos de transmissores"
+    alternativas:
+      - pneumáticos
+      - eletrônicos e analógicos
+      - digitais
+      - inteligentes
+      - smart
+  - enunciado: |
+      Em metrologia, há um conceito associado ao conjunto de condições que incluem o mesmo procedimento de medição, os mesmos operadores, o mesmo sistema de medição, as mesmas condições de operação e o mesmo local de medição.
+      Trata-se do conceito de condições de
+    alternativas:
+      - repetibilidade
+      - abrangência
+      - aleatoriedade
+      - definibilidade
+      - reprodutibilidade
+  - enunciado: |
+      O dispositivo representado na Figura abaixo é um tubo de Venturi, que compreende duas seções, a maior com área S1, e a menor, com área S2, ambas conhecidas. Nas direções verticais correspondentes aos pontos P1 e P2, são conectados dois tubos verticais, ambos com as extremidades superiores abertas e as inferiores em comunicação com o interior desse tubo, por onde um fluido conhecido é canalizado. Considere que: v1 é a velocidade na região S1; v2, a velocidade na região S2 (garganta); e Deltah, a medida do desnível do líquido existente nos tubos verticais.
+      Esse dispositivo é usado para medir
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_dutos_39.png?raw=true
+    alternativas:
+      - vazão
+      - calor
+      - temperatura absoluta
+      - temperatura relativa
+      - viscosidade
+  - enunciado: |
+      O recipiente cilíndrico de diâmetro igual a 12 m, representado na Figura abaixo, é aberto no topo e contém água, cuja densidade é igual a 1.000 kg/m3, até a linha indicada. O nível da água no interior do reservatório está a uma altura h1 = 10,8 m, e a tubulação de saída, um duto circular com 20 cm2 de área de seção reta, está a uma altura h2 = 9 m.
+      Considerando-se a situação apresentada, a vazão de saída de água, em kg/s, é igual a
+      `Dado g = 10 m/s^2`
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_dutos_40.png?raw=true
+    alternativas:
+      - '12'
+      - '0,012'
+      - '0,12'
+      - '1,2'
+      - '120'
+  - enunciado: |
+      O dióxido de enxofre é um gás razoavelmente solúvel em água, sendo usado para a produção industrial de ácido sulfúrico. Uma matéria prima contendo enxofre elementar sofreu uma reação na presença de excesso de gás oxigênio, para formar 50.000 L do gás SO2, medido nas condições normais de temperatura e pressão (CNTP) e assumindo comportamento ideal dos gases, como mostrado na reação abaixo.
+      `S(s) + O2(g) → SO2(g)`
+      A reação do enxofre foi completa, e a massa da matéria prima era 80,0 kg.
+      A partir dessa informação, a percentagem, em massa, de enxofre elementar na matéria prima é, aproximadamente,
+      `Dado R = 0,082 atm L mol-1 K-1`
+    alternativas:
+      - '82%'
+      - '25%'
+      - '36%'
+      - '44%'
+      - '73%'
+  - enunciado: |
+      Ao se inserir um pedaço de ferro metálico em uma solução aquosa de sulfato de cobre, observa-se a formação espontânea de uma camada acobreada na superfície da placa de ferro.
+      Sobre essa reação, verifica-se que o
+    alternativas:
+      - Fe(s) sofre oxidação.
+      - processo envolve 1 mol de elétrons por 1 mol de Fe(s) reagido.
+      - Cu2+(aq) perde elétrons.
+      - Cu(s) reduz formando Cu2+(aq).
+      - potencial padrão de redução do Cu(s) é menor do que o do Fe(s).
+  - enunciado: |
+      A decomposição do carbonato de cálcio produz CO2, como representado na reação termoquímica abaixo.
+      `CaCO3(s) → CaO(s) + CO2(g); ΔH0 = +179 kJ`
+      Considerando-se o comportamento ideal do gás e o rendimento máximo da reação, a energia necessária, em MJ, para produzir 36 m3 de CO2, medido nas condições normais de temperatura e pressão (CNTP) é, aproximadamente,
+      ```
+      Dados
+      R × T = 24,4 atm L mol-1
+      M = 10^6
+      ```
+    alternativas:
+      - '+264'
+      - '-132'
+      - '-179'
+      - '+132'
+      - '+528'
+  - enunciado: |
+      Uma solução comercial de um algicida contém 30 g de cloreto de N,N-2-metil propilamônio em 100 mL de solução. Para tratar situações de elevada formação de algas, a receita é separar uma alíquota de 5,0 mL da solução comercial, diluindo em água para formar 4,0 L de solução final.
+      A concentração do princípio ativo, em g L-1, dessa solução final é, aproximadamente,
+    alternativas:
+      - '0,38'
+      - '0,15'
+      - '0,26'
+      - '0,52'
+      - '0,90'
+  - enunciado: |
+      Uma solução aquosa de hidróxido de sódio tem densidade igual a 1,40 g mL-1 e 40% de teor do soluto, em massa.
+      A concentração, em mol L-1, do hidróxido na solução é
+      `Dado M(NaOH) = 40 g mol-1`
+    alternativas:
+      - '14'
+      - '4'
+      - '8'
+      - '10'
+      - '16'
+  - enunciado: |
+      O bicarbonato de sódio (NaHCO3) é um reagente usado para finalidades diversas por conta de sua capacidade para neutralização de ácidos e para produção do gás CO2. Em contato com soluções aquosas ácidas, reage como representado a seguir.
+      ```
+      NaHCO3(s) + H3O+(aq) → Na+(aq) + 2H2O(l) + CO2(g)
+      ```
+      Considerando-se a proporção estequiométrica e o rendimento completo de reação, a massa de bicarbonato de sódio necessária para neutralizar 20,0 L de solução aquosa, cujo pH medido foi 2, é
+    alternativas:
+      - '16,8'
+      - '8,4'
+      - '24,6'
+      - '33,6'
+      - '40,2'
+  - enunciado: |
+      Nanopartículas de prata (AgNP) são nanoestruturas contendo algumas centenas de átomos de Ag, cuja superfície apresenta carga elétrica que as mantém dispersas em meio aquoso.
+      Baseado no tamanho e no grau de espalhamento de luz incidente, calculou-se em 1 × 10-5 mol L-1 a concentração de AgNP na dispersão. A partir do tamanho médio, determinou-se que haveria 500 átomos de Ag por nanopartícula.
+      Considerando-se esses dados, verifica-se que a massa de prata, em mg, presente em 1 mL de dispersão é
+      ```
+      Dados
+      1 mol = 6 x 10^23 unidades
+      M (Ag) = 108 g mol-1
+      ```
+    alternativas:
+      - '0,54'
+      - '0,028'
+      - '0,054'
+      - '0,14'
+      - '0,28'
+  - enunciado: |
+      A protonação de uma amina biogênica requer absorção de calor, atingindo uma situação de equilíbrio no meio aquoso, como descrito na reação abaixo.
+      ```
+      H2N-CH2-CH2-CH2-CH2-NH2(aq) + 2 H+(aq) <-> +H3N-CH2-CH2-CH2-CH2-NH3+(aq)
+      ```
+      Nesse sistema, verifica-se que o(a)
+    alternativas:
+      - aumento da concentração de H+ deslocaria a reação para a formação de +H3N-CH2-CH2-CH2-CH2-NH3+.
+      - resfriamento da solução deslocaria a reação para a formação de +H3N-CH2-CH2-CH2-CH2-NH3+.
+      - equilíbrio não dependeria do pH do meio.
+      - constante de equilíbrio seria K = [+H3N-CH2-CH2-CH2-CH2-NH3+]/[H+]2.
+      - diluição da solução com água não perturbaria o equilíbrio.
+  - enunciado: "Se um sensor analógico de nível transmitir um sinal elétrico em tensão de 1 Vcc a 6 Vcc para um range de 0,7 m a 2,2 m, qual deverá ser a sensibilidade, em Vcc/m, desse sensor?"
+    alternativas:
+      - '4,00'
+      - '2,27'
+      - '2,73'
+      - '4,67'
+      - '3,33'
+  - enunciado: |
+      Um cilindro longo de um material de condutividade térmica k, comprimento L e raio da seção reta R, está colocado entre uma fonte fria à temperatura TF e uma fonte quente à temperatura TQ. O fluxo estacionário de calor que passa por esse cilindro é J1. Um outro cilindro, feito de outro material, com condutividade térmica k/2, comprimento 4L e raio de seção reta 4R, é colocado entre as mesmas fontes, fria e quente. Para esse segundo cilindro, o fluxo estacionário de calor é J2.
+      A relação entre os fluxos estacionários de calor, J2/J1, é igual a
+    alternativas:
+      - '2'
+      - '16'
+      - '2'
+      - '1'
+      - '1/2'
+  - enunciado: |
+      Em um acelerador eletrostático linear, com comprimento igual a 6,0 m, prótons são acelerados a partir do repouso até uma velocidade final de 4,0 . 106 m/s.
+      Qual é a diferença de potencial, em kV, na qual esse acelerador opera?
+      ```
+      Dados
+      carga elétrica do próton = 1,6 . 10^-19 C
+      massa do próton = 1,7 . 10^-27 kg
+      ```
+    alternativas:
+      - '85'
+      - '8,5'
+      - '17'
+      - '34'
+      - '170'
+  - enunciado: |
+      Uma máquina térmica reversível realiza trabalho em ciclos, de modo que retira 240 J de uma fonte quente a 627oC e rejeita 80 J em uma fonte fria à temperatura TF.
+      Qual é, em oC, a temperatura TF?
+    alternativas:
+      - '27'
+      - '-273'
+      - '327'
+      - '627'
+      - '900'
+  - enunciado: |
+      A energia interna de um gás ideal diatômico depende apenas de sua temperatura. Esse gás ideal passa por um processo isotérmico, em contato com uma fonte térmica à temperatura T. Observa-se que ele realiza um trabalho total de 350 J sobre o meio ambiente.
+      O calor trocado pelo gás com a fonte térmica T é igual a
+    alternativas:
+      - 350 J, e o calor é absorvido pelo gás.
+      - 175 J, e o calor é rejeitado pelo gás.
+      - 175 J, e o calor é absorvido pelo gás.
+      - 350 J, e o calor é rejeitado pelo gás.
+      - 700 J, e o calor é rejeitado pelo gás.
+  - enunciado: |
+      Um grande imã gera, em uma região do espaço, um campo magnético uniforme, orientado verticalmente para cima. Um feixe de elétrons é lançado horizontalmente, nessa região.
+      Logo após entrar nessa região, esse feixe de elétrons é
+    alternativas:
+      - defletido no plano horizontal, perpendicularmente à direção de sua velocidade.
+      - acelerado, mantendo sua direção original.
+      - freado, mantendo sua direção original.
+      - defletido verticalmente para cima.
+      - defletido verticalmente para baixo.
+  - enunciado: |
+      Uma partícula pontual A, de massa 1,5 . 10-6 g, tem carga elétrica igual a +2,0 . 10-6 C e está fixa na origem do eixo x. Na posição x = +4,0 cm, encontra-se outra partícula pontual B, com metade da massa e o dobro da carga elétrica da partícula A.
+      O módulo, em newtons, e o sentido da força elétrica sentida pela partícula A devido à partícula B são, respectivamente,
+      ```
+      Dado
+      constante elétrica k = 9,0 . 10^9 N m2/C2
+      ```
+    alternativas:
+      - 45, sentido negativo de x
+      - 22,5, sentido negativo de x
+      - 22,5, sentido positivo de x
+      - 45, sentido positivo de x
+      - nulos, já que o efeito das massas anula a força elétrica
+  - enunciado: |
+      Na Figura abaixo, são mostrados 3 vasos, A, B e C, abertos para a atmosfera. Esses vasos têm formas diferentes, mas foram preenchidos com água até o mesmo nível.
+      A relação entre as pressões no fundo de cada um deles é descrita por
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_dutos_56.png?raw=true
+    alternativas:
+      - PB = PA = PC
+      - PB > PA > PC
+      - PB = PA > PC
+      - PB > PA = PC
+      - PB < PA < PC
+  - enunciado: |
+      Na Tabela abaixo são apresentadas algumas características termodinâmicas de um ciclo ideal de refrigeração por compressão de vapor.
+      *Ciclo ideal de refrigeração*
+      ```
+      Característica                      | Valor
+      Calor trocado no evaporador         | 120 kJ/kg
+      Capacidade                          | 4,8 kW
+      Trabalho do compressor              | 40 kJ/kg
+      Razão de circulação do refrigerante | 0,04 kg/s
+      ```
+      Com base nessas características, qual é o valor do coeficiente de eficácia desse ciclo?
+    alternativas:
+      - '3,00'
+      - '0,12'
+      - '4,80'
+      - '0,33'
+      - '1,60'
+  - enunciado: |
+      Um técnico precisava trocar um medidor de vazão e consultou o almoxarifado sobre a disponibilidade desse tipo de instrumento.
+      Sabendo-se que o medidor que será substituído é do tipo direto mássico, que medidor de vazão esse técnico deverá receber do almoxarifado?
+    alternativas:
+      - Coriolis
+      - Bocal de vazão
+      - Placa de orifício
+      - Tubo de Pitot
+      - Tubo de Venturi
+  - enunciado: |
+      Um sistema de primeira ordem, como, por exemplo, um sistema para controle de nível, apresenta a seguinte função de transferência:
+      ```
+      G(s) = 25/(s + 25).
+      ```
+      Qual é o valor, em segundos, da constante de tempo desse sistema?
+    alternativas:
+      - '0,04'
+      - '0,01'
+      - '0,02'
+      - '0,03'
+      - '0,05'
+  - enunciado: |
+      As bombas industriais podem ser classificadas em dois grandes grupos: as bombas dinâmicas e as bombas volumétricas, cada um com seus subgrupos.
+      A bomba que corresponde a uma bomba volumétrica do tipo rotativa é a
+    alternativas:
+      - de palhetas deslizantes
+      - centrífuga
+      - de pistão
+      - de êmbolo
+      - de diafragma
