@@ -1,0 +1,107 @@
+---
+materia: Nível Médio - Matemática
+cargo: Todos os cargos de nível médio
+questoes:
+  - enunciado: "Considerando-se os números reais 2^75, 3^50 e 4^37, o menor e o maior deles são, respectivamente,"
+    alternativas:
+      - "4^37 e 3^50"
+      - "4^37 e 2^75"
+      - "3^50 e 2^75"
+      - "3^50 e 4^37"
+      - "2^75 e 4^37"
+  - enunciado: |
+      *Após 28 anos de existência, nota de R$ 100 compra em 2022 o mesmo que R$ 13,91 em 1994*
+      Suponha que, em 1994, um artigo custasse R$ 13,91 e, exatos 28 anos depois (336 meses), ele passasse a custar R$ 100,00. Suponha, também, que, para esse período, a taxa mensal de aumento no preço desse artigo tenha sido igual a k%, ou seja, a cada mês o preço do artigo sofreu um aumento de k% em relação ao preço do mês anterior.
+      O valor de k pode ser dado por
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_matematica_12.png?raw=true
+    alternativas:
+      - "100 (100/13,91)^(1/336) - 100"
+      - "100 (100/13,91)^336 - 100"
+      - "(100/13,91)^(1/336)  - 1"
+      - "(100/13,91)^336 + 0,01"
+      - "100 (100/13,91)^(1/336) + 0,01"
+  - enunciado: |
+      Uma empresa, em reconhecimento ao desempenho de 10 de seus funcionários, decide dar-lhes um bônus. Para tanto, a empresa distribuiu um total de R$ 25.000,00, de acordo com a Tabela a seguir:
+      ```
+      Número de funcionários | Valor do bônus (em reais)
+                6            |           2000
+                2            |           2500
+                2            |           4000
+      ```
+      Nessas condições, o desvio padrão dos bônus pagos é dado por
+    alternativas:
+      - "√((2⋅500^2 + 2⋅155^2) / 10)"
+      - "√((36⋅2000^2 + 4⋅2500^2 + 4⋅4000^2) / 10)"
+      - "√((36⋅500^2 + 4⋅2500^2 + 4⋅1500^2) / 10)"
+      - "√((6⋅2000^2 + 2⋅2500^2 + 2⋅4000^2) / 10)"
+      - "√((6⋅500^2 + 2⋅1500^2) / 10)"
+  - enunciado: |
+      O quadrado de um número real x é representado por x2, e é definido por x2 = x.x.
+      A condição x ≤ x2 é *FALSA* quando x é igual a
+    alternativas:
+      - "1/2"
+      - "0"
+      - "1"
+      - "-1/2"
+      - "3/2"
+  - enunciado: |
+      Em uma escola, há cinco turmas que fizeram uma prova de matemática, e cada uma possui 60 estudantes. As notas obtidas em cada turma tiveram as seguintes distribuições:
+      ```
+      Turma 1: 30 notas iguais a 0 e 30 notas iguais a 10;
+      Turma 2: 30 notas iguais a 2 e 30 notas iguais a 8;
+      Turma 3: 30 notas iguais a 3 e 30 notas iguais a 7;
+      Turma 4: 30 notas iguais a 4 e 30 notas iguais a 6;
+      Turma 5: 60 notas iguais a 5.
+      ```
+      Em qual das turmas o desvio-padrão das notas obtidas foi igual a zero?
+    alternativas:
+      - Turma 5
+      - Turma 1
+      - Turma 2
+      - Turma 3
+      - Turma 4
+  - enunciado: |
+      Um carro partiu de um ponto A até um ponto B andando com uma velocidade constante de 80 km/h. Posteriormente o carro refez o mesmo percurso, mas agora com velocidade constante igual a 100 km/h, e gastou 30 minutos a menos do que na primeira vez.
+      Quanto tempo o carro levou para ir do ponto A ao ponto B, na primeira vez?
+    alternativas:
+      - 2h30min
+      - 3h
+      - 2h
+      - 1h50min
+      - 1h30min
+  - enunciado: |
+      Em uma fábrica, há um tanque cuja capacidade máxima é de 180 m3. Estando o tanque vazio, três torneiras de mesma vazão gastam oito horas para enchê-lo completamente. Um outro tanque, com capacidade máxima de x metros cúbicos, está sendo construído e, quando vazio, cinco torneiras (com a mesma vazão das anteriores) deverão enchê-lo completamente em apenas y horas.
+      Nessas condições, o valor de y em função de x é definido por
+    alternativas:
+      - y = 2x/75
+      - y = 2x/81
+      - y = 2x/54
+      - y = 2x/45
+      - y = 2x/27
+  - enunciado: |
+      Em um torneio de videogame, o menino J disputou apenas três partidas, fazendo um total de 2.660 pontos. Na segunda partida, ele fez 410 pontos a mais do que fez na primeira; na terceira partida, fez apenas metade de pontos que fez na segunda.
+      O número de pontos feitos por J, apenas na primeira partida, quando dividido por 5, deixa resto igual a
+    alternativas:
+      - '3'
+      - '4'
+      - '2'
+      - '1'
+      - '0'
+  - enunciado: |
+      O triângulo ABC é retângulo em A. Sabe-se que o comprimento da hipotenusa BC é igual a 20 cm, e que o comprimento do cateto AB é igual a 12 cm.
+      Qual é a área, em cm2, do triângulo ABC?
+    alternativas:
+      - '96'
+      - '16'
+      - '48'
+      - '60'
+      - '240'
+  - enunciado: |
+      Um consumidor foi ao mercado, comprou 1 kg de batata e 1 kg de cebola e pagou R$ 11,00. No dia seguinte, ele comprou 3 kg de batata e 2 kg de cebola e pagou R$ 28,00. No terceiro dia, ele comprou 2 kg de batata e 1 kg de cebola.
+      Considerando-se que os preços não foram alterados durante esse período, que valor, em R$, o consumidor pagou no terceiro dia?
+    alternativas:
+      - '17'
+      - '5'
+      - '6'
+      - '16'
+      - '39'
