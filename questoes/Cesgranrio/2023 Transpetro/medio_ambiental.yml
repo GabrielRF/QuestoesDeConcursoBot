@@ -1,0 +1,374 @@
+---
+materia: Nível Médio - Ambiental
+cargo: "Ênfase 1: Ambiental"
+questoes:
+  - enunciado: |
+      O enxofre segue predominantemente um ciclo sedimentar, com uma fase gasosa de menor relevância. No entanto, a atividade humana interfere nesse ciclo ao liberar grandes quantidades de dióxido de enxofre, durante os processos de queima de carvão e óleo combustível, em instalações industriais e usinas termoelétricas.
+      O dióxido de enxofre, com potenciais efeitos danosos ao organismo, provoca, em certas situações, o fenômeno denominado
+    alternativas:
+      - chuva ácia
+      - inversão térmica
+      - maré vermelha
+      - desmatamento
+      - El Niño
+  - enunciado: |
+      O entendimento das projeções cartográficas é crucial para representar precisamente a superfície curva da Terra em mapas planos, permitindo a comunicação eficaz de informações geográficas e a tomada de decisões em diversas áreas, como no planejamento urbano e na gestão ambiental.
+      São exemplos de projeções cilíndricas as projeções
+    alternativas:
+      - polares e as projeções transversais
+      - cônicas e as projeções polares
+      - oblíquas e as projeções cônicas
+      - oblíquas e as projeções planas
+      - planas e as projeções transversais
+  - enunciado: |
+      O ciclo hidrológico é um tema essencial para a hidrologia, descrevendo a circulação contínua da água na Terra.
+      Um processo do ciclo hidrológico natural que ocorre nas folhas da cobertura vegetal, nos caules, nos ramos e no material vegetal em decomposição sobre o solo é a
+    alternativas:
+      - interceptação
+      - percolação
+      - fotossíntese
+      - infiltração
+      - irrigação
+  - enunciado: "Qual é o ecossistema aquático que se caracteriza por ser originado de períodos de intensa atividade vulcânica e tectônica, apresentando, em função disso, distribuição localizada na superfície terrestre, conforme as regiões onde tais ações se fizeram mais pronunciadas?"
+    alternativas:
+      - Lagos e lagoas
+      - Estuários
+      - Oceanos
+      - Rios
+      - Mangues
+  - enunciado: |
+      A radiação solar desempenha um papel fundamental no sistema climático. Quando a radiação solar penetra na atmosfera, parte da energia incidente é refletida pelas nuvens e por outras partículas suspensas no ar, volta ao espaço e torna-se perdida para a Terra.
+      Esse fenômeno é denominado
+    alternativas:
+      - albedo
+      - absorção
+      - dispersão
+      - difusão
+      - transmissão
+  - enunciado: |
+      A gestão do planejamento das cidades no Brasil é uma responsabilidade atribuída constitucionalmente aos municípios, que inclui a definição oficial das zonas urbanas, rurais e de outras áreas onde são aplicados os instrumentos de planejamento ambiental.
+      No âmbito do meio ambiente urbano, um dos principais instrumentos de planejamento ambiental é o(a)
+    alternativas:
+      - Zoneamento Ecológico-Econômico – ZEE
+      - Registro de Emissões de Metano em Áreas Rurais
+      - Cadastro Ambiental Rural
+      - Licença para Exploração Mineral
+      - Licença para Exploração de Recursos Hídricos
+  - enunciado: |
+      Existem vários modelos de desenvolvimento que moldam as políticas econômicas e sociais em diferentes partes do mundo.
+      O uso racional de energia e matéria, no modelo de desenvolvimento sustentável, é enfatizado com o propósito de
+    alternativas:
+      - conservar recursos, em contraposição ao desperdício.
+      - maximizar o crescimento econômico.
+      - aumentar o consumo individual.
+      - incentivar o desperdício.
+      - fomentar a competição global.
+  - enunciado: |
+      Diversas ações ambientais em prática no Brasil têm como objetivos assegurar recursos para apoiar projetos ou estudos e financiar empreendimentos que visem à mitigação da mudança do clima e à adaptação à mudança do clima e aos seus efeitos.
+      Uma das ações recomendáveis para redução de gases do efeito estufa consiste em
+    alternativas:
+      - usar tecnologias para tratamento de dejetos de animais.
+      - explorar reservas do pré-sal.
+      - utilizar energia de xisto betuminoso.
+      - expandir a produção de carvão mineral como fonte de energia.
+      - usar pesticidas agrícolas.
+  - enunciado: |
+      O conhecimento sobre os poluentes atmosféricos é fundamental para entender os desafios relacionados à qualidade do ar e os seus impactos na saúde humana e no meio ambiente.
+      Considera-se como poluente atmosférico significativo o
+    alternativas:
+      - gás sulfídrico
+      - argônio
+      - neônio
+      - nitrogênio
+      - gás hélio
+  - enunciado: "Os equipamentos frequentemente utilizados na indústria para a queima segura de poluentes gasosos em espaço aberto, especialmente quando as concentrações dos poluentes estão próximas ou acima do limite inferior de inflamabilidade, são denominados"
+    alternativas:
+      - flares
+      - filtros eletrostáticos
+      - torres de resfriamento
+      - reatores químicos
+      - compressores de ar
+  - enunciado: "A energia relacionada à matéria vegetal produzida pelo sol, por meio da fotossíntese, é a(o)"
+    alternativas:
+      - biomassa
+      - energia solar
+      - energia geotécnica
+      - carvão
+      - biogás
+  - enunciado: |
+      Os processos de formação de rochas são lentos, sendo que as rochas podem ser classificadas em três grandes grupos: ígneas, sedimentares e metamórficas.
+      São rochas metamórficas:
+    alternativas:
+      - mármore e xisto
+      - granito e mármore
+      - arenito e gnaisse
+      - xisto e basalto
+      - siltito e gnaisse
+  - enunciado: |
+      A classificação dos perfis hipotéticos de solos varia, verticalmente, com a profundidade em horizontes acima da rocha-fonte.
+      Nessa classificação, o horizonte de máxima acumulação iluvial ou concentração relativa de argila e de óxidos, de máxima expressão da gênese do solo, é o horizonte
+    alternativas:
+      - B
+      - A
+      - R
+      - O
+      - C
+  - enunciado: |
+      ```
+      As Cartas de Sensibilidade Ambiental a Derramamentos de Óleo (Cartas SAO), de uso internacionalmente consagrado, constituem ferramentas essenciais e fonte primária de informações para o planejamento de contingência e para a implementação de ações de resposta a incidentes de poluição por óleo, permitindo identificar os ambientes com prioridade de proteção e as eventuais áreas de sacrifício, e possibilitando o correto direcionamento dos recursos disponíveis e a mobilização adequada das equipes de contenção e limpeza.
+      ```
+      `BRASIL. Ministério do Meio Ambiente. Especificações e normas técnicas para elaboração de cartas de sensibilidade ambiental para derramamentos de óleo. Brasília, DF. 2007. p.17.`
+      As Cartas de Sensibilidade devem atender a todos os níveis de derramamentos de óleo, motivo pelo qual foram definidos três níveis de elaboração de cartas de sensibilidade.
+      O mapeamento de sensibilidade das Cartas Operacionais deve
+    alternativas:
+      - ser direcionado para as partes do litoral e áreas marinhas consideradas como de “alto risco” durante o processo de planejamento (identificadas nas Áreas de Influência das atividades).
+      - indicar as fontes potenciais de poluição em nível regional.
+      - apresentar os elementos oceanográficos e climatológicos a serem utilizados para a modelagem numérica da dispersão de manchas de óleo, a partir de pontos críticos no litoral e nas áreas offshore.
+      - possuir escala intermediária e ser confeccionado para o litoral inteiro da bacia.
+      - abranger toda a área de uma determinada bacia, ou de bacias contíguas, em caso de bacias menores.
+  - enunciado: |
+      Em novembro e dezembro de 2015, ocorreu um evento internacional crucial para a discussão das mudanças climáticas e a busca por um novo acordo climático global. Esse evento, conhecido como COP-21 (21a Conferência das Partes), teve como objetivo principal a limitação do aumento na temperatura global a 2°C até o ano 2100, substituindo o Protocolo de Kyoto.
+      Na mesma conferência, foi proposto o estabelecimento de ações para reduzir as emissões de gases do efeito estufa pelos países participantes.
+      Esse tratado global é denominado
+    alternativas:
+      - Acordo de Paris
+      - Protocolo de Montreal
+      - Painel Intergovernamental sobre Mudanças Climáticas (IPCC)
+      - Rodada Doha
+      - Política Nacional sobre Mudança do Clima (PNMC)
+  - enunciado: "O ecossistema brasileiro formado por uma série de fisionomias vegetais resistentes ao fluxo das marés e, portanto, ao sal, desde árvores e outras espécies arbustivas, passando por bancos de lama e de sal, salinas e pântanos salinos, é denominado"
+    alternativas:
+      - manguezais
+      - pantanal
+      - pampas
+      - tundras
+      - mata de Cocais
+  - enunciado: |
+      Os ciclos biogeoquímicos envolvem os seres vivos (bio), o meio terrestre (geo) e os elementos químicos.
+      Uma característica do ciclo do fósforo é que o(s)
+    alternativas:
+      - fósforo está presente nos seres vivos, principalmente nas moléculas de RNA (ácido ribonucleico) e DNA (ácido desoxirribonucleico), em dentes e ossos.
+      - principal reservatório é a atmosfera.
+      - ciclo é sedimentar e muito rápido, assim como os ciclos do carbono e nitrogênio.
+      - homem contribui para o equilíbrio no ciclo do fósforo por meio da mineração e do uso de fertilizantes.
+      - processos como evaporação e condensação estão envolvidos no seu ciclo.
+  - enunciado: |
+      A Lei no 12.305/2010 é uma legislação de extrema importância no contexto ambiental brasileiro. Conhecida como a Lei da Política Nacional de Resíduos Sólidos, ela estabelece diretrizes fundamentais para a gestão responsável e sustentável dos resíduos sólidos em nosso país.
+      O processo de aproveitamento dos resíduos sólidos sem sua transformação biológica, física ou físico-química é identificado como
+    alternativas:
+      - reutilização
+      - reciclagem
+      - beneficiamento
+      - recuperação
+      - segregação
+  - enunciado: |
+      Os óleos lubrificantes utilizados em motores de veículos e embarcações não podem ser descartados diretamente no meio ambiente, sob o risco de contaminar os corpos de água e o solo. Dessa forma, é obrigatória a entrega desse óleo a empresas rerrefinadoras.
+      Sendo assim, o documento que comprova que o coletor entregou o óleo lubrificante usado para o rerrefinador é o certificado de
+    alternativas:
+      - recebimento
+      - importação
+      - refino
+      - coleta
+      - contaminação
+  - enunciado: |
+      O fluxograma de uma estação de tratamento de água possui os seguintes reatores: leito de percolação com carvão ativado, floculador horizontal, calha parshall, filtro rápido de areia, antracito e granada, decantador circular e tanque de contato para desinfecção e fluoretação.
+      O reator que recebe a água com as impurezas e no qual há adição de uma mistura de sulfato de alumínio e cloreto férrico, bem como uma mistura rápida para promover a desestabilização dos poluentes, é o(a)
+    alternativas:
+      - calha parshall
+      - leito de percolação com carvão ativado
+      - floculador horizontal
+      - decantador circular
+      - filtro rápido de areia, antracito e granada
+  - enunciado: |
+      Um técnico foi encarregado de apoiar a concepção de um sistema individual de tratamento de efluentes da nova vila de moradores da planta de Urucu. O engenheiro informou que a Estação de Tratamento de Esgoto (ETE) deveria ser composta por um conjunto, incluindo um decanto-digestor, uma unidade de tratamento complementar e uma forma de destinação final.
+      São, respectivamente, uma forma de tratamento complementar e uma forma de destinação final para o decanto-digestor:
+    alternativas:
+      - lagoa com plantas aquáticas; e canteiro de infiltração e evapotranspiração
+      - filtro anaeróbio de leito fixo com fluxo ascendente; e valas de filtração
+      - sumidouro; e canteiro de infiltração e de evapotranspiração
+      - lançamento em águas superficiais; e vala de infiltração
+      - lodo ativado por batelada; e cloração
+  - enunciado: |
+      Uma refinaria de petróleo foi instalada em um vale de uma região de latossolo roxo, entre um rio caudaloso e o mar, sobre a zona de recarga de um aquífero importante. Buscando prioritariamente processar petróleo leve, a fim de obter maior rendimento de produtos leves (GLP, nafta, óleo diesel) e menor rendimento de produtos pesados (óleos combustíveis e asfalto), essa refinaria acaba por emitir diversos tipos de poluentes, gerando uma gama de impactos sobre o meio ambiente.
+      Alguns dos poluentes lançados por essa planta industrial são os hidrocarbonetos voláteis e o sulfeto de hidrogênio (H2S).
+      Se esses poluentes forem lançados em desacordo com os padrões limites nacionais, causarão, de forma direta, poluição da(o)
+    alternativas:
+      - ar
+      - água superficial
+      - água marinha
+      - água subterrânea
+      - solo
+  - enunciado: |
+      A Política Nacional de Resíduos Sólidos (PNRS) representa um marco para a sociedade brasileira, em relação à sustentabilidade, apresentando um aperfeiçoamento na forma como a sociedade deve tratar resíduos sólidos gerados. Nesse contexto, foi estimulada a coleta de resíduos sólidos previamente segregados, conforme sua constituição ou composição.
+      O referido procedimento é denominado
+    alternativas:
+      - coleta seletiva
+      - logística reversa
+      - disposição final
+      - coleta cidadã
+      - coleta ambiental
+  - enunciado: |
+      Na cadeia de distribuição do petróleo refinado, os postos de combustíveis podem causar diferentes impactos ambientais, motivo esse que obriga o licenciamento ambiental dessa atividade.
+      Para emissão das licenças prévia e de instalação de postos de combustíveis, é exigido, no mínimo, o seguinte documento:
+    alternativas:
+      - declaração da prefeitura municipal de que o local e o tipo de empreendimento estão em conformidade com o Plano Diretor.
+      - Plano de manutenção de equipamentos e sistemas e procedimentos operacionais.
+      - Plano de resposta a incidentes, contendo comunicado de ocorrência e ações imediatas previstas.
+      - registro do pedido de autorização para funcionamento na Agência Nacional de Petróleo (ANP).
+      - atestado de vistoria do Corpo de Bombeiros.
+  - enunciado: |
+      A Eutrofização é um processo observado em diferentes corpos de água, que se caracteriza pelo aumento de nutrientes, gerando o crescimento excessivo de macrófitas, algas e cianobactérias. Como consequência disso, é formada uma camada superficial que reduz a passagem de luz e impede as trocas de gases com a atmosfera, levando à morte e à decomposição dessas algas e plantas. Em estágios avançados, há uma notória degradação do corpo de água. Dependendo do nível de eutrofização, um corpo de água pode ser classificado em: oligotrófico, mesotrófico, eutrófico e hipereutrófico.
+      Um dos indicadores de qualidade utilizado para classificar corpos de água, quanto à eutrofização, é a concentração de
+    alternativas:
+      - nitrogênio na forma de nitrato (N-NO3)
+      - bicarbonato (HCO3-1)
+      - cloretos (Cl-1)
+      - íons de hidroxila (OH-1)
+      - íons de hidrogênio (H+1)
+  - enunciado: |
+      Existem diversas técnicas de tratamento de solo e de água subterrânea que visam a remediar ou a minimizar a contaminação desses recursos naturais. Essas técnicas são aplicadas em situações em que ocorreu poluição por produtos químicos ou por substâncias nocivas. Relacione as técnicas apresentadas com suas respectivas características.
+      ```
+      I - Biorremediação
+      II - Fitorremediação
+      III - Pirólise
+      ```
+      ```
+      P - Usa plantas para remover ou reduzir a contaminação do solo.
+      Q - Induz a decomposição química de materiais orgânicos, por calor, na ausência de oxigênio.
+      R - Envolve a extração de vapores de solventes voláteis do solo, que são posteriormente tratados.
+      S - Utiliza microorganismos para decompor os poluentes presentes no solo.
+      ```
+      As associações corretas são:
+    alternativas:
+      - I - S, II - P, III - Q
+      - I - P, II - R, III - Q
+      - I - Q, II - P, III - S
+      - I - S, II - P, III - R
+      - I - R, II - P, III - S
+  - enunciado: |
+      Segundo a Resolução Conama no 001/1986, o Relatório de Impacto Ambiental (RIMA) refletirá as conclusões do Estudo de Impacto Ambiental (EIA) e conterá, entre outras, a descrição dos prováveis impactos ambientais da implantação e operação de uma atividade, indicando os métodos, as técnicas e os critérios adotados para sua identificação, quantificação e interpretação.
+      Existe um método multicritério de avaliação de impactos que surgiu pela necessidade de se identificarem os impactos indiretos ou de ordem inferior, destacando-os dos impactos primários ou diretos. Ele estabelece uma sequência de impactos ambientais, a partir de uma determinada intervenção, utilizando um método gráfico (computacional) para definir as relações de precedência entre as ações praticadas pelo empreendimento e os consequentes impactos de primeira e demais ordens.
+      O método acima caracterizado é denominado método das
+    alternativas:
+      - redes de interações
+      - listagens ponderais
+      - listagens de controle
+      - matrizes de interação
+      - cartas de sobreposição
+  - enunciado: |
+      A gestão de riscos abrange estratégias e práticas destinadas a identificar, a avaliar e a mitigar ameaças potenciais. Considere um determinado procedimento que trata da procura de riscos comuns, já conhecidos teoricamente, visando a facilitar a identificação dos riscos e a prevenção de acidentes.
+      Nesses casos, em geral, as soluções possíveis já foram estudadas anteriormente e constam em bibliografias.
+      Tal procedimento é denominado
+    alternativas:
+      - inspeção de segurança
+      - investigação de acidentes
+      - plano de ações corretivas
+      - análise de fluxograma
+      - análise e revisão de critérios
+  - enunciado: |
+      Existem várias técnicas de estudo de riscos disponíveis, cada uma com suas próprias abordagens e níveis de detalhes. Sendo assim, cabe destacar duas técnicas: a primeira identifica e avalia os modos de falha possíveis e seus efeitos; a segunda visa a identificar problemas referentes aos procedimentos operacionais que possam levar a danos.
+      As referidas técnicas são, respectivamente, denominadas
+    alternativas:
+      - Análise de Modos de Falhas e Efeitos (FMEA); e Análise da Operabilidade de Perigos (HAZOP)
+      - Análise Preliminar de Riscos (APR); e Análise de Modos de Falhas e Efeitos (FMEA)
+      - Análise da Operabilidade de Perigos (HAZOP); e Análise Preliminar de Riscos (APR)
+      - Análise da Operabilidade de Perigos (HAZOP); e Análise de Causa Raiz (RCA)
+      - Análise de Causa Raiz (RCA); e Análise Preliminar de Riscos (APR)
+  - enunciado: |
+      Os princípios da gestão de riscos fornecem diretrizes fundamentais para orientar a abordagem organizacional a lidar com incertezas e ameaças potenciais.
+      Nesse contexto, considere um princípio da gestão de risco em que o envolvimento apropriado e oportuno das partes interessadas possibilita que seus conhecimentos, pontos de vista e percepções sejam considerados, resultando em melhor conscientização e em uma gestão de riscos fundamentada.
+      Tal princípio caracteriza a gestão de risco como
+    alternativas:
+      - inclusiva
+      - dinâmica
+      - personalizada
+      - abrangente
+      - generalista
+  - enunciado: "De acordo com a norma ABNT NBR ISO 14.001:2015, a base para abordagem que sustenta um Sistema de Gestão Ambiental (SGA), fornecendo um processo iterativo para que as organizações busquem a melhoria contínua de seu sistema de gestão, é o ciclo descrito na sequência"
+    alternativas:
+      - Planejar, Fazer, Checar e Agir
+      - Planejar, Checar, Corrigir e Fazer
+      - Planejar, Checar, Agir e Fazer
+      - Checar, Agir, Fazer e Corrigir
+      - Checar, Corrigir, Fazer e Agir
+  - enunciado: |
+      A norma ABNT NBR ISO 26.000:2010 trata das Diretrizes sobre Responsabilidade Social.
+      Essa norma
+    alternativas:
+      - define due diligence como um processo abrangente e proativo para identificar impactos sociais, ambientais e econômicos negativos reais e potenciais das decisões e atividades de uma organização, com o propósito de evitar e mitigar esses impactos.
+      - trata da obrigatoriedade, por parte do governo federal, de verificar o respeito à igualdade de gênero na relação trabalhista.
+      - institui as diretrizes, sendo de uso obrigatório para a certificação das instituições nas questões relacionadas à responsabilidade social.
+      - estabelece que a política de responsabilidade social deve ser definida em consulta entre os trabalhadores e comunicada à alta direção da organização para homologação.
+      - apresenta uma lacuna, pois ela não menciona a questão dos direitos humanos quando trata da responsabilidade social.
+  - enunciado: |
+      O Plano Nacional de Contingência para Incidentes de Poluição por Óleo em Águas sob Jurisdição Nacional (PNC), instituído pelo Decreto Federal no 10.950/2022, fixa responsabilidades, estabelece estrutura organizacional, diretrizes, procedimentos e ações, sendo um de seus objetivos permitir a atuação coordenada de órgãos da administração pública e de entidades públicas e privadas na ampliação da capacidade de resposta em incidentes de poluição por óleo que possam afetar as águas sob jurisdição nacional.
+      De acordo com esse decreto federal, a função de Autoridade Nacional na estrutura organizacional do PNC é exercida pelo
+    alternativas:
+      - Ministro de Estado do Meio Ambiente (MMA)
+      - Comandante da Marinha do Brasil (MB)
+      - Diretor-Presidente da Agência Nacional de Águas e Saneamento Básico (ANA)
+      - Diretor-Presidente da Agência Nacional de Petróleo, Gás Natural e Biocombustíveis (ANP)
+      - Presidente do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama)
+  - enunciado: |
+      O Brasil é considerado um país privilegiado por seus recursos hídricos. Assegurar à atual e às futuras gerações a necessária disponibilidade de água, em padrões de qualidade adequados, é obrigação de todos. Nesse sentido, o governo federal promulgou, em 1997, a Lei no 9.433, que instituiu a Política Nacional de Recursos Hídricos.
+      Entre outros aspectos, essa lei estabelece que a(o)
+    alternativas:
+      - bacia hidrográfica é a unidade territorial para implementação da Política Nacional de Recursos Hídricos.
+      - água é um bem de domínio público, portanto não pode ser dotada de valor econômico.
+      - extração de água de aquífero subterrâneo para consumo final ou para insumo de processo produtivo não é objeto de outorga pelo Poder Público.
+      - gestão dos recursos hídricos deve ser centralizada no governo federal.
+      - uso prioritário dos recursos hídricos, em situações de escassez, é para a geração hidrelétrica.
+  - enunciado: |
+      A Lei Federal no 9.966/2000 dispõe sobre a prevenção, o controle e a fiscalização da poluição causada por lançamento de óleo e outras substâncias nocivas ou perigosas em águas sob jurisdição nacional.
+      Para efeitos dessa lei, o conjunto de procedimentos e ações que visam à integração dos diversos planos de emergência setoriais, bem como a definição dos recursos humanos, materiais e equipamentos complementares para a prevenção, o controle e o combate da poluição das águas, define o
+    alternativas:
+      - Plano de Contigência
+      - Plano Nacional de Emergência
+      - Plano de Gestão Ambiental
+      - Plano Residual de Líquidos
+      - Plano de Prevenção da Poluição
+  - enunciado: |
+      Uma questão que preocupa e mobiliza o mundo inteiro é a mudança de clima que possa ser direta ou indiretamente atribuída à atividade humana que altere a composição da atmosfera mundial e que se some àquela provocada pela variabilidade climática natural, observada ao longo de períodos comparáveis. Partícipe dessa mobilização mundial, o Brasil instituiu, em 2009, a Política Nacional sobre Mudança do Clima (PNMC), através da Lei Federal no 12.187. Nela, são definidos os instrumentos institucionais para a atuação da PNMC.
+      São instrumentos institucionais, *EXCETO* o(a)
+    alternativas:
+      - Instituto Nacional de Pesquisas Espaciais
+      - Comitê Interministerial sobre Mudança do Clima
+      - Fórum Brasileiro de Mudança do Clima
+      - Comissão Interministerial de Mudança Global do Clima
+      - Rede Brasileira de Pesquisas sobre Mudanças Climáticas Globais - Rede Clima
+  - enunciado: |
+      A Política Nacional do Meio Ambiente tem por objetivo a preservação, a melhoria e a recuperação da qualidade ambiental propícia à vida, visando a assegurar, no país, condições ao desenvolvimento socioeconômico, aos interesses da segurança nacional e à proteção da dignidade da vida humana. Essa política foi estabelecida pela Lei no 6.938/1981, que estruturou o Sistema Nacional do Meio Ambiente (Sisnama).
+      Nessa estrutura, coube ao Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) o papel de órgão
+    alternativas:
+      - executor
+      - central
+      - consultivo
+      - deliberativo
+      - superior
+  - enunciado: |
+      O conteúdo mínimo do Plano de Emergência Individual (PEI) para incidentes de poluição por óleo em águas sob jurisdição nacional, originados em portos organizados, instalações portuárias, terminais, dutos, sondas terrestres, plataformas e suas instalações de apoio, refinarias, estaleiros, marinas, clubes náuticos e instalações similares, está definido pela Resolução Conama 398/2008. O Anexo III dessa Resolução apresenta os critérios para o dimensionamento da capacidade mínima de resposta.
+      No caso de recolhedores, o cálculo da capacidade de recolhimento deverá obedecer, entre outros, ao seguinte critério para as descargas:
+    alternativas:
+      - o volume de descarga média é considerado igual ao menor valor entre 200 m3 e 10% do volume da descarga de pior caso.
+      - o volume de descarga pequena é considerado igual ao menor valor entre 100 m3 e 5% do volume da descarga de pior caso.
+      - o tempo para disponibilidade de recursos para resposta à descarga média deve ser menor que 1 hora.
+      - a Capacidade Efetiva Diária de Recolhimento de Óleo (CEDRO) para descarga média é igual a duas vezes o volume dessa descarga.
+      - a CEDRO, em portos organizados, deverá ser dimensionada para o volume de descarga grande, 100% do volume da descarga de pior caso.
+  - enunciado: |
+      A Portaria no 422/2011 do Ministério do Meio Ambiente dispõe sobre procedimentos para o licenciamento ambiental federal de atividades e empreendimentos de exploração e produção de petróleo e gás natural no ambiente marinho e em zona de transição terra-mar.
+      Nessa Portaria, o estudo multidisciplinar de abrangência regional, com o objetivo principal de subsidiar a classificação de aptidão de áreas com vistas à outorga de blocos exploratórios de petróleo e gás natural, bem como o de produzir informações ambientais regionais para subsidiar o licenciamento ambiental de empreendimentos específicos, denomina-se Estudo Ambiental de
+    alternativas:
+      - Área Sedimentar (EAAS)
+      - Teste de Longa Duração (EATLD)
+      - Perfuração (EAP)
+      - Sísmica (EAS)
+      - Caracterização da Atividade (EACA)
+  - enunciado: |
+      A Resolução Conama 430/2011 dispõe sobre as condições e padrões de lançamento de efluentes, complementa e altera a Resolução no 357/2005, do Conselho Nacional do Meio Ambiente-Conama. Para efeito dessa Resolução adotam-se algumas definições.
+      O valor máximo de determinado poluente que o corpo hídrico pode receber, sem comprometer a qualidade da água e seus usos determinados pela classe de enquadramento, define a
+    alternativas:
+      - Capacidade de Suporte do Corpo Receptor
+      - Concentração de Efeito Não Observado (CENO)
+      - Concentração do Efluente no Corpo Receptor (CECR)
+      - Concentração Letal Mediana (CL50)
+      - Concentração Efetiva Mediana (CE50)
