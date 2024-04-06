@@ -1,0 +1,406 @@
+---
+materia: Nível Médio - Faixa de Dutos
+cargo: "Ênfase 3: Faixa de Dutos"
+questoes:
+  - enunciado: |
+      Na Tabela está representado o trecho de uma poligonal formada pela geratriz superior de uma tubulação que será posicionada em uma faixa de dutos.
+      ```
+      Trecho | Rumo   | Distância (m)
+      16-17  | 60° NE | 15
+      17-18  | 30° SE | 20
+      ```
+      Durante o piqueteamento dos vértices, foi conferido o posicionamento da estaca P18.
+      Utilizando-se a triangulação, concluiu-se que a distância entre P16 e P18, em metros, é de
+    alternativas:
+      - '25'
+      - '15'
+      - '18'
+      - '20'
+      - '22'
+  - enunciado: |
+      Na Figura, estão representados o eixo de uma faixa de dutos e suas curvas de nível.
+      Sabendo-se que a projeção do segmento P1P2 é 10 m, o comprimento da tubulação no trecho P1P2, em metros, é
+      ```
+      Dado
+      √2 = 1,41
+      √3 = 1,73
+      √5 = 2,24
+      ```
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_faixa_22.png?raw=true
+    alternativas:
+      - '11,20'
+      - '7,05'
+      - '8,65'
+      - '9,00'
+      - '13,04'
+  - enunciado: |
+      Durante a marcação de uma faixa de dutos, um técnico observou que uma medida não estava cotada no desenho, cuja escala era 1:2.000. Para a determinação do valor a ser marcado e dispondo apenas de uma régua em centímetros, ele mediu o desenho e viu que a medida não cotada correspondia a 15 cm.
+      Fazendo os cálculos, o técnico concluiu que a medida a ser marcada, em metros, é de
+    alternativas:
+      - '300'
+      - '150'
+      - '450'
+      - '600'
+      - '650'
+  - enunciado: |
+      Considere a construção de uma área com 100 m de comprimento e 30 m de largura para depósitos de tubos de aço. O piso será em concreto de 15 cm de espessura, com traço que consumirá 7 sacos de 50 kg de cimento em cada metro cúbico.
+      Sabendo-se que o preço unitário do saco de 50 kg de cimento é R$ 40,00 e que devem ser considerados 2% de acréscimo por causa das perdas, o custo total do insumo cimento, em reais, para esse serviço é de
+    alternativas:
+      - '128.520,00'
+      - '126.000,00'
+      - '164.700,00'
+      - '202.650,00'
+      - '257.040,00'
+  - enunciado: |
+      Na limpeza e no acerto de um terreno em um trecho de uma faixa de dutos com medidas de 20 m por 40 m, foram necessários 4 serventes trabalhando 8 h/dia cada um, durante 5 dias.
+      Nessas mesmas condições, em quantas horas essa mesma equipe realizaria esse mesmo serviço em um trecho de 20 m por 100 m?
+    alternativas:
+      - '400'
+      - '160'
+      - '360'
+      - '520'
+      - '600'
+  - enunciado: |
+      Uma faixa de dutos está atravessando uma zona pantanosa, cujo solo tem uma grande porcentagem de partículas fibrilares de material carbonoso, ao lado de matéria orgânica no estado coloidal. O material é fofo, não plástico e combustível.
+      Esse material é denominado
+    alternativas:
+      - turfa
+      - argila
+      - silte
+      - bentonita
+      - solo concrecionado
+  - enunciado: |
+      Durante uma vistoria em uma estrutura em concreto armado o engenheiro explicou ao técnico que seria necessário realizar um ensaio não destrutivo que mede a dureza superficial do concreto, o qual forneceria elementos para a avaliação da qualidade do concreto endurecido.
+      Tal ensaio é denominado
+    alternativas:
+      - ensaio esclerométrico
+      - slump test
+      - scanner test
+      - ensaio de abatimento
+      - ensaio com agulha de Vicat
+  - enunciado: |
+      Na montagem do gabarito para locação das fundações de uma certa obra, não havia equipamentos específicos que garantissem a perpendicularidade entre as faces L1 e L2 do gabarito. Dispondo-se apenas de trena, a perpendicularidade entre as direções L1 e L2 foi garantida por medidas marcadas a partir de P0 (vértice do gabarito no encontro de L1 com L2):
+      ```
+      na direção L1, foi marcado o ponto P1, distando 2,0 m do vértice;
+      na direção de L2, foi marcado o ponto P2, distando 1,50 m do vértice.
+      ```
+      Assim, para que P0P1 seja perpendicular a P0P2, a distância P1P2, em metros, deve ser de
+    alternativas:
+      - '2,50'
+      - '1,50'
+      - '2,00'
+      - '3,00'
+      - '3,50'
+  - enunciado: |
+      Dentre os aspectos geológicos estudados pela Engenharia Civil estão o ciclo hidrológico e as águas subterrâneas, que envolvem, dentre outros, a porosidade e a permeabilidade dos solos.
+      Considere os seguintes tipos de solo/rocha:
+      ```
+      I - areia grossa a média
+      II - cascalho
+      III - areia fina e silte
+      IV - folhelho não fraturado
+      V - rocha metamórfica
+      VI - folhelho fraturado
+      ```
+      A sequência que indica a ordem decrescente de porosidade dos tipos de solo/rocha é
+    alternativas:
+      - II, III, V
+      - I, II, IV
+      - IV, III, II
+      - III, II, I
+      - VI, III, II
+  - enunciado: |
+      Nos procedimentos executivos de fundações rasas, diretas ou superficiais, no caso de serem utilizados equipamentos mecânicos para escavação em solos, a profundidade de escavação com esses equipamentos deve ser interrompida a uma certa altura acima da cota de assentamento prevista, devendo a parcela final da escavação ser removida manualmente.
+      Essa altura mínima acima da cota de assentamento, recomendada por norma de execução de fundações, em centímetros, é de
+    alternativas:
+      - 30
+      - 10
+      - 20
+      - 40
+      - 50
+  - enunciado: |
+      Durante uma concretagem de elementos estruturais que darão suporte a dutos, para a realização de ensaios de concreto, serão necessários 60 litros de material.
+      Nessas condições, o volume de amostra a ser coletado, em litros, deve ser, no mínimo, de
+    alternativas:
+      - 90
+      - 120
+      - 100
+      - 75
+      - 60
+  - enunciado: |
+      Uma estrutura de concreto está sendo montada para envolver e abraçar uma tubulação de uma faixa de dutos. Para esse serviço, foi especificado pelo engenheiro responsável o concreto autoadensável.
+      Portanto, para o controle do concreto, a moldagem dos corpos de prova deve ser realizada
+    alternativas:
+      - sem adensamento manual ou mecânico
+      - com adensamento manual, seguido de adensamento mecânico
+      - com adensamento manual ou mecânico
+      - com adensamento manual, apenas
+      - com adensamento mecânico, apenas
+  - enunciado: |
+      Para resolver um problema ocorrido em um trecho de uma faixa de dutos, foi especificada a utilização de solo-cimento.
+      Segundo as normas brasileiras, o tempo decorrido, em horas, entre a usinagem do solo-cimento e o início da compactação *NÃO* pode exceder a:
+    alternativas:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+  - enunciado: |
+      Um técnico precisa fazer a numeração das lajes em uma planta de forma de concreto armado.
+      Para completar essa planta, o técnico deve começar, tanto quanto possível, a numeração do
+    alternativas:
+      - canto esquerdo superior do desenho, prosseguindo para a direita, sempre em linhas sucessivas.
+      - canto direito superior do desenho, prosseguindo para a esquerda, sempre em linhas sucessivas.
+      - canto esquerdo inferior do desenho, prosseguindo para a direita e para cima, sempre em linhas sucessivas.
+      - centro do desenho, prosseguindo para a direita ou para a esquerda, sempre em linhas sucessivas.
+      - centro do desenho, prosseguindo para baixo ou para cima, seguindo para a esquerda ou para a direita, em linhas sucessivas.
+  - enunciado: |
+      Dentre as soluções adotadas nos projetos de contenções de encostas, estão aquelas que se caracterizam por serem estruturas adaptadas às irregularidades da face do talude rochoso, associadas ou não a ancoragens, chumbadores ou grampos, trabalhando predominantemente à compressão, e que são aplicadas como apoio ou calçamento de blocos rochosos instáveis.
+      Essas estruturas são denominadas
+    alternativas:
+      - contrafortes de concreto armado
+      - banquetas
+      - telas metálicas
+      - grelhas ancoradas
+      - placas de concreto armado
+  - enunciado: |
+      O detalhamento dos elementos de drenagem superficial deve fazer parte do projeto executivo de estabilização de encostas.
+      Excetuando-se casos complexos ou aqueles em que puder ocorrer o funcionamento adequado do sistema de drenagem, o período de recorrência mínimo para o dimensionamento do sistema de drenagem deve ser de
+    alternativas:
+      - 10 anos
+      - 6 meses
+      - 10 meses
+      - 2 anos
+      - 5 anos
+  - enunciado: |
+      Em um terreno para o qual estão previstas fundações diretas, foi realizado um ensaio de prova de carga estática com carregamento lento. Um técnico verificou as anotações do ensaio e constatou que, em cada estágio de carregamento, a carga foi mantida até a estabilização dos deslocamentos. O técnico verificou também o tempo que a carga foi mantida em cada estágio e anotou os seguintes estágios nos quais o tempo foi inferior a uma hora:
+      ```
+      Estágio | Tempo (minutos)
+      E4      | 15
+      E6      | 35
+      E7      | 43
+      E9      | 55
+      ```
+      De acordo com a norma brasileira para esse tipo de ensaio, o técnico comunicou ao engenheiro que o(s) tempo(s)
+    alternativas:
+      - do estágio E4 não está de acordo com a norma, que estabelece tempo mínimo de 30 minutos.
+      - de todos os estágios está de acordo com a norma.
+      - dos estágios E4 e E6 não estão de acordo com a norma, que estabelece tempo mínimo de 40 minutos.
+      - dos estágios E4, E6 e E7 não estão de acordo com a norma, que estabelece tempo mínimo de 50 minutos.
+      - dos estágios E4, E6, E7 e E9 não estão de acordo com a norma, que estabelece tempo mínimo de 60 minutos.
+  - enunciado: "Segundo as normas brasileiras, os grãos que apresentam resistência mecânica inadequada e que podem ser desagregados sob pressão manual através de uma espátula são denominados grãos"
+    alternativas:
+      - friáveis
+      - inócuos
+      - deletérios
+      - potencialmente deletérios
+      - álcalis-agregados
+  - enunciado: |
+      Na implantação de uma rede de dutos, foram feitas sondagens de reconhecimento com SPT (Standard Penetration Test).
+      Dentre as orientações a serem observadas está o nível d’água no interior do furo, que, durante todas as operações de perfuração, deve-se manter
+    alternativas:
+      - em cota igual ou superior à do nível d’água do lençol freático encontrado e correspondente.
+      - com cota inferior em 0,50 m em relação ao nível d’água do lençol freático.
+      - com cota inferior em 0,80 m em relação ao nível d’água do lençol freático.
+      - com cota inferior em 1,00 m em relação ao nível d’água do lençol freático.
+      - em qualquer cota em relação ao nível d’água do lençol freático encontrado e correspondente.
+  - enunciado: |
+      Na Figura abaixo, três polias estão fixadas ao eixo ABCD para transmitir torques. Considere o eixo como engastado em D, com diâmetro único, e que todos os trechos estão sujeitos à torção pura.
+      A maior tensão cisalhante por torção ocorre no trecho entre as polias
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_faixa_40.png?raw=true
+    alternativas:
+      - C e D, e corresponde a um torque de 450 N.m.
+      - A e B, e corresponde a um torque de 200 N.m.
+      - A e B, e corresponde a um torque de 50 N.m.
+      - B e C, e corresponde a um torque de 500 N.m.
+      - C e D, e corresponde a um torque de 500 N.m.
+  - enunciado: |
+      Uma viga biapoiada é solicitada por duas forças concentradas atuantes nas seções B e C, conforme indicado na Figura.
+      Os trechos, AB, BC, e CD da viga estão sujeitos, respectivamente, à flexão dos seguintes tipos:
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_faixa_41.png?raw=true
+    alternativas:
+      - simples, pura e simples
+      - simples, simples e pura
+      - pura, simples e simples
+      - pura, pura e simples
+      - pura, simples e pura
+  - enunciado: |
+      Considere que o valor do módulo de elasticidade de um aço é igual a 200 GPa e que, em um ensaio uniaxial, um corpo de prova desse material apresenta uma deformação específica de 1.500μ.
+      A tensão normal atuante em um ponto da seção transversal de teste do corpo de prova, expressa em MPa, é de
+    alternativas:
+      - '300'
+      - '75'
+      - '200'
+      - '750'
+      - '2.000'
+  - enunciado: |
+      Durante a inspeção em uma linha de pilares de concreto armado que servirão de apoio para uma tubulação, foram solicitados os seguintes serviços de conferência:
+      ```
+      I - alinhamento
+      II - nivelamento
+      III - verticalidade
+      ```
+      No local, estavam disponíveis os seguintes instrumentos: prumo, nível a laser, teodolito, tassômetro e placas de recalque.
+      Dentre esses instrumentos, os dois que NÃO poderiam ser utilizados nos serviços de conferência solicitados são o
+    alternativas:
+      - tassômetro e as placas de recalque
+      - prumo e as placas de recalque
+      - teodolito e o tassômetro
+      - nível a laser e o tassômetro
+      - prumo e o teodolito
+  - enunciado: |
+      O serviço de cravação de estacas pré-moldadas de concreto vai ser executado em uma certa obra. Para testar os conhecimentos do técnico com relação aos comprimentos do uso de prolonga ou suplemento, o engenheiro supervisor montou a seguinte Tabela listando eventuais estacas sujeitas a situações excepcionais que demandariam o uso de prolonga ou suplemento:
+      ```
+      Estaca | Comprimento do prolonga (m)
+      E1     | 0,40
+      E2     | 2,00
+      E3     | 1,50
+      E4     | 1,10
+      E5     | 2,70
+      E6     | 2,40
+      E7     | 1,80
+      E8     | 2,60
+      ```
+      O técnico observou que, por *NÃO* estarem em conformidade com as normas brasileiras, *NÃO* estariam adequados *APENAS* os comprimentos dos prolongas das estacas
+    alternativas:
+      - E5 e E8
+      - E2, E3, E4, E5, E6, E7 e E8
+      - E2, E3, E5, E6, E7 e E8
+      - E2, E5, E6 e E8
+      - E5, E6 e E8
+  - enunciado: "Em um laboratório, uma equipe está discutindo sobre o cilindro de Proctor, que é utilizado no ensaio de"
+    alternativas:
+      - compactação do solo
+      - granulometria
+      - inchamento do agregado miúdo
+      - resistência à compressão do concreto
+      - determinação da massa específica do solo
+  - enunciado: |
+      Estudando uma planta cadastral na escala 1:1000, um técnico observou a seguinte representação:
+      Esse símbolo é a representação de um(a)
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_faixa_46.png?raw=true
+    alternativas:
+      - túnel
+      - ciclovia
+      - represa
+      - vala
+      - bueiro
+  - enunciado: |
+      Durante uma visita a um trecho de uma faixa de dutos, constatou-se que uma viga que suportava alguns tubos estava aparentemente sofrendo flexão. Para a verificação, foi indicado o uso de extensômetros.
+      Tal indicação tem como objetivo
+    alternativas:
+      - medir a deformação da viga.
+      - medir o prumo da face lateral da viga.
+      - medir a excentricidade da linha neutra da viga.
+      - verificar a exsudação da peça.
+      - verificar se está havendo corrosão da armadura.
+  - enunciado: "No AutoCAD o comando PLINHA"
+    alternativas:
+      - permite linhas com diferentes larguras em cada segmento.
+      - exige que a sequência de linhas seja fechada.
+      - permite desenhar sequência de linhas, mas não de segmentos de arco.
+      - é inadequado para desenhar linhas de contorno de mapas topográficos.
+      - corresponde ao desenho de uma sequência de linhas, criando vários objetos.
+  - enunciado: |
+      Um técnico está desenhando com o auxílio do AutoCAD e selecionou diversos objetos, utilizando para isso o recurso de marcar uma janela de seleção.
+      Caso seja necessário excluir um dos objetos que estão nesse conjunto selecionado, dentre os recursos disponíveis, o técnico poderá pressionar a(s)
+    alternativas:
+      - tecla SHIFT, marcar o objeto e, depois, pressionar ENTER.
+      - tecla TAB, marcar o objeto e, depois, pressionar a barra de espaço.
+      - tecla WINDOWS, marcar o objeto e, depois, pressionar ENTER.
+      - teclas SHIFT e CTRL, marcar o objeto e, depois, pressionar o botão direito do mouse.
+      - teclas ALT e CTRL, marcar o objeto e, depois, pressionar ENTER.
+  - enunciado: |
+      Um técnico está acompanhando um ensaio em campo, para o qual foi adotada como estrutura para o sistema de reação a plataforma carregada.
+      Dentre as condições estabelecidas para esse tipo de estrutura, está a condição de que ela seja carregada com material cuja massa permita superar a carga máxima prevista para a prova de carga em, ao menos,
+    alternativas:
+      - '20%'
+      - '5%'
+      - '10%'
+      - '50%'
+      - '75%'
+  - enunciado: |
+      Um técnico está verificando se os serviços realizados estão de acordo com as normas brasileiras vigentes. Com relação à amostragem, ele observou que, a partir de 1,00 m de profundidade, com execução do SPT (Standard Penetration Test), eram colhidas amostras por meio do amostrador-padrão.
+      Em conformidade com essa norma, essas amostras são colhidas a cada
+    alternativas:
+      - '1,00 m'
+      - '30 cm'
+      - '45 cm'
+      - '50 cm'
+      - '2,00 m'
+  - enunciado: |
+      Em uma reunião técnica, estão sendo discutidos assuntos referentes à instrumentação e ao monitoramento de solos.
+      Um dos instrumentos considerados é o piezômetro, que permite verificar a(o)
+    alternativas:
+      - poro pressão
+      - índice pluviométrico
+      - deslocamento superficial
+      - deslocamento profundo
+      - cisalhamento do solo
+  - enunciado: |
+      Parte de um projeto de investigação geológica e geotécnica apresenta os símbolos a seguir, sem a sigla correspondente ao tipo de investigação.
+      Esses símbolos representam, respectivamente,
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_faixa_53.png?raw=true
+    alternativas:
+      - sondagem a percussão e sondagem a trado
+      - cava para ensaio de infiltração e poço de inspeção para ensaio
+      - poço de inspeção e poço de inspeção para ensaio
+      - sondagem a trado e sondagem rotativa
+      - sondagem a percussão e sondagem a percussão com ensaio de infiltração
+  - enunciado: |
+      Para completar o desenho da planta baixa de uma edificação, um técnico precisa desenhar a projeção de uma marquise.
+      Para isso, deve utilizar a linha denominada
+    alternativas:
+      - traço e dois pontos estreita
+      - contínua estreita
+      - contínua com zigue-zague larga
+      - tracejada larga
+      - traço e ponto estreita
+  - enunciado: |
+      Um projeto para a implantação de uma faixa de dutos está sendo modificado e, dentre as modificações, está o cruzamento com uma rodovia em fase de estaqueamento. No projeto atual, esse cruzamento se dá na estaca 20+5,00 m e, na modificação, esse cruzamento será 30,00 m antes, ou seja, no sentido oposto ao do crescimento da numeração do estaqueamento.
+      Logo, esse novo cruzamento ocorrerá na estaca
+    alternativas:
+      - '18 + 15 m'
+      - '-10 + 5 m'
+      - '20 - 30 m'
+      - '19 + 5 m'
+      - '10 + 5 m'
+  - enunciado: "Em um concreto classificado como C35 S100, conforme a norma brasileira vigente, verifica-se que a(o)"
+    alternativas:
+      - consistência é da classe 100 e corresponde a uma aplicação típica em elementos estruturais, com lançamento convencional do concreto.
+      - resistência característica à compressão máxima é 65 MPa.
+      - resistência característica à compressão varia entre 35 MPa e 100 MPa.
+      - consistência é da classe 35 e corresponde a uma aplicação típica em elementos estruturais esbeltos.
+      - abatimento é 35 mm e corresponde a uma aplicação típica em elementos estruturais com alta densidade de armadura.
+  - enunciado: |
+      No ensaio para obtenção do limite de plasticidade de um certo solo, não foi possível obter o cilindro com 3 mm de diâmetro.
+      Como consequência, em casos como esse, o índice de plasticidade é
+    alternativas:
+      - indicado como NP (não plástico)
+      - igual ao limite de liquidez
+      - igual ao limite de consistência
+      - a metade do limite de liquidez
+      - o dobro do limite de consistência
+  - enunciado: |
+      No planejamento das instalações sanitárias de uma frente de trabalho, foi decidido que seriam utilizados banheiros químicos. Um técnico foi incumbido de especificar a quantidade de bacias sanitárias sifonadas necessárias.
+      Sabendo que na frente de trabalho atuarão 31 trabalhadores e de acordo com a legislação brasileira, o técnico informou que o número mínimo de bacias sanitárias será de
+    alternativas:
+      - '2'
+      - '1'
+      - '3'
+      - '4'
+      - '5'
+  - enunciado: "Segundo a legislação brasileira, os dois tipos básicos de equipamentos que podem ser utilizados nos ensaios de palheta in situ são os que realizam ensaios"
+    alternativas:
+      - com ou sem a necessidade de escavação prévia.
+      - com ou sem a necessidade de aparelho de percussão.
+      - em rochas sãs, e os que realizam ensaios em rochas estratificadas.
+      - em solos arenosos, e os que realizam ensaios em solos argilosos.
+      - em solos, e os que realizam ensaios em rochas.
+  - enunciado: "Considerando-se a legislação brasileira sobre segurança e saúde no trabalho e sobre a implementação do Programa de Gerenciamento de Riscos (PGR) nos canteiros de obras, as frentes de trabalho"
+    alternativas:
+      - devem ser consideradas na elaboração e na implementação do PGR.
+      - estão dispensadas da elaboração e da implementação do PGR.
+      - estão dispensadas da elaboração, mas não da implementação do PGR.
+      - devem ser consideradas na elaboração, mas não na implementação do PGR.
+      - devem ser consideradas na elaboração e na implementação do PGR, apenas nos casos em que houver mais de 50 trabalhadores.
