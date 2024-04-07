@@ -1,0 +1,403 @@
+---
+materia: Nível Médio - Informática
+cargo: "Ênfase 4: Informática"
+questoes:
+  - enunciado: |
+      Topologia é a forma como uma rede de computadores é organizada e representa como as conexões são feitas entre os equipamentos no nível físico. Quando se projeta uma rede local, é possível a escolha de uma topologia em que todos os nós se conectem a um mesmo meio de transmissão, em uma configuração multiponto, em que um cabo interliga todos os dispositivos.
+      Essa configuração é conhecida como topologia em
+    alternativas:
+      - barramento
+      - anel
+      - árvore
+      - estrela
+      - malha
+  - enunciado: |
+      Em uma rede de computadores, são encontrados, além dos próprios computadores, vários tipos de equipamentos que têm como finalidade gerenciar o tráfego dos pacotes. Ao escolher entre os equipamentos para uma rede TCP/IP, é importante que se levem em conta vários fatores, como a colisão entre pacotes e a propagação da transmissão de broadcasts. Considere uma situação em que seja necessário escolher um equipamento capaz de organizar uma rede local, de forma a garantir que exista uma segmentação dos domínios de colisão e broadcast para cada porta do equipamento.
+      Nesse caso, o equipamento escolhido deverá ser um
+    alternativas:
+      - roteador
+      - concentrador
+      - hub
+      - repetidor
+      - switch
+  - enunciado: |
+      Um endereço IPv6 é normalmente descrito com 32 números hexadecimais, por exemplo:
+      ```
+      FDEC:0074:0000:0000:0000:B0FF:0000:FFFF
+      ```
+      Considerando-se essa informação, é possível verificar que, antes de qualquer organização, a quantidade de endereços disponíveis no IPv6 é de
+    alternativas:
+      - '2^128'
+      - '2^32'
+      - '2^64'
+      - '2^256'
+      - '2^512'
+  - enunciado: |
+      O modelo de referência OSI da ISO é estruturado em camadas, geralmente descritas em uma pilha onde as camadas mais próximas da máquina física estão na parte inferior, e as camadas mais próximas do usuário estão na parte superior.
+      Considerando-se essa organização, as camadas imediatamente acima e imediatamente abaixo da camada de Transporte são, respectivamente, as de
+    alternativas:
+      - Sessão e de Rede
+      - Aplicação e de Rede
+      - Aplicação e de Sessão
+      - Apresentação e de Rede
+      - Sessão e de Apresentação
+  - enunciado: |
+      Na camada de transporte de uma rede TCP/IP, podem ser encontrados dois protocolos de transmissão de pacotes: um que provê fluxo confiável, em que o receptor confirma cada pacote recebido ao emissor; e outro em que essa confirmação não acontece; logo, esse protocolo não provê fluxo confiável.
+      Nesse contexto, na camada de transporte, os protocolos confiável e não confiável são, respectivamente:
+    alternativas:
+      - TCP e UDP
+      - UDP e IP
+      - UDP e TCP
+      - TCP e IP
+      - IP e UDP
+  - enunciado: |
+      No sistema de endereçamento IPv4, as classes de endereços A, B, C, D e E são utilizadas para facilitar o roteamento e a organização da rede. Cada classe suporta um número de blocos, em que cada bloco tem um tamanho equivalente à quantidade de hosts que suporta. Além disso, cada classe tem uma aplicação específica.
+      A classe de endereços unicast comumente usada para redes de grande porte e que provê o maior tamanho do bloco é a
+    alternativas:
+      - Classe A
+      - Classe B
+      - Classe C
+      - Classe D
+      - Classe E
+  - enunciado: |
+      A porta USB é um dispositivo de entrada e de saída reconhecido por ser rápido e eficiente na transmissão de dados entre os dispositivos e o sistema operacional de um computador.
+      Qual é a forma de transmissão de dados de entrada e saída que caracteriza a porta USB?
+    alternativas:
+      - Serial
+      - Comutação por Pacotes
+      - Paralela
+      - 'TCP/IP'
+      - UDP
+  - enunciado: |
+      Um desenvolvedor web está trabalhando em uma aplicação que envolve a coleta de dados numéricos dos usuários, e, para isso, está usando HTML e JavaScript (ECMAScript 2020) para criar um campo de entrada de texto e um botão. Quando um usuário clicar nesse botão, o valor inserido será processado. Nesse cenário, considere que esse desenvolvedor quer obter o valor atual do campo de texto HTML com o ID idade.
+      Para obter esse valor, ele deve utilizar o seguinte fragmento de código JavaScript:
+    alternativas:
+      - 'document.getElementById(“idade”).value'
+      - 'document.getElementById(“idade”).getText()'
+      - 'document.getElementById(“idade”).innerHTML'
+      - 'document.getElementByName(“idade”).value'
+      - 'document.querySelector(“#idade”).text'
+  - enunciado: |
+      Um profissional de Informática está desenvolvendo uma aplicação web e deseja implementar uma interface de usuário que permita que os usuários, ao clicar em um botão, acionem uma função JavaScript chamada processar.
+      Qual das seguintes opções de código HTML5 esse profissional deve usar?
+    alternativas:
+      - '<button onclick=”processar()”>Clique Aqui</button>'
+      - '<button action=”processar()”>Clique Aqui</button>'
+      - '<button execute=”processar()”>Clique Aqui</button>'
+      - '<button onsubmit=”processar()”>Clique Aqui</button>'
+      - '<button trigger=”processar()”>Clique Aqui</button>'
+  - enunciado: |
+      Um profissional de Informática está trabalhando em um projeto que envolve a manipulação de documentos XML. Ele precisa garantir que os documentos XML estejam bem-formados e válidos, de acordo com as especificações do XML 1.1.
+      Uma das regras que ele deverá seguir para garantir que um documento XML 1.1 seja válido é que o(s)
+    alternativas:
+      - documento deve começar com uma declaração XML.
+      - documento pode ter um ou mais elementos raiz.
+      - nomes dos elementos são insensíveis a maiúsculas e minúsculas.
+      - atributos devem ter o mesmo nome se estiverem no mesmo elemento.
+      - comentários XML devem aparecer como atributos de uma etiqueta (tag).
+  - enunciado: |
+      Para garantir a segurança de transações bancárias via internet, são usados diferentes protocolos criptográficos. Considere um protocolo em que a organização P possui um par de chaves, sendo uma privada e uma pública, em que a privada decifra a pública e vice-versa. A chave pública é utilizada por aqueles que desejam enviar mensagens cifradas para essa organização. Apenas a organização P poderá ler o conteúdo dessas mensagens cifradas, porque só ela dispõe da chave privada que faz par com sua chave pública.
+      A situação apresentada caracteriza o uso de criptografia
+    alternativas:
+      - assimétrica
+      - por chaves de sessão
+      - por one-time pad
+      - quântica
+      - simétrica
+  - enunciado: |
+      Em um sistema operacional moderno, vários processos devem ser atendidos simultaneamente, dando ao usuário a impressão de estarem rodando simultaneamente. Para isso, é necessário gerenciar o processador por meio de algoritmos de escalonamento, que definem que processo executa e quais ficam esperando, de acordo com diferentes parâmetros.
+      Um dos critérios que podem ser usados para comparar esses algoritmos é o tempo de turnaround, que conta o tempo
+    alternativas:
+      - total, desde a submissão do processo até a sua conclusão.
+      - entre a submissão de um pedido e a primeira resposta a ele.
+      - que o processo realmente passa sendo executado pelo processador.
+      - que um processo passa em estado de bloqueio, geralmente aguardando uma operação de E/S ser concluída.
+      - total que um processo passa na fila de pronto, aguardando para ser executado pelo processador.
+  - enunciado: |
+      Um profissional de Informática está investigando um incidente de segurança em uma empresa e identifica a presença de um Rootkit no sistema.
+      Quais são as características específicas de um Rootkit que o diferenciam de outros tipos de softwares maliciosos?
+    alternativas:
+      - Ser capaz de se ocultar extremamente bem e interceptar chamadas ao sistema operacional, habilitando o acesso como administrador.
+      - Apresentar-se como um programa legítimo para enganar o usuário.
+      - Focar principalmente na replicação e disseminação para outros sistemas.
+      - Propor um link para o usuário de forma a induzi-lo a usar uma página falsa.
+      - Ser especializado em coletar informações pessoais e dados confidenciais.
+  - enunciado: |
+      Para aumentar a segurança da rede de uma organização que está conectada à internet, é preciso entender a funcionalidade principal de cada tipo de software de segurança de redes, para permitir a implementação eficaz das medidas adequadas de segurança. Entre os softwares de segurança mais importantes está o firewall.
+      Qual é a principal funcionalidade de um firewall?
+    alternativas:
+      - Controlar o tráfego de rede para permitir ou impedir a comunicação entre dispositivos com base em um conjunto de regras de segurança.
+      - Atuar como intermediário para solicitações de recursos de outros servidores, encaminhando as solicitações do cliente para o servidor de destino.
+      - Fornecer acesso remoto seguro a servidores e sistemas, utilizando criptografia para proteger a comunicação.
+      - Monitorar o tráfego de rede para detectar atividades suspeitas e potenciais ameaças, fornecendo alertas em tempo real.
+      - Varrer e remover malware do sistema, oferecendo proteção em tempo real contra ameaças de software malicioso.
+  - enunciado: |
+      Ao construir um novo controlador para um equipamento, um programador analisou as formas de arquitetura disponíveis para construir seu hardware, dentre elas a arquitetura de Von Neumann.
+      A principal característica dessa arquitetura é que ela
+    alternativas:
+      - utiliza uma única memória para armazenar dados e instruções.
+      - separa a memória de dados da memória de instruções.
+      - utiliza múltiplos processadores para executar uma única instrução.
+      - não permite a execução de instruções RISC.
+      - não permite armazenamento de programas na memória.
+  - enunciado: |
+      Uma funcionária de uma empresa solicitou a um colega, profissional de Informática, que preparasse uma listagem chamada “lista_completa.txt”. Essa listagem deve ser feita no formato longo, ser atualizada e conter todos os arquivos, incluindo os arquivos ocultos, de um diretório e seus subdiretórios. Além disso, a funcionária quer que qualquer listagem anterior que possa existir desses arqui- vos seja sobrescrita.
+      Qual é o comando correto no terminal Linux para atender corretamente ao pedido da colega?
+    alternativas:
+      - 'ls -Rla > lista_completa.txt'
+      - 'ls -Rla >> lista_completa.txt'
+      - 'ls -Rlo > lista_completa.txt'
+      - 'ls -Rlo >> lista_completa.txt'
+      - 'ls -Rto > lista_completa.txt'
+  - enunciado: |
+      Em sistemas embarcados, é comum que programadores tenham de trabalhar com linguagens de baixo nível, incluindo a necessidade de fazer operações com números inteiros em representação binária.
+      Considerando-se apenas 8-bits em um processador hipotético, como seria a representação em complemento de 2 do número -5?
+    alternativas:
+      - '11111011'
+      - '10000101'
+      - '11111010'
+      - '11111101'
+      - '11111110'
+  - enunciado: |
+      Muitos sistemas operacionais, como o Linux e o Windows, suportam links simbólicos em seus sistemas de arquivos, o que permite que um arquivo apareça em mais de um diretório. Esses links apontam para outro arquivo e podem ser usados, na maioria das vezes, como o arquivo original.
+      No Linux, o que acontece com o link simbólico se o arquivo original for apagado?
+    alternativas:
+      - Torna-se um “link quebrado”.
+      - Aponta para um novo arquivo criado automaticamente.
+      - É apagado automaticamente.
+      - 'Passa a apontar para /mnt/null.'
+      - Torna-se um hard link.
+  - enunciado: |
+      Um profissional de Informática é encarregado de gerenciar um projeto de desenvolvimento de software em uma grande empresa. No dia do início do projeto, ele utiliza o Microsoft Project 2019 para salvar uma linha de base.
+      Qual a finalidade da linha de base?
+    alternativas:
+      - Comparar o andamento do projeto com a previsão original.
+      - Facilitar a comunicação entre os membros da equipe.
+      - Aumentar a segurança dos dados do projeto.
+      - Coletar feedback dos stakeholders do projeto.
+      - Automatizar tarefas repetitivas no projeto.
+  - enunciado: |
+      A norma ABNT NBR ISO/IEC 27002 é uma norma internacional, traduzida no Brasil, a qual fornece diretrizes para a gestão de segurança da informação.
+      Segundo essa norma, qual é o propósito da segregação de funções?
+    alternativas:
+      - Reduzir o risco de fraude, erro e desvio de controles de segurança da informação.
+      - Assegurar a adequação contínua da direção de gestão e suporte à segurança da informação de acordo com vários tipos de requisitos.
+      - Assegurar o fluxo adequado de informações referentes à segurança de informação.
+      - Conscientizar os funcionários sobre as ameaças à segurança de informação da organização.
+      - Estabelecer uma estrutura definida e aprovada para a gestão de segurança dentro da organização.
+  - enunciado: |
+      Computadores modernos precisam de várias camadas de software para que ofereçam os serviços com os quais estamos acostumados. Essas camadas facilitam a adaptação do hardware às características e às funcionalidades demandadas pelos seres humanos.
+      A esse respeito, qual a ordem das camadas de software sobre o hardware, da mais próxima ao hardware para a mais distante?
+    alternativas:
+      - 'Firmware -> Sistema Operacional -> Aplicativos'
+      - 'Aplicativos -> Firmware -> Sistema Operacional'
+      - 'Aplicativos -> Sistema Operacional -> Firmware'
+      - 'Sistema Operacional -> Aplicativos -> Firmware'
+      - 'Sistema Operacional -> Firmware -> Aplicativos'
+  - enunciado: |
+      Uma empresa está considerando a migração de sua rede de IPv4 para IPv6.
+      A principal vantagem do IPv6 em relação ao IPv4 é a(o)
+    alternativas:
+      - maior espaço de endereçamento
+      - compatibilidade retroativa com hardware mais antigo
+      - melhor qualidade de serviço (QoS)
+      - menor latência na transmissão de dados
+      - garantia de entrega de pacotes
+  - enunciado: |
+      Um profissional de Informática está avaliando diferentes soluções de comunicação para permitir que os funcionários acessem a rede corporativa, via internet pública, enquanto estão fora do escritório.
+      Uma das vantagens de implementar uma VPN nesse contexto é
+    alternativas:
+      - aumentar a segurança do acesso remoto.
+      - aumentar a velocidade de transmissão de dados.
+      - aumentar o consumo de processamento para criptografia.
+      - eliminar a necessidade de fiação física na organização.
+      - eliminar a necessidade de firewalls na organização.
+  - enunciado: |
+      Os sistemas de computação contêm diversos barramentos diferentes, que oferecem caminhos entre os componentes em diversos níveis da hierarquia do sistema de computação. O barramento que conecta os principais componentes do computador é chamado de barramento do sistema, e é composto por linhas de dados, por linhas de endereços e por linhas de controle.
+      Em um barramento de sistema, as linhas de controle servem para
+    alternativas:
+      - controlar o acesso e o uso das linhas de dados e de endereços.
+      - designar a origem ou o destino dos dados.
+      - movimentar os dados entre os módulos do sistema.
+      - transferir dados entre cache e memória.
+      - transferir dados de e para a memória.
+  - enunciado: |
+      Considere que, em uma operação de soma entre dois valores inteiros representados em complemento a 2, o resultado foi maior do que o que pode ser mantido no tamanho da palavra que está sendo usada.
+      Nesse caso, ocorreu um(a)
+    alternativas:
+      - overflow
+      - buffer
+      - cluster
+      - bit de carry
+      - paridade
+  - enunciado: |
+      Pretende-se mudar a certificação de uma firma de Tecnologia de ITILv3 para ITILv4, atendo-se às alterações e às mudanças que essa nova implantação do modelo ITIL traz consigo.
+      Uma das alterações relevantes, que deve ser considerada no momento da mudança para esse novo paradigma, é a(o)
+    alternativas:
+      - implantação de fluxo de valor flexível, conhecido como Service Value System ou Sistema de Valor de Serviço.
+      - diminuição de número de processos de serviços, em relação às versões anteriores do modelo ITIL.
+      - implementação de um sistema de acesso seguro, de modo a permitir que somente usuários autorizados usem um serviço.
+      - manutenção de práticas de gerenciamento da infraestrutura de TI, fornecendo novos itens de serviços de tecnologia e suporte.
+      - acréscimo de um novo processo de serviço, denominado Operação de Serviço.
+  - enunciado: |
+      Na Figura a seguir, é mostrado um diagrama E-R.
+      Admita que os conjuntos a seguir façam parte de um banco de dados cujo esquema foi gerado a partir do modelo E-R acima.
+      ```
+      X = { x1, x2, x3 }
+      Y = { y1, y2, y3, y4 }
+      Z = { z1, z2, z3 }
+      ```
+      *NÃO* violam as restrições de cardinalidade presentes nas respectivas relações do modelo E-R acima os seguintes conjuntos U e T:
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_informatica_47.png?raw=true
+    alternativas:
+      - |
+        ```
+        U = { (x1, y2), (x2, y4), (x3, y1) }
+        T = { (y1, z1), (y2, z1), (y3, z1), (y4, z1) }
+        ```
+      - |
+        ```
+        U = { (x1, y2), (x2, y2), (x3, y2) }
+        T = { (y1, z1), (y2, z1), (y3, z1), (y4, z1) }
+        ```
+      - |
+        ```
+        U = { (x1, y1), (x2, y2), (x3, y3) }
+        T = { (y1, z1), (y2, z1), (y3, z1) }
+        ```
+      - |
+        ```
+        U = { (x1, y1), (x2, y2), (x3, y2) }
+        T = { }
+        ```
+      - |
+        ```
+        U = { (x1, y2), (x2, y2), (x3, y1) }
+        T = { (y1, z1), (y2, z2), (y3, z3) }
+        ```
+  - enunciado: |
+      Seja o seguinte código Python:
+      ```python
+      str = 'America do Sul'
+      s1 = ( str.split ( ';' ) ).pop().upper()
+      print ( str )
+      ```
+      O que será exibido no console quando esse código for executado?
+    alternativas:
+      - America do Sul
+      - AMERICA DO SUL
+      - Sul
+      - SUL
+      - AMERICA
+  - enunciado: |
+      Seja o seguinte programa Python:
+      ```python
+      l = ['abc', ['a', 'b', 'c'], 'd', ['a', ['abc', 'd']]]
+      c = 0
+      for e in l:
+          c+=len(e)
+      print( c )
+      ```
+      O que será exibido no console quando esse programa for executado?
+    alternativas:
+      - '9'
+      - '4'
+      - '7'
+      - '8'
+      - '12'
+  - enunciado: |
+      Uma empresa aérea possui um sistema de informação para registrar as reservas de passagens de seus passageiros nos voos que oferece. O esquema desse banco de dados foi criado com os seguintes comandos SQL:
+      ```
+      CREATE TABLE PASSAGEIRO (
+          CODIGO NUMERIC(5) NOT NULL,
+          NOME TEXT NOT NULL,
+          PRIMARY KEY (CODIGO));
+      CREATE TABLE VOO (
+          NUMERO NUMERIC(3) NOT NULL,
+          ORIGEM TEXT NOT NULL,
+          DESTINO TEXT NOT NULL,
+          NUM_LUGARES NUMERIC(3) NOT NULL,
+          PRIMARY KEY (NUMERO));
+      CREATE TABLE RESERVA (
+          NUM_VOO NUMERIC(3) NOT NULL,
+          CD_PASS NUMERIC(5) NOT NULL,
+          PRIMARY KEY (NUM_VOO, CD_PASS),
+          FOREIGN KEY (NUM_VOO)
+              REFERENCES VOO(NUMERO),
+          FOREIGN KEY (CD_PASS)
+              REFERENCES PASSAGEIRO(CODIGO));
+      ```
+      Na Figura a seguir, são exibidos os estados atuais dessas tabelas.
+      Qual comando SQL será executado sem produzir erro?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_informatica_51.png?raw=true
+    alternativas:
+      - "DELETE FROM VOO WHERE DESTINO = 'CURITIBA';"
+      - "DELETE FROM PASSAGEIRO WHERE NOME = 'VICENTE DE CARVALHO';"
+      - "INSERT INTO RESERVA VALUES(998, 56000);"
+      - "INSERT INTO PASSAGEIRO VALUES(56390, 'RICARDO GONÇALVES');"
+      - "UPDATE VOO SET NUMERO = 532 WHERE DESTINO = 'RIO DE JANEIRO';"
+  - enunciado: |
+      Deseja-se arrumar um conjunto de seis bolas coloridas em uma fila, da esquerda para a direita. Nesse conjunto, há três bolas brancas, duas bolas azuis e uma bola vermelha. Duas bolas da mesma cor são consideradas iguais, ou seja, se duas arrumações diferem pela transposição de duas bolas da mesma cor, então as duas arrumações são consideradas iguais.
+      Quantas arrumações diferentes existem?
+    alternativas:
+      - '60'
+      - '120'
+      - '180'
+      - '720'
+      - '1440'
+  - enunciado: |
+      Várias canetas coloridas estão sobre a mesa, algumas dentro do estojo e outras fora dele. Todas as canetas azuis estão sem tampa e sem tinta. Todas as canetas vermelhas estão sem tampa ou sem tinta. Todas as canetas que estão dentro do estojo estão com tinta.Todas as canetas verdes estão sem tampa, e todas as canetas roxas estão com tampa. Todas as canetas laranja estão sem tinta.
+      Considerando-se que uma caneta com tampa é escolhida de dentro do estojo, qual é a cor da caneta?
+    alternativas:
+      - roxa
+      - azul
+      - vermelha
+      - verde
+      - laranja
+  - enunciado: |
+      Um gerente de projeto, responsável pela realização de uma feira de estágio em uma universidade, desenvolveu o seguinte diagrama de rede, com base no cronograma do projeto.
+      Esse diagrama apresenta as sete atividades do projeto (A, B, C, D, E, F e G), as suas dependências e os tempos das atividades em semanas.
+      As seguintes atividades estão no caminho crítico do projeto:
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_informatica_56.png?raw=true
+    alternativas:
+      - B, D, E
+      - A, C, E
+      - A, C, F
+      - B, D, F
+      - E, F, G
+  - enunciado: |
+      Projetos são realizados para cumprir objetivos através da produção de entregas. Um objetivo é definido como um resultado a que o trabalho é orientado, podendo ser uma posição estratégica a ser alcançada ou um propósito a ser atingido ou um produto a ser produzido ou um serviço a ser realizado.
+      Nesse sentido, o gerenciamento de projeto pode ser definido como
+    alternativas:
+      - a aplicação de conhecimentos, de habilidades, de ferramentas e de técnicas às atividades de um projeto, a fim de cumprir os seus requisitos.
+      - a aplicação de conhecimento, de habilidades, de sabedoria, de ciência e de arte, para que atividades organizacionais alcancem a excelência operacional.
+      - a implantação de um software para gerenciamento de projetos.
+      - a integração do método do caminho crítico em um sistema de gerenciamento de valor agregado.
+      - um subconjunto de disciplinas de Engenharia e outras disciplinas técnicas.
+  - enunciado: |
+      Uma organização começará a usar um novo sistema que tem como característica gerar um alto tráfego de arquivos de vídeo na rede interna da empresa. Alguns gestores de negócio da organização estão preocupados com um possível impacto negativo desse novo sistema no desempenho da rede da empresa.
+      O processo ITIL responsável por garantir que o tráfego da rede esteja dentro dos níveis definidos de serviço é o gerenciamento de
+    alternativas:
+      - capacidade e desempenho
+      - risco
+      - mudança
+      - problema
+      - nível de serviço
+  - enunciado: |
+      O COBIT é um framework para a governança e para a gestão da informação e da tecnologia empresarial. Entende-se como informação e tecnologia empresarial toda a tecnologia e processamento de informações que a empresa implementa para atingir seus objetivos, independentemente de onde isso aconteça na empresa.
+      Nesse sentido, o framework do COBIT pode ser compreendido como um framework
+    alternativas:
+      - que define os componentes que sustentam um sistema de governança.
+      - que descreve todo o ambiente de TI empresarial.
+      - para organizar processos de negócio.
+      - técnico para gerenciar toda a tecnologia empresarial.
+      - prescritivo para tomadas de decisão relacionadas a TI.
+  - enunciado: |
+      A Estrutura Analítica do Projeto (EAP) é um diagrama estruturado que suporta o gerenciamento de escopo de um projeto.
+      Qual é o objetivo da EAP na gestão de um projeto?
+    alternativas:
+      - Assegurar que todo o trabalho dentro de um projeto seja identificado e definido dentro de uma estrutura.
+      - Apresentar a estrutura organizacional de um programa.
+      - Apresentar quais elementos de trabalho foram atribuídos a unidades organizacionais.
+      - Indicar quais membros da equipe têm responsabilidade sobre cada pacote de trabalho.
+      - Indicar qual é o caminho crítico do projeto, com as atividades que não possuem folga de tempo.
