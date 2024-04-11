@@ -1,0 +1,404 @@
+---
+materia: Nível Médio - Inspeção de Equipamentos e Instalações
+cargo: "Ênfase 5: Inspeção de Equipamentos e Instalações"
+questoes:
+  - enunciado: |
+      Considere o circuito elétrico mostrado na Figura, em que todos os componentes são considerados ideais.
+      Se for aplicado um curto circuito entre os pontos a e b, a potência elétrica total fornecida pela bateria, em W, será de
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_inspecao_21.png?raw=true
+    alternativas:
+      - '30'
+      - '40'
+      - '65'
+      - '70'
+      - '80'
+  - enunciado: |
+      Uma bateria de automóvel de 12 V, operando com sua resistência interna em 4 Ω, alimenta uma carga resistiva, que consome uma corrente elétrica de 0,5 A.
+      Qual é a potência, em W, dissipada pela carga resistiva?
+    alternativas:
+      - '5'
+      - '12'
+      - '6'
+      - '3'
+      - '1'
+  - enunciado: |
+      Um técnico precisa instalar, de forma improvisada, um receptor de rádio na floresta. Ele sabe que vai operar para receber um sinal de onda eletromagnética; para tal, precisa improvisar, com fios, uma antena receptora, tendo de estender, entre duas árvores, um pedaço de fio condutor com, exatamente, a metade do comprimento de onda do sinal eletromagnético a ser recebido.
+      A onda portadora do sinal que será sintonizado no aparelho rádio receptor opera na frequência de 10 MHz.
+      Qual será, em metros, o comprimento do fio da antena improvisada?
+    alternativas:
+      - '15'
+      - '10'
+      - '12'
+      - '20'
+      - '30'
+  - enunciado: "O processo de fabricação mecânica que realiza mudança de fase do material para utilizá-lo é a(o)"
+    alternativas:
+      - fundição
+      - extrusão
+      - estampagem
+      - laminação
+      - forjamento
+  - enunciado: |
+      À medida que uma substância se aproxima de uma determinada temperatura, as propriedades de suas fases gasosa e líquida convergem, resultando apenas em uma fase. Ao chegar a esse ponto, não existe distinção entre as duas fases anteriores.
+      Esse ponto, no qual passa a existir apenas uma fase da substância, é denominado ponto
+    alternativas:
+      - crítico
+      - triplo
+      - de ebulição
+      - de fusão
+      - de sublimação
+  - enunciado: |
+      Considere que, no processo de torneamento de uma peça de diâmetro 50 mm, o avanço aplicado foi de 0,5 mm/revolução, enquanto a velocidade de avanço foi de 200 mm/min.
+      Qual o valor da velocidade de corte, em m/min, nesse processo?
+    alternativas:
+      - '20.π'
+      - '0,02.π'
+      - '0,1.π'
+      - '0,4.π'
+      - '10.π'
+  - enunciado: |
+      O aço e seus produtos comerciais (chapas, barras, tubos, trilhos, vergalhões, etc.) são produzidos a partir do minério de ferro, por intermédio do processo siderúrgico que consiste, sucintamente, nas seguintes etapas: redução do minério de ferro em alto-forno, aciaria, lingotamento e laminação. Em cada uma das etapas é gerada a matéria-prima para a etapa seguinte, em um processo que, por meio de reações químicas e térmicas, transforma o minério de ferro em aço (liga Fe-C) e seus produtos finais.
+      As matérias-primas resultantes das três primeiras etapas do processo são, respectivamente,
+    alternativas:
+      - 'ferro gusa; aço; tarugos e placas'
+      - 'coque; ferro gusa; aço'
+      - 'carvão; tarugos e placas; aço'
+      - 'ferro gusa; ferro fundido; aço'
+      - 'ferro fundido; aço; tarugos e placas'
+  - enunciado: |
+      Considere a Figura abaixo, que representa o diagrama de equilíbrio da liga Fe-C.
+      O conhecimento do diagrama de fases em equilíbrio tem importância para compreender o comportamento dos materiais metálicos e suas ligas nas transformações térmicas como, por exemplo, os tratamentos térmicos. No diagrama da liga Fe-C, o resfriamento lento (isto é, em equilíbrio de fases) de um aço hipoeutetoide a partir da região austenítica até temperaturas abaixo de 727oC resulta em uma microestrutura caracterizada por grãos de ferrita proeutetoide e perlita.
+      Nessas condições, a morfologia dos grãos de perlita se apresenta em forma de
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_inspecao_28.png?raw=true
+    alternativas:
+      - placas lamelares alternadas de ferrita e cementita
+      - nódulos de cementita sobre matriz de ferrita
+      - grãos de ferrita com cementita precipitada nos contornos de grãos
+      - placas lamelares alternadas de austenita e cementita
+      - nódulos de cementita sobre matriz de austenita
+  - enunciado: |
+      Em uma situação hipotética, duas chapas de aço AISI 1020 laminado a frio serão soldadas de topo pelo processo de arco elétrico com eletrodo revestido. Dispõe-se de tabelas de propriedades, da resistência à ruptura do aço, igual a 469 Mpa (68 kpsi), e da sua tensão limite de escoamento, igual a 393 Mpa (57 kpsi).
+      Do ponto de vista somente da resistência mecânica, a especificação mais adequada do eletrodo para o processo de soldagem, conforme a classificação da AWS (American Welding Society), é
+    alternativas:
+      - E70
+      - E60
+      - E80
+      - E100
+      - E120
+  - enunciado: |
+      O forjamento é um processo de conformação mecânica a quente, no qual peças de aço são fabricadas a partir de blocos, tarugos, etc., em prensas de vários estágios que vão moldando a peça até sua forma final. Durante o processo, a peça é reaquecida entre os estágios de forjamento.
+      O termo “trabalho a quente”, no qual se enquadra o forjamento, significa que o aço é trabalhado
+    alternativas:
+      - acima da temperatura de recristalização
+      - acima da temperatura de austenitização
+      - acima da temperatura ambiente
+      - abaixo da temperatura de recristalização
+      - entre a temperatura de recristalização e a de austenitização
+  - enunciado: |
+      A Figura abaixo representa o desenho de conjunto de um sistema mecânico de polia móvel.
+      Os números que indicam as duas faces da polia e a correia, respectivamente, são
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_inspecao_31.png?raw=true
+    alternativas:
+      - '8, 9 e 1'
+      - '10, 6 e 4'
+      - '12, 11 e 7'
+      - '3, 13 e 5'
+      - '11, 10 e 12'
+  - enunciado: |
+      Os tratamentos térmicos em materiais metálicos têm como objetivo principal modificar as propriedades mecânicas, não alterando sua forma e sua composição química, mas modificando a microestrutura. Assim, tratamento térmico é um ciclo de aquecimento e resfriamento controlado com esse objetivo. Um tratamento térmico realizado em aços de médio teor de carbono, visando elevar a dureza e a resistência mecânica, consiste em aquecimento até a região da fase austenítica, seguido de resfriamento brusco até temperatura ambiente, resultando em uma microestrutura com alta dureza e muito frágil.
+      As denominações do tratamento térmico e da microestrutura resultante, respectivamente, são
+    alternativas:
+      - têmpera e martensita
+      - recozimento e perlita
+      - normalização e perlita fina
+      - têmpera e bainita
+      - austêmpera e austenita retida
+  - enunciado: |
+      Aços e ferros fundidos são materiais que se solidificam formando estruturas cristalinas atômicas organizadas em arranjos geométricos (CCC, CFC, etc.), responsáveis pelas propriedades mecânicas desses materiais. Dentre as imperfeições que esses arranjos podem apresentar, a discordância é importante porque comanda o mecanismo de deformação plástica do metal, presente nos processos de conformação mecânica. Macroscopicamente, por exemplo, nos aços dúcteis, a conformação a frio (temperatura ambiente) é possível porque as discordâncias se movimentam na estrutura cristalina, resultando em deformação permanente.
+      Esse efeito é conhecido em mecânica como
+    alternativas:
+      - encruamento
+      - precipitação
+      - recristalização
+      - escoamento
+      - alongamento
+  - enunciado: |
+      O tetrafluoroetileno (TFE) é um polímero do grupo dos termoplásticos que tem aplicação como material de engenharia por ter excelentes propriedades de fricção e desempenho a altas temperaturas. Por essas características, é empregado para fabricação de buchas autolubrificantes.
+      Comercialmente, esse polímero tem o nome de
+    alternativas:
+      - teflon
+      - nylon
+      - ABS
+      - poliéster
+      - PVC
+  - enunciado: |
+      De acordo com o Vocabulário Internacional de Metrologia (VIM), as características dos instrumentos de medição são definidas em termos de parâmetros como exatidão, faixa de indicações, sensibilidade e resolução, entre outros.
+      No caso do manômetro analógico da Figura acima, a resolução da escala kgf/cm2 e a faixa de indicações da escala lbf/pol2 são, respectivamente,
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_inspecao_35.png?raw=true
+    alternativas:
+      - '0,5 e 0-300'
+      - '3 e 0-300'
+      - '1,0 e 0-21'
+      - '10 e 0-21'
+      - '5 e 0-300'
+  - enunciado: |
+      No contexto da confiabilidade das medições, as técnicas metrológicas conceituam diversos tipos de erros de medição e metodologias para avaliação de erros, objetivando minimizá-los e mantê-los dentro de limites aceitáveis. De acordo com a terminologia normalizada pelo Inmetro, no Vocabulário Internacional de Medições (VIM), existe um tipo de erro de medição que está associado à dispersão das indicações em relação à referência.
+      Trata-se do erro
+    alternativas:
+      - aleatório
+      - sistemático
+      - máximo admissível
+      - de histerese
+      - de incerteza
+  - enunciado: |
+      Elementos de liga adicionados aos aços têm a função de melhorar as propriedades mecânicas como resistência, ductilidade, dureza, tenacidade, entre outras.
+      Na observação do Quadro acima, sobre a forma como os elementos de liga se apresentam na microestrutura das ligas Fe-C, verifica-se que
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_inspecao_37.png?raw=true
+    alternativas:
+      - elementos como Ni, que se dissolvem na ferrita, contribuem para aumento de resistência e tenacidade após tratamento térmico, e elementos como Ti e Nb, formadores de carbonetos, contribuem para aumento de dureza.
+      - elementos como Ni, que se dissolvem na ferrita, contribuem para aumento de dureza, e elementos como Ti e Nb, formadores de carbonetos, contribuem para aumento de resistência e tenacidade, após tratamento térmico.
+      - elementos como Ni, que se dissolvem na ferrita, contribuem para diminuição de resistência e tenacidade após tratamento térmico, e elementos como Ti e Nb, formadores de carbonetos, contribuem para diminuição de dureza.
+      - elementos como Ni, que se dissolvem na ferrita, contribuem para diminuição de dureza após tratamento térmico, e elementos como Ti e Nb, formadores de carbonetos, contribuem para aumento de resistência e tenacidade.
+      - elementos como Ni, que se dissolvem na ferrita, contribuem para diminuição de resistência e tenacidade após tratamento térmico, e elementos como Ti e Nb, formadores de carbonetos, contribuem para aumento de dureza.
+  - enunciado: |
+      Aços ferramenta são aços-liga especialmente formulados para prover alta dureza em combinação com resistência ao desgaste e tenacidade suficiente para resistir a cargas de choque. Para atender a esses requisitos, além do teor de carbono elevado, são necessários vários elementos de liga na composição química dessas ligas.
+      Dentre os elementos químicos predominantemente empregados na composição dos aços ferramentas, está o
+    alternativas:
+      - cromo
+      - fósforo
+      - enxofre
+      - boro
+      - alumínio
+  - enunciado: |
+      As Figuras (P) e (Q) mostram dois corpos de prova submetidos a ensaios de tração, após ruptura.
+      Comparando-se esses corpos de prova, verifica-se que (P) tem fratura
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_inspecao_39.png?raw=true
+    alternativas:
+      - 'dúctil, com estricção e deformação plástica; e (Q) tem fratura frágil, sem deformação plástica visível.'
+      - 'dúctil, com estricção e sem deformação plástica visível; e (Q) tem fratura dúctil, com deformação plástica visível.'
+      - 'dúctil, sem deformação plástica visível; e (Q) tem fratura frágil, com estricção e deformação plástica.'
+      - 'frágil, com estricção e deformação plástica; e (Q)tem fratura frágil, sem deformação plástica visível.'
+      - 'frágil, com estricção e deformação plástica; e (Q) tem fratura dúctil, sem deformação plástica visível.'
+  - enunciado: |
+      Em um calorímetro perfeito, foram colocados 400 g de água a 10°C, 400 g de água a 70°C e 1,60 kg de um material, de calor específico cM, na temperatura de 30°C. A temperatura de equilíbrio final é Tfinal = 35°C.
+      O calor específico cM desse material, em cal/(g°C), é igual a
+      `Dado: calor especifico da água = 1,0 cal/(g°C)`
+    alternativas:
+      - '0,50'
+      - '0,10'
+      - '0,20'
+      - '0,30'
+      - '0,40'
+  - enunciado: |
+      Costuma-se dizer que uma pessoa recebeu um choque elétrico quando seu corpo (ou parte) funciona como uma “ponte” para correntes elétricas. Tipicamente, correntes da ordem de 10 mA e superiores já são perigosas, e a resistência típica do corpo pode variar muito. Considere uma situação em que uma pessoa tocou, descalça e com a mão úmida, um fio desencapado, e o valor de sua resistência elétrica equivalente foi de apenas 0,5 kΩ.
+      Nessas condições, e admitindo-se que a diferença de potencial elétrico sofrida é de 220 V, a corrente típica, em amperes, que passou pelo corpo dessa pessoa foi igual a
+    alternativas:
+      - '0,44'
+      - '0,22'
+      - '11'
+      - '110'
+      - '440'
+  - enunciado: |
+      O reagente de Tollens é frequentemente usado em testes para identificar a presença de um grupo funcional em compostos orgânicos.
+      O grupo funcional detectado pelo teste com o reagente de Tollens e o resultado esperado dessa reação são os(as)
+    alternativas:
+      - aldeídos com formação de um espelho de prata, depósito de Ag0, no interior do recipiente.
+      - ácidos carboxílicos com efervescência de CO2, quando o reagente é adicionado.
+      - álcoois com mudança de cor de incolor para amarelo-alaranjado.
+      - hidrocarbonetos insaturados com reação, com uma solução de KMnO4 em meio ácido, com mudança de cor: de roxa para marrom.
+      - aminas com formação de um precipitado branco no fundo do recipiente que contém a amostra.
+  - enunciado: |
+      Em refinarias de petróleo, alcenos podem ser preparados por meio da quebra de moléculas de alcanos com cadeias longas, através do processo de craqueamento. A equação a seguir representa uma possibilidade de obtenção de um alceno a partir do craqueamento de um alcano de cadeia longa com fórmula molecular de C22H46.
+      ```
+      C22H46 -> catalisador -> C14H30 + C8H16
+                    ∆          alcano   alceno
+      ```
+      Ao se partir do alcano C30H62 , com formação de um alcano C12H26, a fórmula molecular do alceno produzido será
+    alternativas:
+      - C18H36
+      - C18H38
+      - C18H34
+      - C18H40
+      - C18H32
+  - enunciado: |
+      O poliestireno é um polímero com excelentes propriedades mecânicas e isolantes, aplicado em diversos setores, incluindo a fabricação de produtos descartáveis. Esse polímero tem unidade de repetição estireno, representada a seguir:
+      Com base na estrutura do monômero, a reação de polimerização para a formação do poliestireno é a
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_inspecao_44.png?raw=true
+    alternativas:
+      - adição
+      - condensação
+      - substituição
+      - decomposição
+      - acilação
+  - enunciado: |
+      Durante a inspeção de um elevador, foi realizado um teste para verificar o estado de conservação do cabo de acionamento em operação.
+      O elevador, com carga de 4.500 N, foi deixado livre para mover-se apenas com o contrapeso de 500 N, conforme ilustrado na Figura.
+      Nesse cenário, considerando-se g = 10 m/s2, a aceleração de descida do elevador, expressa em m/s2, é
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_inspecao_45.png?raw=true
+    alternativas:
+      - '8'
+      - '10'
+      - '6'
+      - '4'
+      - '2'
+  - enunciado: |
+      Considere que um determinado aço se funde a uma temperatura de 1.400°C e que a temperatura ambiente é de 25°C.
+      A variação de temperatura que propicia esse aquecimento, expressa em K, é de
+    alternativas:
+      - '1.375'
+      - '298'
+      - '1.648'
+      - '1.673'
+      - '1.698'
+  - enunciado: |
+      Um eixo maciço possui dois trechos com diâmetros D e d, conforme representado na Figura. A tensão cisalhante máxima devida à torção é calculada pela expressão t = TR/J, onde J é o momento polar da seção transversal (J = π.(R^4)/2).
+      Considere que o eixo está sob ação do torque T, e seus diâmetros estão na relação D/d = 1,2.
+      A relação entre as tensões cisalhantes tA/tB, atuantes nas superfícies dos dois trechos do eixo, nos pontos A e B, é
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_inspecao_47.png?raw=true
+    alternativas:
+      - '1,728'
+      - '1,0'
+      - '1,2'
+      - '1,44'
+      - '2,0736'
+  - enunciado: |
+      O componente estrutural ilustrado na Figura é constituído por dois trechos de peças prismáticas cujos comprimentos são LAC e LBC . Esse componente está engastado na extremidade A e sujeito a uma carga concentrada P, aplicada na extremidade B.
+      Considerando-se que a carga P está alinhada com o segmento BC desse componente, o momento fletor atuante no engaste A é
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_inspecao_48.png?raw=true
+    alternativas:
+      - 'LAC . P . cos 30°'
+      - 'LAC . P . cos 60°'
+      - 'LBC . P . cos 60°'
+      - 'LAC . P'
+      - '0'
+  - enunciado: |
+      Durante a montagem de uma máquina, duas barras de alumínio devem ficar alinhadas na horizontal, conforme representado na Figura.
+      Sabe-se que, nas condições de montagem, a distância entre os mancais em relação aos quais as barras podem rotular é L  1.002,3 mm, e que as barras possuem comprimentos de 600 mm e 400 mm.
+      Estando as barras, inicialmente, na posição horizontal, qual é a maior variação de temperatura admitida, expressa em °C, de modo que as barras não fiquem submetidas à compressão devida a uma eventual dilatação térmica?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_inspecao_49.png?raw=true
+    alternativas:
+      - '100'
+      - '1'
+      - '1,2'
+      - '123'
+      - '200'
+  - enunciado: |
+      Um sistema de transmissão por correia é constituído de três polias (motriz, conduzida e tensionadora), conforme mostrado na Figura.
+      Considere que: (I) os raios das polias são os indicados na Figura; (II) durante a operação do sistema, a velocidade da correia passa de 2 m/s para 6 m/s em um período de 2 segundos; (III) o movimento ocorre com aceleração constante.
+      As acelerações angulares das polias motora e conduzida, expressas em rad/s 2 , nesse período, serão, respectivamente, de
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_inspecao_50.png?raw=true
+    alternativas:
+      - 10 e 8
+      - 6 e 8
+      - 6 e 10
+      - 8 e 10
+      - 18 e 10
+  - enunciado: |
+      Uma tubulação foi colocada sobre dois apoios, conforme ilustrado na Figura, para minimizar os efeitos de flexão durante o transporte.
+      Considere que a tubulação tenha um peso distribuído uniformemente, expresso em N/m.
+      O melhor posicionamento dos apoios A e B será aquele em que os momentos fletores nas seções A, B e C sejam
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_inspecao_51.png?raw=true
+    alternativas:
+      - MA = MB e MC = -MA
+      - MA = MB = MC
+      - MC = -(MA + MB)
+      - MA = MB e MC = 0
+      - MA = MB e MC qualquer
+  - enunciado: |
+      Um volume de 50,00 mL de solução de amostra contendo Fe2+ foi adicionado a um frasco Erlenmeyer, seguido da adição de 50,00 mL de água. Foram necessários 30,00 mL de solução padrão de dicromato de potássio (0,05 mol L-1) para reagir totalmente e de forma estequiométrica com o Fe2+.
+      ```
+      6 Fe2+(aq) + Cr2O72+(aq) + 14 H+ → 6 Fe3+(aq) + 2 Cr3+(aq) + 7 H2O(l)
+      ```
+      Com base nessas informações, a quantidade, em mol, de Fe2+ na solução de amostra é
+    alternativas:
+      - '0,009'
+      - '0,003'
+      - '0,006'
+      - '0,012'
+      - '0,015'
+  - enunciado: |
+      Um técnico recebeu um frasco contendo um cloreto de elemento alcalinoterroso (X) de aspecto cristalino e de coloração branca. Ele selecionou uma massa da amostra para solubilizar completamente em água e, em seguida, reagir com excesso de carbonato de potássio. O carbonato de X precipitado foi separado, seco e armazenado em um dessecador.
+      Uma massa de 1,00 g desse carbonato foi aquecida, produzindo aproximadamente 0,223 g do gás CO2, conforme a reação a seguir.
+      ```
+      XCO3(s) → XO(s) + CO2(g)
+      ```
+      Considerando-se a pureza do carbonato e a sua decomposição assumidamente completa, o elemento X em questão é o
+    alternativas:
+      - Ba
+      - Mg
+      - Ca
+      - Sr
+      - Na
+  - enunciado: |
+      O metal lítio, muito valorizado por conta da demanda por baterias automotivas, é obtido pela eletrólise do cloreto de lítio fundido. Na equação abaixo, é mostrada a principal semirreação do processo.
+      ```
+      Li+(l) + e- → Li(s)
+      ```
+      Assumindo-se condições ideais de reação, a quantidade de carga, em C, necessária para produzir 200 kg de Li(s) é, aproximadamente,
+      `Dado: F = 96.500 C/mol de elétrons'
+    alternativas:
+      - '2,8 x 10^9'
+      - '1,5 x 10^9'
+      - '1,5 x 10^10'
+      - '2,9 x 10^10'
+      - '1,5 x 10^11'
+  - enunciado: |
+      Considere as duas semirreações abaixo:
+      ```
+      Zn2+(aq) + 2e → Zn(s) ; Eo = -0,76 V
+      AgBr(s) + e → Ag(s) + Br-(aq) ; Eo = +0,07 V
+      ```
+      Com base nos seus potenciais padrões de redução, a reação global de oxirredução é
+    alternativas:
+      - Zn(s) + 2 AgBr(s) → Zn2+(aq) + 2 Ag(s) + 2 Br-(aq)
+      - Zn2+(aq) + AgBr(s) → Zn(s) + Ag(s) + Br-(aq)
+      - Zn2+(aq) + Ag(s) + Br-(aq) → + Zn(s) + AgBr(s)
+      - Zn2+(aq) + 2 Ag(s) + 2 Br-(aq) → + Zn(s) + 2 AgBr(s)
+      - Zn(s) + AgBr(s) → Zn2+(aq) + Ag(s) + Br-(aq)
+  - enunciado: |
+      Três termômetros são colocados em série ao longo de uma tubulação de água para monitorar a variação de temperatura. O primeiro marca 230°C, o segundo, 446°F, e o terceiro, 562,15 K.
+      Com base nas informações apresentadas, verifica-se que, à medida que a água percorre o duto, sua temperatura
+    alternativas:
+      - permanece a mesma entre os termômetros 1 e 2 e aumenta entre o 2 e o 3.
+      - sempre aumenta.
+      - aumenta entre os termômetros 1 e 2 e diminui entre o 2 e o 3.
+      - diminui entre os termômetros 1 e 2 e aumenta entre o 2 e o 3.
+      - sempre diminui.
+  - enunciado: |
+      O sistema representado na Figura abaixo compreende uma alavanca AO e dois cilindros hidráulicos. A alavanca é vinculada à haste do pistão do cilindro menor no ponto B, situado na metade do comprimento AO. O pistão do cilindro menor tem área igual a S1, e a área S2, do pistão do cilindro maior, é igual ao triplo da área S1. Os cilindros contêm óleo e são ligados por um mangote inextensível, que permite a passagem do fluido de um cilindro a outro.
+      Ao aplicar a força F1, igual a 36 N, no ponto A da alavanca, produz-se a força F2 que, em N, é igual a
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_inspecao_57.png?raw=true
+    alternativas:
+      - '216'
+      - '108'
+      - '54'
+      - '12'
+      - '6'
+  - enunciado: |
+      O sistema representado na Figura abaixo consiste em um tubo em formato de U, conectado, pela sua extremidade A, a um reservatório fechado, que contém gás nitrogênio. Esse tubo é aberto na extremidade C, onde a pressão é igual à atmosférica (10^5 N/m2). A densidade do óleo entre os pontos B e C é igual a 0,84 g/cm3, e a do mercúrio, entre os pontos A e B, é igual a 13,6 g/cm3.
+      Para h1 = 30 cm e h2 = 50 cm, a pressão, em N/m2, do reservatório de N2 é igual a
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_inspecao_58.png?raw=true
+    alternativas:
+      - '145.000'
+      - '100.045'
+      - '100.080'
+      - '100.450'
+      - '104.500'
+  - enunciado: |
+      Quanto à natureza, as ondas podem ser classificadas em mecânicas e em eletromagnéticas. A radiação eletromagnética possui uma faixa extensa de frequência, desde infravermelho até raios cósmicos, e essa faixa é denominada espectro eletromagnético. A radiografia industrial é amplamente utilizada para detectar falhas em equipamentos que exigem alta confiabilidade, como gasodutos que transportam óleo à alta pressão, caldeiras de vapor e equipamentos de refinaria.
+      A radiografia industrial utiliza onda eletromagnética da seguinte região do espectro eletromagnético:
+    alternativas:
+      - Raios-X
+      - Infravermelho
+      - Micro-ondas
+      - Ondas de rádio
+      - Ultravioleta
+  - enunciado: |
+      Considere uma operação que, sob condições especificadas, estabelece, em uma primeira etapa, uma relação entre os valores e as incertezas de medição fornecidos por padrões e as indicações correspondentes com as incertezas associadas. Em uma segunda etapa dessa operação, essa informação obtida é utilizada para estabelecer uma segunda relação, visando à obtenção de um resultado de medição a partir de uma indicação.
+      A operação descrita é a
+    alternativas:
+      - calibração
+      - amostragem
+      - atestação
+      - auditoria
+      - inspeção
