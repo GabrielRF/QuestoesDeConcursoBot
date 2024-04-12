@@ -1,0 +1,398 @@
+---
+materia: Nível Médio - Elétrica
+cargo: "Ênfase 6: Manutenção - Elétrica"
+questoes:
+  - enunciado: |
+      Considere um medidor de energia elétrica monofásico analógico, que possui um disco efetuando uma volta a cada 2,5 Wh. Esse medidor será usado em uma aula de medidas elétricas para medir a energia consumida pelas cargas conectadas à bancada. As cargas possuem as potências e os tempos de operação listados na Tabela abaixo:
+      ```
+      carga | Potência ativa (W) | Tempo de operação (minutos)
+      1     | 50                 | 30
+      2     | 40                 | 45
+      ```
+      Diante do exposto, o número de voltas efetuadas pelo disco do medidor, após a realização da prática, será de
+    alternativas:
+      - '22'
+      - '10'
+      - '17'
+      - '25'
+      - '30'
+  - enunciado: |
+      O parque fabril de uma empresa possui um quadro de força (QF) que alimenta dois motores de indução trifásicos (MIT), com as características mostradas na Tabela abaixo.
+      ```
+      Motor | Potência aparente (kVA) | Fator de potência
+      1     | 30                      | 0,8
+      2     | 40                      | 0,6
+      ```
+      Sabe-se ainda que um banco de capacitores de 30 kVAr está instalado no QF.
+      Diante do exposto, e, sabendo-se que todas as cargas funcionam simultaneamente, a potência reativa, em kVAr, vista pelo QF quando os dois MIT operam simultaneamente, é de
+    alternativas:
+      - 20
+      - 30
+      - 32
+      - 48
+      - 52
+  - enunciado: |
+      Medições realizadas no quadro geral de baixa tensão de uma empresa hipotética forneceram as seguintes leituras:
+      ```
+      Potência reativa: 30 kVAr
+      Potência aparente: 50 kVA
+      ```
+      Diante do exposto, constata-se que a empresa possui
+    alternativas:
+      - fator de potência de 0,8
+      - potência ativa de 20 kW
+      - fator de potência de 0,6
+      - potência ativa de 80 kW
+      - fator de potência de 0,75
+  - enunciado: |
+      Considere duas cargas trifásicas A e B, alimentadas por um sistema de distribuição de energia elétrica com tensão de linha igual a 200√3 V. A carga A está ligada na configuração Δ e possui impedância do ramo Δ igual a j6 Ω, enquanto a carga B está ligada em Y e possui impedância do ramo Y igual a j8 Ω.
+      Para as condições apresentadas no problema, o módulo da corrente, em A, fornecida pelo sistema de distribuição para atender às duas cargas é:
+    alternativas:
+      - '125,0'
+      - '125,0/√3'
+      - '125,0 √3'
+      - '33,7 √3'
+      - '33,7/√3'
+  - enunciado: |
+      Considere duas cargas A e B, alimentadas por uma tensão de linha trifásica que drenam a mesma corrente de linha da fonte.
+      Sabendo-se que a carga A está ligada em Δ, e a carga B, em Y, a razão entre os módulos das correntes de fase da carga A e da carga B é
+    alternativas:
+      - '√3/3'
+      - '√3'
+      - '3'
+      - '1'
+      - '3√3'
+  - enunciado: |
+      Considere um condutor elétrico de comprimento igual a 0,5 m, instalado no eixo y de um sistema cartesiano. O condutor é percorrido por uma corrente elétrica de 10 A que se desloca no sentido positivo do eixo y.
+      Esse mesmo condutor encontra-se em uma região do espaço na qual a densidade de fluxo magnético é de 2 T e que aponta para dentro do plano da página.
+      Diante do exposto, constata-se que a força induzida no condutor é
+    alternativas:
+      - 10 N (apontando para a direção negativa do eixo x).
+      - 10 N (apontando para a direção positiva do eixo x).
+      - 20 N (apontando para a direção positiva do eixo x).
+      - 20 N (apontando para a direção negativa do eixo x).
+      - 10 N (apontando para a direção positiva do eixo y).
+  - enunciado: |
+      Os transformadores são máquinas elétricas estáticas que transferem energia elétrica do primário para o secundário, por meio de um circuito magnético. Com o intuito de aumentar o rendimento da máquina, uma técnica empregada em sua construção é a laminação do núcleo do transformador.
+      Essa técnica de construção é empregada para diminuir as perdas por
+    alternativas:
+      - correntes parasitas
+      - histerese
+      - capacitância de fuga
+      - indutância mútua
+      - permeabilidade
+  - enunciado: |
+      Um dos requisitos que deve ser atendido para a instalação de transformadores em paralelo é que eles tenham a mesma defasagem angular entre as tensões de linha do primário e do secundário. Uma forma de verificação dessa defasagem é por meio da leitura do índice horário do transformador em seus dados de placa.
+      Após a análise de um transformador, que possui o índice horário Dy5, verifica-se que a tensão de linha do secundário, em relação à tensão de linha do primário, está
+    alternativas:
+      - 120º atrasada
+      - 5º adiantada
+      - 5º atrasada
+      - 120º adiantada
+      - 30º adiantada
+  - enunciado: |
+      Considere um motor de corrente contínua, tipo de excitação shunt, tensão terminal de 400 V, que drena da rede uma corrente de 50 A. Considere, ainda, que a resistência total do campo shunt é de 50 Ω, e que a resistência de armadura é de 0,5 Ω.
+      Nas suas condições de operação, o motor possui perdas por atrito, por ventilação e do núcleo, totalizando 500 W. Diante do exposto, a potência de saída do motor, em kW, é, aproximadamente, de:
+    alternativas:
+      - '15,4'
+      - '15,9'
+      - '18,3'
+      - '18,8'
+      - '20,0'
+  - enunciado: |
+      A equipe de manutenção de uma empresa hipotética planeja montar um sistema de geração de emergência e, para isso, usará um antigo gerador síncrono trifásico encontrado no almoxarifado. A placa de identificação desse gerador encontra-se bastante deteriorada, o que não permite fazer o levantamento de todos os seus valores nominais de operação.
+      Os dados legíveis da placa de identificação encontram-se listados na Tabela a seguir:
+      ```
+      Grandeza                  | Valor
+      Tensão terminal nominal   | 200V
+      Potência aparente nominal | 45√3 kVA
+      Ligação                   | Δ
+      ```
+      A partir da análise dos dados legíveis, verifica-se que o módulo da corrente de fase do gerador, em A, é
+    alternativas:
+      - '225/√3'
+      - '75/√3'
+      - '75'
+      - '75/√3'
+      - '225√3'
+  - enunciado: |
+      Na Figura a seguir, é apresentado um circuito eletrônico, em que o amplificador operacional é considerado ideal.
+      Para que a tensão de saída Vo seja negativa, a tensão Vi na entrada do circuito deverá ser
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletrica_31.png?raw=true
+    alternativas:
+      - maior que 4 V
+      - menor que 3 V
+      - menor que 5 V
+      - maior que 2 V
+      - maior que 6 V
+  - enunciado: |
+      O circuito RC na Figura é alimentado por uma fonte de tensão senoidal, em volts, cujo sinal vi(t) 7 sen(wt). A frequência de operação é ajustada em w = 5000 rad/s.
+      Nessas condições, em regime permanente, o valor aproximado, em volts, da amplitude de pico do sinal de tensão de saída V0 é de
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletrica_32.png?raw=true
+    alternativas:
+      - '5,0'
+      - '4,2'
+      - '3,5'
+      - '2,8'
+      - '2,1'
+  - enunciado: |
+      Uma fonte de tensão senoidal, com frequência de 60 Hz, teve o valor de sua amplitude de pico, medida em um osciloscópio, em 212 V.
+      O valor aproximado, em volts, da tensão eficaz dessa fonte de tensão é
+    alternativas:
+      - 150
+      - 110
+      - 120
+      - 130
+      - 140
+  - enunciado: |
+      Considere o circuito lógico apresentado na Figura a seguir.
+      Qual deverá ser a expressão booleana do sinal S em função dos sinais X, Y, W e Z?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletrica_34.png?raw=true
+    alternativas:
+      - 'not(X) + Y + W + not(Z)'
+      - 'not(X) + Y + not(W) + Z'
+      - 'not(X) + Y + not(W) + not(Z)'
+      - 'X + not(Y) + W + not(Z)'
+      - 'X + not(Y) + not(W) + Z'
+  - enunciado: |
+      Em uma indústria de alimentos, um controlador PID (Proporcional, Integral e Derivativo) é empregado para regular a temperatura de um forno industrial. Durante a operação, técnicos notam que
+      ```
+      a temperatura dentro do forno nunca atinge o setpoint desejado, sempre ficando abaixo, independentemente da duração da operação;
+      quando o forno é ligado, há um rápido aumento de temperatura, mas esse aumento diminui drasticamente à medida que se aproxima do setpoint;
+      em resposta a uma perturbação, como a abertura da porta do forno, o sistema tem uma recuperação muito lenta, demorando a retornar à temperatura alcançada.
+      ```
+      Com base nesses sintomas, sugere-se má configuração nos seguintes componentes do controlador PID:
+    alternativas:
+      - nos componentes proporcional e integral
+      - no componente proporcional, apenas
+      - no componente integral, apenas
+      - no componente derivativo, apenas
+      - tanto no componente proporcional quanto no derivativo
+  - enunciado: |
+      Um técnico de eletricidade está configurando uma chave para a entrada digital de um Controlador Lógico Programável (CLP). Para garantir que a entrada do CLP identifique um estado “ALTO”, quando a chave estiver aberta, e “BAIXO”, quando a chave estiver fechada, o técnico optou por utilizar um resistor de pull-up. A entrada digital do CLP possui as seguintes especificações:
+      ```
+      Tensão de alimentação: 24V;
+      Resistência interna da entrada: 6kΩ
+      Tensão mínima para identificação de estado “ALTO”: 20V.
+      ```
+      Além disso, o resistor de pull-up não deve dissipar mais do que 0,6W (600mW) para garantir sua durabilidade e segurança no circuito.
+      Qual deve ser o valor da resistência de pull-up para atender a todas essas especificações?
+    alternativas:
+      - '1 kΩ'
+      - '600 Ω'
+      - '720 Ω'
+      - '850 Ω'
+      - '1,5 kΩ'
+  - enunciado: "Em uma instalação elétrica de baixa tensão residencial, o esquema de aterramento mais apropriado é o TN. Diante de um choque elétrico no usuário da instalação, por meio de um contato indireto, verifica-se que a corrente de falta para esse esquema de aterramento é"
+    alternativas:
+      - mais elevada que a de outros esquemas, o que permite a abertura mais rápida do disjuntor.
+      - mais baixa que a de outros esquemas, o que dispensa o uso do DR.
+      - abaixo do valor que pode causar algum dano ao usuário.
+      - interrompida somente com o uso do DR.
+      - mais elevada que a de outros esquemas, o que obriga o uso do DR.
+  - enunciado: |
+      Um motor trifásico tem uma corrente de partida igual a oito vezes a corrente nominal para qualquer uma das configurações possíveis de seus enrolamentos, delta ou estrela. Esse motor possui potência máxima de 6.600√3 VA e é alimentado por um padrão de fornecimento de energia elétrica de 220/127 V.
+      O valor da corrente de partida desse motor, em A, utilizando-se de uma chave estrela-triângulo, é
+    alternativas:
+      - 80
+      - 416
+      - 240
+      - 139
+      - 30
+  - enunciado: |
+      O perigo e o risco são elementos que devem ser analisados e mensurados para melhor gestão das atividades profissionais.
+      A respeito desses conceitos, verifica-se que a(o)
+    alternativas:
+      - perigo é uma fonte ou situação com potencial de danos ao trabalhador.
+      - higiene ocupacional está associada ao perigo de uma atividade.
+      - higiene do trabalho é responsável por identificar os perigos nos locais de trabalho.
+      - segurança do trabalho visa à eliminação dos perigos nos ambientes de trabalho.
+      - perigo é a combinação da probabilidade de ocorrência e da gravidade de um evento perigoso.
+  - enunciado: "O equipamento utilizado para o teste de tensão aplicada ao dielétrico, que consiste em uma fonte de corrente alternada ou contínua utilizada para medições de correntes de fuga de meios isolantes, é o"
+    alternativas:
+      - HIPOT
+      - megômetro
+      - microhmímetro
+      - alicate amperímetro
+      - megger
+  - enunciado: "A respeito dos equipamentos de proteção coletiva e individual em ambientes energizados eletricamente, verifica-se que"
+    alternativas:
+      - medidas de proteção coletiva compreendem, prioritariamente, a desenergização.
+      - o aterramento em trabalhos temporários é ineficiente, devendo ser utilizada a vestimenta adequada.
+      - a vestimenta em áreas energizadas deve contemplar influências eletrostáticas.
+      - as medidas de proteção coletiva devem ser adotadas quando, nos trabalhos em instalações elétricas, as medidas de proteção individual forem insuficientes.
+      - as medidas de proteção individual devem ser, prioritariamente, previstas e adotadas em todos os serviços executados em instalações elétricas.
+  - enunciado: |
+      Uma instalação elétrica em baixa tensão apresentou, em um quadro de distribuição de circuitos, uma sobretensão elevada em uma de suas fases.
+      Uma possível causa dessa sobretensão é a(o)
+    alternativas:
+      - rompimento do fio neutro do alimentador associado à má distribuição de cargas pelas fases.
+      - presença de cargas trifásicas com potência muito elevada, alimentadas pelo quadro de distribuição.
+      - presença de circuitos terminais que atendem iluminação e tomadas simultaneamente.
+      - rompimento do fio de uma das fases do alimentador.
+      - mau dimensionamento dos condutores.
+  - enunciado: |
+      Existem diversos tipos de sistemas de manutenção de energia (Uninterruptible Power Supplies – UPS).
+      O tipo que alimenta a carga com a energia da rede sem qualquer tratamento (estando a rede elétrica com seus parâmetros dentro das condições especificadas pelo fabricante do UPS), é:
+    alternativas:
+      - off-line
+      - conversão delta on-line
+      - conversão simples
+      - dupla conversão
+      - line interative
+  - enunciado: "É obrigatório que uma instalação elétrica com carga instalada acima de 75 kVA tenha como medida de controle o seguinte documento:"
+    alternativas:
+      - prontuário de instalações elétricas
+      - descrição dos procedimentos de emergência
+      - certificações dos equipamentos de proteção coletiva e individual
+      - projeto elétrico da instalação
+      - projeto do SPDA
+  - enunciado: |
+      Um equipamento elétrico monofásico possui potência de 3.520 VA, e sua tensão de alimentação é de 220 V. O circuito utilizado para a sua alimentação possui uma queda de tensão unitária de 10 V/(A.km).
+      Para que o percentual de queda de tensão não ultrapasse 2%, o comprimento máximo desse circuito deve ser de
+    alternativas:
+      - 27,5 metros
+      - 25,0 metros
+      - 22,5 metros
+      - 20,4 metros
+      - 18,6 metros
+  - enunciado: |
+      A necessidade de proteção contra descargas atmosféricas e a escolha das medidas adequadas de proteção devem ser buscadas pelos profissionais, por ocasião da elaboração dos projetos.
+      A proteção que visa a reduzir falhas em sistemas eletroeletrônicos, em uma estrutura a ser protegida, é pautada
+    alternativas:
+      - pelas medidas de proteção de surtos
+      - pela escolha do método de proteção
+      - pela avaliação de risco
+      - pelos níveis de proteção contra descargas atmosféricas
+      - pelos sistemas de proteção de descargas atmosféricas
+  - enunciado: |
+      Um equipamento foi alimentado por um condutor que se deteriorou devido ao fato de ele ser submetido a impactos mecânicos.
+      O condutor mais adequado para a sua substituição é o de isolação
+    alternativas:
+      - XLPE
+      - EPR
+      - PVC
+      - PVA
+      - HERP
+  - enunciado: |
+      Um técnico em eletricidade gerou, em laboratório, dois sinais senoidais de tensão com frequência angular w0 = 120pi rad/s. Esses dois sinais, vistos na tela de um osciloscópio, são representados, matematicamente, por:
+      ```
+      v1(t) = 30 sen(w0 t)
+      ```
+      e
+      ```
+      v2(t) = 40 sen(w0 t + (pi/2))
+      ```
+      O sinal senoidal resultante da soma v1(t) + v2(t) tem a tensão de pico, em volts, igual a
+    alternativas:
+      - '50'
+      - '90'
+      - '70'
+      - '40'
+      - '30'
+  - enunciado: |
+      A Figura a seguir mostra o esquema elétrico, montado em laboratório, para medir a resistência interna de uma bateria com valor nominal de 12 volts. O esquema é composto de um voltímetro (V), um amperímetro (A) e um resistor variável.
+      Em um primeiro ensaio, variando-se o resistor, foi medido no amperímetro a corrente de 2 A e, no voltímetro, a tensão de 11,2 V.
+      Para confirmar o resultado, foi feito um segundo ensaio, variando-se o resistor. Foram obtidas as seguintes medidas: no amperímetro, a corrente de 3 A, e, no voltímetro, a tensão de 10,8 V.
+      Com base nos ensaios realizados, o valor, em ohms, da resistência interna da bateria é
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletrica_49.png?raw=true
+    alternativas:
+      - '0,4'
+      - '0,1'
+      - '0,3'
+      - '0,5'
+      - '0,8'
+  - enunciado: |
+      Um Sistema de Controle Linear, na configuração de Malha Fechada com realimentação de saída, apresenta, como modelo, a seguinte Função de Transferência de Malha Fechada em função do ganho proporcional de malha K.
+      Esse modelo relaciona a saída Y(s) do sistema, com a entrada de referência R(s) e apresenta, no domínio do tempo, o sinal de saída y(t) em função do sinal de entrada r(t).
+      Variando-se positivamente o ganho K, chega-se a um determinado valor que provoca uma oscilação pura no sinal de saída y(t), ou seja, o sistema, em MF, passa a ter dois polos imaginários puros.
+      Qual é o valor do ganho K para obtenção dessa oscilação senoidal com valor de pico constante?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletrica_50.png?raw=true
+    alternativas:
+      - '750'
+      - '100'
+      - '130'
+      - '220'
+      - '450'
+  - enunciado: |
+      Considere o circuito resistivo mostrado na Figura a seguir.
+      Com base nos dados da Figura, o valor da resistência, em ohms, do Equivalente Thevenin, medida entre os pontos a e b desse circuito, é
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletrica_52.png?raw=true
+    alternativas:
+      - '8'
+      - '20'
+      - '18'
+      - '10'
+      - '5'
+  - enunciado: |
+      O circuito CC puramente resistivo, mostrado na Figura a seguir, tem seus componentes considerados ideais, e seus valores expostos na Figura.
+      Sabendo-se que a carga resistiva RL é alimentada pela corrente IL = 1A, o valor da resistência de carga RL , em ohms, deverá ser igual a
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletrica_53.png?raw=true
+    alternativas:
+      - '5'
+      - '10'
+      - '15'
+      - '25'
+      - '30'
+  - enunciado: "Em uma subestação de energia elétrica de distribuição, o uso dos transformadores de corrente (TC) se destina a"
+    alternativas:
+      - reproduzir, no enrolamento secundário, de forma isolada e em uma proporção definida e conhecida, a corrente do enrolamento primário, para sua utilização por equipamentos de medição e controle da subestação.
+      - inserir, no enrolamento primário, uma impedância em série, de forma a limitar a corrente elétrica a jusante do seu ponto de instalação, protegendo o ramal de distribuição contra correntes de sobrecarga e de curto-circuito.
+      - transmitir, no enrolamento secundário, a energia do enrolamento primário, para suprimento às cargas de baixa tensão do ramal de distribuição, mantendo a potência de transmissão.
+      - retificar, no enrolamento secundário, a corrente alternada do enrolamento primário, para suprimento dos circuitos auxiliares da subestação, alimentando os sistemas de acionamento das seccionadoras da subestação.
+      - conduzir, no enrolamento secundário, as correntes de surto atmosférico do enrolamento primário, de forma a propiciar um caminho de baixa impedância para essas correntes à malha de terra da subestação.
+  - enunciado: "A Norma ABNT NBR 5410 estabelece os princípios fundamentais e as determinações das características gerais que orientam os seus objetivos e prescrições, sendo"
+    alternativas:
+      - obrigatório que os condutores que não os condutores vivos e outras partes destinadas a escoar correntes de falta devem poder suportar essas correntes, sem atingir temperaturas excessivas.
+      - a proteção contra choques elétricos obrigatória para o risco associado a contato acidental com parte viva perigosa, e não obrigatória para falhas que acidentalmente coloquem uma massa sob tensão.
+      - proibido o seccionamento da alimentação da instalação elétrica, de seus circuitos e de seus equipamentos para fins de manutenção, verificação e localização de defeitos e reparos.
+      - a execução da manutenção das instalações elétricas permitida por pessoal não qualificado, desde que o projeto tenha sido realizado por pessoal qualificado a conceber e a executar os trabalhos em conformidade com essa norma.
+      - dispensada a inspeção da instalação no caso de reforma de projeto de instalação já existente e que tenha sido realizada inspeção, na execução original da instalação, antes da reforma, com vista a assegurar que ela foi executada de acordo com essa norma.
+  - enunciado: |
+      O circuito da Figura possui componentes ideais, sendo composto por uma fonte de tensão senoidal, uma impedância Z1, uma chave S e uma reatância indutiva de valor jX2, além dos instrumentos de medição wattímetro, amperímetro e voltímetro. Considere a operação sempre em regime permanente.
+      Quando a chave S está aberta, o wattímetro mede 800 W; o amperímetro, 5 A; e o voltímetro 200 V. Quando a chave S está fechada, a medida do wattímetro é igual ao produto da medida do amperímetro pela medida do voltímetro.
+      Qual é o valor de Z1, em ohms, quando se representa essa impedância como uma resistência em série com uma reatância?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletrica_56.png?raw=true
+    alternativas:
+      - '32 - j24'
+      - '50 - j66'
+      - '40 - j53'
+      - '160 + j4'
+      - '125 + j94'
+  - enunciado: |
+      O circuito em corrente contínua da Figura é composto por uma fonte de tensão de 100 V, uma fonte de corrente controlada, cujo valor é de cinco vezes a corrente i1, e quatro resistências de 10 Ω. Considere que o circuito está operando em regime permanente, e que todos os componentes são ideais.
+      Qual a potência total, em Watt, dissipada pelos quatro resistores?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletrica_57.png?raw=true
+    alternativas:
+      - '550'
+      - '350'
+      - '400'
+      - '450'
+      - '500'
+  - enunciado: |
+      Em um circuito trifásico a três fios, são utilizados dois wattímetros para aferir a potência ativa total do circuito, aplicando-se o método dos dois wattímetros.
+      Nesse método, a potência ativa total do circuito trifásico é obtida através da(o)
+    alternativas:
+      - soma algébrica dos valores aferidos em cada wattímetro.
+      - multiplicação dos valores aferidos em cada wattímetro.
+      - divisão dos valores aferidos em cada wattímetro.
+      - maior valor aferido em cada wattímetro.
+      - menor valor aferido em cada wattímetro.
+  - enunciado: |
+      Os sistemas de aterramento e equipotencialização são parte integrante dos projetos de instalações elétricas.
+      As canalizações metálicas de água
+    alternativas:
+      - não podem ser utilizadas como eletrodo de aterramento, mas devem fazer parte da equipotencialização principal da edificação.
+      - devem ser utilizadas como eletrodo de aterramento e devem fazer parte da equipotencialização principal da edificação.
+      - podem ser utilizadas como eletrodo de aterramento e devem fazer parte da equipotencialização principal da edificação.
+      - podem ser utilizadas como eletrodo de aterramento, mas não devem fazer parte da equipotencialização principal da edificação.
+      - não podem ser utilizadas como eletrodo de aterramento e não devem fazer parte da equipotencialização principal da edificação.
+  - enunciado: |
+      A unidade de energia no Sistema Internacional de Unidades, SI, é o joule. Os medidores de energia elétrica comumente instalados nas residências medem a energia em kWh.
+      Quanto vale, em joule, 1 kWh?
+    alternativas:
+      - '3,6 . 10^6'
+      - '2,7 . 10^-7'
+      - '1'
+      - '3,14 . 10^1'
+      - '6 . 10^4'
