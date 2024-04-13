@@ -1,0 +1,333 @@
+---
+materia: Nível Médio - Eletrônica
+cargo: Todos os cargos de nível médio
+questoes:
+  - enunciado: |
+      Em certa instalação elétrica, verifica-se que um cabo com 25 m de comprimento e seção reta com área de 2,5 mm2 apresenta uma diferença de potencial elétrico de 5 V entre as suas extremidades, quando submetido a uma corrente de 20 A.
+      Nessas condições, a resistividade elétrica do cabo, em Ω.mm2/m, é, aproximadamente, de
+    alternativas:
+      - '0,025'
+      - '0,020'
+      - '0,015'
+      - '0,010'
+      - '0,005'
+  - enunciado: |
+      Um técnico necessita gerar certa impedância, conectando, em série, uma capacitância e uma indutância. É importante que a frequência de ressonância w0 para essa impedância seja a mais próxima possível de w0=500 rad/s. Para isso, o técnico dispõe de apenas dois capacitores e de dois indutores que, em caso de necessidade, poderão ser conectados em série ou em paralelo. Os componentes disponíveis são:
+      ```
+      Capacitores: C1 = 1,5 mF e C2 = 450 μF;
+      Indutores: L1 = 1,8 mH e L2 = 250 μH.
+      ```
+      Sabe-se que a frequência w0, em rad/s, pode ser ajustada em função da capacitância, em F, e da indutância, em H, de acordo com a seguinte fórmula:
+      ```
+      w0 = 1 / √(LC)
+      ```
+      Nessas condições, para se obter o ajuste mais próximo da frequência w0 desejada, o técnico deverá utilizar
+    alternativas:
+      - ambos os indutores, colocando-os em série, e conectando-os em série com o paralelo entre os capacitores C1 e C2.
+      - ambos os capacitores, colocando-os em série, e conectando-os em série com o paralelo entre os indutores L1 e L2.
+      - apenas o capacitor C1, colocando-o em série com o indutor L1.
+      - apenas o capacitor C1, colocando-o em série com os indutores L1 e L2, também conectados em série.
+      - apenas o indutor L1, colocando-o em série com o paralelo entre os capacitores C1 e C2.
+  - enunciado: |
+      Três componentes elétricos foram agrupados em paralelo, formando o arranjo mostrado na Figura.
+      Sabe-se que R = 10 Ω, L = 1 mH e C = 0,8 mF.
+      Caso esse arranjo seja alimentado por uma fonte de tensão senoidal, com frequência de operação w = 1000 rad/s, qual deverá ser sua impedância, em ohms?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletronica_23.png?raw=true
+    alternativas:
+      - '2 + 4j'
+      - '5 + 1j'
+      - '4 + 2j'
+      - '3 + 3j'
+      - '1 + 5j'
+  - enunciado: |
+      Na Figura a seguir, são apresentados parte de um circuito elétrico e os ramos que estão conectados ao nó 1, cuja tensão é V1.
+      Nas condições apresentadas, qual deverá ser o valor, em volts, da tensão V1?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletronica_24.png?raw=true
+    alternativas:
+      - '9,0'
+      - '6,0'
+      - '8,2'
+      - '9,8'
+      - '11,5'
+  - enunciado: |
+      Há elementos utilizados em automação que detectam alterações nas variáveis físicas do processo e fornecem um sinal de saída, em geral, com natureza elétrica.
+      Tais elementos são os
+    alternativas:
+      - transdutores
+      - indicadores
+      - controladores
+      - registradores
+      - atuadores
+  - enunciado: |
+      Considere o circuito mostrado na Figura, alimentado por duas fontes de tensão CC.
+      Nas condições apresentadas, qual é a potência elétrica dissipada pelo resistor de 9 Ω, em W, aproximadamente?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletronica_26.png?raw=true
+    alternativas:
+      - '1,2'
+      - '2,8'
+      - '2,4'
+      - '2,0'
+      - '1,6'
+  - enunciado: |
+      Existe um padrão de comunicação em série, representado por um protocolo, que é amplamente utilizado em diversos setores, como automação industrial e sistemas de controle. A tecnologia viabiliza a troca de informações entre diferentes dispositivos de forma eficiente e confiável, além de oferecer alta velocidade de transmissão, robustez e confiabilidade, tornando-se popular na indústria. Esse protocolo possui duas variantes, referenciadas por DP e AP: a primeira, associada a periféricos descentralizados; e a segunda, à automação de processos. Apresenta uma grande quantidade de benefícios, como interoperabilidade dos dispositivos, suporte a diferentes topologias de rede, incluindo barramento, estrela e anel, amplo emprego em aplicações industriais, desde manufatura e sistemas de controle e monitoramento, além de versatilidade e confiabilidade que o tornam adequado a diferentes setores e segmentos da indústria.
+      Esse padrão de comunicação é conhecido por
+    alternativas:
+      - profibus
+      - metronet
+      - fieldbus
+      - ethernet
+      - modbus
+  - enunciado: |
+      Fluidos, que incluem os líquidos e os gases, são substâncias capazes de escoar e que se deformam com facilidade. Nesse contexto, um fluido ideal de massa específica igual a 0,4 g/cm³ encontra-se em equilíbrio hidrostático quando armazenado em um recipiente rígido e fechado, ocupando, assim, todo o seu volume.
+      Qual é o valor da pressão hidrostática, em Pa, exercida pelo fluido em um recipiente, se a área da base, de formato cilíndrico, é igual a 0,25 m², e a sua altura é de 2,5 m?
+    alternativas:
+      - '10'
+      - '1'
+      - '2'
+      - '5'
+      - '20'
+  - enunciado: |
+      A metrologia compreende todos os aspectos teóricos e práticos da medição, qualquer que seja a incerteza de medição e o domínio de aplicação.
+      O tipo de metrologia responsável pelos sistemas de medição utilizados nas transações comerciais e pelos sistemas relacionados às áreas de saúde, segurança e meio ambiente é a
+    alternativas:
+      - legal
+      - tecnológica
+      - estratégica
+      - industrial
+      - científica
+  - enunciado: |
+      De acordo com a ABNT, manutenção é o conjunto de ações técnicas e administrativas, realizada em intervalos predeterminados, ou de acordo com critérios preestabelecidos, destinada a reduzir a probabilidade de falha ou a degradação do funcionamento de um item, por meio de intervenções corretas e oportunas.
+      Entre os tipos de manutenção empregados, há um que é utilizado para corrigir falhas, panes ou quebras nos equipamentos, com a finalidade de restaurar as condições originais dos ativos, fazendo com que ele se torne novamente apto a operar, e outro que é empregado com o objetivo de reduzir alguma falha potencial, surgida em decorrência do funcionamento incorreto ou intensivo de uma máquina.
+      Esses tipos são conhecidos, respectivamente, como manutenção
+    alternativas:
+      - corretiva e preventiva
+      - preditiva e reativa
+      - reativa e normativa
+      - normativa e corretiva
+      - preventiva e preditiva
+  - enunciado: |
+      No que se refere aos diagramas elétricos, sua correta leitura e interpretação é essencial para a carreira de um bom técnico, pois constitui um recurso que garante uma linguagem comum a qualquer profissional do ramo elétrico, sendo o desenho uma representação visual universal. Entre os tipos de diagramas elétricos, um é o mais usado pelos eletricistas instaladores nas obras, sendo desenhado sobre a planta baixa e apresentando os dispositivos e o trajeto dos condutores rigidamente em suas posições físicas, apesar de ser em uma representação bidimensional.
+      Esse tipo é conhecido como diagrama
+    alternativas:
+      - unifilar
+      - trifilar
+      - funcional
+      - descritivo
+      - estruturado
+  - enunciado: |
+      No que se refere aos fundamentos básicos de redes, a palavra topologia trata da forma de estruturação e conexão dos computadores em uma rede. Entre as topologias empregadas, uma apresenta como vantagens o fato de, em caso de um nó falhar, a rede continuar a funcionar e, no caso da necessidade de adição ou remoção de computadores, a rede permanecer operacional, sem interrupção.
+      Essa topologia é conhecida como
+    alternativas:
+      - estrela ou radial
+      - árvore ou hierárquica
+      - malha ou distribuída
+      - bus ou barramento
+      - anel ou cíclica
+  - enunciado: |
+      A técnica Program Evaluation Review Technique (PERT) consiste em descobrir a duração de uma atividade, baseando-se em três estimativas possíveis: otimista (O), pessimista (P) e a mais provável (MP). O Critical Path Method (CPM) é utilizado no gerenciamento de projetos mais complexos e extensos, podendo ser aplicado nos mais simples, gerando uma série de benefícios.
+      Considerando-se a Figura acima, pertencente a um projeto na área de petróleo, qual é a opção que representa o caminho crítico?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletronica_34.png?raw=true
+    alternativas:
+      - 'L – M – P – R – Z'
+      - 'L – V – Z'
+      - 'L – S – T – Z'
+      - 'L – U – W – T – Z'
+      - 'L – N – Q – R – Z'
+  - enunciado: |
+      Sistemas de Segurança Instrumentados – SIS – são responsáveis pelo controle da segurança em processos industriais, sendo seu objetivo principal a garantia da segurança da indústria e do ambiente onde se faça necessária. As normas de segurança vigentes para a indústria e que norteiam o Sistema Instrumentado de Segurança apresentam uma série de condições e indicações para sua utilização, apresentando dois conceitos importantes para o SIS: o de Nível de Integridade de Segurança (SIL) e o de Ciclo de Vida de Segurança (SLC).
+      O SIL é um número inteiro que representa o nível aceitável de falha em um sistema de segurança, estabelecendo um valor mínimo para o menor risco, e outro, máximo, para o maior risco, respectivamente, iguais a
+    alternativas:
+      - '1 e 4'
+      - '0 e 5'
+      - '0 e 4'
+      - '1 e 3'
+      - '1 e 5'
+  - enunciado: |
+      No que se relaciona à saúde e à segurança do trabalho, inserida nas Normas Reguladoras, a NR-7 regulamenta aspectos decorrentes da relação jurídica prevista na Lei, qual seja, a saúde do trabalhador, sem estar condicionada a outros requisitos, como atividades, instalações, equipamentos ou setores e atividades econômicos específicos. Essa norma aplica-se às organizações e aos órgãos públicos da administração direta e indireta, bem como aos órgãos dos poderes legislativo e judiciário e ao Ministério Público, que possuam empregados regidos pela Consolidação das Leis do Trabalho – CLT –, devendo operar em conformidade com um programa que tem por objetivo principal promover a saúde dos trabalhadores, incluindo a realização de exames médicos: admissionais, periódicos, de retorno ao trabalho, de mudança de função ou demissionais.
+      Como é conhecido esse programa?
+    alternativas:
+      - PCMSO – Programa de Controle Médico de Saúde Ocupacional
+      - PPPP – Programa do Perfil Profissiográfico Previdenciário
+      - PGR – Programa de Gerenciamento de Riscos
+      - PLTIP – Programa do Laudo Técnico de Insalubridade e Periculosidade
+      - PLCAT – Programa do Laudo Técnico das Condições Ambientais do Trabalho
+  - enunciado: "A unidade da constante de força contra eletromotriz de um motor elétrico de corrente contínua no sistema internacional de unidades é:"
+    alternativas:
+      - 'V / rad / s'
+      - 'V / s'
+      - 'N . m / V'
+      - 'V / (N . m)'
+      - 'N . m / rad / s'
+  - enunciado: |
+      Em um sistema de automação industrial, um técnico em eletrônica está usando um CLP para monitorar um sensor de proximidade que detecta peças metálicas em uma esteira transportadora. O CLP que ele está utilizando tem um tempo de varredura fixo de 300 ms.
+      Se o técnico quiser garantir que o CLP perceba corretamente cada peça detectada pelo sensor, o sinal do sensor de proximidade deve permanecer estável, seja ativo ou inativo, pelo tempo, em ms, de, no mínimo,
+    alternativas:
+      - 600
+      - 100
+      - 150
+      - 300
+      - 900
+  - enunciado: |
+      Em um sistema de medição de vazão mássica, uma placa de orifício é utilizada para criar uma pressão diferencial.
+      Neste contexto, a vazão mássica é
+    alternativas:
+      - diretamente proporcional à raiz quadrada da pressão diferencial
+      - inversamente proporcional à raiz quadrada da pressão diferencial
+      - inversamente proporcional ao quadrado da pressão diferencial
+      - diretamente proporcional à pressão diferencial
+      - diretamente proporcional ao quadrado da pressão diferencial
+  - enunciado: |
+      Ao medir a saída de um sensor de pressão utilizando um instrumento eletrônico, o técnico de eletrônica observa que a leitura do instrumento é diferente quando a pressão está aumentando, comparada a quando a pressão está diminuindo, mesmo que o valor da pressão seja o mesmo nos dois casos.
+      Esse fenômeno, em que o valor medido é dependente do histórico ou da direção da variação da grandeza medida, é conhecido como
+    alternativas:
+      - histerese
+      - repetibilidade
+      - resolução
+      - calibração
+      - sensibilidade
+  - enunciado: |
+      Um técnico de eletrônica é encarregado de otimizar o controle de temperatura de uma câmara de teste. Após a instalação de um novo sensor e sistema de aquecimento, ele observa as seguintes características no sistema:
+      ```
+      1. sempre que a temperatura desejada é alterada, o sistema leva um tempo para responder e quase sempre ultrapassa essa temperatura antes de se estabilizar;
+      2. com o passar do tempo, a temperatura tende a se estabilizar um pouco abaixo do valor desejado;
+      3. oscilações bruscas na temperatura ambiente causam flutuações na temperatura da câmara, mas o sistema não parece reagir rapidamente para corrigir essas oscilações.
+      ```
+      Baseado nesses comportamentos observados, verifica-se que o controlador PID precisa de ajuste no(s) componente(s)
+    alternativas:
+      - integral e derivativo, para corrigir o desvio acumulado e reagir rapidamente às oscilações.
+      - proporcional, para tornar o sistema mais responsivo à diferença entre a temperatura desejada e a atual.
+      - integral, para aumentar o desvio acumulado e fazer com que o sistema alcance a temperatura desejada.
+      - derivativo, para fazer com que o sistema antecipe às oscilações bruscas e se ajuste menos rapidamente.
+      - proporcional e derivativo, para tornar o sistema menos responsivo e reagir mais lentamente às oscilações bruscas.
+  - enunciado: |
+      Considere A, B, C e D variáveis binárias e a notação X’ para representar a negação da variável binária X.
+      A expressão que representa a simplificação da função binária F = A’B’C’D’ + A’BC’D’ + A’BC’D + ABC’D’ + ABC’D + A’B’CD’ + ABCD’ é:
+    alternativas:
+      - 'BC’+B’CD’+A’B’D’'
+      - 'BC+B’CD’+A’B’D’'
+      - 'BC’+B’CD+A’B’D’'
+      - 'BC’+B’CD’+A’BD’'
+      - 'BC’+BCD’+A’B’D’'
+  - enunciado: |
+      Um circuito de corrente alternada é composto por um resistor de resistência 12 Ω, conectado em série a um ramo paralelo formado por um indutor de indutância 6,25 mH e um capacitor com capacitância 0,5 mF. O circuito está conectado a uma fonte de tensão alternada de tensão 260 V, com uma frequência de oscilação de 400 rad/s.
+      O módulo da potência aparente, kVA, do circuito é:
+    alternativas:
+      - '5,2'
+      - '2,6'
+      - '3,9'
+      - '6,5'
+      - '7,8'
+  - enunciado: "O Nível de Integridade de Segurança (SIL) de um Sistema Instrumentado de Segurança (SIS) consiste em:"
+    alternativas:
+      - uma classificação que indica o nível de redução de risco que uma Função Instrumentada de Segurança (FIS) deve fornecer, com SIL 4 sendo o nível mais rigoroso, e SIL 1, o menos rigoroso.
+      - uma medida que classifica a robustez física do equipamento, com SIL 4 sendo o mais resistente, e SIL 1, o mais frágil.
+      - uma classificação que indica o nível de complexidade do sistema, com SIL 1 sendo o mais complexo, e SIL 4, o menos complexo.
+      - uma medida da frequência de manutenção do sistema, com SIL 1, necessitando de manutenção mais frequente, e SIL 4, menos frequente.
+      - uma classificação que indica o tempo de resposta do sistema, com SIL 4 respondendo mais rapidamente, e SIL 1, mais lentamente.
+  - enunciado: |
+      Em uma rede de computadores que emprega técnicas avançadas de redundância e roteamento, a topologia de malha é frequentemente usada.
+      Considerando-se uma topologia de malha pura, onde cada dispositivo está conectado a todos os outros dispositivos na rede, e uma rede que contém n dispositivos, o número total de conexões necessárias para essa rede é
+    alternativas:
+      - 'n.(n-1)/2'
+      - 'n.(n-1)'
+      - 'n^2'
+      - 'n-1'
+      - '2n'
+  - enunciado: |
+      Considere um transistor bipolar de junção NPN, com parâmetro β igual a 100, tensão entre base e emissor VBE igual a 0,7 V, e tensão entre coletor e emissor desprezível, conectado a uma fonte de alimentação de corrente contínua, com tensão positiva VCC igual a 12 V e tensão negativa 0 V, considerada como terra, da forma descrita a seguir. A base do transistor está conectada ao positivo da fonte por intermédio de um resistor RB de resistência 2 MΩ, o coletor está conectado ao positivo da fonte por intermédio de um resistor RC de resistência 4 kΩ, e o emissor está conectado diretamente ao negativo da fonte.
+      Nessas condições, o valor da tensão, em V, entre coletor e emissor do transistor é
+    alternativas:
+      - '9,74'
+      - '9,45'
+      - '9,68'
+      - '10,08'
+      - '10,65'
+  - enunciado: |
+      O circuito digital sequencial mostrado na Figura abaixo tem como objetivo controlar a sequência periódica de acendimento de um conjunto de LEDs coloridos, de modo que apenas um LED acenderá em cada período do sinal de relógio CLK, a partir do instante t = 0.
+      Considerando-se que todos os flip-flops do circuito estão no estado Q = 0 no instante inicial t = 0, qual será a sequência periódica de acendimento dos LEDs para t > 0?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletronica_49.png?raw=true
+    alternativas:
+      - Vermelho, verde, azul e amarelo
+      - Vermelho, verde, amarelo e azul
+      - Vermelho, azul, amarelo e verde
+      - Azul, vermelho, amarelo e verde
+      - Azul, amarelo, vermelho e verde
+  - enunciado: |
+      No circuito ilustrado na Figura abaixo, são conhecidas apenas a tensão vS(t) = 50 cos(300t), expressa em volts, e a corrente iS(t) = 2,0 cos(300t – 30o), expressa em amperes.
+      A partir dessas informações, qual será a potência média, em watts, dissipada pela resistência de carga RL, quando o circuito acima estiver operando em regime permanente?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletronica_50.png?raw=true
+    alternativas:
+      - '25√3'
+      - '25'
+      - '50'
+      - '50√3'
+      - '100'
+  - enunciado: |
+      Na Figura abaixo, está representado o diagrama esquemático de um circuito empregando dois transformadores e uma fonte de tensão vS(t) = 120 sen(wt), expressa em volts. Considerando-se os transformadores ideais, haverá uma corrente elétrica i2(t) = A2 sen(wt) no resistor R2.
+      Qual será, em amperes, a amplitude A2 da corrente elétrica i2(t)?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletronica_51.png?raw=true
+    alternativas:
+      - '1,5'
+      - '2,0'
+      - '3,0'
+      - '4,0'
+      - '6,0'
+  - enunciado: |
+      O circuito resistivo esquematizado nas Figuras a seguir é constituído por uma bateria com tensão VB e quatro resistores idênticos, com a mesma resistência R. Usando-se um multímetro ideal, são realizadas as duas medições mostradas a seguir:
+      A partir dessas duas medições, conclui-se que a tensão VB na bateria, expressa em volts, e a resistência R, expressa em ohms (Ω), são, respectivamente, iguais a
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletronica_53.png?raw=true
+    alternativas:
+      - '18 e 300'
+      - '12 e 200'
+      - '12 e 300'
+      - '15 e 200'
+      - '18 e 200'
+  - enunciado: |
+      Uma forma bastante comum de controle do acendimento de um conjunto de diodos emissores de luz (LED) está ilustrada no circuito da Figura abaixo, onde o transistor bipolar de junção Q1 funciona como uma fonte de corrente, fazendo com que todos os LEDs conduzam a mesma corrente elétrica, independentemente do número N de dispositivos conectados em série. Entretanto, esse circuito possui uma limitação no número máximo de LEDs que podem ser conectados em série, de modo que o transistor continue a operar como uma fonte de corrente.
+      Nesse circuito, considere que todos os LEDs apresentam uma tensão de joelho igual a 1,8 V, quando em condução direta, e que o transistor Q1 apresenta um ganho de corrente β muito alto, uma tensão VBE = 0,7 V, quando em condução, e VCE(Sat) = 0,2 V, quando em saturação.
+      Dessa forma, quantos LEDs, no máximo, podem ser conectados em série no circuito acima e qual é a corrente elétrica no terminal de coletor de Q1, expressa em miliamperes, respectivamente?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletronica_55.png?raw=true
+    alternativas:
+      - '5 e 10'
+      - '3 e 15'
+      - '5 e 15'
+      - '6 e 10'
+      - '6 e 15'
+  - enunciado: |
+      Considere o circuito elétrico resistivo mostrado na Figura a seguir, cujos componentes são considerados ideais.
+      Com base nos dados do circuito, o valor, em volts, da fonte de tensão do circuito equivalente de Thevenin, calculado entre os pontos 1 e 2, é
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletronica_57.png?raw=true
+    alternativas:
+      - '4,0'
+      - '9,2'
+      - '8,5'
+      - '6,0'
+      - '3,2'
+  - enunciado: "Ao aplicar o sinal de tensão senoidal v(t) = 150 sen(w0t) sobre a impedância complexa, dada por Z(jw0) = 10 - j10, ambos operando na mesma frequência, a expressão do sinal da corrente elétrica resultante será"
+    alternativas:
+      - 'i(t) = 15/√2 sen(w0t + pi/4)'
+      - 'i(t) = 15√2 sen(w0t + pi/2)'
+      - 'i(t) = 15√2 sen(wot + pi/4)'
+      - 'i(t) = 15/√2 sen(w0t - pi/4)'
+      - 'i(t) = √ sen(w0t)'
+  - enunciado: |
+      Uma bateria de automóvel, com tensão contínua nominal de 12 V, por estar algum tempo em uso, teve sua resistência interna aumentada para 5 Ω.
+      Em um primeiro ensaio, no qual essa bateria alimenta diretamente uma carga resistiva de 10 Ω, foi feita a medida da potência dissipada na carga, obtendo-se uma primeira medida P1, em watts.
+      Em um segundo ensaio, feito com essa bateria nas mesmas condições, uma outra resistência de mesmo valor, 10 Ω, foi adicionada em paralelo à primeira carga, e foi feita uma segunda medida, P2, da potência dissipada em toda a carga, formada pelas duas resistências.
+      Qual é o valor aproximado do percentual de aumento de P2 em relação a P1?
+    alternativas:
+      - '12,5%'
+      - '50,0%'
+      - '35,0%'
+      - '25,5%'
+      - '10,0%'
+  - enunciado: |
+      O modelo de um sistema de controle linear, de segunda ordem, sem zeros finitos, apresenta o diagrama da Figura a seguir, com dois polos complexos.
+      Com base nos valores mostrados no diagrama, a constante, conhecida como Razão de Amortecimento desse sistema, é igual a
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_eletronica_60.png?raw=true
+    alternativas:
+      - '0,6'
+      - '1'
+      - '0,8'
+      - '0,4'
+      - '0,2'
