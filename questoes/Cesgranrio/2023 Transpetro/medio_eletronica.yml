@@ -1,7 +1,7 @@
 ---
 materia: Nível Médio - Eletrônica
 cargo: Todos os cargos de nível médio
-questoes: |
+questoes:
   - enunciado: |
       Em certa instalação elétrica, verifica-se que um cabo com 25 m de comprimento e seção reta com área de 2,5 mm2 apresenta uma diferença de potencial elétrico de 5 V entre as suas extremidades, quando submetido a uma corrente de 20 A.
       Nessas condições, a resistividade elétrica do cabo, em Ω.mm2/m, é, aproximadamente, de
