@@ -74,7 +74,7 @@ questoes:
   - enunciado: |
       Um técnico de manutenção precisa substituir uma válvula, cuja simbologia é apresentada na Figura abaixo.
       Considerando-se a simbologia apresentada, esse técnico deverá substituir uma válvula
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_27.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_27.png?raw=true
     alternativas:
       - flangeada do tipo válvula de boia
       - flangeada do tipo borboleta
