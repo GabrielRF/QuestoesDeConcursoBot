@@ -48,7 +48,7 @@ questoes:
   - enunciado: |
       Na imagem abaixo, é mostrado um medidor de vazão.
       Trata-se de um medidor de vazão do tipo
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_26.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_26.png?raw=true
     alternativas:
       - Placa de orifício
       - Bocal
@@ -88,7 +88,7 @@ questoes:
   - enunciado: |
       Ao inspecionar um perfil de solda aplicada na união de duas peças perpendiculares, um técnico identificou a geometria esquematizada na Figura abaixo, indicando um perfil de solda incorreto, e reportou para a equipe executora a necessidade de essa solda ser refeita.
       Como esse erro de perfil de solda pode ser classificado?
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_30.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_30.png?raw=true
     alternativas:
       - Falta de penetração
       - Garganta insuficiente
@@ -123,7 +123,7 @@ questoes:
       - K
       - N
   - enunciado: "A tolerância geométrica apresentada na Figura acima indica que o batimento"
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_35.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_35.png?raw=true
     alternativas:
       - na direção perpendicular à tangente e à superfície não pode exceder 0,2 mm.
       - total radial não deve exceder 0,2 mm, para quaisquer pontos da superfície.
@@ -169,7 +169,7 @@ questoes:
   - enunciado: |
       Na Figura abaixo está representado um tubo de Venturi, no qual um fluido, com densidade igual a 1.200 kg/m3, é canalizado a uma velocidade v1 . A área S1 é o triplo da área S2, e os valores de pressão registrados nos manômetros P1 e P2 são, respectivamente, 180 kPa e 150 kPa.
       Nessas condições, a velocidade v1, em m/s, é igual a
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_41.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_41.png?raw=true
     alternativas:
       - '2,5'
       - '5,0'
@@ -180,7 +180,7 @@ questoes:
       O alumínio e o aço, e suas ligas, são dois materiais amplamente utilizados em construção mecânica, e a correta avaliação das propriedades mecânicas é fator decisivo para a seleção desses materiais em seus campos de aplicação. Nesse contexto, considere os diagramas tensão x deformação apresentados abaixo.
       Admita que, para designação dos materiais, foram empregadas as nomenclaturas comerciais usuais (AISI e Aluminum Association).
       A partir da análise e da interpretação dos diagramas tensão x deformação apresentados, constata-se que o(s)
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_42.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_42.png?raw=true
     alternativas:
       - limite de escoamento da liga de Al de maior limite de ruptura é cerca de duas vezes maior que o do aço de baixo carbono, e as ductilidades do aço de alto teor de carbono e do alumínio puro são semelhantes.
       - limite de escoamento do aço de alto teor de carbono é semelhante ao do alumínio puro, e a ductilidade do aço de baixo teor de carbono é semelhante à da liga de Al 2024.
@@ -191,7 +191,7 @@ questoes:
       Os paquímetros universais analógicos são instrumentos de medição versáteis e largamente utilizados em instalações de produção e fabricação, para medições de peças e componentes. Na Figura abaixo, é mostrado um paquímetro desse tipo.
       Em uma situação hipotética, precisa-se medir uma peça com diâmetro externo de 10,47 mm (+/- 0,01 mm), tendo-se disponível um paquímetro universal analógico com intervalo de indicação (escala fixa inferior) 0-100 mm e com as escalas fixa e móvel (vernier ou nônio), como mostrado na Figura.
       Nesse cenário, constata-se que realizar tal medição com a exatidão exigida seria
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_43.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_43.png?raw=true
     alternativas:
       - impossível, porque a resolução do paquímetro é de 0,05 mm.
       - possível, porque a resolução do paquímetro é de 0,02 mm.
@@ -219,7 +219,7 @@ questoes:
   - enunciado: |
       Na Figura abaixo, é representado um arranjo de montagem de um conjunto mecânico sobre o qual se sabe que os símbolos de rugosidade (∇∇) são equivalentes à classe de rugosidade N8.
       Com base nessa informação e a partir da interpretação do desenho, constata-se que tal conjunto mecânico é um
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_46.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_46.png?raw=true
     alternativas:
       - par de engrenagens cônicas de dentes retos, em ângulo de 90o, com acabamento de alisamento nos furos dos eixos e nas superfícies dos dentes em ambas.
       - par de engrenagens cônicas de dentes retos, em ângulo de 64o, com acabamento de alisamento nos furos dos eixos e nas superfícies dos dentes da engrenagem menor.
@@ -256,7 +256,7 @@ questoes:
   - enunciado: |
       Na área de projeto, instalação e manutenção de tubulações comerciais e industriais, empregam-se desenhos denominados isométricos, conforme exemplificado na Figura abaixo, que são especialidade dos desenhistas de tubulações.
       Esse método é uma aplicação prática da perspectiva isométrica, cuja característica é utilizar um sistema de referência de coordenadas tridimensionais em que os eixos
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_50.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_50.png?raw=true
     alternativas:
       - 'X, Y e Z formam ângulos de 120° entre si.'
       - 'X, Y e Z formam ângulos de 150° entre si.'
@@ -275,7 +275,7 @@ questoes:
   - enunciado: |
       As Figuras I, II e III representam três configurações de alavanca nas quais a força F é aplicada para elevar a carga P.
       A(s) configuração(ões) que envolve(m) o menor valor da força F aplicada para elevar a carga P é(são)
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_52.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_52.png?raw=true
     alternativas:
       - II, apenas
       - I, apenas
@@ -301,7 +301,7 @@ questoes:
   - enunciado: |
       Um carrinho, utilizado na movimentação de cargas, é puxado com uma força F de 200 N, a partir do repouso, em linha reta, até atingir uma distância de 8,0 m. Despreze qualquer força dissipativa durante o movimento.
       Considerando-se que a carga, juntamente com o carrinho, vale 2.000 N (200 kg), a velocidade atingida pelo carrinho, expressa em km/h, ao final de seu percurso, é
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_55.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_55.png?raw=true
     alternativas:
       - '14,4'
       - '1,44'
@@ -312,7 +312,7 @@ questoes:
       O dispositivo de montagem de um disco é constituído de três barras rotuladas (ABC, BD e CE), conforme ilustrado na Figura.
       Considere que o dispositivo descrito acima produzirá um torque de 140 N.m para a montagem do disco no mancal O.
       Qual a força F, expressa em N, que deve ser aplicada na extremidade A para produzir esse torque?
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_56.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_56.png?raw=true
     alternativas:
       - 200
       - 50
@@ -322,7 +322,7 @@ questoes:
   - enunciado: |
       A Figura abaixo ilustra uma viga biapoiada, com trecho em balanço e seção reta retangular, sujeita à força F.
       Considerando-se o ângulo θ inferior a 90º, o módulo da maior tensão normal (de tração ou compressão) atuante na viga ocorre na fibra
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_57.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_57.png?raw=true
     alternativas:
       - inferior da seção transversal em B
       - inferior da seção transversal em C
@@ -351,7 +351,7 @@ questoes:
       Três cabos de aço suportam uma carga P, conforme representado na Figura.
       Considere que a maior carga de tração que cada cabo pode suportar é de 2.000 N.
       O maior valor da carga P, expresso em N, que pode ser suportado pelo sistema é
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_60.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_60.png?raw=true
     alternativas:
       - '2.000'
       - '500'
