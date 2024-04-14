@@ -1,0 +1,386 @@
+---
+cargo: Ênfase 2: Manutenção - Instrumentação
+materia: Nível Médio - Instrumentação
+questoes:
+  - enunciado: |
+      A média RMS é amplamente utilizada em circuitos elétricos e em análise de sinais, sendo comumente chamada de valor efetivo ou eficaz.
+      Qual o valor RMS de um sinal senoidal de amplitude 2A?
+    alternativas:
+      - 'A √2'
+      - '2 A √2'
+      - 'A/√2'
+      - '(√2)/A'
+      - 'A (√2)/2'
+  - enunciado: |
+      Na Tabela abaixo, são listados os valores e as incertezas padrão das variáveis a, b e c.
+      ```
+      Variável | Valor | Incerteza padrão
+      a        | 3,75  | 0,1
+      b        | 5,05  | 0,2
+      c        | 2,47  | 0,2
+      ```
+      Qual a incerteza padrão combinada para o resultado da expressão f = (a-b+c)?
+    alternativas:
+      - '0,30'
+      - '0,10'
+      - '0,15'
+      - '0,20'
+      - '0,25'
+  - enunciado: |
+      Um técnico está modificando uma instalação na qual circula um determinado fluido e precisa usar o peso específico desse fluido para o cálculo e para a seleção do componente que será colocado nessa instalação.
+      Sabendo-se que o peso específico relativo do fluido que circula nessa instalação é de 0,85, qual é o peso específico, em N/m3, desse fluido?
+      ```
+      Dado
+      g = 10 m/s^2
+      y H2O = 1.000 kgf/m^3
+      ```
+    alternativas:
+      - '8.500'
+      - '85.000'
+      - '850'
+      - '85'
+      - '8,5'
+  - enunciado: |
+      Ao analisar o sinal medido por um instrumento, um técnico observou uma mudança indesejável e lenta do valor medido com o passar do tempo. Em sua análise, esse técnico julgou que fatores intrínsecos estariam causando tal comportamento.
+      O comportamento do sinal medido por esse instrumento é denominado
+    alternartivas:
+      - drift
+      - sensibilidade
+      - histérese
+      - zona morta
+      - confiabilidade
+  - enunciado: |
+      Um técnico em instrumentação está orientando um estagiário. Durante a análise de um sinal de baixa frequência sobreposto com um ruído de alta frequência, o técnico questiona o estagiário sobre como poderia calcular a relação sinal/ruído (SNR) daquela medição. O estagiário responde que a SNR é uma relação entre as potências do sinal de baixa e de alta frequências que estão envolvidos no sinal medido.
+      Desse modo, para calcular a SNR da medição, o estagiário deve indicar a seguinte expressão matemática:
+      ```
+      Dado
+      Vrms e VRms são os valores RMS do sinal e do ruído
+      ```
+    alternativas:
+      - 'SNR = 10 log (Vrms^2 / VRms^2)'
+      - 'SNR = 10 log (Vrms / VRms)'
+      - 'SNR = 10 log (VRms / Vrms)'
+      - 'SNR = 10 log (VRms^2 / Vrms^2)'
+      - 'SNR = 10 log (Vrms^(1/2) / VRms)'
+  - enunciado: |
+      Um técnico precisa substituir um termopar defeituoso, empregado em um sistema de controle de temperatura, em uma unidade de armazenamento de congelados. Sabe-se que esse novo termopar será instalado em um local onde a temperatura média de operação é de 200°C negativos.
+      Tomando-se como referência apenas a temperatura, esse técnico deverá escolher o seguinte termopar:
+    alternativas:
+      - N
+      - E
+      - J
+      - R
+      - S
+  - enunciado: |
+      Um técnico de manutenção precisa substituir uma válvula, cuja simbologia é apresentada na Figura abaixo.
+      Considerando-se a simbologia apresentada, esse técnico deverá substituir uma válvula
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_27.png?raw=true 
+    alternativas:
+      - flangeada do tipo válvula de boia
+      - flangeada do tipo borboleta
+      - flangeada do tipo diafragma
+      - rosqueada do tipo globo
+      - rosqueada do tipo de alívio de segurança
+  - enunciado: "Na imagem acima, é apresentada uma válvula"
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_28.png?raw=true 
+    alternativas:
+      - de diafragma
+      - globo
+      - macho
+      - de esfera
+      - de gaveta
+  - enunciado: |
+      Considere que há um escoamento de água, em regime permanente e sem atrito, por uma tubulação, com vazão inicial V1 de 7,5 L/s. Essa tubulação sofre um acréscimo de área equivalente a 25%, e a água passa a ter uma vazão V2.
+      Qual é a razão entre as vazões V2/V1 da água nessa tubulaçào?
+    alternativas:
+      - '0,8'
+      - '1,25'
+      - '1,875'
+      - '2,5'
+      - '5'
+  - enunciado: |
+      Um sistema de controle de fluxo faz uso de uma placa de orifício, cujo desempenho é significativamente dependente da viscosidade do fluido. Essa placa de orifício apresenta a razão entre diâmetros igual a β e irá operar em um sistema cuja vazão varia entre Qmax e Qmin.
+      Nessa condição de instalação, qual é o valor da razão de rejeição para essa placa?
+    alternativas:
+      - 'Qmax / Qmin'
+      - 'β x (Qmax - Qmin)'
+      - '(Qmax - Qmin)/β'
+      - 'β/(Qmax - Qmin)'
+      - 'Qmin / Qmax'
+  - enunciado: |
+      Alguns sistemas são extremamente importantes para o funcionamento seguro de uma indústria. Em uma plataforma, por exemplo, os sistemas de Fogo e Gás (Fire & Gas) e de Desligamento de Emergência (ESD – Emergency Shutdown) são cruciais para a segurança.
+      Os sistemas de Fire & Gas e de ESD são classificados como sistemas
+    alternativas:
+      - instrumentados de segurança
+      - automáticos de segurança
+      - de segurança aumentada
+      - ciberfísicos
+      - críticos
+  - enunciado: |
+      Um técnico participou de uma comissão instituída pela CIPA de sua empresa para a elaboração de um mapa de riscos do setor em que ele trabalha. Ele identificou que no seu setor existem riscos físicos, químicos e ergonômicos.
+      As cores que deverão ser incluídas no mapa de risco do setor em que o técnico trabalha são, respectivamente,
+    alternativas:
+      - 'verde, vermelho e amarelo'
+      - 'preto, marrom e laranja'
+      - 'laranja, verde e vermelho'
+      - 'laranja, marrom e azul'
+      - 'verde, vermelho e azul'
+  - enunciado: |
+      Algumas indústrias possuem sistemas de instrumentação analítica para realizar o controle de processo e garantir a qualidade de seus produtos.
+      Alguns exemplos de sensores utilizados em instrumentação analítica são o sensor de
+    alternativas:
+      - condutividade e o cromatógrafo
+      - vazão e o sensor de pressão
+      - temperatura e o sensor de força
+      - pressão e o acelerômetro
+      - temperatura e o acelerômetro
+  - enunciado: |
+      Em sistemas instrumentados de segurança, o nível de integridade de segurança ou SIL (Safety Integrity Level) é um conceito extremamente importante e que deve ser conhecido por todos os técnicos envolvidos em atividades de manutenção desses sistemas.
+      Considerando-se o sistema instrumentado de segurança, representado acima, o nível SIL desse sistema é o
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_34.png?raw=true 
+    alternativas:
+      - '3'
+      - '0'
+      - '1'
+      - '2'
+      - '4'
+  - enunciado: |
+      Na implantação de um sistema SCADA, algumas topologias de rede foram propostas para a implantação de uma rede PROFINET. Após uma série de discussões técnicas, ficou decidido que a topologia de rede a ser implantada no sistema SCADA seria conforme a ilustrada na Figura abaixo.
+      Para a implantação do sistema SCADA, a topologia de rede a ser usada será a
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_35.png?raw=true 
+    alternativas:
+      - 'em estrela'
+      - 'em barra'
+      - 'em anel'
+      - 'em árvore'
+      - 'ponto a ponto'
+  - enunciado: |
+      Durante a manutenção de um transmissor, verificou-se que, internamente, o transmissor possuía um circuito, conforme ilustrado na Figura abaixo.
+      Considere que o conversor ADC é de 3 bits (b2,b1,b0), com medição de 0 a 5 Vdc, sendo que b2 é o bit mais significativo. O transistor possui um ganho β =100, e o pino do sensor está recebendo uma tensão de 1 Vdc.
+      O valor lógico das saídas (b2,b1,b0) do ADC e o valor lógico da saída de TRIP são, respectivamente,
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_36.png?raw=true 
+    alternativas:
+      - '(0,1,1) e 1'
+      - '(0,0,1) e 0'
+      - '(1,1,1) e 1'
+      - '(0,0,1) e 1'
+      - '(0,1,0) e 0'
+  - enunciado: |
+      Para que um técnico de instrumentação consiga realizar a manutenção em sistemas de instrumentação, ele deve ler e interpretar corretamente uma série de documentos de engenharia de instrumentação como, por exemplo, o fluxograma de engenharia do processo, as plantas de instrumentação e os diagramas de malha.
+      Na Figura, ilustra-se um fluxograma de engenharia de parte de um processo.
+      Analisando-se o fluxograma acima e considerando-se a norma ISA 5.1 – Símbolos de Instrumentação e Identificação –, verifica-se que a malha de controle é de
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_37.png?raw=true 
+    alternativas:
+      - 'controle de nível do tanque, com todos os instrumentos instalados no campo.'
+      - 'temperatura de um tanque, com todos os instrumentos instalados no campo.'
+      - 'vazão de saída do tanque, com todos os instrumentos instalados no painel.'
+      - 'densidade no tanque, com todos os instrumentos instalados na sala de controle.'
+      - 'pressão de saída do tanque, com todos os instrumentos instalados no painel.'
+  - enunciado: |
+      Um técnico de instrumentação identificou que um sensor de vazão estava danificado. O sensor estava instalado em uma tubulação que estava a uma dada altura do chão. O técnico não pôde fazer a intervenção, pois seu treinamento de NR 35 — Trabalho em altura — estava vencido.
+      A altura mínima, em metros, do nível inferior para que um trabalho que tenha risco de queda seja considerado um trabalho em altura, conforme essa norma, é de
+    alternativas:
+      - '2'
+      - '5'
+      - '3'
+      - '4'
+      - '1'
+  - enunciado: |
+      Ao longo do processo de medição, um operador recebe a informação de que um dos furos encontrados em uma peça tem dimensão nominal de 38 mm, com afastamentos superior e inferior respectivamente iguais a 64 μm e a 22 μm.
+      O conceito associado à diferença entre a dimensão máxima e a dimensão mínima é o de
+    alternativas:
+      - campo de tolerância
+      - deriva instrumental
+      - erro máximo admissível
+      - erro no ponto de controle
+      - incerteza de medição instrumental
+  - enunciado: |
+      Os sensores capacitivos são aqueles cujo princípio de funcionamento é baseado na variação de um dos seus três parâmetros, que são a distância entre placas, a área efetiva e a variação do dielétrico.
+      Além de serem usados como sensores de proximidade, os sensores capacitivos encontram aplicação na medição de
+    alternativas:
+      - pressão e de nível de líquidos aquosos
+      - pressão e de temperatura de fluidos viscosos
+      - pressão e de viscosidade de fluidos densos
+      - temperatura e de nível de líquidos aquosos
+      - viscosidade e de nível de líquidos aquosos
+  - enunciado: "Considerando-se que na função de transferência de um sistema de controle de malha fechada há um polo negativo não nulo tendendo a infinito, com módulo muito maior do que todos os demais polos, conclui-se que"
+    alternativas:
+      - esse polo é dominante.
+      - há um modo de integração.
+      - há um modo de derivação.
+      - esse polo é desprezível.
+      - a ordem do sistema aumenta em uma unidade.
+  - enunciado: |
+      Em metrologia, qualquer alteração no instrumento de medição conduz a um resultado errado, que, por sua vez, resultará em erros de projeto. A fim de evitar esses fatos, antes de efetuar a medição correspondente, é importante que o operador se atenha aos seguintes conceitos:
+      ```
+      I - Operação que estabelece, sob condições especificadas, uma relação entre os valores e as incertezas de medição fornecidos por padrões e as indicações correspondentes com as incertezas associadas.
+      II - Sequência de processos, desde uma referência até o sistema de medição final, em que o resultado de cada um deles depende do resultado do processo precedente.
+      III - Propriedade de um resultado de medição pela qual tal resultado pode ser relacionado a uma referência, por meio de uma cadeia ininterrupta e documentada de calibrações, cada uma contribuindo para a incerteza de medição.
+      ```
+      Os termos metrológicos que representam tais conceitos são, respectivamente,
+    alternativas:
+      - 'I: calibração, II: hierarquia de calibração, III: rastreabilidade metrológica'
+      - 'I: calibração, II: rastreabilidade metrológica, III: hierarquia de calibração'
+      - 'I: comparação de padrões, II: calibração, III: rastreabilidade metrológica'
+      - 'I: comparação de padrões, II: rastreabilidade metrológica, III: verificação'
+      - 'I: verificação, II: rastreabilidade metrológica, III: hierarquia de calibração'
+  - enunciado: |
+      No esquema mostrado na Figura abaixo, um tubo de Pitot é montado na seção menor de um duto convergente, sendo que as áreas S1 e S2 medem, respectivamente, 6 cm2 e 2,7 cm2. O fluido manométrico é o mercúrio, de densidade igual a 13.600 kg/m3, enquanto o fluido que escoa pelo duto tem densidade igual a 800 kg/m3.
+      Nesse cenário, considere uma medição na qual a diferença de altura Δh registrada no tubo de Pitot é igual a 20 cm.
+      Nesse caso, a velocidade do escoamento v1, em m/s, será igual a
+      ```
+      Dado
+      g = 10m/s^2
+      ```
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_43.png?raw=true 
+    alternativas:
+      - '3,6'
+      - '2,5'
+      - '7,2'
+      - '8,0'
+      - '9,6'
+  - enunciado: |
+      Transmissores são dispositivos que captam variáveis de processos por meio de um elemento primário e as transmitem na forma de sinais pneumáticos, eletrônicos (analógicos ou digitais), ópticos ou mesmo de radiofrequência. Com relação ao uso de transmissores em instrumentação industrial, considere as seguintes afirmativas:
+      ```
+      I - uma desvantagem dos transmissores pneumáticos baseados no sistema bico-palheta é a susceptibilidade a falhas por entupimento do bico por causa de impurezas do ar comprimido, o que encarece a manutenção.
+      II - transmissores eletrônicos digitais são mais susceptíveis a ruídos provenientes de interferências eletromagnéticas do que os transmissores eletrônicos analógicos.
+      III - transmissores inteligentes são aqueles que possuem um microprocessador capaz de corrigir erros e armazenar dados em uma memória integrada.
+      ```
+      É correto *APENAS* o que se afirma em:
+    alternativas:
+      - I e III
+      - I
+      - III
+      - I e II
+      - II e III
+  - enunciado: |
+      Um técnico de instrumentação deseja estimar o fluxo de um fluido incompressível e sem viscosidade em uma tubulação, utilizando um transmissor pneumático alimentado a 20 PSI e que opera num alcance (span) de 3 a 15 PSI. Para isso, o técnico monta um experimento conforme a Figura abaixo e, ao abrir a válvula, observa o seguinte:
+      ```
+      em meio minuto, o nível do reservatório, cujo diâmetro é 10 cm, sobe 187,5 cm
+      a pressão indicada no manômetro é de 9 PSI
+      ```
+      Assumindo-se que a sensibilidade do transmissor é invariável, a faixa de medida de fluxo que o técnico conseguirá estimar, em litro(s) por segundo, será de
+      ```
+      Dado
+      π = 3,2
+      ```
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_45.png?raw=true 
+    alternativas:
+      - '0 a 1'
+      - '0 a 2'
+      - '0,167 a 0,833'
+      - '0 a 0,9'
+      - '0,167 a 0,9'
+  - enunciado: |
+      Os projetos de instrumentação e automação são, em geral, desenvolvidos e apresentados por intermédio de uma série de documentos técnicos. Com relação à documentação básica de projetos de instrumentação, analise as afirmações a seguir:
+      ```
+      I – os Fluxogramas de Engenharia devem conter instruções para a realização da interconexão dos cabos dos instrumentos, identificando bornes, fios e eletrodutos de todos os elementos do sistema de controle.
+      II – os Diagramas Lógicos devem apresentar as lógicas e as funções discretas a serem executadas, representando a lógica da forma mais simplificada possível.
+      III – as Matrizes de Causa e Efeito mostram a relação entre eventos e ações que devem ocorrer de forma automática a partir da operação do sistema de controle.
+      IV – os Diagramas de Interligação Elétrica devem conter as malhas de controle, indicação de elementos, alarmes e intertravamentos mostrados de forma detalhada, com a função de cada instrumento, sua identificação e localização, tipo de sinal de controle (pneumático, eletrônico) e tipo da instrumentação (painel convencional, SDCD, CP).
+      ```
+      É correto *APENAS* o que se afirma em:
+    alternativas:
+      - 'II e III'
+      - 'I e IV'
+      - 'I, II e III'
+      - 'IV'
+      - 'III'
+  - enunciado: |
+      Considere o circuito abaixo, implementado com um amplificador operacional, considerado ideal com alimentação simétrica de ±15V.
+      Sabendo-se que o diodo utilizado no circuito também é considerado ideal com uma barreira de potencial de 0,5 V, ao aplicar-se um sinal de entrada vi(t) senoidal de 1 V de pico, o sinal de saída vo(t) excursionará , em volts, entre
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_48.png?raw=true 
+    alternativas:
+      - '-1,25 e + 0,5'
+      - '1,25 e 0,5'
+      - '-0,125 e + 0,5'
+      - '-2,5 e -15'
+      - '-2,5 e + 0,5'
+  - enunciado: |
+      Os Controladores Lógicos Programáveis (CLPs) podem ser programados por meio do uso de linguagem ladder, na qual os símbolos gráficos padronizados são dispostos em degraus (rungs) delimitados por linhas verticais chamadas de barramento de força ou de alimentação.
+      Os principais elementos utilizados para representar as estruturas lógicas implementadas nos rungs dos diagramas ladder são
+    alternativas:
+      - 'contatos, bobinas e blocos de função'
+      - 'temporizadores, contadores e comparadores'
+      - 'AND (e), OR (ou) e XOR (ou exclusivo)'
+      - 'Flip-Flop SR, Flip-Flop D e Flip-Flop JK'
+      - 'máquinas de estado síncronas, máquinas de estado assíncronas e mapas de Karnaugh'
+  - enunciado: |
+      As redes de comunicação industriais, em suas diferentes arquiteturas, são implementadas para viabilizar o tráfego de dados entre elementos dos sistemas de controle distribuídos, tais como sensores, atuadores, chaves, válvulas, dentre outros. Os sistemas fieldbus apresentam vantagens ao reduzir custos de implementação e manutenção das redes se comparados aos sistemas ponto-a-ponto mais antigos, em que cada ponto de entrada/saída deve ser diretamente conectado a um controlador.
+      Considerando-se os protocolos de comunicação industriais, o único cuja arquitetura é implementada com base no padrão Ethernet é o
+    alternativas:
+      - Profinet
+      - DeviceNet
+      - AS-Interface
+      - Profibus
+      - CC-Link
+  - enunciado: |
+      Considere as respostas em frequência em fase de um sistema de medida de pressão, obtidas experimentalmente, empregando 3 transdutores piezoelétricos distintos (TP1, TP2 e TP3) e indicando relação entre a tensão elétrica de saída do sistema e o sinal de pressão de entrada.
+      Admita que, na tela de um osciloscópio, foi visualizada uma saída do sistema na forma de função cossenoidal, e que foi medida uma pressão periódica com perfil senoidal.
+      Nesse contexto, qual transdutor está sendo utilizado?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_52.png?raw=true 
+    alternativas:
+      - TP1, e a frequência de entrada está em torno de 0,8 Hz.
+      - TP2 ou TP3, e a frequência da entrada é baixa (menor que 1 Hz).
+      - TP1, TP2 ou TP3, e a frequência de entrada é alta (em torno de 10 Hz).
+      - TP2, e a frequência de entrada está em torno de 3 Hz.
+      - TP3, e a frequência de entrada está em torno de 2 Hz.
+  - enunciado: |
+      Considere as respostas em frequência em amplitude de um sistema de medida de pressão, obtidas experimentalmente, empregando 3 transdutores piezoelétricos distintos (TP1, TP2 e TP3) e indicando relação entre a tensão elétrica de saída do sistema e o sinal de pressão de entrada.
+      Considere que esse sistema será utilizado para medir sinais de pressão de pequena amplitude, com frequência em torno de 2 Hz.
+      Nesse caso, qual transdutor deverá ser utilizado?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_53.png?raw=true 
+    alternativas:
+      - TP2, pois será o que mais amplificará o sinal de entrada.
+      - TP3, pois praticamente não alterará o sinal de entrada.
+      - TP1, pois amplificará o sinal de entrada, apesar de inverter o sinal.
+      - TP3 ou TP2 indiferentemente, pois ambos amplificam o sinal de entrada.
+      - TP1, pois atenua o sinal de entrada.
+  - enunciado: |
+      Um sistema de controle com realimentação unitária tem resposta à rampa unitária representada na Figura abaixo.
+      Esse sistema, que gera um erro em regime permanente constante, é do tipo
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_54.png?raw=true 
+    alternativas:
+      - '1'
+      - '0'
+      - '2'
+      - '3'
+      - '4'
+  - enunciado: |
+      Considere que uma empresa recebeu de um fornecedor um equipamento ou sistema, e verificou se eles atendem as especificações e os requisitos operacionais solicitados na sua encomenda.
+      O processo descrito é nomeado como
+    alternativas:
+      - comissionamento
+      - verificação de fornecimento
+      - testes de operação
+      - testes de validação
+      - testes de conformidade
+  - enunciado: |
+      Considere um sistema integrador puro em malha aberta e um controlador do tipo PI, com zero em -1, e a estrutura de malha fechada com realimentação unitária negativa composta por esses dois componentes no seu ramo direto.
+      Aumentando-se o ganho proporcional do PI, o amortecimento da malha fechada
+    alternativas:
+      - aumenta sempre.
+      - diminui sempre.
+      - aumenta e volta a diminuir.
+      - diminui e volta a aumentar.
+      - não é alterado.
+  - enunciado: |
+      A *Curva PF* é essencial para o planejamento da manutenção, que é baseado na confiabilidade, de acordo com os padrões da RCM.
+      Na Figura acima, as manutenções corretiva, preventiva e preditiva estão associadas, respectivamente, aos intervalos de tempo
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_59.png?raw=true 
+    alternativas:
+      - T3, T2 e T1
+      - T1, T2 e T3
+      - T2, T1 e T3
+      - T2, T3 e T1
+      - T3, T1 e T2
+  - enunciado: |
+      Considere as funções de transferência de um sistema em malha aberta com duas saídas e uma entrada:
+      Esse sistema possui um par de
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_60.png?raw=true 
+    alternativas:
+      - polos imaginários puros, um par de polos nulos e um zero negativo.
+      - polos complexos conjugados negativos, um par de polos nulos e um zero negativo.
+      - zeros imaginários puros, um par de zeros nulos e um polo negativo.
+      - zeros complexos conjugados negativos, um par de zeros nulos e um polo negativo.
+      - polos reais distintos, um par de polos nulos e um zero negativo.
