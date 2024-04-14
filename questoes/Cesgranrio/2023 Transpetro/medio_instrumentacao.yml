@@ -1,6 +1,6 @@
 ---
-cargo: Ênfase 2: Manutenção - Instrumentação
-materia: Nível Médio - Instrumentação
+cargo: "Ênfase 2: Manutenção - Instrumentação"
+materia: "Nível Médio - Instrumentação"
 questoes:
   - enunciado: |
       A média RMS é amplamente utilizada em circuitos elétricos e em análise de sinais, sendo comumente chamada de valor efetivo ou eficaz.
@@ -82,7 +82,7 @@ questoes:
       - rosqueada do tipo globo
       - rosqueada do tipo de alívio de segurança
   - enunciado: "Na imagem acima, é apresentada uma válvula"
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_28.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_28.png?raw=true
     alternativas:
       - de diafragma
       - globo
@@ -137,7 +137,7 @@ questoes:
   - enunciado: |
       Em sistemas instrumentados de segurança, o nível de integridade de segurança ou SIL (Safety Integrity Level) é um conceito extremamente importante e que deve ser conhecido por todos os técnicos envolvidos em atividades de manutenção desses sistemas.
       Considerando-se o sistema instrumentado de segurança, representado acima, o nível SIL desse sistema é o
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_34.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_34.png?raw=true
     alternativas:
       - '3'
       - '0'
@@ -147,7 +147,7 @@ questoes:
   - enunciado: |
       Na implantação de um sistema SCADA, algumas topologias de rede foram propostas para a implantação de uma rede PROFINET. Após uma série de discussões técnicas, ficou decidido que a topologia de rede a ser implantada no sistema SCADA seria conforme a ilustrada na Figura abaixo.
       Para a implantação do sistema SCADA, a topologia de rede a ser usada será a
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_35.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_35.png?raw=true
     alternativas:
       - 'em estrela'
       - 'em barra'
@@ -158,7 +158,7 @@ questoes:
       Durante a manutenção de um transmissor, verificou-se que, internamente, o transmissor possuía um circuito, conforme ilustrado na Figura abaixo.
       Considere que o conversor ADC é de 3 bits (b2,b1,b0), com medição de 0 a 5 Vdc, sendo que b2 é o bit mais significativo. O transistor possui um ganho β =100, e o pino do sensor está recebendo uma tensão de 1 Vdc.
       O valor lógico das saídas (b2,b1,b0) do ADC e o valor lógico da saída de TRIP são, respectivamente,
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_36.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_36.png?raw=true
     alternativas:
       - '(0,1,1) e 1'
       - '(0,0,1) e 0'
@@ -169,7 +169,7 @@ questoes:
       Para que um técnico de instrumentação consiga realizar a manutenção em sistemas de instrumentação, ele deve ler e interpretar corretamente uma série de documentos de engenharia de instrumentação como, por exemplo, o fluxograma de engenharia do processo, as plantas de instrumentação e os diagramas de malha.
       Na Figura, ilustra-se um fluxograma de engenharia de parte de um processo.
       Analisando-se o fluxograma acima e considerando-se a norma ISA 5.1 – Símbolos de Instrumentação e Identificação –, verifica-se que a malha de controle é de
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_37.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_37.png?raw=true
     alternativas:
       - 'controle de nível do tanque, com todos os instrumentos instalados no campo.'
       - 'temperatura de um tanque, com todos os instrumentos instalados no campo.'
@@ -232,7 +232,7 @@ questoes:
       Dado
       g = 10m/s^2
       ```
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_43.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_43.png?raw=true
     alternativas:
       - '3,6'
       - '2,5'
@@ -264,7 +264,7 @@ questoes:
       Dado
       π = 3,2
       ```
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_45.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_45.png?raw=true
     alternativas:
       - '0 a 1'
       - '0 a 2'
@@ -289,7 +289,7 @@ questoes:
   - enunciado: |
       Considere o circuito abaixo, implementado com um amplificador operacional, considerado ideal com alimentação simétrica de ±15V.
       Sabendo-se que o diodo utilizado no circuito também é considerado ideal com uma barreira de potencial de 0,5 V, ao aplicar-se um sinal de entrada vi(t) senoidal de 1 V de pico, o sinal de saída vo(t) excursionará , em volts, entre
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_48.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_48.png?raw=true
     alternativas:
       - '-1,25 e + 0,5'
       - '1,25 e 0,5'
@@ -318,7 +318,7 @@ questoes:
       Considere as respostas em frequência em fase de um sistema de medida de pressão, obtidas experimentalmente, empregando 3 transdutores piezoelétricos distintos (TP1, TP2 e TP3) e indicando relação entre a tensão elétrica de saída do sistema e o sinal de pressão de entrada.
       Admita que, na tela de um osciloscópio, foi visualizada uma saída do sistema na forma de função cossenoidal, e que foi medida uma pressão periódica com perfil senoidal.
       Nesse contexto, qual transdutor está sendo utilizado?
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_52.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_52.png?raw=true
     alternativas:
       - TP1, e a frequência de entrada está em torno de 0,8 Hz.
       - TP2 ou TP3, e a frequência da entrada é baixa (menor que 1 Hz).
@@ -329,7 +329,7 @@ questoes:
       Considere as respostas em frequência em amplitude de um sistema de medida de pressão, obtidas experimentalmente, empregando 3 transdutores piezoelétricos distintos (TP1, TP2 e TP3) e indicando relação entre a tensão elétrica de saída do sistema e o sinal de pressão de entrada.
       Considere que esse sistema será utilizado para medir sinais de pressão de pequena amplitude, com frequência em torno de 2 Hz.
       Nesse caso, qual transdutor deverá ser utilizado?
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_53.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_53.png?raw=true
     alternativas:
       - TP2, pois será o que mais amplificará o sinal de entrada.
       - TP3, pois praticamente não alterará o sinal de entrada.
@@ -339,7 +339,7 @@ questoes:
   - enunciado: |
       Um sistema de controle com realimentação unitária tem resposta à rampa unitária representada na Figura abaixo.
       Esse sistema, que gera um erro em regime permanente constante, é do tipo
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_54.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_54.png?raw=true
     alternativas:
       - '1'
       - '0'
@@ -367,7 +367,7 @@ questoes:
   - enunciado: |
       A *Curva PF* é essencial para o planejamento da manutenção, que é baseado na confiabilidade, de acordo com os padrões da RCM.
       Na Figura acima, as manutenções corretiva, preventiva e preditiva estão associadas, respectivamente, aos intervalos de tempo
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_59.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_59.png?raw=true
     alternativas:
       - T3, T2 e T1
       - T1, T2 e T3
@@ -377,7 +377,7 @@ questoes:
   - enunciado: |
       Considere as funções de transferência de um sistema em malha aberta com duas saídas e uma entrada:
       Esse sistema possui um par de
-    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_60.png?raw=true 
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_instrumentacao_60.png?raw=true
     alternativas:
       - polos imaginários puros, um par de polos nulos e um zero negativo.
       - polos complexos conjugados negativos, um par de polos nulos e um zero negativo.
