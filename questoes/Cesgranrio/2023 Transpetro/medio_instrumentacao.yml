@@ -43,7 +43,7 @@ questoes:
   - enunciado: |
       Ao analisar o sinal medido por um instrumento, um técnico observou uma mudança indesejável e lenta do valor medido com o passar do tempo. Em sua análise, esse técnico julgou que fatores intrínsecos estariam causando tal comportamento.
       O comportamento do sinal medido por esse instrumento é denominado
-    alternartivas:
+    alternativas:
       - drift
       - sensibilidade
       - histérese
