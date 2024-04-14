@@ -1,0 +1,360 @@
+---
+cargo: "Ênfase 9: Manutenção - Mecânica"
+materia: "Nível Médio - Mecânica"
+questoes:
+  - enunciado: "O ensaio utilizado para definir como a temperatura afeta as propriedades mecânicas dos metais é o ensaio de"
+    alternativas:
+      - fluência
+      - Charpy
+      - tração
+      - dobramento
+      - dureza Brinell
+  - enunciado: |
+      Um corpo de prova de seção circular, com comprimento inicial L, foi submetido a um ensaio de tração, passando a ter um comprimento final igual a 1,01 L. Além disso, a seção transversal desse corpo de prova, de área A, foi reduzida para 0,92 A.
+      Qual é o valor da estricção, em %, nesse ensaio de tração?
+    alternativas:
+      - '2,0'
+      - '0,5'
+      - '1,0'
+      - '1,5'
+      - '2,5'
+  - enunciado: |
+      A gerência de manutenção deverá apresentar um relatório sobre a disponibilidade dos equipamentos e das máquinas de cada setor de uma fábrica de válvulas. Essa gerência observou que, durante os últimos meses, um dado equipamento esteve disponível para produção por apenas 120 horas, em média, passando outras 60 horas em manutenção (dados em média mensal).
+      Qual é, aproximadamente, a disponibilidade desse equipamento?
+    alternativas:
+      - '0,67'
+      - '0,50'
+      - '0,80'
+      - '0,85'
+      - '1,00'
+  - enunciado: |
+      A gerência de manutenção, após acompanhar e analisar os sinais medidos a partir de um acelerômetro instalado no mancal de uma bomba centrífuga, acrescentou ao plano original de parada e de manutenção dessa bomba o serviço de substituição do rolamento desse mancal. Esse serviço não constava do plano original de manutenção dessa parada programada.
+      Nesse caso, o tipo de manutenção aplicada para esse mancal foi a
+    alternativas:
+      - preditiva
+      - corretiva
+      - planejada
+      - preventiva
+      - produtiva total
+  - enunciado: |
+      Um trocador de calor apresenta taxa de transferência de calor e DTML respectivamente iguais a 576 kW e a 150°C. Admita que esse trocador tenha fator de correção igual a 0,8 e coeficiente de transferência de calor global igual a 2.400 W/(m2.°C).
+      Qual é o valor, em m2, da área necessária de transferência de calor?
+    alternativas:
+      - '2'
+      - '1'
+      - '3'
+      - '4'
+      - '5'
+  - enunciado: |
+      Na imagem abaixo, é mostrado um medidor de vazão.
+      Trata-se de um medidor de vazão do tipo
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_26.png?raw=true 
+    alternativas:
+      - Placa de orifício
+      - Bocal
+      - Venturi
+      - Vórtice
+      - Efeito Coriolis
+  - enunciado: |
+      Dois fluidos são admitidos em um reservatório: um é água, e outro é óleo. A água entra por um tubo com vazão de 30 L/s, enquanto o óleo entra por outro tubo com vazão de 15 L/s. Assuma que uma mistura homogênea seja formada no interior do reservatório e que essa mistura seja descarregada por um tubo de seção 20 cm2. Assuma, também, os fluidos e a mistura como incompressíveis.
+      Considerando-se as informações e os dados apresentados, qual é, aproximadamente, a massa específica, em kg/m3, da mistura no tubo de descarga?
+      ```
+      Dado
+      massa específica da água = 1.000 kg/m3
+      massa específica do óleo = 800 kg/m3
+      ```
+    alternativas:
+      - 933
+      - 550
+      - 630
+      - 715
+      - 850
+  - enunciado: "Em um ciclo Rankine, o componente responsável por gerar vapor em uma planta térmica é a(o)"
+    alternativas:
+      - caldeira
+      - bomba centrífuga
+      - turbina a vapor
+      - compressor
+      - motor a combustão
+  - enunciado: |
+      Um fluido incompressível passa em um trecho reto de tubulação, cuja seção transversal muda de 24 cm2 para 12 cm2, formando a garganta de um Venturi. A velocidade desse fluido na garganta é de 3 m/s.
+      Qual é a velocidade desse fluido, em m/s, na seção de maior diâmetro?
+    alternativas:
+      - '3/2'
+      - '6'
+      - '3'
+      - '2/3'
+      - '1'
+  - enunciado: |
+      Ao inspecionar um perfil de solda aplicada na união de duas peças perpendiculares, um técnico identificou a geometria esquematizada na Figura abaixo, indicando um perfil de solda incorreto, e reportou para a equipe executora a necessidade de essa solda ser refeita.
+      Como esse erro de perfil de solda pode ser classificado?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_30.png?raw=true 
+    alternativas:
+      - Falta de penetração
+      - Garganta insuficiente
+      - Convexidade excessiva
+      - Mordedura
+      - Perna insuficiente
+  - enunciado: "Para o torneamento de uma peça de diâmetro e de rotação do eixo principal respectivamente iguais a 50 mm e a 637 rpm, o valor aproximado, em m/min, para a velocidade de corte é"
+    alternativas:
+      - 100
+      - 20
+      - 40
+      - 60
+      - 80
+  - enunciado: "O processo de fabricação mecânica comumente utilizado na produção de engrenagens de dentes helicoidais é a(o)"
+    alternativas:
+      - fresamento
+      - forjamento
+      - torneamento
+      - extrusão
+      - trefilação
+  - enunciado: |
+      Suponha que a tensão de saída de um termopar seja de V = 20,0 mV e que a temperatura equivalente T, medida a partir desse termopar, possa ser calculada pelo seguinte polinômio:
+      ```
+      T = a1 + a2.V^2 + a3.V^3 + a4.V^4 + a5.V^5 + a6.V^6 + a7.V^7
+      ```
+      onde os coeficientes a i , com i = 1,...,7, são obtidos a partir da curva temperatura (°C) versus fem (mV) do termopar.
+      Qual é o tipo de termopar, de padrão ANSI, cuja temperatura pode ser calculada a partir desse polinômio?
+    alternativas:
+      - T
+      - E
+      - J
+      - K
+      - N
+  - enunciado: "A tolerância geométrica apresentada na Figura acima indica que o batimento"
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_35.png?raw=true 
+    alternativas:
+      - na direção perpendicular à tangente e à superfície não pode exceder 0,2 mm.
+      - total radial não deve exceder 0,2 mm, para quaisquer pontos da superfície.
+      - longitudinal é limitado por 0,2 mm, para quaisquer posições radiais definidas por dois círculos concêntricos.
+      - longitudinal deve ser inferior a 0,2 mm em relação a uma superfície convexa que tangencie o ponto de cota.
+      - resultante, radial mais longitudinal, não pode exceder 0,2 mm.
+  - enunciado: |
+      Foi estabelecida uma categoria API, a partir do ano de 2007, de óleos para motores à diesel, de modo a atender aos padrões de emissões. Essa categoria de lubrificantes é compatível com produtos com baixos teores de enxofre, de fósforo e de cinzas.
+      Tal categoria é a
+    alternativas:
+      - CJ-4
+      - CF-4
+      - CG-4
+      - CH-4
+      - CK-4
+  - enunciado: |
+      Um técnico mecânico precisa lubrificar um trem de engrenagem. Esse mecanismo usa um lubrificante do tipo industrial para pressão extra, à base de enxofre-fósforo, com graus de viscosidade, nas classificações AGMA e ISO, iguais a 3 EP e a 100, respectivamente. Esse técnico recebeu ordem para substituir o lubrificante original desse trem de engrenagens por um de mesma viscosidade, mas sintético.
+      O lubrificante a ser utilizado, em substituição ao original, é o de número
+    alternativas:
+      - 3 S
+      - 3
+      - 3 EP
+      - 100 S
+      - 100 EP
+  - enunciado: |
+      Válvulas são dispositivos destinados a controlar, a estabelecer e a interromper o fluxo em um sistema hidráulico ou pneumático. Dentre os diversos tipos de válvulas, há duas que podem operar tanto na função de regulagem quanto na função de bloqueio do fluxo que as atravessa.
+      As válvulas que operam nessas duas funções são as de
+    alternativas:
+      - borboleta e de diafragma
+      - comporta e de esfera
+      - comporta e de gaveta
+      - retenção e de segurança
+      - retenção e as redutoras
+  - enunciado: |
+      Em uma instalação hidráulica, a presença de ar na tubulação de sucção ou dentro de uma bomba centrífuga danifica seus componentes, principalmente o selo mecânico, responsável pela vedação de seu eixo. Para evitar esse tipo de dano, é preciso preencher totalmente o corpo da bomba e da tubulação de sucção com o líquido que será bombeado, a fim de eliminar o ar existente em seu interior.
+      Esse procedimento é denominado
+    alternativas:
+      - escorva
+      - aspiração negativa
+      - aspiração positiva
+      - cavitação
+      - golpe de aríete
+  - enunciado: |
+      Na Figura abaixo está representado um tubo de Venturi, no qual um fluido, com densidade igual a 1.200 kg/m3, é canalizado a uma velocidade v1 . A área S1 é o triplo da área S2, e os valores de pressão registrados nos manômetros P1 e P2 são, respectivamente, 180 kPa e 150 kPa.
+      Nessas condições, a velocidade v1, em m/s, é igual a
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_41.png?raw=true 
+    alternativas:
+      - '2,5'
+      - '5,0'
+      - '7,5'
+      - '10,0'
+      - '12,5'
+  - enunciado: |
+      O alumínio e o aço, e suas ligas, são dois materiais amplamente utilizados em construção mecânica, e a correta avaliação das propriedades mecânicas é fator decisivo para a seleção desses materiais em seus campos de aplicação. Nesse contexto, considere os diagramas tensão x deformação apresentados abaixo.
+      Admita que, para designação dos materiais, foram empregadas as nomenclaturas comerciais usuais (AISI e Aluminum Association).
+      A partir da análise e da interpretação dos diagramas tensão x deformação apresentados, constata-se que o(s)
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_42.png?raw=true 
+    alternativas:
+      - limite de escoamento da liga de Al de maior limite de ruptura é cerca de duas vezes maior que o do aço de baixo carbono, e as ductilidades do aço de alto teor de carbono e do alumínio puro são semelhantes.
+      - limite de escoamento do aço de alto teor de carbono é semelhante ao do alumínio puro, e a ductilidade do aço de baixo teor de carbono é semelhante à da liga de Al 2024.
+      - limite de escoamento do aço de maior limite de ruptura é cerca de duas vezes maior que o da liga de Al de maior limite de ruptura, e a ductilidade do aço-liga de médio teor de carbono é dez vezes menor do que a do alumínio puro.
+      - limite de ruptura do aço-liga de médio teor de carbono é cerca de três vezes maior do que o limite de ruptura da liga de Al 2024, e a ductilidade da liga de Al de maior limite de ruptura é cerca de duas vezes maior do que a ductilidade do aço de alto teor de carbono.
+      - limites de ruptura do aço de baixo carbono e do alumínio puro são semelhantes, e a ductilidade da liga de Al 2024 é semelhante à do aço de baixo teor de carbono.
+  - enunciado: |
+      Os paquímetros universais analógicos são instrumentos de medição versáteis e largamente utilizados em instalações de produção e fabricação, para medições de peças e componentes. Na Figura abaixo, é mostrado um paquímetro desse tipo.
+      Em uma situação hipotética, precisa-se medir uma peça com diâmetro externo de 10,47 mm (+/- 0,01 mm), tendo-se disponível um paquímetro universal analógico com intervalo de indicação (escala fixa inferior) 0-100 mm e com as escalas fixa e móvel (vernier ou nônio), como mostrado na Figura.
+      Nesse cenário, constata-se que realizar tal medição com a exatidão exigida seria
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_43.png?raw=true 
+    alternativas:
+      - impossível, porque a resolução do paquímetro é de 0,05 mm.
+      - possível, porque a resolução do paquímetro é de 0,02 mm.
+      - possível, porque a resolução do paquímetro é de 0,05 mm.
+      - possível, porque a resolução do paquímetro é de 0,5 mm.
+      - impossível, porque a resolução do paquímetro é de 0,1 mm.
+  - enunciado: |
+      De acordo com as normas metrológicas nacionais, todo resultado de medição deve ser rastreável, e deve ser declarada a incerteza de medição de todos os instrumentos empregados em uma instalação industrial. Empregando-se cálculos matemáticos e análise estatística, chega-se à incerteza de medição, que é declarada nos certificados de calibração de instrumentos, e quantificada por meio de dois parâmetros.
+      Esses dois parâmetros que quantificam a incerteza de medição são:
+    alternativas:
+      - intervalo de incerteza e probabilidade de abrangência
+      - exatidão e precisão
+      - exatidão e erro de medição
+      - exatidão e reprodutibilidade
+      - precisão e repetibilidade
+  - enunciado: |
+      Os motores de combustão interna funcionam segundo o princípio da queima de um combustível líquido ou gasoso no interior de um cilindro, a partir do movimento alternativo de subida e descida de um pistão no interior do cilindro. Nos motores classificados como de quatro tempos, o ciclo de operação do motor se dá em quatro etapas.
+      Tais etapas, na ordem cronológica em que ocorrem, são:
+    alternativas:
+      - admissão, compressão, expansão ou explosão e exaustão
+      - admissão, exaustão, expansão ou explosão e compressão
+      - admissão, expansão ou explosão, compressão e exaustão
+      - expansão ou explosão, ignição, exaustão e admissão
+      - ignição, expansão ou explosão, exaustão e admissão
+  - enunciado: |
+      Na Figura abaixo, é representado um arranjo de montagem de um conjunto mecânico sobre o qual se sabe que os símbolos de rugosidade (∇∇) são equivalentes à classe de rugosidade N8.
+      Com base nessa informação e a partir da interpretação do desenho, constata-se que tal conjunto mecânico é um
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_46.png?raw=true 
+    alternativas:
+      - par de engrenagens cônicas de dentes retos, em ângulo de 90o, com acabamento de alisamento nos furos dos eixos e nas superfícies dos dentes em ambas.
+      - par de engrenagens cônicas de dentes retos, em ângulo de 64o, com acabamento de alisamento nos furos dos eixos e nas superfícies dos dentes da engrenagem menor.
+      - par de engrenagens cônicas de dentes helicoidais, em ângulo de 64o, com acabamento de retífica nos furos dos eixos e nas superfícies dos dentes em ambas.
+      - par de engrenagens cilíndricas de dentes helicoidais, com acabamento retificado nas superfícies dos dentes.
+      - trem de engrenagens cilíndricas de dentes retos, com acabamento usinado em todas as superfícies.
+  - enunciado: |
+      O ensaio de tração uniaxial é o método mais empregado para determinar as propriedades mecânicas de materiais, em particular dos aços, segundo amostragens e procedimentos normalizados por instituições internacionalmente reconhecidas, tais como ASTM e ABNT, dentre outras. Esse ensaio é realizado em um corpo de prova padronizado, que é inutilizado durante o teste e que demanda tempo de preparação e de processamento de resultados.
+      No entanto, para muitos aços, o limite de resistência à tração pode ser obtido por aproximação, através da correlação com o resultado de um ensaio não destrutivo simples, denominado ensaio de
+    alternativas:
+      - dureza Brinell
+      - impacto
+      - dobramento
+      - dureza Vickers
+      - dureza Rockwell C
+  - enunciado: |
+      De acordo com o modo de queima do combustível, os motores de combustão interna são classificados em dois tipos: motores de ignição por centelha, nos quais a queima é iniciada por uma centelha da vela de ignição, e motores com ignição por compressão, nos quais a queima ocorre de forma espontânea, a altas pressão e temperatura.
+      Esses dois tipos de motores de combustão interna, por centelha e por compressão, são também denominados, respectivamente, como
+    alternativas:
+      - motores de ciclo Otto e motores de ciclo Diesel
+      - motores de ciclo Otto e motores a gás GNV
+      - motores de ciclo Diesel e motores de dois tempos
+      - motores de ciclo Wankel e motores de ciclo Diesel
+      - motores a gás GNV e motores do ciclo Wankel
+  - enunciado: |
+      Salvo em casos particulares, o ensaio de dureza é classificado como não destrutivo por não comprometer a integridade do material, podendo ser realizado em peças acabadas. Simplificadamente, o ensaio consiste em pressionar uma ponta de prova (penetrador) sobre a superfície do material, provocando uma pequena indentação, cujo tamanho será correlacionado com a dureza.
+      Dentre os diversos métodos para medir a dureza de um material, o que emprega um penetrador com a forma geométrica de uma pirâmide, fabricado em diamante, é o método
+    alternativas:
+      - Vickers
+      - Brinell
+      - Rockwell B
+      - Rockwell C
+      - Shore
+  - enunciado: |
+      Na área de projeto, instalação e manutenção de tubulações comerciais e industriais, empregam-se desenhos denominados isométricos, conforme exemplificado na Figura abaixo, que são especialidade dos desenhistas de tubulações.
+      Esse método é uma aplicação prática da perspectiva isométrica, cuja característica é utilizar um sistema de referência de coordenadas tridimensionais em que os eixos
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_50.png?raw=true 
+    alternativas:
+      - 'X, Y e Z formam ângulos de 120° entre si.'
+      - 'X, Y e Z formam ângulos de 150° entre si.'
+      - 'X e Y são ortogonais, e o eixo Z está posicionado a 30° em relação ao eixo X.'
+      - 'X e Y são ortogonais, e o eixo Z está posicionado a 45° em relação ao eixo X.'
+      - 'X e Y são ortogonais, e o eixo Z está posicionado a 60° em relação ao eixo X.'
+  - enunciado: |
+      Os aços para construção mecânica são padronizados e identificados por sistemas de numeração definidos em normas de sistemas internacionais, como o ASTM, o AISI e o SAE, dentre outros. Tais sistemas identificam a composição química e o teor de carbono desses aços.
+      Considerando-se a nomenclatura do sistema AISI para ligas de aço, verifica-se, sobre os aços 1030 e 4130, respectivamente, que
+    alternativas:
+      - o primeiro é aço carbono comum, o segundo contém elementos de liga, e ambos contêm o mesmo teor de 0,3 % de carbono.
+      - o primeiro é aço carbono comum, o segundo contém elementos de liga, e ambos contêm o mesmo teor de 3% carbono.
+      - o primeiro contém elementos de liga, o segundo é aço carbono comum, e ambos contêm o mesmo teor de 3% de carbono.
+      - ambos são aços comuns, contendo o primeiro 0,3% de carbono, e, o segundo, 1,3%.
+      - ambos contêm elementos de liga, contendo o primeiro 1% de carbono, e, o segundo, 4,1%.
+  - enunciado: |
+      As Figuras I, II e III representam três configurações de alavanca nas quais a força F é aplicada para elevar a carga P.
+      A(s) configuração(ões) que envolve(m) o menor valor da força F aplicada para elevar a carga P é(são)
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_52.png?raw=true 
+    alternativas:
+      - II, apenas
+      - I, apenas
+      - III, apenas
+      - I e II, apenas
+      - I e III, apenas
+  - enunciado: "Admitindo-se π igual a 3, uma rotação de 1.000 rpm pode ser expressa em unidades derivadas do Sistema Internacional de Unidades por"
+    alternativas:
+      - '100 rad/s'
+      - '50 Hz'
+      - '100 Hz'
+      - '1.000 Hz'
+      - '50 rad/s'
+  - enunciado: |
+      Considere que a deformação medida no ensaio de uma peça prismática de 2,0 m de comprimento sob tração foi ΔL = 0,01 mm.
+      O cálculo da correspondente deformação específica ℇ = ΔL/L é
+    alternativas:
+      - '5,0μ'
+      - '1,0μ'
+      - '2,0μ'
+      - '20μ'
+      - '20G'
+  - enunciado: |
+      Um carrinho, utilizado na movimentação de cargas, é puxado com uma força F de 200 N, a partir do repouso, em linha reta, até atingir uma distância de 8,0 m. Despreze qualquer força dissipativa durante o movimento.
+      Considerando-se que a carga, juntamente com o carrinho, vale 2.000 N (200 kg), a velocidade atingida pelo carrinho, expressa em km/h, ao final de seu percurso, é
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_55.png?raw=true 
+    alternativas:
+      - '14,4'
+      - '1,44'
+      - '3,6'
+      - '16,0'
+      - '36,0'
+  - enunciado: |
+      O dispositivo de montagem de um disco é constituído de três barras rotuladas (ABC, BD e CE), conforme ilustrado na Figura.
+      Considere que o dispositivo descrito acima produzirá um torque de 140 N.m para a montagem do disco no mancal O.
+      Qual a força F, expressa em N, que deve ser aplicada na extremidade A para produzir esse torque?
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_56.png?raw=true 
+    alternativas:
+      - 200
+      - 50
+      - 100
+      - 500
+      - 1.000
+  - enunciado: |
+      A Figura abaixo ilustra uma viga biapoiada, com trecho em balanço e seção reta retangular, sujeita à força F.
+      Considerando-se o ângulo θ inferior a 90º, o módulo da maior tensão normal (de tração ou compressão) atuante na viga ocorre na fibra
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_57.png?raw=true 
+    alternativas:
+      - inferior da seção transversal em B
+      - inferior da seção transversal em C
+      - neutra da seção transversal em B
+      - superior da seção transversal em C
+      - superior da seção transversal em B
+  - enunciado: |
+      Considere que um veículo de passeio é acelerado a 0,60 m/s2 e que a sua roda (com pneu) possui um diâmetro externo de 60 cm.
+      Qual será a aceleração angular, expressa em rad/s2, da roda desse veículo?
+    alternativas:
+      - '2,0'
+      - '36,0'
+      - '20,0'
+      - '3,6'
+      - '1,0'
+  - enunciado: |
+      A rigidez de uma mola helicoidal utilizada na suspensão de um veículo de passeio depende de seu diâmetro nominal, do diâmetro do arame, do número de espiras e do módulo de elasticidade transversal do material do arame.
+      Diante disso, ao se cortar uma mola, diminuindo-se seu comprimento, sua(seu)
+    alternativas:
+      - rigidez é aumentada.
+      - rigidez é mantida.
+      - resistência aumenta.
+      - curso é aumentado.
+      - diâmetro nominal é modificado.
+  - enunciado: |
+      Três cabos de aço suportam uma carga P, conforme representado na Figura.
+      Considere que a maior carga de tração que cada cabo pode suportar é de 2.000 N.
+      O maior valor da carga P, expresso em N, que pode ser suportado pelo sistema é
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_mecanica_60.png?raw=true 
+    alternativas:
+      - '2.000'
+      - '500'
+      - '1.000'
+      - '4.000'
+      - '5.000'
