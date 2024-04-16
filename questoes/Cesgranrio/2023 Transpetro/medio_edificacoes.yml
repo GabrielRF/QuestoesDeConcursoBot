@@ -1,0 +1,384 @@
+---
+materia: "Nível Médio - Edificações"
+cargo: "Ênfase 10: Projeto, Construção e Montagem - Edificações"
+questoes:
+  - enunciado: |
+      Uma área retangular de 0,18 km x 0,16 km será usada como depósito para uma construção da Transpetro. O aluguel mensal do local é de R$ 500,00 por metro quadrado.
+      O valor anual desse aluguel, em milhões de reais, será de
+    alternativas:
+      - '172,80'
+      - '1,728'
+      - '17,28'
+      - '1.728,00'
+      - '17.280,00'
+  - enunciado: "A unidade de base do Sistema Internacional de Medidas para aferir a grandeza de base massa é a(o)"
+    alternativas:
+      - quilograma
+      - grama
+      - tonelada
+      - quilo
+      - miligrama
+  - enunciado: |
+      Uma estrutura com 4.000 N será apoiada no solo sobre uma base retangular de 1 m x 2 m. Sabe-se que a resistência à compressão do solo nesse local é de 0,2 MPa.
+      Nessas condições, a relação entre a resistência do solo e a pressão da placa é
+    alternativas:
+      - '100,00'
+      - '0,01'
+      - '0,10'
+      - '1,00'
+      - '10,00'
+  - enunciado: |
+      No estudo das tensões verticais devidas a cargas aplicadas na superfície de terrenos, as tensões imediatamente abaixo da área carregada variam à medida que a profundidade aumenta, sendo caracterizadas pela determinação dos bulbos de tensões.
+      O traçado desses bulbos é feito ligando-se as(os)
+    alternativas:
+      - isóbaras
+      - ancoragens
+      - linhas de fluxo
+      - pontos de recalque
+      - pontos de ruptura
+  - enunciado: "Uma viga horizontal em balanço sujeita a uma carga axial aplicada na extremidade livre do balanço, no sentido do apoio, gera, ao longo da viga, um esforço de"
+    alternativas:
+      - compressão
+      - torção
+      - tração
+      - momento positivo
+      - momento negativo
+  - enunciado: |
+      Considere a seguinte composição de preço unitário para um serviço S1.
+      *Serviço S1 - Unidade: m 2*
+      ```
+      Insumo | Unidade | Índice | Preço unitário (R$)
+      I1     | kg      | 5,0    | 10,00
+      I2     | L       | 8,4    | 200,00
+      I3     | m       | 20,0   | 50,00
+      ```
+      O custo para realizar 40 m 2 do serviço S1, em reais, é
+    alternativas:
+      - '109.200,00'
+      - '2.730,00'
+      - '54.600,00'
+      - '136.500,00'
+      - '163.500,00'
+  - enunciado: |
+      A poligonal aberta P1P2P3P4 esquematiza o rumo do eixo de uma faixa de dutos que será implantada. Conferindo a implantação, foi feita uma visada de ré de P3 para P2.
+      Diante desse cenário, a leitura dessa visada é
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_edificacoes_28.png?raw=true
+    alternativas:
+      - '40° NW'
+      - '40° SW'
+      - '40° SE'
+      - '50° NE'
+      - '50° NW'
+  - enunciado: |
+      Uma área de 40 m x 15 m será pavimentada com piso em concreto com 12 cm de espessura. Para o traço que será utilizado, sabe-se que cada saco de 50 kg de cimento produz 160 litros de concreto.
+      Se o saco de 50 kg de cimento custa R$ 40,00, o custo total de cimento, em reais, sem considerar perdas, para pavimentar todo o piso, é de
+    alternativas:
+      - '18.000,00'
+      - '4.560,00'
+      - '8.000,00'
+      - '9.800,00'
+      - '27.600,00'
+  - enunciado: |
+      Considere a Figura abaixo.
+      Onde:
+      ```
+      P1 e P2 estão na geratriz superior do tubo
+      P1 está na cota 4,50 m
+      O segumento P1P2 está em nível
+      ```
+      Analisando-se as condições apresentadas, verifica-se que o trecho entre P1 e P2 está
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_edificacoes_30.png?raw=true
+    alternativas:
+      - todo subterrâneto
+      - todo aéreo
+      - com aproximadamente 3/4 aéreo
+      - com aproximadamente 2/4 aéreo
+      - com aproximadamente 1/4 aéreo
+  - enunciado: |
+      Durante uma vistoria, o técnico responsável pelo controle de qualidade constatou que a estrutura que suportava uma certa tubulação recalcou. O calculista decidiu colocar no local uma estaca de concreto armado, introduzida no solo por meio de macaco hidráulico, reagindo contra a estrutura existente.
+      De acordo com a ABNT NBR 6122:2022 — Projeto e execução de fundações —, o técnico concluiu que a estaca introduzida no solo é do tipo
+    alternativas:
+      - prensada
+      - raiz
+      - Franki
+      - de apoio
+      - hélice contínua monitorada
+  - enunciado: |
+      Um técnico é responsável pelo acompanhamento dos serviços de emboço das alvenarias de uma obra, cuja mistura será realizada por processo mecanizado. Em reunião com a equipe da produção, ele alertou que, de acordo com a ABNT NBR 7200:1998 — Execução de revestimento de paredes e tetos de argamassas inorgânicas – Procedimento —, nesse processo, o tempo de mistura deve variar entre um certo intervalo de tempo em minutos.
+      Considerando-se a ABNT NBR 7200:1998, esse intervalo de tempo, em minutos, é entre
+    alternativas:
+      - 3 e 5
+      - 1 e 3
+      - 5 e 8
+      - 7 e 10
+      - 9 e 15
+  - enunciado: "Um técnico observou que na obra em que está trabalhando será usado vidro impresso. Consultando a ABNT NBR 7199:2016 — Vidros na construção civil — Projeto, execução e aplicações —, o técnico verificou que dentre as aplicações permitidas para esse tipo de vidro está o uso em"
+    alternativas:
+      - encaixilhado em esquadrias verticais instaladas em cotas 1,10 m acima do piso
+      - sacadas
+      - boxes de banheiro
+      - guarda-corpos de escadas
+      - encaixilhado em claraboias, desde que instaladas até 3,50 m acima do piso
+  - enunciado: |
+      Para um determinado serviço, está especificado o uso de cimento Portland de alto-forno.
+      De acordo com a ABNT NBR 16697:2018 — Cimento Portland — Requisitos, trata-se do cimento com a sigla
+    alternativas:
+      - CP III
+      - CP I-S
+      - CP II
+      - CP IV
+      - CP V
+  - enunciado: |
+      Um terreno plano, em formato trapezoidal (em planta) será escavado até a profundidade de 1,50 m. Os lados paralelos do trapézio medem 6,00 m e 10,00 m e distam 10,00 m entre si.
+      Sabendo-se que a taxa de empolamento desse solo é 5%, o volume de solo, em metros cúbicos, após a escavação é
+    alternativas:
+      - '126,00'
+      - '80,00'
+      - '252,00'
+      - '600,00'
+      - '900,00'
+  - enunciado: |
+      O coeficiente de deflúvio superficial run-off, utilizado nos projetos de redes pluviais, varia conforme a superfície onde ocorre a precipitação.
+      Considerando-se uma chuva que cai sobre uma superfície impermeável, o coeficiente de deflúvio superficial run-off é de
+    alternativas:
+      - '1,0'
+      - '0,01'
+      - '0,1'
+      - '0,5'
+      - '2,5'
+  - enunciado: |
+      Um galpão de 10 m x 25 m tem telhado de duas águas, com cumeeira paralela à maior dimensão. A altura das paredes externas é 4,0 m, e a altura da cumeeira em relação ao piso é 6,0 m. Há dois portões retangulares de 3,5 m x 4,0 m e um portão de 1,0 m x 2,1 m. Externamente, todas as paredes, inclusive as empenas até a cumeeira, serão pintadas e, para o cálculo do valor do serviço, devem ser descontados vãos superiores a 4,0 m2.
+      Sabendo-se que o serviço, por demão, custa R$ 60,00/m2, o valor total do serviço, para uma demão, em reais, é de
+    alternativas:
+      - '16.320,00'
+      - '8.040,00'
+      - '12.320,00'
+      - '14.280,00'
+      - '18.000,00'
+  - enunciado: |
+      Conferindo um projeto de instalação elétrica predial, um técnico observou que um determinado ponto de luz estava sendo acionado por apenas um local, quando deveria estar sendo acionado por dois locais distintos.
+      Admitindo-se que o técnico fez a correção no projeto, essa correção acrescentou à lista de materiais
+    alternativas:
+      - dois interruptores paralelos e excluiu um interruptor simples
+      - dois interruptores intermediários e excluiu um interruptor simples
+      - um interruptor intermediário
+      - um interruptor paralelo
+      - um interruptor simples
+  - enunciado: |
+      Um técnico, observando a execução de uma instalação de água fria com PVC soldável, verificou que faltava uma peça que teria a função de reduzir a tubulação de 40 mm para 32 mm.
+      Dentre as peças disponíveis, a seguir listadas, a que tem essa função é a(o)
+    alternativas:
+      - luva de redução soldável
+      - união soldável
+      - cap de redução soldável
+      - bujão de redução soldável
+      - flange de redução soldável
+  - enunciado: |
+      Observando o projeto de instalação de esgoto de uma edificação, um técnico constatou que, no trecho de tubulação enterrada, uma das caixas que liga tubulações de esgoto primário com mudança de direção estava sem a simbologia e sem a identificação.
+      Consultando a ABNT NBR 8160:1999 — Sistemas prediais de esgoto sanitário — Projeto e execução —, ele verificou que se trata de uma caixa
+    alternativas:
+      - de inspeção
+      - sifonada
+      - coletora
+      - subcoletora
+      - de areia
+  - enunciado: |
+      Durante um ensaio de compactação de solo em laboratório, um técnico em treinamento anotou uma série de valores. O supervisor explicou ao técnico que o resultado desse ensaio é expresso utilizando-se coordenadas cartesianas normais.
+      Para o traçado do gráfico, o técnico deve marcar nas abscissas e nas ordenadas, respectivamente, as(os)
+    alternativas:
+      - teores de umidades e as massas específicas aparentes secas correspondentes
+      - massas específicas aparentes secas e os índices de vazio correspondentes
+      - índices de vazio e as porosidades correspondentes
+      - índices de vazio e os teores de umidade correspondentes
+      - teores de umidade e as consistências correspondentes
+  - enunciado: |
+      A fim de verificar a verticalidade de uma alvenaria, o técnico foi ao almoxarifado para verificar qual ferramenta ou equipamento estaria disponível.
+      O almoxarife explicou que, naquele momento, o técnico poderia usar a(o)
+    alternativas:
+      - prumo de face
+      - metro articulado
+      - prumo de centro
+      - trena metálica
+      - esquadro metálico
+  - enunciado: |
+      Ao verificar o levantamento de ferramentas e equipamentos de uma obra, o técnico constatou o uso de rolo pé de carneiro.
+      O rolo pé de carneiro é utilizado em serviços de
+    alternativas:
+      - compactação
+      - pintura
+      - escavação
+      - concretagem
+      - impermeabilização
+  - enunciado: |
+      Acompanhando a execução das instalações hidráulicas em uma edificação, um técnico constatou problemas de vazamento nos banheiros B1 e B4. Em B1, o problema está no trecho próximo ao ponto de utilização e, em B4, no trecho após a derivação da coluna.
+      Em seu relatório, seguindo a ABNT NBR 5626 — Sistemas prediais de água fria e água quente — Projeto, execução, operação e manutenção —, o técnico nomeou esses trechos de B1 e de B4, respectivamente, como
+    alternativas:
+      - sub-ramal e ramal
+      - sub-ramal e suprimento
+      - ramal e barrilete
+      - ramal e sub-ramal
+      - suprimento e sub-ramal
+  - enunciado: |
+      Na fiscalização de um contrato, coube a um técnico verificar se o quantitativo pago por um serviço de pavimentação está de acordo com o efetivamente realizado. O serviço é de 500 m2 e já foram registrados como concluídos e pagos 70% do total. Visitando a obra, o técnico constatou as seguintes áreas retangulares pavimentadas:
+      ```
+      A1 = 25,0 m x 5,0 m; A2 = 13,0 m x 8,0 m;
+      A3 = 10,0 m x 7,5 m; A4 = 8,0 m x 5,0 m.
+      ```
+      Ao efetuar os cálculos, o técnico verificou que, em relação ao quantitativo executado, o quantitativo pago está
+    alternativas:
+      - '56,0 m2 maior'
+      - 'igual'
+      - '25,0 m2 menor'
+      - '46,0 m2 menor'
+      - '34,0 m2 maior'
+  - enunciado: "Em uma obra está sendo utilizado um concreto CA40, o que indica que sua resistência característica à compressão é 40"
+    alternativas:
+      - MPa
+      - Pa
+      - kPa
+      - kgf/cm2
+      - kgf/m2
+  - enunciado: "No assentamento de porcelanato, a argamassa espalhada no piso deve estar com ranhuras, que são executadas com o auxílio de"
+    alternativas:
+      - desempenadeira dentada
+      - régua metálica
+      - lâmina vibratória
+      - cruzeta metálica
+      - vassoura de piaçava
+  - enunciado: |
+      O esquema da estrutura para requadro de aberturas abaixo foi extraído da ABNT NBR 15758-1:2009 — Sistemas construtivos em chapas de gesso para drywall — Projeto e procedimentos executivos para montagem — Parte 1: Requisitos para sistemas usados como paredes.
+      As peças indicadas por I e II são denominadas, respectivamente,
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_edificacoes_48.png?raw=true
+    alternativas:
+      - montante e guia
+      - guia e cantoneira
+      - guia e montante
+      - montante e travessa
+      - escora e travessa
+  - enunciado: |
+      Uma empresa foi contratada pela Transpetro para o serviço de pintura a ser pago por metro quadrado, sem desconto de vãos. Ao terminar a pintura de paredes e tetos de três ambientes retangulares com 4,00 m de largura, 5,00 m de comprimento e 2,80 m de pé-direito, a empresa solicitou o pagamento do valor correspondente a 235,50 m2 .
+      O técnico responsável por fiscalizar esse contrato fez os cálculos e constatou que a empresa estava solicitando o quantitativo
+    alternativas:
+      - '24,30 m2 maior que o correto'
+      - correto
+      - '22,50 m2 menor que o correto'
+      - '50,40 m2 menor que o correto'
+      - '84,30 m2 maior que o correto'
+  - enunciado: |
+      Um dos ensaios de controle tecnológico de uma certa obra é o que segue a ABNT NBR 16607:2018 — Cimento Portland — Determinação dos tempos de pega.
+      Um dos equipamentos utilizados nesse ensaio é a(o)
+    alternativas:
+      - aparelho de Vicat
+      - prensa hidráulica
+      - flow table
+      - picnômetro
+      - ultrassom
+  - enunciado: |
+      No controle de qualidade de uma obra, são adotadas as orientações da ABNT NBR 17058:2022 — Locação topográfica e controle dimensional de edificação — Procedimento.
+      Para a identificação de deslocamentos, excentricidade ou flambagem de pilares de concreto armado concluídos, seguindo essa norma, são feitas medições de pontos na(o)
+    alternativas:
+      - base, no centro e no topo em, pelo menos, duas faces ortogonais do pilar
+      - base e no centro, em uma das faces do pilar
+      - base e no topo em, pelo menos, duas faces do pilar
+      - base e no topo em, pelo menos, duas faces ortogonais do pilar
+      - centro e no topo em, pelo menos, duas faces ortogonais do pilar
+  - enunciado: |
+      Dentre os cuidados com escavações abordados pela NR 18 — Segurança e Saúde no trabalho na indústria da construção —, está a orientação de uma faixa de proteção, livre de cargas, nas bordas da escavação.
+      De acordo com essa norma, a medida mínima dessa faixa, em metros, é de
+    alternativas:
+      - '1,0'
+      - '0,5'
+      - '1,5'
+      - '2,0'
+      - '2,5'
+  - enunciado: "Observando a movimentação dos trabalhadores para tomar banho ao final do expediente, um técnico foi verificar as instalações sanitárias e constatou que foram instalados 6 chuveiros. Verificando que no canteiro há 75 trabalhadores e consultando a NR 18 — Segurança e Saúde no trabalho na indústria da construção —, o técnico constatou que, de acordo com essa norma, a quantidade de chuveiros está"
+    alternativas:
+      - 'menor que a mínima exigida: oito chuveiros'
+      - 'de acordo com a mínima exigida'
+      - 'maior que a mínima exigida'
+      - 'menor que a mínima exigida: sete chuveiros'
+      - 'menor que a mínima exigida: dez chuveiros'
+  - enunciado: |
+      A Figura a seguir esquematiza parte de uma fundação que será executada.
+      A escavação será feita com 0,50 m a mais para cada lado do bloco de coroamento. O concreto magro será executado em toda a área do fundo escavado. Após a concretagem do concreto magro, do bloco de coroamento, e do pescoço do pilar e após a retirada da forma, será feito o reaterro.
+      Considerando-se apenas os volumes geométricos (sem o empolamento do solo), o volume de solo que será necessário para ocupar o espaço vazio (sem considerar a compactação), em metros cúbicos, é de
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cesgranrio/2023 Transpetro/imagens/medio_edificacoes_54.png?raw=true
+    alternativas:
+      - '6,372'
+      - '0,028'
+      - '1,223'
+      - '4,060'
+      - '9,228'
+  - enunciado: |
+      Uma obra de infraestrutura de esgoto está sendo projetada segundo a ABNT NBR 14486:2000 — Sistemas enterrados para condução de esgoto sanitário — Projeto de redes coletoras com tubos de PVC.
+      Sabendo-se que o terreno é firme e seco, com capacidade satisfatória, de acordo com essa norma, o berço para assentamento das tubulações pode ser feito
+    alternativas:
+      - diretamente sobre o solo ou com camada de material granular fino
+      - apenas diretamente sobre o solo
+      - apenas com camada de material granular fino
+      - apenas com camada de material granular grosso
+      - diretamente sobre o solo ou com camada de material granular grosso
+  - enunciado: |
+      Considere uma viga de concreto armado biapoiada em suas extremidades.
+      Segundo os conceitos da Resistência dos Materiais, se for colocado, na metade do vão entre os apoios existentes, mais um apoio nessa viga, mantidas as demais condições, ela apresentará fissuras de
+    alternativas:
+      - tração na parte superior do apoio central colocado
+      - torção no apoio da direita
+      - momento na parte inferior do apoio da esquerda
+      - compressão na parte superior dos apoios extremos
+      - esmagamento na parte superior do apoio central
+  - enunciado: |
+      Considere o esquema de um poste representado abaixo, onde F1 e F2 estão em kN e F2 = 2F1
+      ```
+      Dado
+      √2 = 1,40
+      sen 45° = cos 45° = √2/2
+      ```
+      Nessas condições, a reação horizontal (H) no apoio é
+    alternativas:
+      - 1,3F1 , no sentido contrário ao de F2
+      - 0,7F1 , no sentido contrário ao de F2
+      - F1 + 1,4F2 , no sentido de F2
+      - 1,4F1 , no sentido de F2
+      - 0 (zero)
+  - enunciado: |
+      Nas instalações hidráulicas de uma certa obra, estão sendo utilizados tubos e conexões em PP-R com união por termofusão, em conformidade com a ABNT NBR 15813-3 — Sistemas de tubulações plásticas para instalações prediais de água quente e fria — Parte 3: Tubos e conexões de polipropileno copolímero random PP-R e PP-RCT — Montagem, instalação, armazenamento e manuseio.
+      O responsável pelo controle de qualidade dos serviços alertou o instalador que, de acordo com essa norma, antes de começar a termofusão, os bocais do termofusor devem ser limpos com um pano limpo umedecido com
+    alternativas:
+      - álcool em gel de, no mínimo, 65° INPM
+      - solvente
+      - querosene
+      - água sanitária
+      - água destilada com temperatura mínima de 35°C
+  - enunciado: |
+      Em uma obra serão executados 60 pilares de concreto armado de 40 cm x 80 cm, com altura de 3,50 m. As formas de madeira serão utilizadas três vezes cada uma.
+      Considerando-se apenas as áreas das faces laterais dos pilares, a área de madeira necessária para a montagem dos painéis, sem considerar perdas ou cortes nas chapas, em metros quadrados, é de
+    alternativas:
+      - '168,00'
+      - '224,00'
+      - '336,00'
+      - '384,00'
+      - '420,00'
+  - enunciado: |
+      Considere o cronograma financeiro a seguir, com os percentuais previstos para cada mês de quatro serviços de uma obra.
+      ```
+      Atividade | Mês 1 | Mês 2 | Mês 3 | Mês 4 | Mês 5 | Mês 6
+      AT1       | 10    | 20    | 70    |       |       |
+      AT2       |       | 30    | 70    |       |       |
+      AT3       |       |       | 10    | 30    | 40    | 20
+      AT4       |       |       |       |       | 50    | 50
+      ```
+      Sabe-se que a representação financeira de cada atividade em relação ao custo total da obra é
+      ```
+      AT1 | 20%
+      AT2 | 30%
+      AT3 | 40%
+      AT4 | 10%
+      ```
+      Nessas condições, ao final do mês 4, o percentual financeiro concluído será de
+    alternativas:
+      - 66
+      - 30
+      - 45
+      - 53
+      - 72
