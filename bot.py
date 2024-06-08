@@ -15,6 +15,12 @@ botao_inicio = telebot.types.InlineKeyboardButton(
     'Início ⌂',
     callback_data=f'Voltar_ao_inicio'
 )
+effects = [
+    5107584321108051014,
+    5044134455711629726,
+    5104841245755180586,
+    5046509860389126442
+]
 
 def verifica_e_adiciona_usuario(user_id):
     conn = sqlite3.connect(db)
@@ -363,13 +369,15 @@ def send_results(user_id):
         anuncieaqui.send_message(
             TOKEN,
             user_id,
-            end_message
+            end_message,
+            message_effect_id=random.choice(effects)
         )
     except:
         bot.send_message(
             user_id,
             end_message,
-            parse_mode='HTML'
+            parse_mode='HTML',
+            message_effect_id=random.choice(effects)
         )
 
 def send_poll(user_id, query_data=None):
