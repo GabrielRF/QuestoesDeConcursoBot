@@ -17,7 +17,6 @@ botao_inicio = telebot.types.InlineKeyboardButton(
 )
 effects = [
     5107584321108051014,
-    5044134455711629726,
     5104841245755180586,
     5046509860389126442
 ]
@@ -289,7 +288,7 @@ def informacoes(message):
         '📚 <b>@QuestoesDeConcursoBot</b>\n\n'
         '🔧 Código fonte e envio questões:\n' +
         'https://github.com/GabrielRF/QuestoesDeConcursoBot\n\n' +
-        '🤖 Autor: @GabRF'
+        '🆘 Entre em contato:\nhttps://chat.grf.xyz/QuestoesDeConcursoBot'
     )
     bot.send_message(
         message.from_user.id,
