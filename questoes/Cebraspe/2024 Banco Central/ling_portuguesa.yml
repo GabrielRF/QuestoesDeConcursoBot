@@ -1,0 +1,131 @@
+---
+materia: Língua Portuguesa
+cargo: Todos os cargos
+questoes:
+  - enunciado: |
+      *Texto CB1A1-I*
+
+      A emergência de uma grande variedade de plataformas digitais, desde o final da década de 1990, provocou uma mudança econômica radical e uma reorganização de mercados e arranjos de trabalho. A economia de plataforma não está apenas mudando a forma como o trabalho é realizado e remunerado. Os mercados de trabalho também estão se transformando drasticamente, levando a uma situação em que o “emprego padrão” é cada vez mais suplementado ou substituído por trabalho temporário “fora do padrão”, mediado por plataformas. Em um contexto de crescente instabilidade macroeconômica, de desregulamentação das relações de trabalho — em função do impacto disruptivo de tecnologias digitais na intermediação dessas relações —, verifica-se a emergência de novas formas de emprego “fora do padrão”, que reforçam diversos tipos de “flexibilidade” — temporal, espacial, gerencial e funcional, entre outras. Grande parte dessas novas formas de emprego está vinculada à mediação de plataformas digitais, que conectam ofertantes e demandantes de trabalho.
+      As plataformas digitais facilitam a articulação entre ofertantes e demandantes de trabalho que, de outra forma, poderiam ter dificuldades para interagir entre si, tornando a realização de transações mais eficiente do que seria possível em relacionamentos bilaterais entre as partes, fornecendo infraestrutura e regras para sua realização. No âmbito dessas plataformas, a correspondência (matching) entre ofertantes e demandantes de trabalho pode ser feita de forma eficaz, por exemplo, por meio de algoritmos que diminuem a quantidade de tempo utilizado para encontrar trabalhadores adequados para tarefas específicas, além de oferecer a base para o controle e gerenciamento dessas tarefas.
+      No entanto, a força de trabalho torna-se mais vulnerável, pois as leis trabalhistas ainda se baseiam em um antigo sistema “binário”, segundo o qual quem é empregado recebe direitos — por exemplo, aviso de demissão ou férias pagas —, mas para quem é contratado o acesso a esses direitos tende a ser restringido. Assim, se o modelo de plataformas de trabalho com a interveniência de uma gestão algorítmica oferece vantagens no que se refere à flexibilidade sobre formas convencionais de organização e gestão do trabalho, esse mesmo modelo suscita questões relevantes como a distribuição desigual de oportunidades, benefícios e riscos entre os agentes envolvidos, bem como os possíveis custos sociais advindos de uma eventual precarização das relações de trabalho.
+      `Herbert P. S. de Oliveira e Jorge N. de P. Britto. Gerenciamento e disciplina algorítmica: uma análise focalizada em plataformas de emprego de elevada qualificação. Economia e Sociedade, Campinas, v. 32, n.º 3 (79), 2023 (com adaptações).`
+
+      Acerca dos sentidos veiculados no texto CB1A1-I, julgue os itens a seguir.
+
+      No quarto período do primeiro parágrafo, o trecho isolado entre travessões expressa a causa da desregulamentação das relações de trabalho.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Conclui-se da leitura do último parágrafo que, segundo as leis trabalhistas, empregado e contratado são categorias distintas de trabalhadores."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Conclui-se da leitura do texto que o modelo de plataformas digitais de trabalho, por sua variada flexibilidade, oferece aos trabalhadores mais vantagens que desvantagens."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No segundo parágrafo, incentiva-se o uso das plataformas digitais na articulação entre ofertantes e demandantes de trabalho, a partir da valorização de sua eficácia e das facilidades dele decorrentes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No terceiro período do primeiro parágrafo, o emprego do vocábulo “ou” entre os vocábulos “suplementado” e “substituído” indica que são sinônimos no texto."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os próximos itens, relativos a aspectos linguísticos do texto CB1A1-I.
+
+      No primeiro período do terceiro parágrafo, a oração introduzida pelo vocábulo “pois” consiste em uma explicação para o que se afirma na oração imediatamente antecedente.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A correção gramatical do quarto período do primeiro parágrafo seria preservada caso se suprimisse a vírgula empregada logo após o travessão que segue o vocábulo “relações”, pois o emprego dos travessões no período dispensa a necessidade da vírgula."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O termo “drasticamente” (terceiro período do primeiro parágrafo) exerce, na oração em que se insere, a mesma função sintática que o termo “mais” (primeiro período do segundo parágrafo)."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No último período do primeiro parágrafo, a oração “que conectam ofertantes e demandantes de trabalho” restringe o sentido do segmento “plataformas digitais”."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Estaria mantida a correção gramatical do texto caso fosse empregado o acento indicativo de crase no vocábulo “a” em “a distribuição desigual de oportunidades” (último período do texto), visto que seu emprego é facultativo nesse caso."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No primeiro período do segundo parágrafo, a forma verbal “poderiam” está flexionada na terceira pessoa do plural porque concorda com os termos “ofertantes” e “demandantes”."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No primeiro período do terceiro parágrafo, o segmento “o qual” retoma, por coesão, “um antigo sistema ‘binário’”."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Estaria mantida a correção gramatical do quarto período do primeiro parágrafo caso a partícula “se”, em “verifica-se”, fosse deslocada para a posição proclítica — se verifica."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      *Texto CB1A2-I*
+
+      A Conferência Geral da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO), em sua 41.ª sessão, reconhece os impactos profundos e dinâmicos, positivos e negativos da inteligência artificial (IA) nas sociedades, no meio ambiente, nos ecossistemas e nas vidas humanas, inclusive na mente humana, em parte devido às novas formas como seu uso influencia o pensamento, a interação e a tomada de decisões e afeta a educação, as ciências humanas, sociais e naturais, a cultura, a comunicação e a informação.
+      A Conferência considera que as tecnologias de IA podem ser de grande utilidade para a humanidade e podem beneficiar todos os países, mas também suscitam questões éticas fundamentais, por exemplo, em relação às distorções que podem incorporar e exacerbar, o que resultaria potencialmente em discriminação, desigualdade, exclusão digital, exclusão em geral e ameaça à diversidade cultural, social e biológica, além de divisões sociais ou econômicas. Suscitam, ainda, questões relativas à necessidade de transparência e compreensibilidade do funcionamento dos algoritmos e dos dados com que eles foram alimentados, além de seu potencial impacto sobre, entre outros aspectos, a dignidade humana; os direitos humanos e as liberdades fundamentais; a igualdade de gênero; a democracia; os processos sociais, econômicos, políticos e culturais; as práticas científicas e de engenharia; o bem-estar dos animais; o meio ambiente e os ecossistemas.
+      A Conferência reconhece, ainda, que as tecnologias de IA podem aprofundar as divisões e as desigualdades existentes no mundo, dentro dos países e entre eles, e que a justiça, a confiança e a equidade devem ser defendidas para que nenhum país e nenhum indivíduo sejam deixados para trás, seja em razão do acesso justo às tecnologias de IA e de seus benefícios, seja em razão de medidas de proteção contra suas implicações negativas. Reconhecem-se as diferentes circunstâncias de diferentes países e respeita-se o desejo de algumas pessoas de não participar de todos os desenvolvimentos tecnológicos.
+      Com base nas considerações acima, entre outras, a UNESCO aprova a presente Recomendação sobre a Ética da Inteligência Artificial.
+      `UNESCO. Recomendação sobre a Ética da Inteligência Artificial (com adaptações).`
+
+      A respeito das ideias veiculadas no texto CB1A2-I, julgue os itens que se seguem.
+
+      Conclui-se da leitura do texto que a Conferência Geral da UNESCO mostra-se favorável à defesa da justiça, da confiança e da equidade como forma de evitar o aprofundamento das divisões e das desigualdades existentes no mundo.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Infere-se do texto que a Conferência Geral da UNESCO considera inevitáveis os impactos profundos, dinâmicos, positivos e negativos das tecnologias de IA."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Depreende-se da leitura do segundo período do segundo parágrafo que, entre os aspectos impactados pelas tecnologias de IA, destacam-se como principais “a dignidade humana; os direitos humanos e as liberdades fundamentais (...) e os ecossistemas”."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Cada parágrafo do texto é estruturado com base na ideia de que o uso das tecnologias de IA tem consequências contraditórias."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens seguintes, referentes aos sentidos e a aspectos linguísticos do texto CB1A2-I.
+
+      A correção gramatical do texto e a coerência de suas ideias seriam mantidas caso o segundo período do terceiro parágrafo fosse reescrito da seguinte forma: *A Conferência reconhece as variadas circunstâncias de diferentes países; ademais, respeita o desejo que algumas pessoas têm de não participar de todos os desenvolvimentos tecnológicos.*
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A substituição da expressão “deixados para trás” (primeiro período do terceiro parágrafo) pelo vocábulo *negligenciados* não prejudicaria a correção gramatical nem a coerência das ideias do texto."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A correção do texto seria mantida caso, no segundo período do segundo parágrafo, o sinal de ponto e vírgula, em todas as suas ocorrências, fosse substituído por vírgula."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No primeiro período do segundo parágrafo, a expressão “mas também” caracteriza-se como elemento de conexão entre orações no qual a conjunção “mas” expressa sentido aditivo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No trecho “em relação às distorções que podem incorporar e exacerbar” (primeiro período do segundo parágrafo), a forma verbal “podem” está flexionada na terceira pessoa do plural porque concorda com o termo “distorções”, que é o referente do sujeito das orações presentes no segmento “que podem incorporar e exacerbar”."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A correção gramatical e o sentido do texto seriam mantidos caso a forma verbal “resultaria”, no trecho “o que resultaria potencialmente em discriminação” (primeiro período do segundo parágrafo), fosse substituída por *acarretaria*."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Estariam preservados o sentido original e a correção gramatical do primeiro período do terceiro parágrafo caso se deslocasse o termo “ainda”, com as vírgulas que o isolam, para imediatamente depois da forma verbal “podem”."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No texto, são apresentados argumentos que justificam a aprovação da Recomendação sobre a Ética da Inteligência Artificial na 41.ª sessão da Conferência Geral da UNESCO."
+    alternativas:
+      - Certo
+      - Errado
