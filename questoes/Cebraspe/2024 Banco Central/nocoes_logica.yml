@@ -1,0 +1,58 @@
+---
+materia: Noções de Lógica e Estatística
+cargo: Todos os cargos
+questoes:
+  - enunciado: |
+      ```
+      x    P(X=x)
+      -2   5c
+      -1   c
+      0    2c
+      +1   3c
+      +2   4c
+      ```
+      Considerando que ᡐ representa uma variável aleatória com suporte x ∈ {−2, −1, 0, +1, +2}, cuja função de distribuição de probabilidade é dada no quadro acima, na qual ᡕ é uma constante real positiva, julgue os próximos itens.
+
+      A moda de x é igual a zero.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "P(X=1) = 0,2."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "X segue uma distribuição contínua, pois c é uma constante real positiva."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A média de X é igual a zero."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A mediana de X é igual ou superior a 1."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Supondo que V e W sejam duas variáveis contínuas e mutuamente independentes, tais que P(V>0) = 0,3 e P(W>0) = 0,7, julgue os próximos itens.
+
+      Considerando-se que as médias de V e W sejam iguais a 1 e que o coeficiente de variação de V seja igual ao dobro do coeficiente de variação de W, é correto concluir que a variância de V deve ser igual ao dobro da variância de W.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: O primeiro quartil da variável V é inferior a zero.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A propabilidade de ocorrência simultânea dos eventos V<0 e W<0 é igual a 0,21."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em relação aos eventos V≥0 e W≥0, é correto afirmar que a probabilidade condicional P(V≥0|W≥0) deve ser superior a 0,3."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Se o desvio padrão de V for igual a 3 e se o desvio padrão de W for igual a 4, então o desvio padrão da diferença V-W será igual a 5."
+    alternativas:
+      - Certo
+      - Errado
