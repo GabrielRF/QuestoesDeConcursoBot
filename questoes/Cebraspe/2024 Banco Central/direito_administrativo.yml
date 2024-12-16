@@ -1,0 +1,30 @@
+---
+materia: Direito Administrativo
+cargo: Todos os cargos
+questoes:
+  - enunciado: |
+      Considerando os princípios básicos da administração pública, das autarquias e do regime disciplinar aplicável aos servidores públicos civis federais (Lei n.º 8.112/1990), julgue os itens que se seguem.
+
+      Os bens das autarquias são, invariavelmente, de natureza pública, bem como impenhoráveis e inalienáveis.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A fim de evitar que servidor público submetido a processo administrativo disciplinar (PAD) interfira no curso do referido processo, a lei autoriza o seu afastamento do exercício do cargo até a conclusão do PAD."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em razão do princípio da indisponibilidade do interesse público, os direitos geridos por administradores públicos são, em regra, inalienáveis e indisponíveis."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base no disposto no Código de Ética Profissional do servidor público civil do Poder Executivo federal e na Lei Geral de Proteção de Dados Pessoais (LGPD), julgue os itens a seguir.
+
+      Nos termos da LGPD, dados pessoais sensíveis, como os relativos à saúde e à vida sexual do titular, podem ser tratados para fins sanitários.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O ato de servidor público federal permitir que usuários aguardem atendimento por tempo excessivo é caracterizado pelo referido código de ética não só como infração ética, mas também como ação causadora de dano moral."
+    alternativas:
+      - Certo
+      - Errado
