@@ -1,0 +1,67 @@
+---
+materia: Fundamentos de Macroeconomia e Microeconomia
+cargo: Todos os cargos
+questoes:
+  - enunciado: |
+      Em determinada economia, o produto interno bruto (PIB) a preço de mercado foi mensurado no valor de $ 250, as rendas dos residentes e das firmas domésticas auferidas no exterior foram de $ 35, as rendas obtidas no país pelos não residentes e firmas estrangeiras foram de $ 60, a depreciação foi estimada em $ 30, os impostos indiretos totalizaram $ 80, enquanto as transferências indiretas (ou subsídios) foram de $ 20.
+      Considerando a situação hipotética precedente e aspectos gerais a ela relacionados, julgue os itens a seguir.
+
+      A renda nacional mensurada para o país seria de $ 135.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O produto nacional bruto a preço de mercado seria, para a economia em questão, de $ 190."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O PIB é uma medida de bem-estar, ou seja, o bem-estar de uma nação aumenta quanto maior for o PIB."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Um índice de preços é utilizado para mensurar uma típica cesta de produtos. No país A, consegue-se comprar 4 unidades de alimentos, 3 unidades de bens industriais e 5 unidades de serviços a cada ano. Os preços desses bens, nos anos de 2021, 2022 e 2023, são informados na tabela a seguir.
+      ```
+      ano | alimentos | bens industriais | serviços
+      2021     1               3              10
+      2022     2               6              20
+      2023     3               6              25
+      ```
+      Com base nas informações precedentes, julgue os seguintes itens.
+
+      No país A, a taxa de inflação entre 2022 e 2023 foi de 25%.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O índice percentual de preços de 2021, usando-se 2022 como base, seria igual a 50."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Durante o período do milagre econômico brasileiro, de 1968 a 1973, teóricos estruturalistas afirmavam que a oferta agrícola, nos países com baixo nível de renda, não respondia aos estímulos de preço e, consequentemente, um aumento da demanda resultava em uma inflação crônica. Nesse período, a economia crescia a taxas muito elevadas, o que puxava o crescimento da demanda por alimentos.
+      Em obra publicada em 1971, Pastore provou que a oferta agrícola não era inelástica e, em geral, reagia aos preços, assim como o agricultor se comportava de modo racional.
+      Em 2022, Vieira Filho, em sua proposta de discussão da modernização da agricultura no Brasil, mostrou a importância da construção do sistema nacional de inovação, no contexto da criação, em 1973, da Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA), para aumentar a oferta de alimentos no país.
+
+      Considerando as informações precedentes e os fundamentos microeconômicos, julgue os itens que se seguem.
+
+      O gráfico a seguir apresenta a visão estruturalista da oferta e da demanda por alimentos no Brasil, uma vez que um crescimento da demanda (de D1 para D2) resultaria em um aumento dos preços (de p1 para p2).
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2024 Banco Central/imagens/fund_macro_micro_47.png?raw=true
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O gráfico que se segue representa a oferta e a demanda de alimentos no Brasil ao longo dos últimos 50 anos, observando-se, de um lado, um aumento da demanda (de D1 para D2), em razão do alto crescimento populacional, de 90 milhões de habitantes para 203 milhões de habitantes, entre 1970 e 2022; de outro lado, o investimento em pesquisa, em decorrência da criação da EMBRAPA e da construção do ambiente institucional inovador, deslocou a curva de oferta para a direita (de S1 para S2) mais do que o crescimento da demanda, o que resultou em uma queda dos preços de alimentos no tempo."
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2024 Banco Central/imagens/fund_macro_micro_48.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com base na curva ou fronteira de possibilidades de produção em uma economia de dois produtos (alimento e vestuário), representada no gráfico precedente, julgue os próximos itens.
+
+      O que explica o deslocamento do ponto b para o ponto e é o custo de oportunidade de se produzir mais vestuário em detrimento de alimentos.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2024 Banco Central/imagens/fund_macro_micro_49.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O deslocamento do ponto c para o ponto b é explicado pelo avanço tecnológico."
+    alternativas:
+      - Errado
+      - Certo
