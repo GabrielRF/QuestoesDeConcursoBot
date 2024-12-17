@@ -1,0 +1,83 @@
+---
+materia: Macroeconomia
+cargo: "Cargo 1: Analista"
+questoes:
+  - enunciado: |
+      No que diz respeito aos principais modelos macroeconômicos, julgue os itens a seguir.
+
+      De acordo com o modelo keynesiano, o aumento do salário mínimo acarreta aumento da renda de equilíbrio.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em uma economia aberta com câmbio flutuante, se o produto de equilíbrio for determinado pelas condições do mercado de trabalho, haverá relação causal entre moeda e preços, como estabelece a teoria quantitativa da moeda."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando a operacionalização da política monetária executada pelo Banco Central do Brasil (BCB) e as principais medidas macroprudenciais, julgue os itens subsequentes.
+
+      A exigência de capital dos bancos para fazer frente ao risco operacional é majoritariamente calculada com base nas perdas incorridas pelas instituições.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Se o câmbio é fixo e há plena mobilidade de capitais, então a política monetária é passiva."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Quando o BCB define a taxa SELIC, choques no multiplicador monetário não afetam a economia."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Se o governo realiza uma política fiscal ativa, evidencia-se redução das exportações líquidas na mesma magnitude dos gastos do governo quando a autoridade monetária garante liberdade de capitais e câmbio flexível."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As operações compromissadas realizadas pelo BCB entram no cálculo da dívida bruta do governo geral (DBGG)."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O BCB emite títulos para a execução da política monetária."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A macroeconomia é uma área do conhecimento que engloba o estudo de diversos conceitos-chave para entender as dinâmicas econômicas globais. Considerando conceitos relacionados à macroeconomia, julgue os itens a seguir.
+
+      A curva de Phillips, conceito econômico que estabelece uma relação inversa de curto prazo entre desemprego e inflação, mostra-se mais complexa a longo prazo, particularmente ao levar em conta as expectativas de inflação.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A teoria da paridade do poder de compra apresenta limitações decorrentes de fatores como barreiras comerciais e diferenças nos bens consumidos entre os países."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A paridade de taxas de juros na sua forma coberta (CIP) se mantém com bastante precisão devido à arbitragem no mercado financeiro."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Nos modelos de exportação e importação, a elasticidade-preço é irrelevante para determinar o efeito de mudanças na taxa de câmbio sobre a balança comercial."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito da teoria dos ciclos econômicos reais, que oferece uma explicação para as flutuações na atividade econômica, concentrando-se em choques reais como o principal motor desses ciclos, julgue os itens subsequentes.
+
+      Os choques de produtividade resultantes de variações na eficiência de uso dos recursos não incluem mudanças na qualidade da mão de obra.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um choque tecnológico positivo pode aumentar a produção e o emprego, resultando em expansão econômica."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito da determinação dos salários no modelo novo-keynesiano e no clássico, julgue os itens a seguir.
+
+      Segundo o modelo novo-keynesiano, não há desemprego cíclico a longo prazo e qualquer desemprego existente ocorre devido a fatores como mudanças tecnológicas ou preferências de trabalho.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A perspectiva clássica enfatiza a capacidade dos mercados de alcançar equilíbrio e eficiência por conta própria, enquanto o modelo novo-keynesiano reconhece a possibilidade de desequilíbrios persistentes devido a rigidezes e imperfeições no mercado, sugerindo um papel mais ativo da política econômica na estabilização da economia."
+    alternativas:
+      - Certo
+      - Errado
