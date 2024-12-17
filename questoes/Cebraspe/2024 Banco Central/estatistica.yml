@@ -1,0 +1,67 @@
+---
+materia: Estatística e Econometria
+cargo: "Cargo 1: Analista - Economia e Finanças"
+questoes:
+  - enunciado: |
+      Considerando que o desvio padrão amostral de uma amostra aleatória simples retirada de uma população normal seja denotado por Sn, julgue os próximos itens.
+
+      Caso a população seja normal padrão, então, pela lei fraca dos grandes números, Sn^2 converge em probabilidade para 1 à medida que n → +∞.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Se n = 100, então a esperança matemática do estimador S100 é igual ao desvio padrão populacional."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Supondo que os valores 3, 0, 0, 1, 4 constituam uma realização de uma amostra aleatória simples de tamanho n igual a 5 retirada de uma população com função de probabilidade P(X=x), na qual δ ‒> 0 denota o parâmetro a ser estimado e x ∈ {0, 1, 2, … }, julgue os seguintes itens.
+      A estimativa de máxima verossimilhança da variância populacional é igual ou superior a 2.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2024 Banco Central/imagens/estatistica_99.png?raw=true
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A estimativa da variância do estimador de máxima verossimilhança do parâmetro δ é igual a 0,32."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A estimativa de δ pelo método dos momentos é igual a 1,6."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A estimativa de máxima verossimilhança da probabilidade P(X=0) é igual à frequência relativa de zeros na amostra, ou seja, 2/5."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere a vetores autorregressivos, julgue os itens que se seguem.
+
+      Uma série temporal é considerada estacionária se suas médias e variâncias permanecerem constantes ao longo do tempo e se ela não exibir tendências ou sazonalidade.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Para a utilização efetiva de um modelo de vetor autorregressivo em previsões, não é necessário que as séries temporais incluídas sejam estacionárias."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em um modelo de vetor autorregressivo de ordem p, cada variável do sistema é modelada como uma função linear das defasagens de todas as variáveis incluídas no modelo, incluindo as próprias defasagens passadas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca de econometria de dados em painel, julgue os seguintes itens.
+
+      Em modelos de efeito aleatório, presume-se que as diferenças individuais não observadas não são correlacionadas com as variáveis explicativas ao longo do tempo, sendo tratadas como componentes aleatórios.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em modelos de dados em painel com efeito fixo, presume-se que as características individuais não observáveis que são constantes no tempo estão correlacionadas com as variáveis explicativas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue o seguinte item, relativo a processos estocásticos.
+
+      Em uma cadeia de Markov, a probabilidade de transição de um estado para outro é influenciada pela sequência completa de eventos anteriores.
+    alternativas:
+      - Errado
+      - Certo
