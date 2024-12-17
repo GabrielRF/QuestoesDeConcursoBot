@@ -1,0 +1,75 @@
+---
+materia: Microeconomia
+cargo: "Cargo 1: Analista - Economia e Finanças"
+questoes:
+  - enunciado: |
+      Considerando um consumidor com preferências quase-lineares em relação aos bens X e Y, consumidos em x unidades e y unidades, respectivamente, sendo a função utilidade dada por u(x,y) = x ln y, em que ln indica o logaritmo natural, julgue o item seguinte.
+
+      Mantidos fixos os preços, um aumento na renda do consumidor implica o consumo adicional do bem X.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Na microeconomia clássica, a teoria da firma envolve duas análises simultâneas: a firma deve escolher a quantidade a ser ofertada para maximizar o seu lucro ao mesmo tempo em que deve buscar a estrutura de custos mais eficiente para produzir essa quantidade, ou seja, que resulte no menor custo possível. A partir dessas informações, supondo que a função de produção de uma firma seja dada por y = √(KL), em que K representa o montante de capital investido e L, a quantidade de mão de obra contratada, e, ainda, que a firma seja tomadora de preços no mercado de fatores, julgue o item a seguir.
+
+      A unção custo de longo prazo dessa firma é uma função quadrática da quantidade produzida y.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em um pequeno país, há dois bancos que ofertam serviço de crédito. Um deles, B1, é o líder. O outro, B2, é seguidor, tomando decisões sempre após B1 publicar as próprias decisões. Ao analisarem a possibilidade de reduzir a taxa de juros que cobram de seus clientes, B1 e B2 chegaram ao jogo sequencial representado a seguir, em que os pay-offs representam o ganho anual esperado, em milhões de unidades monetárias do país, após ambos tomarem suas decisões, sendo a primeira coordenada o ganho de B1, e a segunda coordenada, o ganho de B2.
+
+      Com base na situação hipotética precedente, julgue os itens subsequentes.
+
+      Existe um equilíbrio de Nash em estratégias mistas no referido jogo.
+    imagem: https://github.com/GabrielRF/QuestoesDeConcursoBot/blob/main/questoes/Cebraspe/2024 Banco Central/imagens/microeconomia_71.png?raw=true
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A redução da taxa de juros é uma estratégia dominante para B2."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando que, para a contratação de novos funcionários, uma empresa contrate uma prestadora de serviços para realizar a seleção dos candidatos, julgue os itens a seguir, a respeito de falhas de mercado.
+
+      Um sistema de sinalização ou reputação pode ser adotado pela empresa, desde que seu custo não seja maior que o ganho de contratar um agente de qualidade boa em relação a um agente de qualidade ruim.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A empresa desempenha o papel de principal e a prestadora de serviços, o de agente, sendo a assimetria de informação uma característica usual nessa relação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Considerando a situação de um mercado de dois bens e dois agentes em que cada um destes tenha a dotação inicial desses bens, e assumindo que as preferências sejam racionais, convexas, contínuas e monotônicas, julgue os itens que se seguem, com base na teoria do equilíbrio geral.
+
+      Segundo a lei de Walras, havendo troca na situação descrita, a soma das demandas excedentes dos dois bens deve ser igual a zero.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O primeiro teorema do bem-estar econômico garante que qualquer dotação inicial possibilita uma troca de bens que implica uma melhoria de Pareto."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em artigo publicado em conjunto com Amos Tversky em 1979, Daniel Kahneman, ganhador do prêmio Nobel de Economia em 2002 por seus estudos em economia comportamental, descreve vários padrões de comportamento que se afastam do pressuposto racional da microeconomia clássica.
+      No referido artigo, os estudiosos apresentam, como exemplo, dois experimentos em que os sujeitos da pesquisa deveriam escolher uma opção entre duas que lhes foram oferecidas.
+      No primeiro experimento, os sujeitos deveriam escolher entre as opções A e B, conforme descrição a seguir.
+      *opção A*: ganhar $ 2.500 com probabilidade de 33%, $ 2.400 com probabilidade de 66%, ou $ 0 com probabilidade de 1%.
+      *opção B*: ganhar $ 2.400 com certeza.
+      No segundo experimento, os mesmos sujeitos deveriam escolher entre as opções C e D, conforme descrição a seguir.
+      *opção C*: ganhar $ 2.500 com probabilidade de 33%, $ 0 com probabilidade de 67%.
+      *opção D*: ganhar $ 2.400 com probabilidade de 34%, $ 0 com probabilidade de 66%.
+      No primeiro experimento, 82% dos participantes escolheram a opção B. No segundo experimento, 83% dos participantes escolheram a opção C; além disso, 61% dos participantes escolheram B e C, em conjunto.
+
+      Com base na situação apresentada, julgue os itens seguintes, relativos à economia comportamental.
+
+      Um agente perfeitamente racional e neutro ao risco escolheria as opções A e D.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A inadequação do conjunto das respostas ao que se espera de agentes racionais é conhecida como efeito da certeza (certainty effect)."
+    alternativas:
+      - Certo
+      - Errado
