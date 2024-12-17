@@ -1,0 +1,57 @@
+---
+materia: "Contabilidade de Instituições Financeiras Padrão COSIF (Plano Contábil das Instituições do Sistema Financeiro Nacional)"
+cargo: "Cargo 1: Analista - Economia e Finanças"
+questoes:
+  - enunciado: |
+      Julgue os itens a seguir, relativos aos princípios gerais da contabilidade das instituições reguladas pelo BCB, instrumentos financeiros e a operações de crédito.
+
+      Os empréstimos são operações de crédito realizadas sem destinação específica ou vínculo à comprovação da aplicação dos recursos, ao passo que os financiamentos são realizados com destinação específica, vinculados à comprovação da aplicação dos recursos.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os pronunciamentos técnicos do Comitê de Pronunciamentos Contábeis valem para as instituições do sistema financeiro nacional assim que sua vigência for aprovada pelo Conselho Federal de Contabilidade, independentemente de ato do Conselho Monetário Nacional ou do BCB."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As ações e cotas recebidas em bonificação, sem custo para a instituição, não alteram o valor de custo das aplicações no capital de outra sociedade, e a quantidade das novas ações ou cotas é desconsiderada para a determinação do custo médio unitário."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os instrumentos financeiros que não se enquadrem nas categorias de títulos para negociação ou de títulos mantidos até o vencimento devem ser registrados na categoria títulos disponíveis para venda."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação a ativos não financeiros mantidos para venda pelas instituições financeiras, ativo intangível, provisões, contingências e patrimônio, julgue os itens seguintes.
+
+      No patrimônio líquido das instituições financeiras, as reservas legal, estatutárias, para contingências, de incentivos fiscais e de lucros a realizar são segregações das reservas de lucros.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os ativos não financeiros que, mantidos para venda, tenham sido recebidos pela instituição em liquidação de instrumentos financeiros de difícil ou duvidosa solução não destinados ao próprio uso devem ser avaliados pelo menor valor entre o valor presente líquido e o valor de mercado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um passivo contingente é uma espécie de provisão de prazo ou de valor incertos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os ativos intangíveis recebidos em doação, atendidos os requisitos legais e regulamentares, devem ser registrados pelo seu valor de mercado, com possibilidade de registro no ativo circulante."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere a demonstrações financeiras de divulgação, consórcios, empresas em liquidação extrajudicial e auditoria, julgue os seguintes itens.
+
+      Entre as atribuições do órgão estatutário denominado “comitê de auditoria” de instituições financeiras, consta a de avaliar o cumprimento, pela administração, das recomendações feitas pelos auditores, assim como a de estabelecer e divulgar procedimentos para gerir informações acerca do descumprimento de dispositivos legais e regulamentares.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Após a decretação do regime de liquidação extrajudicial, os valores registrados no ativo relativos a bens intangíveis devem ser reavaliados, considerado o potencial de recuperação financeira, e mantidos no ativo até que sejam realizados ou baixados de acordo com a amortização usual."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para os grupos de consórcios encerrados, as administradoras de consórcio devem baixar os valores dos recursos acumulados desde a data da constituição do grupo até a data de seu encerramento, reconhecendo-os como ativos no balanço patrimonial da administradora."
+    alternativas:
+      - Errado
+      - Certo
