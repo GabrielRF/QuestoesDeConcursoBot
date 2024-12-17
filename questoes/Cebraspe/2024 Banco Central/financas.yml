@@ -1,0 +1,100 @@
+---
+materia: Finanças
+cargo: "Cargo 1: Analista - Economia e Finanças"
+questoes:
+  - enunciado: |
+      Acerca dos títulos emitidos pelo Tesouro Nacional, julgue os itens seguintes.
+
+      O valor investido no título Tesouro Prefixado 2031 pode ser resgatado a qualquer data, com a garantia da taxa de juros contratada no dia da compra.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O rendimento dos títulos Tesouro IPCA corresponde a uma taxa prefixada de juros somada à variação do índice nacional de preços ao consumidor amplo (IPCA) no período."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere ao mercado de ações, julgue os itens a seguir.
+
+      O valor de mercado de uma ação coincide com o seu valor intrínseco, por corresponder às expectativas de fluxos de ganhos futuros.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Enquanto ações ordinárias dão direito apenas a voto, as ações preferenciais dão direito à parte dos dividendos proporcional ao número de votos detidos pelo acionista."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito de fundos de investimento e eficiência dos mercados, julgue os itens subsecutivos.
+
+      Em geral, informações perfeitas e completas acerca de um mercado financeiro bastam para garantir a eficiência dele.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um fundo com investimento de pelo menos uma parte de seu patrimônio em ativos atrelados à variação cambial é um fundo cambial, de acordo com a Comissão de Valores Mobiliários (CVM)."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Na avaliação de investimentos no mercado financeiro, é importante considerar como o investidor avalia o retorno e o risco envolvidos em cada investimento. Com relação à teoria de carteiras, julgue os itens subsequentes.
+
+      Um agente cujas preferências por riqueza sejam dadas pela função utilidade u(w) = ln w, em que ln indica o logaritmo natural e w, o montante de riqueza possuído pelo agente, é avesso ao risco.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na análise de carteiras de investimentos, o risco sistemático é a parcela que não pode ser eliminada por meio da diversificação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Com relação ao modelo de precificação de ativos de capital (CAPM) e à teoria de apreçamento por arbitragem (APT), julgue os itens a seguir.
+
+      A APT é um modelo que estabelece uma relação linear entre o risco sistemático de um ativo (ou portfólio) e seu retorno esperado, para entender como o mercado precifica o risco e determina o retorno esperado de um investimento, considerando-se que o risco não pode ser eliminado pela diversificação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A APT é mais flexível que o CAPM, pois permite a inclusão de múltiplos fatores de risco, o que pode proporcionar uma avaliação mais precisa dos retornos esperados, especialmente em mercados complexos e multifacetados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A estrutura a termo das taxas de juros é um conceito que descreve a relação entre as taxas de juros (ou rendimentos) e os diferentes prazos até o vencimento dos títulos de dívida. Essa relação é tipicamente representada por uma curva de rendimentos, que mostra as taxas de juros para títulos de dívida de qualidade similar, mas com diferentes datas de vencimento.
+
+      `Ross, Westerfield e Jaffe. Administração financeira. 25.ª ed. São Paulo: Atlas, 2002 (com adaptações).`
+
+      Considerando o assunto abordado no fragmento de texto precedente, julgue os itens que se seguem.
+
+      O deslocamento paralelo da curva de rendimentos ocorre quando todas as taxas de juros ao longo da curva mudam na mesma magnitude, mantendo-se a forma da curva.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A estrutura a termo das taxas de juros é determinada pelas expectativas futuras das taxas de juros de curto prazo: caso os investidores esperem que as taxas de juros aumentem, a respectiva curva de rendimentos será descendente; caso esperem que elas diminuam, a curva será ascendente."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A estrutura a termo reflete as expectativas do mercado em relação às futuras taxas de juros e fornece indícios sobre a conjuntura econômica, sendo influenciada por fatores como políticas monetárias, expectativas de inflação e condições econômicas globais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que diz respeito à renda fixa, julgue os itens subsequentes.
+
+      Convexidade é uma medida expressa em anos que estima a sensibilidade do preço de um título às mudanças nas taxas de juros, ao passo que duration é uma medida que leva em conta como a duração de um título muda quando as taxas de juros se alteram.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Para o apreçamento de um título, desconta-se de cada pagamento futuro o custo de oportunidade de capital, que é a taxa de juros que reflete o risco do título."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, relativos a riscos associados a fatores ambientais, sociais e de governança (ESG) e a valor em risco (VaR).
+
+      VaR é uma técnica usada para avaliar o impacto que eventos extremos ou mudanças significativas nas condições de mercado geram sobre o valor de um portfólio.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A medição dos riscos que envolvem fatores de ordem ambiental, social e de governança pode ser útil para a avaliação do desempenho de organizações públicas e privadas."
+    alternativas:
+      - Certo
+      - Errado
