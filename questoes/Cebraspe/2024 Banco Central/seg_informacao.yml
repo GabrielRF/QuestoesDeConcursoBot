@@ -1,0 +1,44 @@
+---
+materia: Segurança da Informação
+cargo: "Cargo 2: Analista - Tecnologia da Informação"
+questoes:
+  - enunciado: |
+      A respeito do SAML 2.0, julgue os itens a seguir.
+
+      O SAML é considerado o principal padrão de autenticação, sendo o OAuth2 a sua correspondente implementação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O sujeito, o provedor de identidade e o provedor de serviços são as partes envolvidas em um processo do tipo autenticação, considerando-se o SAML e o início de sessão única (SSO)."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação aos principais tipos de ataques a aplicações web e a sua prevenção, julgue os seguintes itens.
+
+      Fuzzing é um tipo de teste de prevenção de ataques que consiste na inserção de poucos dados não aleatórios em uma aplicação web com a expectativa de se obter um código de erro 500.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "XSS (Cross-site scripting) é um tipo de ataque por meio do qual o atacante explora erros nos códigos de entrada de dados, e a prevenção de ataques XSS requer sanitização das entradas de dados, de maneira a impedir a injeção de códigos maliciosos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito de múltiplos fatores de autenticação (MFA), julgue os próximos itens.
+
+      MFA adaptativa é uma variação de MFA em que se pode considerar o número de tentativas de login ou até a localização geográfica do usuário.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "MFA é um processo que requer uma etapa de variação criptográfica da senha do usuário por diferenciação de chave pública."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca do NIST CSF 2.0, julgue o item a seguir.
+
+      O núcleo da estrutura do NIST CSF 2.0 está organizado em torno de três funções principais: identificar, proteger e detectar.
+    alternativas:
+      - Errado
+      - Certo
