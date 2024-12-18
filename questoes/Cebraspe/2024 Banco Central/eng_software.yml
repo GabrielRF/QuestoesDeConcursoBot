@@ -1,0 +1,177 @@
+---
+materia: Engenharia de Software
+cargo: "Cargo 2: Analista - Tecnologia da Informação"
+questoes:
+  - enunciado: |
+      No que diz respeito à arquitetura de sistemas web, julgue os itens a seguir.
+
+      No WebSocket, utiliza-se um fluxo de bytes no lugar de um fluxo de mensagens para fornecer comunicações completas em uma conexão TCP.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Com o balanceamento de carga no modo espera ativa, uma instância do controlador de entrega de aplicações é colocada online quando houver falha no nó principal."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No HTTP/2, são utilizadas conexões persistentes para o atendimento a diversas solicitações em sequência, ao passo que, no HTTP/1, as conexões atendem a várias solicitações simultâneas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No gRPC, o protocolo de transporte utilizado é o HTTP/2."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca dos princípios e das práticas de DevOps e DevSecOps, integração e entrega contínuas, julgue os seguintes itens.
+
+      A realização de testes no DevSecOps apoia-se no uso de ferramentas de teste dinâmico de segurança de aplicativos (DAST) com base nas recomendações do OWASP.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Integração, entrega e implementação contínuas e com segurança em todo o ciclo de vida do desenvolvimento de software são os princípios básicos do DevOps."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere a técnicas de desenvolvimento seguro, julgue os itens que se seguem.
+
+      A redução de velocidade de resposta do servidor é uma forma de prevenção de ataques como o que causa o erro HTTP 429.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "XSS (Cross-site scripting) e entidades externas de XML são exemplos de controles e boas práticas para o desenvolvimento seguro."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsequentes, acerca de testes de software.
+
+      No BDD, os nomes dos métodos de testes não são códigos, mas frases com significado real, a exemplo das histórias de usuários.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O TDD (test driven development) é um tipo de teste unitário em que a especificação de teste é escrita logo após o código para validar o comportamento desejado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A área de tecnologia da informação e comunicação (TIC) do Banco Central do Brasil (BCB) necessita disponibilizar determinado aplicativo para transações digitais que o BCB vem desenvolvendo, utilizando contêineres no Kubernetes junto ao seu provedor de nuvem. Existe o requisito de que essa aplicação seja gerida no modo serverless.
+
+      Tendo como referência a situação hipotética apresentada, julgue os próximos itens, relativos a microsserviços e serverless.
+
+      Na orquestração de serviços em cluster kubernetes, um pod sempre será executado em um nó, ainda que seja em uma máquina física.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No caso hipotético em tela, a área de TIC deve dimensionar a quantidade de pods de acordo com a demanda esperada, uma vez que os pods nesse modo são o ponto focal para avaliação de performance. Isso se deve ao fato de que, ao se utilizar o Kubernetes no modo serverless, cada pod gerencia os kubelets e os contêineres que estiverem contidos nos nós do cluster."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na situação em apreço, se a equipe de TIC estiver usando o modelo serverless, não haverá necessidade de o BCB gerenciar servidores, uma vez que, nesse caso, cabe ao provedor de nuvem gerenciar a infraestrutura da nuvem e escalar as aplicações, dimensionando e gerenciando automaticamente a infraestrutura necessária para executar o código."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No cenário em questão, sendo utilizado o modelo serverless, os desenvolvedores têm acesso, no BaaS (backend as a service), a serviços e aplicações de terceiros, tais como serviços de autenticação, banco de dados e criptografia, que podem ser acionados por meio de APIs."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No modelo FaaS (function as a service), os recursos de computação necessários para executar a lógica do aplicativo em resposta às solicitações são executados de forma orientada a eventos em contêineres stateless, totalmente gerenciados pelo provedor de serviços de nuvem."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere a programação assíncrona, UX design e UI design, julgue os itens a seguir.
+
+      Considerando-se que o trecho de código a seguir tenha sido desenvolvido em Python e que seja executado em um ambiente multithreading, é correto afirmar que este é um exemplo de programação assíncrona, uma vez que as três funções não dependem umas das outras para serem executadas, ainda que não possam ser executadas simultaneamente.
+
+      ```
+      def a():
+          print(“Banco”)
+      def b():
+          print(“Central”)
+      def c():
+          print(“do Brasil”)
+      a()
+      b()
+      c()
+      ```
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Considere que a área de TIC do BCB precise desenvolver uma solução voltada a um aplicativo que o BCB vem desenvolvendo e que, nesse projeto, haja as seguintes demandas: a) projetar a interatividade, a aparência e a sensação da tela do aplicativo; b) desenvolver a interação do usuário com o serviço, assegurando que ela ocorra da forma mais estável possível. Nessa situação hipotética, as demandas “a” e “b” são afetas, respectivamente, às práticas de UI design e UX design."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A equipe de TIC do BCB necessita desenvolver uma API a ser utilizada em uma solução que o BCB vem desenvolvendo e que será disponibilizada pelo órgão. Como requisitos, tal API deve apresentar: solicitações gerenciadas por HTTP; possibilidade de os clientes solicitarem recursos em qualquer ordem; e isolamento de cada solicitação em relação às outras solicitações.
+
+      Considerando a situação hipotética anterior, julgue os itens que se seguem, relativos a RESTful e GraphQL.
+
+      Na situação em apreço, caso seja necessário que a API consulte dados em uma base de dados relacional compatível com a linguagem SQL, poder-se-á utilizar a GraphQL para obter dados nos servidores em questão, uma vez que a GraphQL executa comandos SQL em arquiteturas RESTful diretamente no(s) sistema(s) de gerenciamento de banco de dados (SGBD) atrelado(s) à solução.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Caso seja utilizada a arquitetura RESTful, a citada API, além de atender aos requisitos descritos, será stateless, ou seja, o servidor completará cada solicitação do cliente independentemente de todas as solicitações anteriores, e todas as solicitações serão separadas e desconectadas entre si."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsequentes, relativos a padrões GoF.
+
+      Os padrões abstract factory e facade são, respectivamente, de criação e estrutural, uma vez que o abstract factory fornece uma interface para criação de famílias de objetos relacionados, ao passo que o facade separa a construção de um objeto complexo da sua representação.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O padrão composite atribui responsabilidades adicionais a um objeto dinamicamente e o memento, sem violar o encapsulamento, captura e externaliza um estado interno de um objeto, de modo que este possa, posteriormente, ser restaurado para aquele estado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue o item seguinte, acerca de DLT (distributed ledger technology).
+
+      Uma DLT é uma tecnologia de criptografia de chave assimétrica em que as chaves pública e privada ficam separadas, sendo utilizada para proteger livros-razão em blockchain, em que os dados são armazenados em blocos interligados em uma cadeia.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, relativos a Python e Java.
+
+      ```
+      public class Main {
+        public static void main(String[] args) {
+          int resultado = fun(3);
+          System.out.println(resultado);
+        }
+        public static int fun(int y) {
+          if (y > 1) {
+            return y + fun(y - 1);
+          } else {
+            return 0;
+          }
+        }
+      }
+      ```
+      Ao ser executado, esse código apresentará o seguinte resultado.
+      ```
+      6
+      ```
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Considere o seguinte código desenvolvido em Python.
+      ```
+      print(len(“Banco”))
+      print(len([“Banco”, “Central”, “do Brasil”]))
+      print(len({“Presidente”: “Roberto Campos Neto”,
+      “Email”: “presidencia@bcb.gov.br”}))
+      ```
+      Ao ser executado, esse código apresentará o seguinte resultado.
+      ```
+      5
+      3
+      2
+      ```
+    alternativas:
+      - Certo
+      - Errado
