@@ -1,0 +1,97 @@
+---
+materia: Infraestrutura em TI
+cargo: "Cargo 2: Analista - Tecnologia da Informação"
+questoes:
+  - enunciado: |
+      A respeito de infraestrutura como código, Docker e Kubernetes, julgue os itens a seguir.
+
+      Ao se executar o arquivo YAML descrito a seguir, será criado um deployment com uma imagem do NGINX.
+      ```
+      apiVersion: v1
+      kind: Service
+      metadata:
+        name: my-nginx-svc
+        labels:
+          app: nginx
+      spec:
+        type: LoadBalancer
+        ports:
+        - port: 80
+        selector:
+          app: nginx
+      ```
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No modelo de infraestrutura como código, é possível a implantação de uma infraestrutura com definição de sub-redes, balanceadores de carga e máquinas virtuais com a utilização de código, sem a necessidade de configurações manuais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O kube-scheduler é o escalonador do Kubernetes e sua função consiste em controlar o aumento e a diminuição da quantidade de pods de acordo com as configurações de consumo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Kubernetes pode operar sem usar o Docker e suporta a execução com CRI-O e Containerd."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca de monitoramento e observabilidade de sistemas de TI, julgue os itens subsequentes.
+
+      O Grafana é capaz de fazer queries em diferentes tipos de data source, transformar os dados obtidos e gerar a visualização em forma de dashboard.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma ferramenta de APM é capaz de capturar traces de uma aplicação e registrar a taxa de erros de requisições com retorno HTTP 500."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação a protocolos de aplicação, julgue os itens seguintes.
+
+      O protocolo HTTP funciona na camada de aplicação do protocolo TCP/IP, sendo capaz de fornecer acesso a páginas web e de também enviar e receber emails, estabelecendo comunicação com servidores de email.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O LDAP é comumente utilizado em serviços de diretório como o Microsoft Active Directory, sendo capaz de autenticar usuários em aplicativos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, relativos a tolerância a falhas e continuidade de operação, implantação e administração de serviços de nuvem e administração e gerenciamento de ambiente de virtualização.
+
+      Com a virtualização de máquinas em nuvens IaaS, pode-se fazer a migração de máquinas virtuais enquanto elas ainda são operacionais, utilizando-se técnicas como a migração de memória com pré-cópia, conhecida como migração viva (live migration).
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A categoria de serviço em nuvem IaaS oferta uma plataforma robusta, flexível, que permite a execução e o desenvolvimento de serviços de aplicação (middleware), gestão de processos de negócio e serviço de banco de dados"
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em TI, a alta disponibilidade de um serviço caracteriza-se por ele estar continuamente disponível para o cliente, havendo pouco downtime e recuperação rápida."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A capacidade de alternar para um servidor, sistema ou rede redundante ou em standby, mediante a falha ou o desligamento de um ativo existente, é chamada de failback."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsequentes, relacionados à administração e à operação do Microsoft Windows Server e do Linux e a conceitos de LAN, WAN e SDN.
+
+      As principais desvantagens na implementação de uma rede SDN são alto custo de manutenção, baixa flexibilidade e escalabilidade, e alto grau de dificuldade de gerenciamento.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Windows Admin Center é um conjunto de ferramentas com interface baseada em um navegador web, usadas, entre outras finalidades, para a configuração de recursos de administração quando da implementação de clusters hiperconvergentes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma rede LAN é formada por computadores interligados por cabos ou ondas de rádio, em que todos pertencem a um mesmo local físico, e uma rede WAN é formada pela interligação de pequenas ou grandes redes LAN."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No Linux, ao se executar o comando dpkg, todas as dependências do pacote solicitado são instaladas, sem a necessidade de confirmação do administrador."
+    alternativas:
+      - Errado
+      - Certo
