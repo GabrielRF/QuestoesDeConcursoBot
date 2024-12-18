@@ -1,0 +1,59 @@
+---
+materia: Ciência de Dados
+cargo: "Cargo 2: Analista - Tecnologia da Informação"
+questoes:
+  - enunciado: |
+      A respeito de aprendizagem de máquina, deep learning e processamento de linguagem natural, julgue os itens seguintes.
+
+      BoW (bag of words) é uma técnica de processamento de linguagem natural que transforma um texto em um vetor, considerando a frequência e a ordem ou o contexto das palavras presentes.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A validação cruzada é uma técnica utilizada para prover a generalização de um modelo treinado, aprimorando seu desempenho e identificando problemas potenciais, como overfitting e underfitting."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na validação cruzada K-fold em que k = 5, os dados são divididos em 5 partes, sendo um subconjunto de tamanho k − 1 para teste e o restante para validação, o que resulta em uma métrica de avaliação média para o modelo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      A respeito dos tipos de aprendizado de máquina, julgue os itens a seguir.
+
+      O agrupamento é um método de aprendizado não supervisionado que busca a similaridade entre os dados e, uma vez identificada tal similaridade, organiza os itens em clusters específicos.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O aprendizado por transferência transdutiva ocorre quando os domínios de origem e alvo são os mesmos, mas as tarefas que o modelo deve concluir são diferentes."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação aos grandes modelos de linguagem (LLM) e à inteligência artificial generativa, julgue os itens subsequentes.
+
+      O parâmetro temperature em LLM regula a amplitude da diversidade e criatividade nas previsões produzidas pelo modelo.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Uma thread representa uma entidade que pode ser configurada para responder às mensagens de um usuário a partir de vários parâmetros, como modelo, instruções e ferramentas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens subsecutivos, relativos a versionamento e automação do ciclo de produção de modelos de aprendizado de máquina em operações de aprendizado de máquina (MLOps).
+
+      A automação do ciclo de produção de modelos de aprendizado de máquina percorre diversas etapas, desde a ingestão de dados até a implantação, e inclui atividades como pré-processamento, treinamento de modelos e validação.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em MLOps, o controle de versão abrange o monitoramento das mudanças nos ativos de aprendizado de máquina, visando assegurar a reprodutibilidade e a auditabilidade dos treinamentos desses modelos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação à privacidade em governança e ética de inteligência artificial, julgue o item seguinte.
+
+      De acordo com os princípios de governança e ética relativos à inteligência artificial, a opacidade sobre os algoritmos é encorajada como prática padrão para garantir a eficácia dos sistemas.
+    alternativas:
+      - Errado
+      - Certo
