@@ -1,0 +1,23 @@
+---
+materia: Banco de Dados
+cargo: "Cargo 2: Analista - Tecnologia da Informação"
+questoes:
+  - enunciado: |
+      Julgue os próximos itens, relativos a bancos de dados.
+
+      Um dos objetivos do sharding de arquivos em bancos de dados NoSQL é melhorar o balanceamento de carga entre os nós da aplicação.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Quando utilizado o comando SELECT, podem-se incluir várias subqueries internas na mesma instrução."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Considera-se que uma tabela está na terceira forma normal (3FN) quando não existem dependências multivaloradas, ou seja, campos que se repetem em relação à chave primária."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em um data warehouse, a ocorrência de deadlocks causados por grande fluxo de dados é um fator crítico para o desempenho."
+    alternativas:
+      - Errado
+      - Certo
