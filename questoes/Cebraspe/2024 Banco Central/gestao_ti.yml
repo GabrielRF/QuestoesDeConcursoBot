@@ -1,0 +1,26 @@
+---
+materia: Gestão em TI
+cargo: "Cargo 2: Analista - Tecnologia da Informação"
+questoes:
+  - enunciado: |
+      Julgue os próximos itens, relativos a Kanban e Scrum.
+
+      Na sprint planning, o product owner é o responsável, para cada item do product backlog, por planejar e definir a forma como será executado o trabalho necessário para criar um incremento que atenda à definição de pronto no Scrum.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O Kanban é uma ferramenta que prevê o progresso de uma sprint no Scrum."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que concerne a governança de dados e ITIL v4, julgue os itens a seguir.
+
+      Entender as necessidades estratégicas de dados da empresa e desenvolver e manter uma estratégia de dados são exemplos de objetivos na atividade planejamento da gestão de dados de governança de dados.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No ITIL v4, a prática gerenciamento de risco visa garantir que a organização entenda e lide com os riscos de forma eficaz, como, por exemplo, no gerenciamento do nível de serviço, em que se deve identificar e gerenciar os riscos que possam afetar os níveis de serviço, bem como relatar esses riscos aos clientes e a outras partes interessadas."
+    alternativas:
+      - Certo
+      - Errado
