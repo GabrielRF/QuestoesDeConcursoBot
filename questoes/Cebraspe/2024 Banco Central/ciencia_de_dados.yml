@@ -43,7 +43,7 @@ questoes:
       Julgue os itens subsecutivos, relativos a versionamento e automação do ciclo de produção de modelos de aprendizado de máquina em operações de aprendizado de máquina (MLOps).
 
       A automação do ciclo de produção de modelos de aprendizado de máquina percorre diversas etapas, desde a ingestão de dados até a implantação, e inclui atividades como pré-processamento, treinamento de modelos e validação.
-    enunciado:
+    alternativas:
       - Certo
       - Errado
   - enunciado: "Em MLOps, o controle de versão abrange o monitoramento das mudanças nos ativos de aprendizado de máquina, visando assegurar a reprodutibilidade e a auditabilidade dos treinamentos desses modelos."
