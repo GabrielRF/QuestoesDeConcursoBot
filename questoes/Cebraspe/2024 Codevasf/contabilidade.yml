@@ -1,0 +1,329 @@
+---
+materia: Contabilidade
+cargo: "Analista em Desenvolvimento Regional - Área: Contabilidade"
+questoes:
+  - enunciado: |
+      Em relação a aspectos conceituais e práticos de contabilidade, julgue os itens que se seguem.
+
+      Caso um título de crédito se torne incobrável, sendo baixado do ativo por constituir uma perda de crédito da entidade, a representação desse evento deve ser feita por meio de um lançamento de primeira fórmula, sem impacto no montante do patrimônio da entidade.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em razão de sua natureza e por representarem bens e direitos, contas ativas são sempre contas devedoras; consequentemente, por representarem obrigações da entidade, contas passivas ou do patrimônio líquido são sempre contas credoras."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A ciência contábil diferencia-se de outras ciências ligadas direta ou indiretamente à gestão das entidades por ter o patrimônio da entidade como objeto de estudo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O conceito conhecido como equação fundamental do patrimônio, segundo o qual a soma das contas do grupo patrimonial ativo deve ser igual à soma das contas dos grupos patrimoniais passivo e patrimônio líquido, implica que todo débito em uma conta ativa deve ser seguido de crédito em uma conta passiva ou do patrimônio líquido."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Considere que uma entidade adquira um lote de determinado material destinado a uso próprio e que sobre a operação incidam ICMS e IPI, incorporados ao valor do bem adquirido, pois a entidade não tem direito de compensação; considere, ainda, que o frete seja assumido pelo fornecedor como sua despesa e que o pagamento seja feito à vista, em dinheiro. Nessa situação hipotética, está caracterizado um fato administrativo permutativo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, relativos a operações contábeis diversas.
+
+      Considere que seja realizada uma exportação no valor de R$ 225 mil, à taxa de R$ 4,50/U$ 1,00, com liquidação prevista para fevereiro do próximo exercício social, e que, no fechamento do exercício, a exportação ainda esteja pendente de liquidação e o dólar atinja R$ 5,40/U$ 1,00. Nesse caso hipotético, para o encerramento do exercício, a entidade deve registrar, em sua contabilidade, o que se expõe a seguir.
+      ```
+      D – variação cambial passiva  R$ 45.000
+      C – clientes no exterior      R$ 45.000
+      ```
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Se o montante de salários dos funcionários de uma empresa somar R$ 180 mil em determinado mês, então, para cumprir a competência mensal, o valor da provisão a ser constituída para fazer face à despesa de 13.º salários é de R$ 15 mil."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Considere que certa entidade tenha quitado, em atraso, um título de R$ 2.500 emitido por um de seus fornecedores, tendo incorrido em juros moratórios de R$ 100. Nessa situação, o registro contábil dessa transação exigirá um débito na conta de disponibilidades, no valor de R$ 2.600, um crédito na conta fornecedores, no valor de R$ 2.500, e um crédito na conta de juros a transcorrer, no valor de R$ 100."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Considere que uma entidade comercial adquira uma mercadoria para revenda tributada pelo ICMS e pelo IPI e que o valor do ICMS recuperável seja de R$ 9.000; considere, também, que, dias depois, essa mercadoria seja vendida a um cliente, com ICMS de R$ 12.600, sendo apurado o ICMS a recolher. Nessa hipótese, essas transações geram um débito e um crédito na conta de ICMS a recuperar, no valor de R$ 9.000, e um crédito de R$ 12.600 na conta de ICMS a recolher."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Suponha que, ao final de determinado mês, uma entidade verifique as seguintes ocorrências relativas à sua folha de pagamento, cujos valores estão em reais.
+      ```
+      salários brutos                      20.000
+      adiantamentos de salários realizados  2.000
+      INSS cota patronal                    3.800
+      INSS cota empregados                  1.600
+      IRRF empregados                       1.400
+      ```
+      Nessa situação hipotética, a contabilização da folha de pagamento da entidade gerará um saldo de salários a pagar no valor de R$ 11.200.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Suponha que um veículo, adquirido por uma entidade há 2 anos por R$ 75 mil, tenha sua vida útil avaliada em 5 anos e um valor residual de 20% de seu preço de aquisição ao final do uso produtivo. Nessa situação, a entidade proprietária do veículo deve, mensalmente, realizar a seguinte contabilização.
+      debite – despesa de depreciação
+      credite – depreciação acumulada
+      valor de R$ 1.000,00
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      No que se refere ao uso e à elaboração do balancete de verificação contábil, do balanço patrimonial e da demonstração de resultado do exercício, julgue os itens subsequentes.
+
+      Para fins de levantamento da demonstração do resultado do exercício, contas de despesa, como juros incorridos e descontos concedidos, e contas de receita, como prêmios de resgate de títulos e debêntures e receitas de outros investimentos temporários, devem ser apresentadas como outros resultados operacionais.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um balancete de verificação deve ter, no mínimo, duas colunas e, no máximo, oito colunas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Balanço patrimonial é uma demonstração estática organizada por grau de liquidez, contas ativas, exigibilidade, contas passivas e patrimônio líquido, de acordo com o ciclo operacional da entidade que o reporta ou de acordo com o ano civil."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, relativos a mensuração de ativos e passivos, patrimônios e suas variações, bem como a aspectos gerais da contabilidade pública.
+
+      O reconhecimento de provisões depende de uma estimativa do valor da obrigação a ser registrada na contabilidade, sendo permitido tal registro sem o conhecimento exato do valor da obrigação, devendo a estimativa do passivo ser confiável.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O objeto da contabilidade pública engloba o conjunto de direitos e bens, tangíveis ou intangíveis, onerados ou não, adquiridos, formados, produzidos, recebidos, mantidos ou utilizados pelas entidades do setor público."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A mensuração é atribuição de valor monetário para itens do ativo e do passivo, enquanto a reavaliação consiste na adoção do valor de mercado ou de consenso entre as partes para bens do ativo ou do passivo financeiro ou permanente."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A totalidade da dívida fundada do órgão público integrará o passivo financeiro, juntamente com outras obrigações decorrentes de pagamentos que independam de autorização orçamentária."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Uma variação patrimonial diminutiva (VPD) pode ser decorrente da transferência da propriedade de um ativo para terceiro, pela redução do valor econômico de ativos ou pelo surgimento de um passivo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação a receitas, despesas, custos, plano de contas e demonstrações contábeis do setor público, julgue os itens seguintes.
+
+      Considera-se despesa corrente o valor registrado para devolução dos valores de cauções ou depósitos em dinheiro para garantia fornecida pelo contratado para prestar serviço de limpeza em órgão público, após o término do contrato.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "São reconhecidos como receita orçamentária os recursos financeiros provenientes de cancelamento de despesas inscritas em restos a pagar."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em estágios iniciais, quando o grau de maturidade da entidade é menor, as normas brasileiras de contabilidade para o setor público recomendam a aplicação do método de custeio por absorção parcial ou integral (custeio pleno) em razão do tratamento dado por essa metodologia aos custos diretos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A arrecadação da receita é feita pelo regime de caixa, em contas de natureza financeira, do grupo 6 do Plano de Contas Aplicado ao Setor Público (PCASP), a exemplo da conta “receita realizada”."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um dos objetivos do balanço financeiro é evidenciar o superávit financeiro, que é utilizado como fonte de recursos para a abertura de créditos adicionais."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca da execução orçamentária e financeira, regimes contábeis, balaços públicos e do disposto no Manual de Contabilidade Aplicado ao Setor Público (MCASP), julgue os itens a seguir.
+
+      No balanço orçamentário, um superávit orçamentário ocorre quando as receitas realizadas forem superiores às receitas previstas na lei orçamentária.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "No regime de caixa, é determinante que as receitas e despesas sejam reconhecidas, respectivamente, no momento do recebimento e do pagamento, independentemente da ocorrência dos fatos geradores."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O empenho de despesa é o ato emanado de autoridade competente que cria para o Estado a obrigação de pagamento, a qual não se refere a um passivo exigível, mas ao comprometimento de recurso financeiro da entidade governamental que fez o empenho."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Segundo o MCASP, as notas explicativas são parte integrante das demonstrações contábeis, englobando informações de qualquer natureza exigidas pelas normas legais ou contábeis e informações adicionais não suficientemente evidenciadas nas demonstrações, desde que relevantes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens que se seguem, relativos a auditoria independente, relatório de auditoria e conceitos pertinentes à auditoria.
+
+      A avaliação de controles internos é uma etapa opcional no processo de auditoria independente.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Um dos objetivos da auditoria independente é garantir a identificação de fraudes contábeis."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Fraude e erro devem ser tratados da mesma maneira na auditoria independente, pois ambos afetam as demonstrações financeiras."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A materialidade na auditoria refere-se à importância relativa de um item ou erro nas demonstrações financeiras."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca de auditoria e perícia contábil, julgue os itens a seguir.
+
+      A avaliação do risco de auditoria inclui a consideração do risco inerente, do risco de controle e do risco de detecção.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O perito contador poderá prejudicar quesito formulado pelas partes quando ele não for capaz de oferecer resposta conclusiva sobre o tema abordado."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A continuidade normal dos negócios da entidade é um aspecto que deve ser considerado pelo auditor ao avaliar as demonstrações financeiras."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os testes substantivos são realizados para verificar a eficácia dos controles internos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os papéis de trabalho de auditoria devem incluir apenas as evidências que suportem a opinião do auditor."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "É desnecessário divulgar nas demonstrações financeiras as transações com partes relacionadas que tenham sido realizadas em condições normais de mercado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A revisão analítica é um procedimento de auditoria que envolve a comparação de informações financeiras com expectativas desenvolvidas pelo auditor."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A carta de responsabilidade da administração deve ser assinada pelo auditor e pela administração da entidade auditada."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação aos tributos indiretos, julgue os itens a seguir.
+
+      A base de cálculo do PIS/PASEP e da COFINS para as empresas comerciais tributadas pelo lucro presumido é obtida por meio da receita bruta deduzida dos descontos incondicionais concedidos e das devoluções de vendas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Contribuinte do ICMS é qualquer pessoa, física ou jurídica, que realize, com habitualidade ou em volume que caracterize intuito comercial, operações de circulação de mercadoria ou prestações de serviços de transporte interestadual e intermunicipal e de comunicação, ainda que as operações e as prestações se iniciem no exterior do país."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O ICMS incidirá sobre o valor total da operação, quando do fornecimento de mercadorias com prestação de serviços não compreendidos na competência tributária dos municípios."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O ISS incide sobre o serviço proveniente do exterior do Brasil ou cuja prestação se tenha iniciado no exterior do Brasil."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As empresas tributadas pelo lucro presumido ou pelo lucro arbitrado devem calcular PIS/PASEP e COFINS com base na regra da não cumulatividade."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens seguintes, relativos ao imposto sobre a transmissão causa mortis e doações (ITD).
+
+      Relativamente a bens móveis, títulos e créditos, a instituição de ITD compete ao estado onde era domiciliado o de cujus, ou tiver domicílio o doador, ou ao Distrito Federal.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No que diz respeito à doação em dinheiro, o recolhimento do ITD é devido ao município de residência do doador."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As alíquotas máximas do ITD são fixadas pelo Senado Federal."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No que diz respeito a bens imóveis e respectivos direitos, a instituição de ITD compete ao município da situação do bem ou ao Distrito Federal."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O referido imposto será progressivo em razão do valor do quinhão, do legado ou da doação."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsequentes, com base na legislação que trata do imposto de renda retido na fonte.
+
+      Os órgãos, autarquias e fundações da administração pública federal que efetuarem pagamentos a pessoas jurídicas pelo fornecimento de bens ou prestação de serviços estão obrigados a efetuar a retenção na fonte de imposto sobre a renda.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O valor retido correspondente ao imposto de renda poderá ser compensado com o que for devido em relação aos tributos de competência federal."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O valor do imposto de renda retido na fonte será considerado como antecipação do que for devido pelo contribuinte em relação à mesma espécie de imposto."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca do papel do Estado e da atuação do governo nas finanças públicas, julgue os itens a seguir.
+
+      A função distributiva do Estado decorre do reconhecimento de que o mercado é incapaz de conduzir a sociedade a uma estrutura de distribuição de renda que seja considerada justa ou equitativa.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Os bens públicos podem ser fornecidos de forma compatível com as necessidades da sociedade por meio do sistema de mercado, assegurando-se o fornecimento para todos os consumidores."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca da estrutura programática, das classificações e dos créditos no orçamento público do Brasil, julgue os itens a seguir.
+
+      A classificação funcional é formada por funções e subfunções: enquanto a função diz respeito ao maior nível de agregação das diversas áreas de atuação do setor público e deve estar relacionada à missão institucional do órgão de atuação, a subfunção é relacionada à área da despesa na qual a ação será executada.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As despesas decorrentes da criação de novos órgãos públicos inexistentes quando da aprovação da LOA do exercício serão suplantadas por meio de créditos adicionais suplementares."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A ação orçamentária denominada atividade, que não se incorpora ao patrimônio da União, é um instrumento de programação utilizado para alcançar o objetivo de um programa, envolvendo um conjunto de operações que se realizam de modo contínuo e permanente, das quais resulta um produto ou serviço necessário à manutenção da ação de governo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens que se seguem, referentes à programação e execução orçamentária e financeira.
+
+      O principal instrumento de acompanhamento do orçamento da União é o plano orçamentário, que é aprovado na forma de anexo na LOA, possibilita a identificação orçamentária, de caráter gerencial, e tem por finalidade permitir o monitoramento da execução do orçamento de forma detalhada.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O termo de execução descentralizada (TED) é um dos instrumentos de que o governo federal dispõe para a implementação e o desenvolvimento das ações orçamentárias de forma descentralizada, possibilitando o repasse de uma atividade ou de um projeto para um ente subnacional."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que diz respeito à receita pública, julgue os itens a seguir.
+
+      A partir da identificação da receita pública pelo código do tipo de arrecadação, é possível classificá-la segundo a sua natureza, como, por exemplo, quando se tratar de arrecadação de dívida ativa da respectiva receita.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As receitas correntes são aquelas que, em regra, têm efeito positivo sobre o patrimônio líquido, a exemplo das receitas tributárias, das patrimoniais e das transferências, independentemente da destinação dos recursos transferidos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A etapa de recolhimento consiste na transferência dos valores arrecadados à Conta Única do Tesouro Nacional, observado o princípio da unidade de caixa."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsecutivos, referentes à despesa pública.
+
+      É vedada a concessão de suprimento de fundos ao servidor que tenha a seu cargo a utilização do material a adquirir, ainda que não haja outro servidor na repartição.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na classificação funcional, é aplicado o princípio da matricialidade, de modo que é cabível combinar uma função com subfunções que lhe sejam atípicas, uma vez que estas se referem à competência institucional do órgão, enquanto aquela diz respeito à natureza da ação governamental."
+    alternativas:
+      - Errado
+      - Certo
