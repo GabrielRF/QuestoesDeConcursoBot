@@ -1,0 +1,331 @@
+---
+materia: Administração
+cargo: "Analista em Desenvolvimento Regional - Área: Administração"
+questoes:
+  - enunciado: |
+      Acerca do estilo de liderança transformacional, ou carismático, julgue os itens subsecutivos.
+
+      Motivação extrínseca, estímulo religioso e inspiração estão diretamente relacionados com a liderança transformacional, que preza pela continuidade da observância de regras rígidas e desestímulo ao pensamento crítico.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Líderes sociais e religiosos estão associados, por suas características, à liderança transformacional e desempenham relevante papel social quando a liderança é bem conduzida."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Em relação às abordagens da administração e às estruturas de gerenciamento de desempenho, julgue os itens que se seguem.
+
+      A ênfase dada ao enfoque técnico, e não ao comportamental, buscando-se um nível de operacionalização com os melhores resultados estatísticos, é uma importante característica da abordagem da administração conhecida como relações humanas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A busca pelo equilíbrio de medidas financeiras e não financeiras constitui a finalidade precípua do balanced scorecard."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens seguintes, relativos ao pensamento de William Edwards Deming, figura central na história da administração da qualidade.
+
+      A atuação de Deming no continente asiático, em especial no Japão, constituiu o pilar geográfico da expansão de sua abordagem teórica, a qual continuou a ser, por décadas, o fundamento da excelência empresarial naquele país.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os próximos itens, a respeito da comunicação e governança.
+
+      O conceito de governança está intimamente relacionado à prática de accountability, o que se deve, principalmente, à exigência — distinta conforme a natureza da entidade envolvida —, de prestação de contas; tal conceito deve ser norteado pelo princípio da transparência, em benefício da sociedade, consolidando-se, assim, a relação superavitária necessária da conformidade e do desempenho.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Nas organizações, a comunicação informal surge de forma estruturada como resultado das necessidades de funcionários em seus diversos níveis hierárquicos e funções, promovendo, quando bem aplicada, o fluxo informal da comunicação empresarial."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Segundo referenciais teóricos mais dinâmicos e incrementais, na comunicação, o emissor é mais decisivo e importante para a qualidade do processo de comunicação que o receptor."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens a seguir, no que se refere à departamentalização e à abordagem comportamentalista nas organizações.
+
+      Na departamentalização por processos, há maior especificação dos recursos alocados, pois eles são agrupados em centros de custos ou de resultados, o que pode gerar ganhos substanciais no que diz respeito ao fluxo de informações técnicas e otimizar o processo decisório.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A desconexão entre a abordagem comportamentalista e a psicologia empresarial justifica-se pela incompatibilidade estrutural entre ambas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na administração, a estruturação da departamentalização matricial efetivou-se, sobretudo, com a contribuição da abordagem contingencial, destacando-se a maior capacidade de adaptação da gestão empresarial às mudanças ambientais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens que se seguem, relativos a projetos e suas etapas, gestão de processos BPM, alavancagem operacional e demonstrações financeiras.
+
+      A verificação específica da situação financeira de uma empresa no que se refere ao lucro ou prejuízo resultante do exercício é feita por meio do balanço patrimonial.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A definição do objetivo de um projeto deve ser realizada na etapa de planejamento e englobar a descrição dos benefícios esperados e o estabelecimento da entrega ou do produto final."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A alavancagem operacional ocorre pela presença de custos e despesas variáveis na estrutura de resultados e possibilita o conhecimento a respeito da viabilidade econômica da empresa."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A aplicação do BPM possibilita a estruturação de um mapeamento lógico dos processos e a obtenção de melhorias contínuas."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens a seguir, tendo como referência o modelo da Fundação Nacional da Qualidade, os processos e da certificação ISO 9000:2000 e o regime jurídico dos servidores públicos federais.
+
+      Aos servidores que exerçam cargos de atribuições iguais do mesmo Poder é assegurada a isonomia de vencimentos, independentemente da natureza e do local de trabalho.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A competitividade mercadológica e as exigências de altos padrões de qualidade pressionam as organizações a adquirirem certificações de qualidade no que diz respeito aos bens e serviços ofertados."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O modelo de excelência da gestão adotado pela Fundação Nacional da Qualidade preconiza o conceito de aprendizado e melhoria contínua, sendo, portanto, prescritivo quanto às práticas a serem implementadas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Acerca das diretrizes orçamentárias, do SIAFI, das despesas públicas, das modalidades de licitação pública, dos contratos e das compras, julgue os itens seguintes.
+
+      Os contratos formalizados com órgãos da administração pública devem ter forma escrita e ser sempre mantidos à disposição do público.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A lei de diretrizes orçamentárias (LDO) estabelece regras para a execução orçamentária do ano em curso e define exclusivamente regras para despesas dos Poderes Executivo e Legislativo."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Por meio do SIAFI, é possível gerar automaticamente a nota de dotação, que cria o crédito orçamentário, dando-se início à execução orçamentária."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Caso seja impossível, na realização de uma licitação, satisfazer à necessidade da administração pública sem a adaptação de soluções disponíveis no mercado, é cabível a utilização da modalidade diálogo competitivo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A realização de empenho de uma despesa pública possibilita a reserva do valor que será pago quando um serviço for concluído ou um bem for entregue."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca das estruturas organizacionais, dos critérios de departamentalização e do processo organizacional em seus aspectos de direção, controle e avaliação, julgue os itens subsequentes.
+
+      Nas organizações modernas, prevalece a concepção de que o direcionamento futuro da organização deve ser estabelecido pelos gerentes, o que ratifica a posição hierarquicamente superior destes em relação aos demais membros da equipe.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O controle e a avaliação objetivam verificar o alcance e a qualidade dos resultados desejados, e estes somente serão significativos se contribuírem para a melhoria contínua dos processos organizacionais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Embora a estrutura de unidades de negócios seja vantajosa para organizações que atuam em mercados distintos dada a possibilidade de aproveitamento de mais oportunidades, os dispêndios estruturais tendem a ser mais onerosos."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Em uma organização, o critério de departamentalização mais adequado para a garantia da satisfação dos clientes em decorrência das suas distintas necessidades é o funcional."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere à gestão de processos, à gestão da qualidade e à gestão de projetos, julgue os seguintes itens.
+
+      A visão a respeito da gestão da qualidade não deve se limitar ao alcance de resultados financeiros, mas abranger a satisfação dos clientes em decorrência da qualidade das entregas realizadas.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O êxito de um projeto está vinculado à qualidade da entrega, independentemente de fatores relacionados ao prazo de execução e aos recursos utilizados."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Gerir processos com eficiência produz impactos nas atividades internas da organização, sem causar impactos no alcance da estratégia estabelecida."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Em se tratando de um sistema de qualidade institucionalizado, é pertinente manter o foco nos atributos específicos de cada produto ou serviço prestado."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens seguintes, relativos a planejamento estratégico, excelência nos serviços públicos e empreendedorismo governamental.
+
+      Capacidade comunicativa, habilidades de negociação, estabelecimento de conexões políticas, persistência e dedicação para o alcance de objetivos propostos são qualidades desejáveis para agentes públicos empreendedores.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Para o alcance da excelência na prestação de serviços públicos, é necessário que sejam adotados métodos e instrumentos que assegurem a contínua prestação dos serviços essenciais com elevados padrões de desempenho e qualidade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "No modelo BSC (balanced scorecard), os resultados alcançados na perspectiva de aprendizado e crescimento possibilitam a prospecção do comportamento dos indicadores de tendência dos objetivos estabelecidos nas demais perspectivas do plano estratégico."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Para que o planejamento estratégico alcance resultados futuros satisfatórios, é recomendável que as decisões sejam tomadas de forma independente umas das outras, a fim de se evitar interferência entre elas."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que se refere à gestão de resultados na produção de serviços públicos, às convergências e diferenças entre a gestão pública e a gestão privada, ao paradigma do cliente e à sustentabilidade pública, julgue os próximos itens.
+
+      As licitações são importantes mecanismos de estímulo à sustentabilidade econômica, social e ambiental, pois os critérios econômicos de melhor preço asseguram contratações sustentáveis na administração pública.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A gestão de resultados na produção de serviços públicos, além de possibilitar, por meio do controle de processos, a melhoria contínua e a eficácia dos serviços prestados, também favorece a criatividade e a inovação na produção de serviços ao cidadão."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na gestão pública, diferentemente do que ocorre na esfera privada, os cidadãos não devem ser considerados clientes visto que eles não pagam pelos serviços que lhes são prestados."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A utilização de recursos materiais, financeiros e tecnológicos de maneira eficiente, bem como a necessidade de análise do contexto atual para o estabelecimento de estratégias são pontos de convergência entre a gestão privada e a pública."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca do papel do Estado e da atuação do governo nas finanças públicas, julgue os itens a seguir.
+
+      A função distributiva do Estado decorre do reconhecimento de que o mercado é incapaz de conduzir a sociedade a uma estrutura de distribuição de renda que seja considerada justa ou equitativa.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A função estabilizadora decorre da necessidade da intervenção do Estado nas finanças públicas, mediante o uso da política fiscal e do seu orçamento, para ampliar a oferta de bens semipúblicos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Os bens públicos podem ser fornecidos de forma compatível com as necessidades da sociedade por meio do sistema de mercado, assegurando-se o fornecimento para todos os consumidores."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação ao orçamento público, a seus princípios e a suas técnicas, julgue os itens a seguir.
+
+      A lei orçamentária anual (LOA) não segue o princípio da totalidade, pois é composta por três orçamentos, assim não obedece à lógica pela qual o orçamento deve ser uno, com todas as receitas previstas e despesas fixadas, em cada exercício financeiro, integrando um único documento legal no âmbito de cada nível federativo.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O orçamento-programa, enquanto técnica de organizar as receitas e despesas públicas, envolve a avaliação e comparação dos diferentes programas desenvolvidos pelo governo em termos de suas contribuições para os objetivos nacionais."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O orçamento público é o instrumento de planejamento que detalha a previsão dos recursos a serem arrecadados e a destinação desses recursos, representando peça fundamental para o equilíbrio das contas públicas, com indicação das prioridades do governo para a sociedade."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      A respeito do ciclo e do processo orçamentário no Brasil, julgue os itens que se seguem.
+
+      No plano plurianual (PPA) da União, designa-se programa de gestão o conjunto de ações governamentais relacionadas à gestão da atuação governamental ou à manutenção da capacidade produtiva das empresas estatais, financiadas por ações orçamentárias e não orçamentárias que não são passíveis de associação aos programas finalísticos.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "Na LOA, as dotações do orçamento das empresas públicas em que a União não detenha a maioria do capital social com direito a voto devem ser consignadas no grupo de natureza despesa de investimento do orçamento fiscal e da seguridade social."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A lei de diretrizes orçamentárias (LDO) compreende as metas e prioridades da administração pública, estabelece as diretrizes de política fiscal e respectivas metas, em consonância com trajetória sustentável da dívida pública, orienta a elaboração da LOA, dispõe sobre as alterações na legislação tributária e estabelece a política de aplicação das agências financeiras oficiais de fomento."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O processo orçamentário é, em grande parte, resultante de uma programação de médio prazo e não pode ser visto como autossuficiente, já que a primeira etapa do ciclo se renova anualmente, com a elaboração da proposta orçamentária."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Acerca da estrutura programática, das classificações e dos créditos no orçamento público do Brasil, julgue os itens a seguir.
+
+      A classificação funcional é formada por funções e subfunções: enquanto a função diz respeito ao maior nível de agregação das diversas áreas de atuação do setor público e deve estar relacionada à missão institucional do órgão de atuação, a subfunção é relacionada à área da despesa na qual a ação será executada.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A ação orçamentária denominada atividade, que não se incorpora ao patrimônio da União, é um instrumento de programação utilizado para alcançar o objetivo de um programa, envolvendo um conjunto de operações que se realizam de modo contínuo e permanente, das quais resulta um produto ou serviço necessário à manutenção da ação de governo."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "As despesas decorrentes da criação de novos órgãos públicos inexistentes quando da aprovação da LOA do exercício serão suplantadas por meio de créditos adicionais suplementares."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Julgue os itens que se seguem, referentes à programação e execução orçamentária e financeira.
+
+      O principal instrumento de acompanhamento do orçamento da União é o plano orçamentário, que é aprovado na forma de anexo na LOA, possibilita a identificação orçamentária, de caráter gerencial, e tem por finalidade permitir o monitoramento da execução do orçamento de forma detalhada.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "O termo de execução descentralizada (TED) é um dos instrumentos de que o governo federal dispõe para a implementação e o desenvolvimento das ações orçamentárias de forma descentralizada, possibilitando o repasse de uma atividade ou de um projeto para um ente subnacional."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      No que diz respeito à receita pública, julgue os itens a seguir.
+
+      Conceitualmente, define-se fonte como cada agrupamento de receitas públicas às quais se aplicam as mesmas normas, e, em razão disso, fica impossibilitada a utilização desse instrumento no âmbito da gestão das despesas públicas.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "As receitas correntes são aquelas que, em regra, têm efeito positivo sobre o patrimônio líquido, a exemplo das receitas tributárias, das patrimoniais e das transferências, independentemente da destinação dos recursos transferidos."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "A partir da identificação da receita pública pelo código do tipo de arrecadação, é possível classificá-la segundo a sua natureza, como, por exemplo, quando se tratar de arrecadação de dívida ativa da respectiva receita."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A etapa de recolhimento consiste na transferência dos valores arrecadados à Conta Única do Tesouro Nacional, observado o princípio da unidade de caixa."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: |
+      Julgue os itens subsecutivos, referentes à despesa pública.
+
+      É vedada a concessão de suprimento de fundos ao servidor que tenha a seu cargo a utilização do material a adquirir, ainda que não haja outro servidor na repartição.
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: "Na classificação funcional, é aplicado o princípio da matricialidade, de modo que é cabível combinar uma função com subfunções que lhe sejam atípicas, uma vez que estas se referem à competência institucional do órgão, enquanto aquela diz respeito à natureza da ação governamental."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Com base na Lei Complementar n.º 101/2000 (Lei de Responsabilidade Fiscal — LRF), julgue os itens seguintes.
+
+      Uma operação de crédito com prazo de amortização de 9 meses fará parte da dívida fundada se as suas receitas tiverem constado do orçamento.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O anexo de metas fiscais da lei de diretrizes orçamentárias (LDO) deverá conter quadro demonstrativo do cálculo da meta do resultado primário, em que se evidenciem os principais agregados de receitas e despesas, os resultados, comparados com os valores programados para o exercício em curso e os realizados nos dois exercícios anteriores, e as estimativas para o exercício a que se referem e para os subsequentes."
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "A criação da despesa obrigatória de caráter continuado depende da compensação de seu impacto pelo aumento permanente da receita ou pela redução permanente da despesa, que poderá ser realizada durante a sua execução."
+    alternativas:
+      - Errado
+      - certo
+  - enunciado: "É considerada empresa estatal dependente aquela que recebe do ente controlador recursos para pagamento de despesas de capital que sejam provenientes de aumento de participação acionária."
+    alternativas:
+      - Errado
+      - Certo
+  - enunciado: |
+      Em relação a convênios e termo de referência, julgue os próximos itens.
+
+      A vedação à celebração de convênio entre entidade da administração pública federal e entidade privada sem fins lucrativos não se aplica, por exemplo, na hipótese de o dirigente desta última ser primo de agente político do Poder Legislativo federal.
+    alternativas:
+      - Certo
+      - Errado
+  - enunciado: "O proponente deverá apresentar o termo de referência previamente à celebração de convênio cujo objeto seja a execução de obras e serviço de engenharia, independentemente do regime de contratação."
+    alternativas:
+      - Errado
+      - Certo
