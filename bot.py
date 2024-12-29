@@ -175,7 +175,8 @@ def concurso_query(query, page=0):
             button
         )
     else:
-        materia_msg = bot.send_message(
+        materia_msg = telebot.util.antiflood(
+            bot.send_message,
             query.from_user.id,
             message_text,
             reply_markup=button
@@ -231,7 +232,8 @@ def bancas_query(query):
             button
         )
     else:
-        concurso_msg = bot.send_message(
+        concurso_msg = telebot.util.antiflood(
+            bot.send_message,
             query.from_user.id,
             message_text,
             reply_markup=button
@@ -274,7 +276,9 @@ def send_rules(message):
     if message.chat.id < 0:
         return
     else:
-        bot.send_photo(message.chat.id,
+        telebot.util.antiflood(
+            bot.send_photo,
+            message.chat.id,
             'AgACAgEAAxkBAAIODmW7suEuE8g5IEts5iuXVaHBJeqJAAKjrTEbfhvgRZLf' +
             '-IIi8YBqAQADAgADcwADNAQ',
             caption='Envie um pix para a chave <code>bots@grf.xyz</code>',
@@ -290,7 +294,8 @@ def informacoes(message):
         'https://github.com/GabrielRF/QuestoesDeConcursoBot\n\n' +
         '🆘 Entre em contato:\nhttps://chat.grf.xyz/QuestoesDeConcursoBot'
     )
-    bot.send_message(
+    telebot.util.antiflood(
+        bot.send_message,
         message.from_user.id,
         info_message,
         parse_mode='HTML',
@@ -332,7 +337,8 @@ def definir_banca(message):
         f'A qualquer momento use o <code>Menu</code> para ver as opções do bot\n'
         f'Para iniciar uma atividade, selecione uma banca abaixo:' 
     )
-    msg = bot.send_message(
+    msg = telebot.util.antiflood(
+        bot.send_message,
         message.from_user.id,
         start_message,
         reply_markup=button,
@@ -372,7 +378,8 @@ def send_results(user_id):
             message_effect_id=random.choice(effects)
         )
     except:
-        bot.send_message(
+        telebot.util.antiflood(
+            bot.send_message,
             user_id,
             end_message,
             parse_mode='HTML',
@@ -380,7 +387,9 @@ def send_results(user_id):
         )
 
 def send_poll(user_id, query_data=None):
-    bot.send_chat_action(user_id, 'typing')
+    telebot.util.antiflood(
+        bot.send_chat_action,user_id, 'typing'
+    )
     try:
         banca, concurso, materia, i = query_data.split('#')
     except ValueError:
@@ -417,7 +426,8 @@ def send_poll(user_id, query_data=None):
     opcoes, correta = poll_options(questoes)
 
     try:
-        msg = bot.send_message(
+        msg = telebot.util.antiflood(
+            bot.send_message,
             user_id,
             enunciado,
             parse_mode='Markdown'
@@ -429,14 +439,15 @@ def send_poll(user_id, query_data=None):
             break_every = 5
             for palavra in range(0, len(enunciado_split)-1, break_every):
                 s = '\n'
-                msg = bot.send_message(
+                msg = telebot.util.antiflood(
+                    bot.send_message,
                     user_id,
                     s.join(enunciado_split[palavra:palavra+break_every]),
                     parse_mode='Markdown',
                     reply_to_message_id=msg_id
                 )
                 msg_id = msg.id
-                bot.send_chat_action(user_id, 'typing')
+                telebot.util.antiflood(bot.send_chat_action, user_id, 'typing')
 
     button = telebot.types.InlineKeyboardMarkup()
     button.row(
@@ -448,7 +459,8 @@ def send_poll(user_id, query_data=None):
     redis_set(user_id, f'{banca}#{concurso}#{materia}#{i+1}')
 
     try:
-        poll_msg = bot.send_poll(
+        poll_msg = telebot.util.antiflood(
+            bot.send_poll,
             user_id,
             f'Resposta [{i+1}/{tamanho}]:',
             opcoes,
@@ -474,7 +486,8 @@ def send_poll(user_id, query_data=None):
                 alternativas,
                 parse_mode='Markdown'
             )
-            poll_msg = bot.send_poll(
+            poll_msg = telebot.util.antiflood(
+                bot.send_poll,
                 user_id,
                 f'Resposta [{i+1}/{tamanho}]:',
                 novas_opcoes,
