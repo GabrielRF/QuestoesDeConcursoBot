@@ -1,0 +1,718 @@
+---
+cargo: Advogado
+materia: "Direito"
+questoes:
+  - enunciado: |
+      Determinada sociedade de advogados deseja se associar a advogados que não a integram para prestação de serviços e participação nos resultados.
+      Segundo a legislação aplicável à formalização desse vínculo jurídico, assinale a opção que indica, corretamente, a conclusão dos administradores da sociedade de advogados.
+    alternativas:
+      - O contrato de associação deverá ser registrado no Conselho Seccional da OAB em cuja base territorial tiver sede a sociedade de advogados.
+      - O contrato de associação não pode ser pactuado em caráter geral, devendo registringir-se a causas ou trabalhos específicos, sob pena de se configurarem os requisitos legais de vínculo empregatício.
+      - O contrato de associação poderá atribuir a totalidade dos riscos à sociedade de advogados, mas não exclusivamente a um advogado sócio ou associado.
+      - O advogado não pode, simultaneamente, celebrar contrato de associação com mais de uma sociedade de advogados com sede ou filial na mesma área territorial do respectivo Conselho Seccional.
+  - enunciado: |
+      Sebastião, advogado, celebrou contrato de mandato com o cliente Amir, para representá-lo extrajudicialmente, tendo realizado diligências em prol da resolução do imbróglio.
+      Desde a celebração do mandato, passaram-se mais de 20 (vinte) anos, mas as atividades para as quais Amir contratou Sebastião, por sua própria natureza, se protraíram no tempo, sendo ainda necessárias a Amir.
+      Sobre a hipótese apresentada, assinale a afirmativa correta.
+    alternativas:
+      - O mandato não se extinguiu pelo decurso do tempo, salvo se foi consignado prazo no respectivo instrumento.
+      - O mandato extinguiu-se pelo decurso do tempo, salvo se previsto prazo diverso no respectivo instrumento.
+      - O mandato extinguiu-se pelo decurso do tempo, sendo vedada a previsão de prazo diverso no respectivo instrumento.
+      - O mandato não se extinguiu pelo decurso do tempo, sendo vedada a estipulação de prazo no respectivo instrumento.
+  - enunciado: |
+      Monique, advogada regularmente inscrita nos quadros da OAB, é investigada em inquérito policial por supostos crimes praticados por motivo ligado ao exercício da advocacia, tendo sido presa em flagrante, por crime da mesma espécie, em seu escritório, enquanto atendia a uma de suas clientes.
+      Considerando as disposições do Estatuto da Advocacia, é correto afirmar que
+    alternativas:
+      - Monique tem direito à presença de representante da OAB para lavratura do auto de prisão em flagrante, visto que se trata de suposto crime por motivo ligado ao exercício da advocacia, sob pena de nulidade.
+      - não há qualquer direito ou prerrogativa conferida pela legislação no caso em tela, devendo Monique receber tratamento idêntico ao dado a outros indivíduos não advogados, em razão do princípio da igualdade.
+      - a presença de representante da OAB no momento da lavratura do auto de prisão em flagrante será devida ainda que não se trate de motivo ligado ao exercício da advocacia, visto que se cuida de direito conferido ao advogado em todo e qualquer crime por ele cometido.
+      - o representante da OAB para acompanhar a lavratura do auto de prisão em flagrante, pode ser substituído por representante da Defensoria Pública, visto que ambos podem figurar como defensores.
+  - enunciado: |
+      Pedro, contador com vasta experiência e sólida carreira, decide fazer uma segunda graduação, tornando-se bacharel em Direito. Depois da aprovação no Exame de Ordem Unificado e da inscrição nos quadros da Ordem dos Advogados do Brasil, Pedro pretende continuar prestando serviços contábeis, sem prejuízo do exercício concomitante da nova atividade.
+      Acerca da intenção de Pedro, bem como dos limites ético-normativos para a publicidade profissional da sua nova atividade, assinale a afirmativa correta.
+    alternativas:
+      - Embora não haja incompatibilidade para o exercício concomitante das duas atividades, não será permitido a Pedro divulgar sua nova profissão de modo conjunto com a de contador.
+      - Pedro não poderá exercer de modo concomitante as atividades de contador e advogado, pois, de acordo com o Estatuto da Advocacia e da OAB, a prestação de serviços contábeis é incompatível com o exercício simultâneo da advocacia.
+      - Não há óbice ético para o duplo exercício das atividades de contador e advogado, podendo Pedro se valer da divulgação conjunta dos serviços oferecidos, desde que não seja por meio de inscrições em muros, paredes, veículos, elevadores ou em qualquer espaço público.
+      - Pedro poderá fazer uso de mala direta, distribuição de panfletos ou formas assemelhadas de publicidade, visando a captação de clientela para a sua nova atividade, mas não poderá mencionar, nessa publicidade, os serviços de contabilidade.
+  - enunciado: |
+      Valmir, bacharel em Direito, aprovado no Exame da Ordem dos Advogados do Brasil, ocupa o cargo público de agente de Polícia Civil do Estado Alfa.
+      Movido por sentimento altruísta, Valmir requer sua inscrição na OAB, pois pretende, nos momentos de folga da atividade policial, exercer a advocacia de forma gratuita, eventual e voluntária, em favor de instituições sociais sem fins econômicos que não disponham de recursos para a contratação de profissional.
+      À luz dessas informações, e considerada a legislação vigente, assinale a afirmativa correta.
+    alternativas:
+      - Valmir não poderá exercer a advocacia, mesmo pro bono, uma vez que o cargo público que ocupa atrai o regime da incompatibilidade.
+      - Valmir poderá exercer regularmente a advocacia, inclusive pro bono.
+      - Valmir não poderá exercer a advocacia remunerada, pois ocupa cargo incompatível, mas poderá exercer a advocacia pro bono.
+      - A condição de servidor público atrai o regime do impedimento, razão pela qual Valmir não poderá exercer a advocacia contra a Fazenda Pública que o remunera. Observado esse impedimento, não haverá óbice para o exercício da advocacia pro bono.
+  - enunciado: |
+      Mariângela, advogada trabalhista, foi intimada pelo juízo da Vara do Trabalho de sua cidade para comparecer à audiência una, designada para 16h15 de determinado dia.
+      Por estar amamentando sua filha Manuela, recém-nascida, Mariângela protocolou petição nos autos do respectivo processo, requerendo preferência na ordem das audiências, mediante comprovação da sua condição. O juiz, contudo, indeferiu o pedido, com o argumento de que a causa é copatrocinada por uma segunda advogada, conforme procuração constante dos autos, a qual poderia participar do ato.
+      A respeito da hipótese narrada, assinale a afirmativa correta.
+    alternativas:
+      - Mariângela tem o direito de preferência assegurado em lei, independentemente de haver outra advogada constituída nos autos.
+      - Diante da constatação de que há duas advogadas constituídas pela parte, e à míngua de previsão legal, a condição de lactante de Mariângela não é suficiente para o deferimento do pedido de preferência.
+      - Conquanto inexista previsão legal para o pedido formulado por Mariângela, o juiz deveria ter deferido o pleito com base na práxis judiciária e no princípio da razoabilidade.
+      - Apenas se Mariângela comprovasse ser a única patrona da causa, haveria previsão legal para que o pedido de preferência fosse atendido.
+  - enunciado: |
+      Antônio Oliveira, advogado, cometeu infração disciplinar no exercício de suas funções, submetendo-se a processo disciplinar perante o Tribunal de Ética e Disciplina do Conselho Seccional competente.
+      Antônio contratou o advogado Pedro para defendê-lo no âmbito do processo disciplinar. No que diz respeito à instauração, instrução e tramitação do processo disciplinar instaurado em face de Antônio, assinale a afirmativa correta que deverá ser observada por Pedro, no exercício da defesa técnica.
+    alternativas:
+      - O processo disciplinar poderá ser instruído por subseção ou por relatores do próprio Conselho Seccional.
+      - Antônio não poderá ser suspenso preventivamente sem oitiva prévia, mesmo que não atenda às notificações de comparecimento.
+      - O processo disciplinar não poderá ser instaurado de ofício, sob pena de violação do princípio acusatório.
+      - Oferecida a defesa prévia, o relator do processo disciplinar poderá decidir pelo arquivamento liminar da representação.
+  - enunciado: |
+      ```
+      “Portanto, a moralidade, e a humanidade
+      enquanto capaz de moralidade, são as únicas
+      coisas que têm dignidade.”
+      ```
+      _Immanuel Kant_
+      O artigo primeiro da Constituição Federal de 1988 determina que a dignidade da pessoa humana é fundamento da República. Filósofos e juristas há muito debatem o tema da dignidade.
+      Sobre o tema, assinale a opção que apresenta a posição de Immanuel Kant, em seu livro Fundamentação da Metafísica dos Costumes.
+    alternativas:
+      - Quando algo está acima de todo preço e, portanto, não permite equivalente, então ele tem dignidade.
+      - Aquele que pode participar dos destinos políticos da cidade é quem possui e exerce sua dignidade.
+      - O amor à lei e à pátria conformam as bases da dignidade na vida social e política.
+      - A dignidade ocorre quando alguém possui elevada estima por si mesmo, mantendo seu amor próprio.
+  - enunciado: |
+      ```
+      Uma norma jurídica não vale porque tem um
+      determinado conteúdo...
+      ```
+      _(Hans Kelsen)_
+      O que faz uma norma jurídica ser válida é tema central para a teoria e a Filosofia do Direito.
+      Segundo o Normativismo Jurídico de Hans Kelsen, conforme apresentado em seu livro Teoria Pura do Direito, a validade da norma jurídica recai logicamente sobre uma categoria que é o ponto de partida do processo de criação do direito positivo.
+      Assinale a opção que apresenta essa categoria.
+    alternativas:
+      - A norma fundamental pressuposta.
+      - O legislador democrático.
+      - A soberania popular.
+      - O direito das gentes.
+  - enunciado: |
+      O Supremo Tribunal Federal (STF), por dois terços de seus membros, aprovou de ofício, no último mês, a Súmula Vinculante XXX, que versa sobre matéria tributária.
+      O deputado federal João da Silva mostrou-se preocupado com a referida Súmula, pois tramita no Congresso Nacional projeto de lei complementar cujo teor conflita fortemente com o da Súmula Vinculante XXX.
+      Por desconhecer as consequências que a referida Súmula acarretará ao processo legislativo em andamento, João busca auxílio de sua assessoria jurídica.
+      Sobre as consequências da Súmula Vinculante aprovada pelo STF, assinale a opção que apresenta, corretamente, a orientação recebida.
+    alternativas:
+      - Ela não alcança o poder legiferante do Congresso Nacional, que segue mantendo intacta sua função originária de criação do Direito.
+      - Ela vincula unicamente os órgãos do Poder Judiciário, não atingindo os demais poderes, em respeito à separação de poderes.
+      - Ela tem mera função diretiva e de orientação aos demais poderes, sem, no entanto, ter caráter impositivo para qualquer deles, incluindo o Poder Legislativo.
+      - Ela terá efeito vinculante em relação a todos os poderes, em todas as esferas, inclusive no que se refere ao poder de legislar dos entes federativos.
+  - enunciado: |
+      Em uma cidade situada no município Gama, José Silva sofreu grave acidente ao ser atropelado por um caminhão. Com lesões pelo corpo, ele foi conduzido ao hospital municipal situado na cidade e, ao passar pelo setor de identificação, alegou não possuir consigo qualquer documento.
+      Na dúvida sobre se José poderia ter acesso aos serviços de saúde do SUS (Sistema Único de Saúde), a direção do hospital consultou a Procuradoria do Município.
+      Sobre o caso apresentado, em consonância com o sistema jurídico-constitucional brasileiro, assinale a afirmativa que apresenta a resposta correta.
+    alternativas:
+      - O atendimento pelo SUS deve ser realizado, independentemente de José possuir nacionalidade brasileira, ser trabalhador ou contribuir com a Previdência Social.
+      - Para fazer jus aos serviços de saúde ofertados pelo SUS, José deve comprovar a condição de contribuinte do sistema previdenciário brasileiro.
+      - Para fazer jus aos serviços de saúde ofertados pelo SUS, José deve comprovar, formalmente, a condição de trabalhador.
+      - Os serviços de saúde ofertados pelo SUS somente são disponibilizados para os brasileiros natos ou naturalizados.
+  - enunciado: |
+      Depois da ocorrência de calamidade de grandes proporções, em razão de enchentes causadas por chuvas cuja intensidade foi classificada como “sem precedentes”, o Presidente da República vislumbra a possível necessidade de decretação de estado de defesa para combater o quadro caótico no qual se encontram quatro estados de uma determinada região do país. Depois de visitar o local, ele tem dúvidas acerca do prazo de duração da medida e, por isso, submete a proposta à apreciação de sua assessoria jurídica.
+      Assinale a afirmativa que, em consonância com o sistema jurídico-constitucional brasileiro, deve ser adotada
+    alternativas:
+      - O tempo de duração não será superior a 30 (trinta) dias, podendo ser prorrogado uma vez, por igual período, se persistirem as razões que justificaram a sua decretação.
+      - O Presidente da República tem poder discricionário para definir o prazo de duração, desde que haja aprovação prévia do Congresso Nacional.
+      - O tempo para a superação da crise que deu origem à decretação pelo Presidente da República não pode ultrapassar uma sessão legislativa.
+      - O tempo de duração será definido discricionariamente, em respeito ao princípio da separação de poderes, pelo Congresso Nacional.
+  - enunciado: |
+      O Presidente da República almeja apresentar ao Poder Legislativo um projeto de lei sobre cidadania, além de obter rapidamente a sua aprovação. Com isso, quer cumprir uma promessa realizada durante sua campanha eleitoral. Por essa razão, consulta o Advogado-Geral da União para saber qual é a correta orientação constitucional a ser observada para a concretização do seu objetivo.
+      Com base na situação hipotética narrada e no sistema jurídico-constitucional brasileiro, assinale a opção que indica, corretamente, a resposta apresentada pelo Advogado-Geral da União.
+    alternativas:
+      - Apresentação de projeto de lei na Câmara dos Deputados com pedido de urgência, sendo que, por essa via, cada Casa do Congresso Nacional, sucessivamente, tem até 45 (quarenta e cinco) dias para deliberar sobre a proposta, sob o risco de sobrestamento das demais deliberações.
+      - Edição de medida provisória, para que a iniciativa pudesse produzir efeitos rapidamente, devendo-se lembrar ainda que, por essa via, imediatamente ficaria trancada a pauta do Congresso Nacional para deliberar sobre outra matéria.
+      - Solicitação à base de apoio do Executivo no âmbito do Congresso Nacional para que inicie o processo legislativo de uma Emenda Constitucional, pois, só assim, ele poderia solicitar urgência para a deliberação da proposta nas Casas Legislativas.
+      - Requerimento, ao Congresso Nacional, de delegação para elaboração de lei delegada, pois, assim, ele não teria emendas ao seu projeto e, imediatamente, a lei produziria seus efeitos.
+  - enunciado: |
+      Determinada associação nacional, que congrega oficiais do registro e notários, foi surpreendida com a publicação da Lei Federal X, que mudou a destinação dos emolumentos cartorários, de modo que uma parte dos valores arrecadados passaria a ser destinada a políticas públicas do governo federal na área de educação. Considerando a iminente perda de arrecadação, a associação procura você, na qualidade de advogado(a), para saber da constitucionalidade da Lei Federal X.
+      Com base na hipótese narrada e no sistema jurídico-constitucional brasileiro, assinale a opção que apresenta, corretamente, o seu parecer.
+    alternativas:
+      - A Lei Federal X é inconstitucional, pois vincula a destinação dos emolumentos cartorários a finalidade diversa daquela prevista na ordem constitucional.
+      - Não há inconstitucionalidade na Lei Federal X, pois os emolumentos cartorários, por serem recursos públicos, devem ter a destinação que lhe é atribuída em lei.
+      - A Lei Federal X é coerente com o sistema constitucional, pois mudou a destinação dos emolumentos cartorários apenas no âmbito da União.
+      - Os emolumentos cartorários devem ser direcionados ao custeio da seguridade social, logo, a Lei Federal X afronta a ordem constitucional.
+  - enunciado: |
+      Uma Proposta de Emenda à Constituição (PEC) é apresentada por um grupo de deputados federais, conforme autoriza a ordem constitucional, cujo objeto é a alteração do Art. 60, § 4º, inciso II, da CRFB/88, que passaria a ter a seguinte redação: o voto direto, aberto, universal e periódico.
+      Depois de apertada aprovação nas comissões competentes, os autores da proposta solicitaram ao Presidente da Câmara dos Deputados que colocasse a referida PEC na pauta do plenário da Casa Legislativa, o que foi atendido. Paralelamente, outro grupo de parlamentares, ao perceber que, pela movimentação política, a PEC possivelmente seria aprovada, procura uma ação jurídica para impedir tal votação pelo plenário da Casa.
+      A respeito da ação jurídica capaz de impedir tal votação pelo plenário da Casa, segundo o sistema brasileiro de controle de constitucionalidade, assinale a afirmativa correta.
+    alternativas:
+      - Em razão da inobservância das limitações constitucionais materiais ao poder de emendar a Constituição, qualquer deputado federal tem legitimidade ativa para impetrar mandado de segurança perante o Supremo Tribunal Federal.
+      - Em razão da afronta à cláusula pétrea do voto secreto, qualquer legitimado a deflagar o controle concentrado de constitucionalidade pode ajuizar uma Ação Direta de Inconstitucionalidade (ADI) perante o Supremo Tribunal Federal.
+      - Com se está perante matéria interna corporis do Congresso Nacional, que só pode ser apreciada no âmbito do Poder Legislativo, a referida PEC, enquanto não for promulgada e se transformar em ato normativo existente e eficaz, não pode ser objeto de nenhum tipo de controle pelo Poder Judiciário.
+      - Por afronta a preceito fundamental, um legitimado pode ajuizar Arguição de Descumprimento de Preceito Fundamental (ADPF) perante o Supremo Tribunal Federal, nos termos da Constituição da República.
+  - enunciado: |
+      Os conflitos armados, infelizmente, são uma realidade que afeta diferentes países. As quatro Convenções de Genebra de 1949 conformam a base do Direito Internacional Humanitário.
+      Em comum às quatro Convenções está o Art. 3º que, entre outros dispositivos, determina o tratamento humano para todos os indivíduos em poder do inimigo, sem nenhuma distinção adversa. Proíbe, especialmente, os assassinatos, as mutilações, as torturas e os tratamentos cruéis, humilhantes e degradantes, a tomada de reféns e os julgamentos parciais.
+      Sobre esse artigo, assinale a afirmativa correta.
+    alternativas:
+      - Abrange também as situações de conflito armado sem caráter internacional e que surjam no território de um Estado-parte da Convenção.
+      - Determina a obrigatoriedade de cessar-fogo, no caso de início de uma rodada de negociações para a busca de solução não armada do conflito.
+      - Atribui ao Conselho de Segurança da ONU a competência para julgar a legitimidade da guerra e as eventuais sanções a serem impostas às partes do conflito
+      - Prevê a instituição de um tribunal específico para o julgamento de acusados de terem cometido crimes de guerra pela Assembleia-Geral das Nações Unidas.
+  - enunciado: |
+      *STJ transfere à Justiça Federal apuração da morte de líderes de trabalhadores rurais em Rondônia*
+      ```
+      A pedido da Procuradoria-Geral da República (PGR), a Terceira
+      Seção do Superior Tribunal de Justiça (STJ) determinou a
+      transferência, para a Justiça Federal, de seis inquéritos relativos a
+      crimes de homicídio praticados contra líderes de trabalhadores
+      rurais e outras pessoas que denunciaram grilagem de terras e
+      exploração ilegal de madeira em Rondônia.
+      ```
+      _Notícias do STJ – 25/08/2023_
+      A notícia acima, informada no site do STJ, diz respeito a um instituto exclusivo para a proteção dos Direitos Humanos previsto na Constituição Federal/88.
+      Assinale a opção que o indica.
+    alternativas:
+      - Incidente de Deslocamento de Competência.
+      - Arguição de Descumprimento de Preceito Fundamental.
+      - Tese com Repercussão Geral.
+      - Ação Popular.
+  - enunciado: |
+      Entre os correligionários do partido político Alfa estavam dois dos pré-candidatos considerados favoritos na eleição para governador do Estado Beta. Como somente um deles poderia ser escolhido por Alfa para concorrer ao referido cargo eletivo, houve grande interesse dos meios de comunicação social na cobertura das prévias partidárias.
+      Em relação às emissoras de rádio e televisão, à luz dos balizamentos legais existentes, assinale a afirmativa correta.
+    alternativas:
+      - As transmissões por emissoras de rádio e televisão das prévias partidárias, ao vivo, são vedadas.
+      - A lei obsta a cobertura das prévias partidárias.
+      - Elas podem realizar, ao vivo ou não, a plena cobertura das prévias partidárias, não sendo permitida qualquer censura.
+      - Somente é permitida a transmissão de imagens ao vivo, de modo a evitar o risco de trucagem.
+  - enunciado: |
+      João, candidato ao cargo eletivo de prefeito municipal, logrou ser eleito. No entanto, por ser muito desorganizado, não conseguiu localizar os documentos necessários para a prestação de contas à Justiça Eleitoral, o que resultou na não apresentação dessas contas.
+      Sobre as consequências da omissão de João, assinale a afirmativa correta.
+    alternativas:
+      - A impossibilidade de ser diplomado.
+      - A sua diplomação com reservas.
+      - O pagamento de multa, não havendo óbice à diplomação, ato independente.
+      - A necessidade de firmar compromisso, previamente à diplomação, comprometendo-se a apresentar as contas.
+  - enunciado: |
+      Uma sociedade empresária colombiana celebrou, na Inglaterra, com uma sociedade alemã, um contrato para a entrega de 500 (quinhentas) sacas de café tipo arábica no Porto de Santos, Brasil, sem cláusula de eleição de foro exclusivo.
+      Durante o transporte, houve um acidente com a embarcação, que acarretou o perecimento da mercadoria.
+      Você, como advogado(a), é procurado(a) para ajuizar a presente ação.
+      De acordo com o direito internacional privado brasileiro, assinale a opção que indica a autoridade judiciária competente para processar e julgar eventual demanda entre as contratantes.
+    alternativas:
+      - A autoridade judiciária brasileira, concorrentemente.
+      - A autoridade judiciária inglesa, única e exclusivamente.
+      - A autoridade judiciária colombiana, concorrentemente.
+      - A autoridade judiciária alemã, única e exclusivamente.
+  - enunciado: |
+      A Fundação de Juristas Moçambique–Brasil, associação privada de fim de interesse coletivo, constituiu-se na década de 1990, na cidade de Maputo, capital de Moçambique, e pretende abrir filial no Brasil. Você, advogado(a) especializado em Direito Internacional, é procurado pela Fundação para avaliar a pretensão do caso em tela.
+      Sobre a hipótese apresentada, assinale a afirmativa correta.
+    alternativas:
+      - A Fundação não poderá ter filial no Brasil, antes da aprovação dos atos constitutivos pelo governo brasileiro, ficando a filial sujeita à lei brasileira.
+      - A Fundação não poderá ter filial no Brasil, salvo se houver prévia decisão da justiça brasileira autorizativa.
+      - A Fundação não poderá ter filial no Brasil, salvo se houver prévia autorização legislativa do Congresso Nacional.
+      - A Fundação não poderá ter filial no Brasil, antes da aprovação dos atos constitutivos pelo governo moçambicano, ficando a filial sujeita à lei moçambicana.
+  - enunciado: |
+      O Presidente da República se quedou inerte quanto à elaboração e ao envio do projeto de Lei Orçamentária Anual (LOA) da União para aprovação do Congresso Nacional no prazo estabelecido pela CRFB/88. O Presidente do Congresso Nacional, então, assumiu a responsabilidade de elaboração de um novo projeto de LOA e de envio para tramitação e aprovação de ambas as Casas do Congresso Nacional.
+      Nesse caso, é correto afirmar que:
+    alternativas:
+      - Caso aprovada, a referida LOA será inconstitucional por vício de iniciativa, já que é de competência privativa do Presidente da República sua elaboração e seu envio ao Congresso Nacional, não podendo o Presidente do Congresso Nacional realizar tal elaboração nem mesmo em caráter excepcional.
+      - Comprovada a inércia do Presidente da República, admite-se, de forma subsidiária, que a iniciativa do referido projeto de LOA seja exercida por pessoa diversa, a exemplo do Presidente do Congresso Nacional.
+      - Quando o Presidente da República deixa de apresentar o projeto de LOA da União no prazo legal, a CRFB/88 prevê a possibilidade de o Poder Judiciário, o Ministério Público, a Defensoria Pública e o Poder Legislativo apresentarem, autonomamente, seus respectivos projetos de orçamentos para tramitação no Congresso Nacional.
+      - A referida LOA somente não será inconstitucional, por vício de iniciativa, caso sua aprovação se dê pelo processo legislativo de aprovação de lei complementar, uma vez que, por se tratar de hipótese excepcional, a Constituição Federal de 1988 prevê um maior rigor para sua aprovação.
+  - enunciado: |
+      A Escolinha do Gol, entidade privada sem fins lucrativos, que realiza sua função social de fomento ao esporte no Município Alfa, Estado Beta, entre os anos de 2020 a 2022, recebeu diretamente da União a quantia de R$ 100.000,00 (cem mil reais) para financiar seu programa beneficente de ensino e treinamento de futebol para crianças carentes da localidade.
+      Pedro, administrador da instituição e técnico de futebol da escolinha, recebeu, em janeiro de 2023, uma notificação do Tribunal de Contas da União (TCU) intimando a instituição a prestar contas dos recursos recebidos no prazo de 30 (trinta) dias, sob pena da imediata devolução, acrescida de juros, correção monetária e multa. Tendo Pedro aplicado 100% dos recursos recebidos nas atividades da escolinha, contrata você, como advogado, para orientá-lo sobre a notificação
+      Diante desse cenário, assinale a opção que apresenta sua orientação.
+    alternativas:
+      - É devida a prestação de contas de qualquer pessoa física ou jurídica, pública ou privada que receba e utilize dinheiro público.
+      - Por não se tratar de uma entidade pública, e sim de uma instituição privada, não se submete à fiscalização e ao controle de qualquer Tribunal de Contas.
+      - Não pode o TCU fiscalizar e controlar tais repasses, cabendo apenas ao Tribunal de Contas do Estado Beta, por ser o Município Alfa destinatário e efetivo usuário de tais recursos repassados.
+      - Apenas deverão prestar contas dos recursos públicos recebidos aqueles que os aplicarem em atividade diversa da originalmente estabelecida ou que não os tenham aplicado integralmente.
+  - enunciado: |
+      A sociedade empresária Books & Books Ltda., verificando a queda na receita de venda de livros impressos e o fechamento de inúmeras outras livrarias locais, decide alterar seu negócio para importação e comercialização no mercado interno de livros eletrônicos acompanhados dos respectivos aparelhos exclusivamente leitores.
+      Diante desse cenário, assinale a afirmativa correta.
+    alternativas:
+      - A importação de tais livros eletrônicos e seus respectivos aparelhos leitores por Books & Books Ltda. fica imune da incidência do Imposto de Importação.
+      - A comercialização no mercado interno de tais livros eletrônicos por Books & Books Ltda. é imune da incidência de Imposto sobre Circulação de Mercadorias, mas não é imune da incidência deste tributo estadual na comercialização de seus respectivos aparelhos leitores.
+      - Embora tais livros eletrônicos e seus respectivos aparelhos leitores importados e comercializados no mercado interno por Books & Books Ltda. sejam equiparados a livros, o Imposto de Importação e o Imposto sobre Circulação de Mercadorias, por serem tributos indiretos, não podem ser alcançados por essa imunidade.
+      - Os livros eletrônicos e seus respectivos aparelhos leitores importados e comercializados por Books & Books Ltda. não podem ser equiparados a livros, razão pela qual não incide qualquer imunidade sobre a importação ou a comercialização deles no mercado interno.
+  - enunciado: |
+      Para conter a escalada de preços dos combustíveis que vem afetando a economia nacional, a equipe econômica do governo federal estuda a possibilidade de conceder, mediante lei complementar editada exclusivamente para tal fim, uma isenção temporária de um ano sobre todos os tributos federais e estaduais incidentes sobre os combustíveis (petróleo e derivados), atendendo aos requisitos das leis orçamentárias.
+      Diante desse cenário, assinale a afirmativa correta.
+    alternativas:
+      - Tal lei afronta a Constituição Federal ao atingir tributos de competência estadual.
+      - A concessão de tal isenção, mediante lei complementar, de caráter nacional, exclusivamente para este fim é admitida pela Constituição Federal.
+      - Sendo tal benefício fiscal apenas temporário, pode ser excepcionalmente admitido por ter, como causa, uma situação extraordinária de interesse nacional.
+      - A competência tributária é privativa da Agência Nacional de Petróleo (ANP) quanto à tributação de combustíveis, e tal lei acaba por violá-la.
+  - enunciado: |
+      João e José decidem constituir uma sociedade empresária, denominada Informática ABC Ltda., especializada na prestação de serviços na área de informática. João integralizou 50% do capital social da sociedade com dinheiro, e José integralizou os seus 50% com um imóvel de sua propriedade localizado no Município Alfa, a ser utilizado como sede da empresa.
+      Dois anos depois do início das atividades da sociedade empresária, José recebe uma notificação da Secretaria de Fazenda do Município Alfa, por falta de pagamento do Imposto sobre a Transmissão de Bens Imóveis (ITBI), devido no ato da integralização do capital social da empresa, por ser ele, segundo a legislação local, o contribuinte deste imposto.
+      Diante desse cenário, assinale a afirmativa correta.
+    alternativas:
+      - O ITBI não incide sobre a transmissão de bens incorporados ao patrimônio de Informática ABC Ltda., em realização de capital.
+      - José é responsável solidário pelo recolhimento do ITBI incidente sobre essa transmissão.
+      - As empresas do setor de informática, por expressa disposição de lei complementar nacional, estão isentas do pagamento de ITBI.
+      - É devida a cobrança do ITBI, uma vez que houve a transmissão da propriedade do imóvel de José para a empresa Informática ABC Ltda. no ato da integralização do capital social.
+  - enunciado: |
+      Determinado país declarou guerra ao Brasil. Para fazer frente aos gastos com o esforço de guerra, a União resolveu criar, por lei federal ordinária, um imposto extraordinário de guerra, com a mesma hipótese de incidência do Imposto sobre a Transmissão Causa Mortis e Doações.
+      A alíquota fixada pela lei federal era de 1% sobre o valor da doação ou do montante transmitido causa mortis.
+      Sobre esse imposto extraordinário, assinale a afirmativa correta.
+    alternativas:
+      - É válido, mas deve ser suprimido, gradativamente, cessadas as causas de sua criação.
+      - Não pode ser criado, pois viola a competência tributária dos Estados e do Distrito Federal.
+      - Como apresenta hipótese de incidência idêntica à do imposto estadual, somente poderia ser criado por lei complementar.
+      - Configura hipótese de bitributação ilegal, razão pela qual não poderia ser admitido.
+  - enunciado: |
+      O Município Alfa pretende firmar convênio com a União para fiscalizar e arrecadar diretamente o Imposto sobre a Propriedade Territorial Rural (ITR) dos imóveis rurais situados em seu território.
+      Acerca dessa pretensão municipal, assinale a afirmativa correta.
+    alternativas:
+      - Caso firme tal convênio, o Município Alfa terá direito a ficar com 100% do ITR arrecadado referente aos imóveis rurais situados em seu território.
+      - Tal convênio, caso firmado, configura um exemplo de transferência de competência tributária plena da União para o Município.
+      - Tal convênio é legalmente vedado por configurar delegação de capacidade tributária ativa.
+      - O Município Alfa pode receber delegação para arrecadar o tributo, mas sua fiscalização é privativa de agentes da Administração Tributária Federal.
+  - enunciado: |
+      Marcelo, servidor público federal estável, aposentou-se por invalidez. Meses depois, uma junta médica oficial declarou insubsistentes os motivos de sua aposentadoria.
+      Consoante a Lei nº 8.112/90, que dispõe sobre o regime jurídico dos servidores públicos civis da União, o retorno de Marcelo à atividade, por meio de provimento de cargo público derivado por reingresso, se dará pela
+    alternativas:
+      - reversão, que se fará no mesmo cargo ou no cargo resultante de sua transformação e, encontrando-se provido o cargo, Marcelo exercerá suas atribuições como excedente, até a ocorrência de vaga.
+      - reintegração, que se dará no cargo anteriormente ocupado ou no cargo resultante de sua transformação. Na hipótese de o cargo ter sido extinto, Marcelo ficará em disponibilidade.
+      - recondução, que ocorrerá no mesmo cargo de origem e, encontrando-se provido o cargo, Marcelo será aproveitado em outro.
+      - readaptação, que se realizará em cargo de atribuições afins ao cargo originário de Marcelo, respeitada a habilitação exigida, o nível de escolaridade e a equivalência de vencimento.
+  - enunciado: |
+      O Ministério Público Federal ajuizou ação buscando a responsabilização judicial da Sociedade Empresária Delta pela prática de atos lesivos à Administração Pública que atentaram contra o patrimônio público nacional.
+      Na inicial, imputa-se à citada pessoa jurídica a prática de atos que dificultaram atividade de fiscalização de órgãos públicos federais e intervieram na atuação desses órgãos, inclusive no âmbito de órgãos de fiscalização do sistema financeiro nacional.
+      A diretoria da Sociedade Empresária Delta, preocupada com eventual possibilidade de sanção judicial de dissolução compulsória da pessoa jurídica, contratou você como advogado(a) especializado na matéria.
+      Diante das circunstâncias do caso concreto e com base na Lei Anticorrupção (Lei nº 12.846/2013), sobre a dissolução compulsória da pessoa jurídica assinale a afirmativa correta.
+    alternativas:
+      - É determinada quando for comprovado que a personalidade jurídica foi utilizada de forma habitual para facilitar ou promover a prática de atos ilícitos, ou foi constituída para ocultar ou dissimular interesses ilícitos ou a identidade dos beneficiários dos atos praticados.
+      - Não é sanção prevista pela prática de atos lesivos à Administração Pública, mas pode ser aplicada em eventual ação de improbidade administrativa
+      - É medida extrema que somente pode ser decretada pelo Supremo Tribunal Federal, quando houver risco concreto de comprometimento do sistema financeiro nacional ou da soberania nacional.
+      - Não existe no ordenamento jurídico brasileiro, em razão da função social da sociedade empresária e da livre concorrência, e a sanção máxima aplicável seria a suspensão ou interdição parcial de suas atividades.
+  - enunciado: |
+      Vicente, servidor público federal estável, praticou conduta que corresponde a crime, na forma da legislação penal, e se enquadra como falta funcional grave, passível de demissão.
+      Ao tomar conhecimento de tal situação, a Administração determinou a instauração de processo administrativo disciplinar, com a designação da Comissão processante, composta por três servidores ocupantes de cargos efetivos, sendo certo que um deles, Alípio, ainda não alcançou a estabilidade. Paralelamente, o Juízo criminal competente recebeu denúncia em desfavor de Vicente em razão dos mesmos fatos.
+      Considerando os dados apresentados, Vicente procurou você, como advogado(a), para esclarecer dúvidas acerca da mencionada situação. Assinale a opção que apresenta a orientação jurídica que, corretamente, você prestou.
+    alternativas:
+      - A nomeação de Alípio para compor a comissão processante do processo administrativo disciplinar não é válida.
+      - O processo administrativo disciplinar em face de Vicente não poderia ser instaurado, na medida em que a sua responsabilização deve se restringir à esfera criminal.
+      - O recebimento da denúncia em desfavor de Vicente suspende a apuração levada a efeito em sede de processo administrativo disciplinar.
+      - Eventual sentença absolutória na ação penal deverá repercutir em demissão de Vicente, ainda que fundada na ausência de provas.
+  - enunciado: |
+      A sociedade empresária Sabiá tomou conhecimento de um edital de licitação elaborado pelo Município Alfa para promover a permissão de determinado serviço público de competência local, razão pela qual procura sua assessoria jurídica, a fim de dirimir algumas dúvidas acerca da mencionada modalidade de delegação.
+      Acerca das peculiaridades da permissão de serviços públicos, à luz do disposto na CRFB/88 e na Lei nº 8.987/95, assinale a afirmativa correta.
+    alternativas:
+      - A delegação pretendida poderá ser realizada para pessoa física ou jurídica que demonstre capacidade para a prestação do serviço por sua conta e risco.
+      - A modalidade licitatória deverá ser necessariamente aquela designada como diálogo competitivo
+      - Não é necessária a realização de licitação para a formalização da delegação pretendida pelo Município Alfa.
+      - É necessária a constituição de uma sociedade de propósito específico para a formalização do respectivo contrato.
+  - enunciado: |
+      Jamile, após aprovação em concurso público, foi investida em cargo efetivo na Secretaria de Administração do Estado Alfa, no qual alcançou a estabilidade.
+      No entanto, o mencionado ente federativo decidiu reformular o seu quadro de pessoal, de modo que, após o devido processo legislativo, fez publicar a Lei XYX que extinguiu a carreira e, consequentemente, o cargo efetivo ocupado por Jamile, e, em razão disso, ato contínuo, promoveu sua exoneração.
+      Diante dessa situação hipotética, à luz das disposições constitucionais acerca dos servidores públicos, assinale a afirmativa correta.
+    alternativas:
+      - Jamile, em razão da extinção do cargo, deve ficar em disponibilidade, com remuneração proporcional ao tempo de serviço, até o seu adequado aproveitamento em outro cargo.
+      - Jamile não pode ser afetada pela alteração legislativa em comento, pois possui o direito adquirido de permanecer no cargo para o qual foi aprovada em concurso.
+      - O Estado Alfa deve promover o aproveitamento de Jamile em outro cargo, ainda que com atribuições e remuneração distintas daquele para o qual ela fora aprovada em concurso.
+      - A exoneração de Jamile revela-se adequada e pertinente, diante da extinção da carreira e do cargo efetivo que ocupava pela Lei XYZ.
+  - enunciado: |
+      A sociedade empresária Gama requereu licença ambiental para empreender um aterro sanitário. O processo de licenciamento ambiental tramita no órgão licenciador competente.
+      No curso do procedimento, observadas as cautelas legais necessárias, o licenciador deferiu licença na fase inicial do planejamento do empreendimento, aprovando sua localização e concepção, atestando a viabilidade ambiental e estabelecendo os requisitos básicos e condicionantes a serem atendidos nas próximas fases de sua implementação. Registre-se que tal licença foi deferida isoladamente, diante da natureza, das características e da fase do empreendimento.
+      O caso em tela, de acordo com a Resolução CONAMA nº 237/1997, trata de licença
+    alternativas:
+      - prévia, que será sucedida, na próxima etapa do licenciamento, pela licença de instalação, que autorizará a instalação do empreendimento de acordo com as especificações constantes dos planos, programas e projetos aprovados.
+      - de instalação, que será sucedida, na próxima etapa do licenciamento, pela licença de operação, que autorizará a operação da atividade ou do empreendimento, após a verificação do efetivo cumprimento do que consta das licenças anteriores, com as medidas de controle ambiental e os condicionantes determinados para a operação.
+      - de funcionamento, que foi precedida pela licença ambiental simplificada, que autorizará o início dos estudos ambientais, em especial, a elaboração do estudo prévio de impacto ambiental e seu correlato relatório de impacto ambiental.
+      - de operação, que foi precedida pela licença de instalação, que autorizará a execução das medidas mitigatórias previstas no estudo de impacto ambiental e a instalação do empreendimento de acordo com as especificações constantes dos planos, programas e projetos aprovados.
+  - enunciado: |
+      Município Alfa criou regularmente uma Unidade de Conservação (UC), por meio de decreto do Prefeito. Três anos depois, mediante a realização de novos estudos técnicos e de consulta pública, o chefe do Executivo municipal se convenceu de que deveria reduzir os limites geográficos da Unidade de Conservação.
+      Sabendo que o Prefeito está prestes a assinar novo decreto promovendo a supressão e a desafetação de uma parte dessa Unidade de Conservação, um grupo de ambientalistas procurou você como advogado(a).
+      Nesse contexto, assinale a opção que apresenta, corretamente, sua orientação acerca do novo decreto.
+    alternativas:
+      - É inviável a alteração pretendida por decreto, haja vista que a desafetação ou redução dos limites de uma Unidade de Conservação só pode ser feita mediante lei específica.
+      - O decreto em questão não pode ser considerado válido, pois quaisquer alterações na UC devem ser precedidas de autorização dos órgãos ambientais estadual e federal.
+      - Não há qualquer mácula no aludido decreto, uma vez que foram realizados novos estudos técnicos e consulta pública, que são imprescindíveis para quaisquer alterações na UC.
+      - O decreto em análise está em consonância com o ordenamento jurídico, na medida em que, se a criação da UC se deu por tal via, sua redução pode ser realizada pelo mesmo instrumento normativo.
+  - enunciado: |
+      Mariana e Lucas estão casados há mais de 10 anos em regime da comunhão parcial de bens. Recentemente, Mariana descobriu que Lucas vem mantendo uma relação extraconjugal com uma vizinha. A descoberta abalou profundamente o casamento, e Mariana pediu o divórcio.
+      Considerando a quebra do dever de fidelidade, Mariana alega que Lucas perdeu o direito sobre todos os bens do casal, ou seja, ela entende que, apesar do regime de comunhão parcial de bens, o patrimônio construído ao longo do casamento não deverá ser partilhado.
+      Sobre a hipótese apresentada, assinale a afirmativa correta.
+    alternativas:
+      - A discussão de culpa e culpados para o divórcio não é mais necessária e, por isso, a divisão de bens deve seguir as regras do regime escolhido no casamento.
+      - O adultério traduz-se em violação do dever de recíproca fidelidade no casamento. Assim, em razão da traição de Lucas, Mariana tem direito à indenização correspondente a parte dos bens do casal.
+      - O adultério é uma das mais graves infrações dos deveres conjugais e tem, como consequência, a perda do direito à meação.
+      - O adultério não interfere na partilha de bens do casal, mas tão somente no convívio do pai adúltero com os filhos menores de idade.
+  - enunciado: |
+      Joaquim estava jantando com sua família em um restaurante, quando percebeu que sua filha tinha iniciado um quadro alérgico, apresentando dificuldades respiratórias, que a colocavam em grave risco de morte.
+      Em frente ao restaurante, havia uma clínica médica, onde buscaram atendimento. O médico de plantão, aproveitando-se da situação de urgência, exigiu pagamento antecipado de valor exorbitante – muito acima do cobrado regularmente por ele ou pelo mercado para esse tipo de atendimento.
+      Joaquim, em desespero, anuiu com o pagamento desproporcional. Entretanto, depois do susto, consultou você, como advogado(a). Após inteirar-se do caso, você afirmou ao seu cliente que o negócio jurídico celebrado entre ele e o médico padecia de um defeito.
+      Assinale a opção que o indica.
+    alternativas:
+      - Estado de perigo, com prazo decadencial de quatro anos.
+      - Dolo, com prazo decadencial de seis meses.
+      - Lesão, com prazo decadencial de dois anos.
+      - Estado de necessidade, sem prazo decadencial.
+  - enunciado: |
+      André, mediante contrato escrito, comprou o carro de passeio de seu vizinho, Bernardo. Duas semanas depois, enquanto André o conduzia por uma das principais avenidas da cidade, o veículo quebrou, por causa de um defeito não aparente na mangueira do radiador.
+      Para pretender indenização por perdas e danos em desfavor de Bernardo pelo ocorrido, André deve provar
+    alternativas:
+      - a preexistência do defeito e que Bernardo tinha conhecimento dele.
+      - a existência de cláusula expressa no contrato de garantia contra vícios ocultos.
+      - a preexistência do defeito, mesmo que desconhecido por Bernardo.
+      - a preexistência do defeito, que Bernardo tinha conhecimento dele e a existência de cláusula no contrato de garantia contra vícios ocultos.
+  - enunciado: |
+      Joana trabalhou por 15 anos como empregada doméstica na residência de Alzira, um imóvel de 60 metros quadrados, herdado de seu falecido pai. Durante todo esse período, Joana percebeu salários mensais, tal como acordado, porém nunca recebeu as verbas referentes às férias e ao décimo terceiro salário, bem como nunca teve as contribuições previdenciárias devidamente recolhidas.
+      Depois da rescisão contratual, Joana promoveu a ação trabalhista, visando receber as verbas devidas e não pagas, tendo seus direitos reconhecidos por sentença transitada em julgado. Não obstante, o pagamento das verbas não foi realizado e, fato seguinte, foi promovida a execução, momento em que Joana, representada por seu advogado, diante do não pagamento e da inexistência de outros bens, requereu a penhora do imóvel residencial de Alzira.
+      Ante a hipótese narrada, considerando que o imóvel residencial de Alzira é o único que ela possui, assinale a afirmativa correta.
+    alternativas:
+      - O imóvel é impenhorável, bem como são impenhoráveis os móveis que guarnecem a casa, exceto as obras de arte e os adornos suntuosos.
+      - O imóvel é impenhorável, mas os bens móveis que o guarnecem são penhoráveis, independentemente do valor dos mesmos.
+      - O imóvel na execução promovida por Joana é, em qualquer hipótese, penhorável.
+      - O imóvel, na execução promovida por Joana, é penhorável, desde que comprovada a má-fé da devedora.
+  - enunciado: |
+      Antônio, locatário de um imóvel residencial, verificou uma enorme infiltração atrás dos armários da cozinha. Com a finalidade de evitar maior deterioração do imóvel, Antônio realizou a obra a fim de reparar o dano e conservar o bem. Aproveitando a presença do empreiteiro em sua casa, reformou todos os armários dos quartos, para incluir portas de espelho e puxadores em cobre com o único objetivo de deixá-los mais sofisticados, pois os anteriores estavam em perfeito estado. Aproveitou também a oportunidade para incluir um grande aquário embutido na parede da sala.
+      Diante da situação narrada, assinale a afirmativa correta.
+    alternativas:
+      - O reparo na cozinha é uma benfeitoria necessária, porque conserva e evita que a coisa se deteriore, e a reforma dos armários e do aquário são benfeitorias voluptuárias, pois trata-se de mero deleite.
+      - Por não ser proprietário do bem, as obras realizadas por Antônio não podem ser consideradas como benfeitorias.
+      - As obras realizadas por Antônio são classificadas como benfeitorias úteis, pois facilitam o uso do bem.
+      - A reforma dos armários dos quartos e o aquário da sala valorizam o bem, sendo consideradas como benfeitorias úteis, diferente do reparo na cozinha que, por força da gravidade, classifica-se como benfeitoria necessária.
+  - enunciado: |
+      Vitória e Rodrigo foram casados, em regime de comunhão parcial de bens, e são pais de Mariana. Quando Mariana atingiu 16 (dezesseis) anos, os pais divorciaram-se, passando a residir em lares distintos e a compartilhar a guarda de Mariana. Mariana passou a residir com o pai.
+      A respeito do dever de educação de Mariana, assinale a afirmativa correta.
+    alternativas:
+      - Caberá a Vitória e a Rodrigo, já que o dever de educação inserido nos deveres e direitos dos pais com relação aos filhos, no exercício do poder familiar, independe da situação conjugal de ambos.
+      - Com o divórcio, o dever de educação passa a ser somente do pai, com quem Mariana reside, sendo impossível fisicamente Vitória colaborar nesse sentido, dada a distância física de Mariana.
+      - Com o divórcio, caberá este dever somente ao pai, Rodrigo, pois, em que pese a guarda compartilhada, Mariana reside com ele.
+      - A guarda e a convivência determinam a quem caberá o dever de educar o filho, de modo que, nesse caso, o dever de educação passa a ser somente do pai.
+  - enunciado: |
+      Rafael e Marta se casaram. Rafael tem dois filhos do relacionamento anterior, ambas crianças com idade inferior a 5 anos. A genitora das crianças teve decretada a perda do poder familiar em processo regular, com trânsito em julgado.
+      Marta, então, em processo igualmente regular, adota os filhos de Rafael, passando em julgado também a decisão que lhe conferiu a maternidade.
+      Marta e Rafael não conseguem manter um relacionamento saudável em razão do comportamento agressivo de Rafael, e, por isso, depois de alguns anos, eles se divorciam. No curso do processo, Marta demonstrou a impossibilidade da guarda compartilhada e obteve, judicialmente, a fixação da guarda unilateral das crianças, com direito a convívio semanal deferido a Rafael.
+      Indignado, Rafael procura sua orientação como advogado(a), sob o argumento de que a adoção deve ser desfeita ou, ao menos, considerada sua paternidade biológica para fins de guarda.
+      Sobre o caso, assinale a afirmativa que apresenta, corretamente, sua orientação.
+    alternativas:
+      - A adoção atribui a condição plena de filho ao adotado e de mãe à adotante, sendo completamente irrelevante essa origem da filiação como elemento influenciador do modelo de guarda.
+      - A guarda unilateral do adotante é inadmitida em casos de adoção, devendo ser pretendida a revisão da decisão para fixação da guarda compartilhada.
+      - A adoção deve ser anulada judicialmente em caso de divórcio, pois este significa a quebra do vínculo que deu origem à filiação por adoção retornando a guarda, bem como todo o poder familiar, ao genitor biológico.
+      - Ainda que a adoção seja indissolúvel, o vínculo biológico deve, de fato, ter precedência sobre a filiação originada pela adoção para fins de definição da guarda.
+  - enunciado: |
+      Rafael, de 16 anos, foi apreendido após invadir uma loja de cosméticos e, mediante o emprego de arma de fogo, subtrair os pertences do caixa. Devidamente processado, o juízo da infância aplicou a medida de semiliberdade ao adolescente, tendo ocorrido o trânsito em julgado.
+      Depois de dois meses de cumprimento da medida, Laura, mãe de Rafael, procura você, como advogado(a), buscando sua orientação acerca da possibilidade de o adolescente realizar atividades externas, considerando que foi inaugurado estabelecimento que oferece diversos cursos profissionalizantes em local próximo à unidade socioeducativa.
+      Sobre o caso narrado, levando em conta o Estatuto da Criança e do Adolescente, assinale a orientação que, corretamente, você deu a Laura.
+    alternativas:
+      - É possível que Rafael realize atividades externas, independentemente de autorização judicial.
+      - No regime de semiliberdade é possível realizar atividades externas, desde que haja autorização do juízo competente para a execução da medida socioeducativa.
+      - A semiliberdade só admite atividades externas após um ano de cumprimento da medida. Dessa forma, por ora, Rafael não poderá ser incluído no curso profissionalizante almejado.
+      - Durante a semiliberdade é inviável a realização de atividades externas, pois elas são cabíveis apenas nas medidas socioeducativas de liberdade assistida e de prestação de serviços à comunidade.
+  - enunciado: |
+      Carlos, um consumidor, celebrou um contrato de adesão para aquisição de um pacote turístico.
+      Ao ler atentamente o contrato, Carlos identificou uma cláusula que determinava que ele não poderia requerer indenização à empresa em caso de eventuais prejuízos decorrentes de cancelamentos por causas naturais.
+      Preocupado, Carlos procura você, como advogado(a), para buscar amparo legal e entender a validade da cláusula em questão. Diante disso, assinale a afirmativa que apresenta, corretamente, sua orientação.
+    alternativas:
+      - A cláusula é inválida, porque o Art. 51 do CDC apresenta um rol exemplificativo de cláusulas abusivas, permitindo a anulação das cláusulas que se mostrem abusivas, mesmo que não listadas.
+      - A cláusula é válida, porque o Art. 51 do CDC possui um rol exemplificativo de cláusulas abusivas, e essa cláusula específica não está listada entre as proibidas.
+      - A cláusula é inválida, porque o Art. 51 do CDC possui um rol taxativo de cláusulas abusivas, e essa cláusula não está listada entre as permitidas.
+      - A cláusula é válida, porque o Art. 51 do CDC, que possui um rol de cláusulas abusivas, não se aplica aos contratos de adesão.
+  - enunciado: |
+      Você, como advogado(a), foi procurado(a) pela senhora Magda para orientá-la quanto às dificuldades de atendimento de suas demandas no Serviço de Atendimento ao Consumidor (SAC) da operadora do plano de saúde a que ela aderiu a partir do mês de novembro de 2022.
+      A consulente narrou a você que não consegue contato telefônico com o SAC nos finais de semana, pois o atendimento se encerra às 22h de sexta-feira e só é retomado a partir de 6h de segunda-feira e não há outro canal de atendimento no período indicado para o registro de demandas. Por fim, durante o tempo de espera para atendimento, a operadora veicula várias mensagens de caráter informativo sobre os procedimentos para fruição de direitos dos clientes e acesso à rede referenciada e mensagens publicitárias de seus patrocinadores.
+      Com base na narrativa e nas determinações legais para atendimento de demandas no SAC, assinale a afirmativa correta.
+    alternativas:
+      - É defeso à operadora do plano de saúde interromper o atendimento ao consumidor, mas está autorizada a veicular mensagens informativas desde que tratem dos direitos e deveres dos consumidores.
+      - Os fatos narrados pela consulente não constituem infração, podendo ser interrompido o atendimento em certos horários; é possível veicular mensagens informativas antes do atendimento, vedadas as mensagens publicitárias de seus patrocinadores.
+      - A operadora do plano de saúde pode interromper o atendimento ao consumidor em horários previamente determinados e divulgados, bem como apenas pode veicular mensagens de caráter informativo e publicitárias de seus próprios produtos e serviços.
+      - Os fatos narrados pela consulente revelam que a operadora do plano de saúde não cometeu infração administrativa, pois não é obrigatório disponibilizar outros canais de acesso ao SAC além do atendimento telefônico, sendo possível veicular mensagens antes do atendimento.
+  - enunciado: |
+      O juiz da falência da sociedade empresária Refrigeração Abaíra Ltda. determinou que o administrador judicial ficasse responsável pela guarda dos bens arrecadados. O administrador judicial, entretanto, apresentou justificativas que o impossibilitavam de assumir tal encargo.
+      Foi proposto ao juiz que os bens situados fora do estabelecimento da falida ficassem sob a guarda do Sr. Belmonte, conhecido empresário na Comarca, e sob a responsabilidade do administrador judicial. Para os bens situados dentro do estabelecimento, inclusive o próprio imóvel, propôs o administrador judicial que a Sra. América Dourada, ex- administradora da sociedade e representante da falida no processo, fosse nomeada depositária dos bens.
+      Sobre a proposta do administrador judicial, assinale a afirmativa correta.
+    alternativas:
+      - Deve ser acatada, pois é permitido que os bens arrecadados fiquem sob a guarda da pessoa por ele escolhida e sob sua responsabilidade, podendo também qualquer dos representantes do falido ser nomeado depositário dos bens.
+      - É ilícita, porque é uma atribuição legal e personalíssima do administrador judicial ter os bens arrecadados do falido sob sua guarda.
+      - Deve ser rejeitada, ante a vedação legal que o falido ou qualquer de seus representantes seja nomeado depositário de quaisquer bens.
+      - Deve ser aceita somente se os depositários indicados – Sr. Belmonte e Sra. América Dourada – prestarem caução antes de serem imitidos na posse dos bens.
+  - enunciado: |
+      Os cientistas Pio Alves e Cardoso Moreira desenvolveram dois produtos que reúnem os requisitos de patenteabilidade e reivindicaram a autoria perante o Instituto Nacional da Propriedade Industrial (INPI). O primeiro recebeu registro de patente na categoria de invenção e, o segundo, a patente na categoria de modelo de utilidade.
+      Assinale a opção que indica o privilégio de exploração que as patentes assegurarão aos autores.
+    alternativas:
+      - Temporário, para ambos.
+      - Vitacílio, para ambos.
+      - Perpétuo, até a terceira geração de descedentes dos autores.
+      - Temporário, para Pio Alves, autor da invenção, e vitalício para Cardoso Moreira, autor do modelo de utilidade.
+  - enunciado: |
+      Quatro pessoas naturais constituíram uma sociedade para exploração de prestação de serviços de entrega domiciliar, mas não se preocuparam em arquivar o documento particular de constituição em qualquer registro.
+      Considerando a situação dessa sociedade e as disposições aplicáveis, assinale a afirmativa correta.
+    alternativas:
+      - Ela se rege pelas normas da sociedade em comum e, subsidiariamente, no que forem compatíveis, pelas normas da sociedade simples.
+      - Ela se rege pelas normas da sociedade em conta de participação e, subsidiariamente e no que forem compatíveis, pelas normas das sociedades por ações.
+      - Ela se rege pelas normas da sociedade simples e, subsidiariamente e no que forem compatíveis, pelas normas da sociedade cooperativa.
+      - Ela se rege pelas normas da companhia e, subsidiariamente e no que forem compatíveis, pelas normas da sociedade limitada.
+  - enunciado: |
+      A partir de 2022, a possibilidade de o local de exercício da atividade empresarial ser virtual passou a ser reconhecido no Código Civil.
+      A respeito desse tema, assinale a afirmativa correta.
+    alternativas:
+      - Quando o local em que se exerce a atividade empresarial for virtual, o endereço informado para fins de registro poderá ser, conforme o caso, o endereço do empresário individual ou o de um dos sócios da sociedade empresária.
+      - Se o empresário ou a sociedade empresária exercer a empresa em local virtual, tal local é denominado pelo Código Civil de “estabelecimento virtual”, com o mesmo significado jurídico de estabelecimento.
+      - Ao contrário do local físico de exercício da empresa, se ele for virtual, a fixação do horário de funcionamento competirá ao Município, observada a regra geral de qualquer horário ou dia da semana, inclusive feriados.
+      - A escolha do local virtual de exercício da empresa impõe ao empresário ou ao administrador da sociedade empresária o dever de comunicar sua alteração à Junta Comercial nos 15 (quinze) dias seguintes.
+  - enunciado: |
+      Felipe propôs ação de reparação de danos contra Gustavo fundada em responsabilidade extracontratual, em razão de Felipe ter sido atacado pelo cachorro de Gustavo, enquanto transitava pela rua perto de sua casa.
+      Em primeira instância, os pedidos formulados por Felipe em sua petição inicial foram julgados totalmente procedentes. Depois da publicação da sentença de procedência, Gustavo interpôs apelação para buscar a reforma integral da sentença.
+      Simultaneamente, Felipe opôs embargos de declaração contra a sentença para obter a majoração dos honorários de sucumbência, considerando que não foi fixado o percentual mínimo previsto no Art. 85, § 2º, do Código de Processo Civil.
+      Sobre essa situação hipotética, assinale a afirmativa que apresenta, corretamente, a conduta que você, como advogado(a) do embargado, deverá adotar.
+    alternativas:
+      - Complementar ou alterar as razões de apelação, se houver o acolhimento dos embargos de declaração opostos por Felipe.
+      - Apresentar nova apelação após o julgamento dos embargos de declaração opostos por Felipe, independentemente do resultado do julgamento dos embargos de declaração.
+      - Ratificar as razões de sua apelação após o julgamento dos embargos opostos por Felipe, sob pena de não conhecimento do recurso de apelação.
+      - Apresentar nova apelação após o julgamento dos embargos de declaração opostos por Felipe se os os embargos de declaração forem acolhidos.
+  - enunciado: |
+      Leonardo adquiriu uma televisão na Loja Francesa pelo valor de R$ 12.000,00 (doze mil reais), quantia que seria paga por meio de cartão de crédito em 12 (doze) parcelas de R$ 1.000,00. Ocorre que, após o pagamento da 6ª (sexta) parcela, a Loja Francesa passou a cobrar R$ 2.000,00 (dois mil reais) de Leonardo nas 6 (seis) parcelas restantes.
+      Por ter constatado a cobrança indevida somente depois de realizar o pagamento integral, Leonardo ajuizou ação pelo procedimento comum em face da Loja Francesa para ser ressarcido em dobro pelo valor indevidamente cobrado na forma do Art. 42, parágrafo único, do Código de Defesa do Consumidor.
+      Depois da contestação e regular instrução, o Juízo da Vara Cível competente proferiu sentença julgando procedente o pedido de Leonardo, com a consequente condenação da Loja Francesa ao pagamento de R$12.000,00, acrescido de correção monetária e juros legais. Ato contínuo, a Loja Francesa interpôs recurso de apelação, que foi desprovido pelo Tribunal de Justiça. Em seguida, a Loja Francesa interpôs recurso especial, porém intempestivamente.
+      Como existiam inúmeros recursos sobre a admissibilidade da devolução em dobro em caso de cobrança indevida contra o consumidor, com fundamento no Art. 42, parágrafo único, do Código de Defesa do Consumidor, essa controvérsia jurídica foi afetada para o rito do julgamento dos recursos repetitivos e implicou o sobrestamento do recurso especial da Loja Francesa.
+      Ato contínuo, Leonardo requereu que o recurso especial da Loja Francesa não fosse sobrestado, uma vez que era intempestivo. Embora intempestivo o recurso, o referido requerimento foi indeferido.
+      Na condição de advogado(a) de Leonardo, assinale a opção que indica o recurso cabível para alterar essa decisão.
+    alternativas:
+      - Reclamação, pois é irrecorrível a decisão que indefere o requerimento de exclusão de sobrestamento do recurso especial impactado pelo procedimento dos recursos especiais repetitivos.
+      - Não será possível interpor qualquer recurso, pois é irrecorrível a decisão que indefere o requerimento de exclusão de sobrestamento do recurso especial impactado pelo procedimento dos recursos especiais repetitivos.
+      - Ação rescisória, pois é irrecorrível a decisão que indefere o requerimento de exclusão de sobrestamento do recurso especial impactado pelo procedimento dos recursos especiais repetitivos.
+      - Agravo interno, pois esse é o recurso cabível contra a decisão que indefere o requerimento de exclusão de sobrestamento do recurso especial impactado pelo procedimento dos recursos especiais repetitivos.
+  - enunciado: |
+      O engenheiro civil José Carlos Silva trabalha em Aracaju/SE. Ele realizou a reforma da casa de Luzia, no valor de R$ 15.000,00 (quinze mil reais). O serviço foi devidamente prestado, sem qualquer reclamação por eventuais falhas por parte de Luzia. Contudo, Luzia não efetuou o pagamento no prazo estipulado.
+      José Carlos procurou Luzia para resolver o pagamento da dívida sem buscar o Poder Judiciário e, após diversas tratativas, Luzia assinou um documento particular em que reconhece a dívida de R$ 15.000,00 (quinze mil reais). O referido instrumento também foi assinado por duas testemunhas. Porém, no prazo estipulado para cumprimento da obrigação, Luzia não efetuou o pagamento e José Carlos ajuizou uma execução de título extrajudicial em face de Luzia.
+      Depois da citação e da ausência do pagamento de Luzia, José Carlos pede ao Juiz que Luzia indique bens sujeitos à penhora, sob pena de multa, pois caso não indique, sua conduta poderá ser considerada atentatória à dignidade da justiça.
+      Sobre o requerimento de José Carlos, assinale a afirmativa correta.
+    alternativas:
+      - José Carlos poderá efetuar esse requerimento, sendo considerada atentatória à dignidade da justiça conduta comissiva ou omissiva da executada que intimada, não indica ao juiz quais são e onde estão os bens sujeitos à penhora e os respectivos valores, nem exibe prova de sua propriedade e, se for o caso, a certidão negativa de ônus.
+      - José Carlos não poderá efetuar esse requerimento, pois não é possível o arbitramento de multa caso Luzia não indique bens sujeitos à penhora.
+      - José Carlos poderá efetuar esse requerimento, sendo possível o arbitramento de multa superior a 30% do valor atualizado da execução, mas não poderá ocorrer nenhuma outra sanção de natureza processual ou material em face da executada
+      - José Carlos não poderá efetuar esse requerimento, pois é sua obrigação indicar os bens possíveis de penhora de Luzia.
+  - enunciado: |
+      Júlio, advogado ainda inexperiente, preocupado com a possibilidade de perder o prazo para oferecer contestação em favor de Roberta, sua cliente que está viajando, indaga a você se ele deve esperar o retorno de Roberta, que esqueceu de fornecer procuração.
+      Diante desse cenário, assinale a afirmativa que, corretamente, apresenta sua orientação.
+    alternativas:
+      - Júlio pode oferecer contestação, independentemente de procuração, desde que junte o instrumento aos autos no prazo de 15 dias, a fim de evitar preclusão.
+      - Júlio pode oferecer contestação, independentemente de instrumento de mandato, apenas se a parte contrária concordar.
+      - Júlio deve aguardar o retorno de Roberta, tendo em vista que o advogado não será admitido a postular em juízo sem procuração.
+      - Júlio, caso os direitos tratados em juízo sejam disponíveis, pode oferecer contestação mesmo que desacompanhada de procuração e, caso os mencionados direitos estejam indisponíveis, ele deve aguardar o retorno de Roberta, tendo em vista que, nesse caso, o advogado não será admitido a postular em juízo sem procuração.
+  - enunciado: |
+      Na qualidade de servidor público estadual, Marcos ajuizou ação pelo procedimento comum contra o Estado de Minas Gerais, buscando obter o pagamento de determinada verba remuneratória que lhe teria sido suprimida de forma administrativa, em contrariedade ao que dispõe a lei.
+      Depois da citação do Estado de Minas Gerais e do regular curso do feito, o juiz responsável pela tramitação da ação julgou procedente o pedido formulado por Marcos, condenando o ente estatal ao pagamento da verba remuneratória. Na sequência, o cartório da serventia do juízo procedeu à intimação eletrônica das partes acerca da sentença, visto tratar-se de processo eletrônico.
+      Sobre a situação hipotética descrita, assinale a afirmativa correta.
+    alternativas:
+      - Caso vislumbre omissão, contradição, obscuridade ou erro material na sentença, o Estado de Minas Gerais poderá opor embargos de declaração, no prazo de 10 (dez) dias úteis, considerando, como início do prazo, o dia útil seguinte à consulta ao teor da intimação ou ao término do prazo para que a consulta se dê, dado que gozará de prazo em dobro para todas as suas manifestações processuais.
+      - O prazo de que disporá o Estado de Minas Gerais para a interposição de eventual recurso de apelação será de 15 (quinze) dias úteis, contados do dia útil seguinte à consulta ao teor da intimação ou ao término do prazo para que a consulta se dê, dado que a intimação da sentença ocorreu de forma eletrônica, não devendo o prazo ser contado em dobro.
+      - O Estado de Minas Gerais poderá alegar a nulidade da intimação, visto não ser lícita a utilização de meio eletrônico para a comunicação de atos processuais, sendo imprescindível a intimação pessoal do ente estatal, que somente se pode dar por carga ou remessa dos autos.
+      - Caso o Estado de Minas Gerais tivesse interposto apelação antes de intimado eletronicamente da sentença, o recurso haveria de ser considerado intempestivo, por ter sido apresentado antes do termo inicial do prazo.
+  - enunciado: |
+      Aline recebeu uma proposta de investimento de Gizé Ltda., instituição que atua no mercado financeiro, que lhe garantiria um retorno fixo mensal de 10% ao mês sobre o capital investido. Crendo tratar-se de um ótimo negócio, Aline transferiu R$ 500.000,00 (quinhentos mil reais) para a conta da Gizé Ltda., que passou a lhe apresentar extratos mensais, apontando um suposto crescimento do capital.
+      Entretanto, alguns meses depois, foi divulgado em um importante veículo de comunicação que a Gizé Ltda. estava sendo investigada pela prática de pirâmide financeira. Muito nervosa, Aline tentou contato telefônico com a instituição, sem sucesso. Depois de inúmeros e-mails, Aline decidiu ir ao estabelecimento onde funcionava a Gizé Ltda., mas encontrou o imóvel abandonado.
+      Constatando tratar-se de um golpe, Aline, por meio de advogado(a), decidiu ajuizar pedido de tutela cautelar em caráter antecedente, com o objetivo de efetivar o arresto de R$ 500.000,00 (quinhentos mil reais), antes de formular o pedido principal, de rescisão do contrato, com devolução do valor depositado, cobrança dos rendimentos contratados e indenização pelos danos morais sofridos.
+      Sobre essa modalidade de tutela provisória, assinale a afirmativa correta.
+    alternativas:
+      - Se o pedido principal formulado por Aline for julgado improcedente, haverá a perda da eficácia da tutela cautelar concedida.
+      - Sendo deferida a tutela cautelar antecedente requerida por Aline, ela deverá ser efetivada no prazo de 60 (sessenta) dias, sob pena de perda da eficácia da tutela cautelar concedida.
+      - Sendo efetivada a tutela cautelar antecedente requerida por Aline, o pedido principal deverá ser formulado no prazo de 15 (quinze) dias, sob pena de perda da eficácia da tutela cautelar concedida.
+      - Se houver a perda da eficácia da tutela cautelar antecedente, tal pedido poderá ser renovado posteriormente, com base nos mesmos fundamentos.
+  - enunciado: |
+      Arthur resolveu furtar os cabos de eletricidade da linha férrea de sua cidade, a fim de revender o cobre, clandestinamente. Contudo, após iniciar o corte para retirar os fios de cobre, foi surpreendido pelo trem, que o atropelou, vindo a sofrer a amputação dos membros inferiores. Arthur foi denunciado como incurso nas penas do delito de furto.
+      Sobre o caso, assinale a afirmativa que apresenta a linha de defesa correta.
+    alternativas:
+      - Deve ser reconhecida a tentativa, com a correspondente diminuição da pena, já que o delito não chegou a se consumar.
+      - Pode ser reduzida a pena diante do arrependimento posterior, uma vez que, em razão do fato, Arthur perdeu os dois membros inferiores.
+      - Arthur deve ser absolvido, pois está-se diante de crime impossível, por absoluta ineficácia do meio.
+      - Arthur pode ser beneficiado com o perdão judicial, diante do sofrimento que lhe foi imposto pelas consequências do delito.
+  - enunciado: |
+      Júlio desferiu um tapa no rosto de Jacinto, que foi projetado contra um poste em que havia um fio de alta tensão exposto, algo que não foi visto nem poderia ser imaginado por Júlio, pois já era noite e havia pouca iluminação. Jacinto recebeu uma forte descarga elétrica, que foi causa suficiente de sua morte.
+      Sobre a responsabilidade de Júlio pelo resultado morte, assinale a afirmativa correta.
+    alternativas:
+      - A descarga elétrica é uma concausa superveniente relativamente independente que, por si só, produziu o resultado morte, devendo Júlio responder por lesão corporal.
+      - Júlio deve responder pelo homicídio doloso de Jacinto, tendo em vista que o resultado morte não teria ocorrido se não fosse a agressão dolosa.
+      - Júlio agiu com dolo no delito antecedente e culpa no consequente, devendo responder por delito preterdoloso de lesão corporal seguida de morte.
+      - A descarga elétrica pode ser imputada a Júlio, ante a violação objetiva de um dever de cuidado, devendo Júlio ser responsabilizado por homicídio culposo.
+  - enunciado: |
+      Joaquim dirigia-se a uma agência bancária para sacar o valor de sua aposentadoria. Todavia, às 10h, ao se aproximar do estabelecimento, foi abordado por Gilson que, com emprego de arma de fogo, ordenou que Joaquim entrasse em seu carro.
+      Em seguida, Gilson conduziu o veículo até um motel e, mediante ameaça de morte, exigiu que a vítima transferisse valores para a conta bancária de Gilson, por meio de operações via PIX e TED, sendo certo que houve restrição da liberdade da vítima por tempo relevante, condição necessária para obtenção da vantagem de R$ 12.000,00 (doze mil reais) efetivamente auferida em desfavor de Joaquim, após o que Gilson liberou a vítima.
+      Diante do cenário descrito, assinale a opção que indica o(s) crime(s) praticados por Gilson.
+    alternativas:
+      - Extorsão mediante restrição da liberdade da vítima.
+      - Roubo circunstanciado pelo emprego de arma de fogo.
+      - Extorsão mediante sequestro.
+      - Sequestro ou cárcere privado.
+  - enunciado: |
+      Paulo é investigado em um Inquérito Policial pelos crimes de ameaça e lesão corporal em face de sua esposa, Maria. Ao longo da investigação, foi decretada medida protetiva de afastamento de 1.000m em relação à vítima.
+      Posteriormente, movido por ciúmes em razão de uma mensagem de Maria a um amigo, Paulo foi ao encontro dela com o intuito de questioná-la sobre o fato, violando a medida protetiva da qual já havia sido regularmente intimado.
+      Tendo em vista o que preconiza a Lei nº 11.340/2006, está correto afirmar que Paulo
+    alternativas:
+      - praticou um crime de ação penal pública incondicionada.
+      - está incurso nas penas de um crime inafiançável.
+      - cometeu uma contravenção penal que comporta o oferecimento de proposta de suspensão condicional do processo.
+      - pode ser submetido a um decreto de prisão preventiva em seu desfavor, mas não cometeu crime.
+  - enunciado: |
+      Antônio, funcionário público, foi designado como servidor responsável por conduzir a licitação de um Hospital Público que desejava adquirir 100.000 (cem mil) doses de um determinado medicamento.
+      Patrícia, funcionária da sociedade empresária Medicante Ltda., descobre o contato de Antônio e, de seu celular pessoal, manda um áudio no qual se oferece para dividir sua comissão com o funcionário público caso a sua empresa fosse a vencedora. O valor da comissão de Patrícia era de R$50.000,00 (cinquenta mil reais), em caso de vitória na licitação.
+      Antônio, indignado com a proposta de Patrícia, encaminha os fatos aos seus superiores que enviam Notícia de Crime à autoridade policial com atribuição para investigar os fatos.
+      Tomando por base o fato de não ter havido o pagamento do valor oferecido, assinale a opção que indica o crime pelo qual Patrícia poderá ser responsabilizada.
+    alternativas:
+      - Corrupção ativa consumada, na medida em que o crime é formal, bastando o oferecimento da vantagem ilícita ao servidor público para a sua consumação.
+      - Corrupção passiva tentada, na medida em que o crime é material, sendo necessário o efetivo pagamento da vantagem indevida para o crime ser consumado.
+      - Corrupção passiva consumada, na medida em que o crime é formal, bastando o oferecimento da vantagem ilícita ao servidor público para a sua consumação.
+      - Corrupção ativa tentada, na medida em que o crime é material, sendo necessário o efetivo pagamento da vantagem indevida para o crime ser consumado.
+  - enunciado: |
+      O médico João dos Santos, durante a realização de uma cirurgia na perna de um paciente, cometeu um erro que acabou provocando a necessária amputação do membro do paciente.
+      A pena cominada à lesão corporal culposa é de dois meses a um ano, à lesão corporal grave é de um a cinco anos e à lesão corporal gravíssima, de dois a oito anos.
+      Sobre a atuação do médico João Santos, assinale a afirmativa correta.
+    alternativas:
+      - Ele cometeu o crime de lesão corporal culposa, devendo sua conduta ser julgada perante o Juizado Especial Criminal, o que, pela pena abstratamente cominada, torna aplicáveis, em tese, as medidas despenalizadoras da Lei nº 9.099/95.
+      - Ele, apesar de não ter atuado com dolo, cometeu o crime de lesão corporal gravíssima em razão da perda de membro do paciente, não fazendo jus a nenhuma das medidas despenalizadoras da Lei nº 9.099/95, devendo o caso ser julgado perante a Vara Criminal.
+      - Ele, apesar de não ter atuado com dolo, cometeu o crime de lesão corporal grave em razão da inutilização do membro e, apesar de ser julgado perante a Vara Criminal, fará jus à suspensão condicional do processo, medida despenalizadora prevista na Lei nº 9.099/95.
+      - Ele cometeu o crime de lesão corporal gravíssima em razão da perda de membro do paciente, apesar de não ter atuado com dolo, e, em função da pena cominada ao delito, fará jus à suspensão condicional do processo, medida despenalizadora prevista na Lei nº 9.099/95.
+  - enunciado: |
+      Luís Vicente, secretário de fazenda do Município Alfa, foi ofendido por Iório, secretário de fazenda do Estado Beta, que, durante discurso na tribuna da Câmara dos Vereadores, afirmou que “Luís Vicente comete peculato, desviando recursos do caixa municipal em proveito próprio e de seus familiares!”
+      Luís Vicente procurou você, como advogado(a), para que você o oriente sobre a medida cabível para responsabilizar Iório pela ofensa à sua honra.
+      Nesse contexto, é correto afirmar que Luís Vicente
+    alternativas:
+      - pode optar entre ajuizar queixa-crime em face de Iório ou oferecer representação ao Ministério Público.
+      - só pode ajuizar uma queixa-crime em face de Iório, pois o delito contra a honra desafia ação penal privada.
+      - pode oferecer representação contra Iório ao Ministério Público, pois sua qualidade de servidor público impõe a ação penal pública na defesa de sua honra.
+      - não pode fazer nada a respeito, diante da imunidade material de Iório, pela sua qualidade de ocupante de cargo político.
+  - enunciado: |
+      Vanessa, primária e sem antecedentes, grávida de seis meses, foi presa em flagrante no aeroporto no momento em que embarcava com destino à Espanha de posse de 10kg de substância entorpecente (cocaína). Vanessa foi autuada pela prática do crime de tráfico internacional de drogas (Art. 33, caput, c/c. Art. 40, inciso I, ambos da Lei nº 11.343/06).
+      Sobre a possibilidade de prisão domiciliar em favor de Vanessa, assinale a afirmativa correta.
+    alternativas:
+      - A natureza não violenta do delito imputado e a gestação de Vanessa autorizam a concessão de prisão domiciliar.
+      - A quantidade de drogas apreendida e a transnacionalidade do delito obstam a concessão de prisão domiciliar.
+      - O pedido de prisão domiciliar é injustificável, tendo em vista que Vanessa ainda está no sexto mês de gestação.
+      - Apenas se houver comprovação de gravidez de risco haverá previsão legal que justifique a concessão de prisão domiciliar.
+  - enunciado: |
+      Juliano foi definitivamente condenado à pena de 8 (oito) anos de reclusão, em regime inicial fechado. Após 2 (dois) anos de cumprimento da pena, foi detectado que Juliano passou a ter uma doença mental grave, tornando-o inteiramente incapaz de compreender o caráter ilícito dos fatos pelos quais havia sido condenado.
+      Neste caso, como advogado(a) de Juliano, você deverá
+    alternativas:
+      - postular ao Juiz da Execução Penal a conversão da pena em medida de segurança.
+      - ajuizar uma ação de revisão criminal, postulando a substituição da pena privativa de liberdade por medida de segurança.
+      - suscitar incidente de insanidade mental do acusado, a fim de apurar a integridade mental de Juliano ao tempo da ação criminosa.
+      - solicitar que Juliano seja colocado em prisão-albergue domiciliar, como medida substitutiva do encarceramento.
+  - enunciado: |
+      Roberto Jorge, após regular pronúncia, foi levado a Júri, ocasião em que foi mantido algemado durante toda a sessão de julgamento, com a justificativa de ser pessoa de índole perigosa, já que responde à acusação por crime doloso contra a vida. A defesa técnica impugnou, sem sucesso, a determinação do Juízo.
+      O Ministério Público, em plenário, postulou a condenação do acusado, asseverando que sua periculosidade fica comprovada pela necessidade do uso de algemas durante o julgamento.
+      Roberto Jorge foi condenado pelo Conselho de Sentença, tendo sido aplicada pena privativa de liberdade de 15 (quinze) anos de reclusão. Você, como advogado(a) de Roberto Jorge, interpôs apelação criminal.
+      Assinale a afirmativa que apresenta, corretamente, o objetivo da sua demanda.
+    alternativas:
+      - Arguir a nulidade posterior à pronúncia, em razão da manutenção do réu algemado, sem necessidade concreta, e da referência a este fato pelo órgão do Ministério Público.
+      - Postular a reforma da sentença, com a absolvição do acusado, pois este foi prejudicado no julgamento em razão do uso artbitrário de algemas.
+      - Arguir a nulidade da sessão de julgamento, em razão da manutenção do réu algemado; a manifestação do Ministério Público, contudo, não é vedada pela lei processual.
+      - Postular a redução das penas aplicadas pelo Juiz-Presidente, pois o uso de algemas e sua menção como argumento de autoridade não caracterizam nenhuma nulidade.
+  - enunciado: |
+      Depois do recebimento de denúncia anônima, a delegacia iniciou a verificação preliminar de informações e colheu indícios de que Juca desenvolvia atividades ilícitas de telecomunicações (pena: detenção, 2 a 4 anos).
+      A fim de melhor apurar os fatos, foi instaurado inquérito policial e o delegado de polícia representou pela interceptação das comunicações telefônicas de Juca, o que foi deferido pelo Juiz.
+      A fim de anular as provas colhidas a partir da interceptação telefônica, você, na condição de advogado(a) de defesa de Juca, deve alegar que
+    alternativas:
+      - não é cabível a interceptação quando o ilícito apurado for punível com pena de detenção.
+      - a pena mínima de 2 (dois) anos não autoriza o deferimento de interceptação.
+      - o delegado de polícia não é legitimado a representar pela interceptação telefônica.
+      - a ausência de contraditório, antes do deferimento da interceptação, é causa de nulidade.
+  - enunciado: |
+      Suelen ajuizou queixa-crime contra Bolívar, pela prática do crime de exercício arbitrário das próprias razões praticado sem violência ou grave ameaça, previsto no Art. 345, caput e parágrafo único, do CP, cuja pena cominada é de detenção de quinze dias a um mês, ou multa.
+      A queixa-crime foi ajuizada perante o Juízo competente, que, após todo o trâmite preliminar, sendo infrutífero qualquer tipo de solução negociada, já na audiência de instrução e julgamento, rejeitou a queixa.
+      Diante do caso narrado, como advogado(a) de Suelen, assinale a opção que indica o recurso que deve ser interposto.
+    alternativas:
+      - Apelação, a ser interposta no Juizado Especial Criminal, já acompanhada de razões recursais dirigidas à Turma Recursal.
+      - Recurso em Sentido Estrito, interposto na Vara Criminal. As razões podem ser apresentadas diretamente no Tribunal.
+      - Apelação, a ser interposta na Vara Criminal. As razões podem ser apresentadas diretamente na Turma Recursal.
+      - Recurso em Sentido Estrito, interposto no Juizado Especial Criminal, acompanhado de razões recursais dirigidas à Turma Recursal.
+  - enunciado: |
+      José, mecânico, contando com 12 (doze) meses de contribuição para a Previdência Social, sofreu acidente de trabalho, tornando-se tetraplégico. Em razão do acidente, ficou completamente incapacitado para o trabalho.
+      Diante dessas condições, assinale a afirmativa correta.
+    alternativas:
+      - José, caso se recupere e volte a trabalhar voluntariamente, terá sua aposentadoria cancelada automaticamente, a partir da data do retorno.
+      - José não terá direito à aposentadoria por incapacidade permanente, uma vez que não cumpriu a carência mínima de 24 (vinte e quatro) meses de contribuição.
+      - José, necessitando da assistência permanente de outra pessoa, terá acrescido o valor da sua aposentadoria por incapacidade permanente em até 50% (cinquenta por cento).
+      - José, sendo portador de doença ou lesão ao filiar-se ao Regime Geral de Previdência Social, não terá direito à aposentadoria por incapacidade permanente, ainda que a incapacidade sobrevenha, após a filiação, por motivo de progressão ou agravamento dessa doença ou lesão.
+  - enunciado: |
+      Manoel é segurado de baixa renda, tendo sido recolhido à prisão, em regime fechado, no dia 01/01/2022. Antes da prisão, ele recolheu 12 contribuições mensais à Previdência Social e tem, como único dependente, o filho Maurício, de 19 anos.
+      Diante destas considerações, sobre o auxílio-reclusão assinale a afirmativa correta.
+    alternativas:
+      - Maurício não faz jus ao benefício do auxílio-reclusão, uma vez que seu pai, Manoel, não cumpriu a carência de 24 (vinte e quatro) meses.
+      - Maurício, apesar de Manoel cumprir a carência exigida, não faz jus ao benefício do auxílio-reclusão por possuir mais de 18 (dezoito) anos.
+      - Caso Manoel venha a exercer atividade, ainda que em regime fechado, haverá a perda do direito ao recebimento do auxílio-reclusão para seu dependente.
+      - O requerimento de Manoel solicitando o auxílio-reclusão deve ser instruído com a certidão de nascimento do dependente, sem a necessidade de certidão sobre o seu recolhimento à prisão.
+  - enunciado: |
+      Os sindicatos de classe de uma determinada categoria elaboraram uma convenção coletiva normatizando o pagamento do adicional de penosidade. A norma previa vigência de 2 (dois) anos, com término em outubro de 2023.
+      Considerando esses fatos e o que dispõe a CLT, assinale a afirmativa correta.
+    alternativas:
+      - Ao término da vigência da norma coletiva, caso ela não seja renovada, os trabalhadores perderão o direito ao adicional.
+      - Mesmo com a vigência encerrada, os trabalhadores que recebiam o adicional possuem direito adquirido, e o pagamento deve prosseguir.
+      - Os trabalhadores que já recebiam o adicional continuarão com o direito se isso for homologado pelo Ministério do Trabalho.
+      - A vantagem se incorpora ao contrato de trabalho dos empregados ativos, e os admitidos posteriormente ao dies ad quem da norma coletiva não a receberão.
+  - enunciado: |
+      Alexandre, Reginaldo e Maurício eram empregados da mesma sociedade empresária, mas em períodos distintos.
+      Alexandre pediu demissão após 2 (dois) anos de trabalho, pois já estava cansado de trabalhar para o mesmo empregador e já era idoso contando com 71 (setenta e um) anos de idade. Reginaldo se aposentou após 3 (três) anos, pois já contava com idade e tempo de serviço anterior, apesar de ter 62 (sessenta e dois) anos.
+      Maurício foi dispensado sem justa causa, após quatro meses, mesmo sendo jovem e contando com 25 (vinte e cinco) anos de idade.
+      Os três consultaram você, como advogado(a), acerca da possibilidade de levantamento imediato dos valores depositados a título de FGTS dos contratos terminados.
+      Observando a legislação em vigor e adstrito aos dados do enunciado, assinale a afirmativa que apresenta, corretamente, sua orientação.
+    alternativas:
+      - Os três poderão receber, imediatamente, os valores do FGTS.
+      - Alexandre e Maurício não poderão receber os valores imediatamente, pois um pediu demissão e o outro teve contrato inferior a seis meses.
+      - Apenas Alexandre não poderá movimentar sua conta vinculada e receber os valores imediatamente.
+      - Apenas Maurício, por haver sido dispensado sem justa causa, tem direito ao recebimento imediato do FGTS.
+  - enunciado: |
+      Reinaldo, trabalhador rural, atua na Fazenda Boa Esperança como tratorista desde 1990. Em janeiro de 2021, o empregador de Reinaldo o dispensou sem justa causa, sendo que o ex-empregado ajuizou reclamação trabalhista em novembro de 2023.
+      Sobre a situação apresentada, nos termos da Constituição Federal, assinale a afirmativa correta.
+    alternativas:
+      - Caso o reclamado suscite em defesa a prescrição extintiva, o juiz deverá acolhê-la.
+      - A prescrição para o trabalhador rural só tem início após uma prestação de contas, que não foi feita, razão pela qual não existe prescrição total.
+      - Como forma de proteção especial ao empregado rural, a lei garante que a ação possa ser proposta em até 5 (cinco) anos da extinção do contrato.
+      - Somente se as verbas da extinção forem quitadas no sindicato de classe rural é que a prescrição bimestral terá início.
+  - enunciado: |
+      Em 2024, uma companhia imobiliária contratou Olívia como estagiária. Olívia foi designada para trabalhar em regime de teletrabalho (trabalho em domicílio, home office) na confecção de planilhas de locatários inadimplentes, que, em seguida, são enviadas ao setor jurídico da sociedade empresária.
+      Considerando os fatos e o que dispõe a CLT, assinale a afirmativa correta.
+    alternativas:
+      - Se for conveniente para as partes, o regime de teletrabalho pode ser adotado nos contratos de estágio.
+      - O regime de teletrabalho é incompatível com o estágio, por frustrar o seu objetivo principal que é a vivência prática das rotinas.
+      - Havendo autorização prévia do Juiz do Trabalho, é possível, em caráter excepcional, o regime de teletrabalho no estágio.
+      - Somente se estivesse na cota de estagiário com deficiência, ela poderia trabalhar em regime de teletrabalho.
+  - enunciado: |
+      A empresa de trabalho temporário Sempre Alerta Ltda. terceirizará o serviço de limpeza da sociedade empresária Extintores Infalíveis Ltda., nela alocando 10 (dez) auxiliares de limpeza que se revezarão em turnos de 12 x 36 horas.
+      No contrato apresentado, que vigora a partir de janeiro de 2024, por 180 dias, e é regido pela Lei nº 6.019/74, existe cláusula de reserva que proíbe a contratação de qualquer auxiliar pela empresa tomadora ao fim do prazo em que ele tenha sido colocado à sua disposição.
+      Considerando os fatos e a norma de regência, assinale a afirmativa correta.
+    alternativas:
+      - A cláusula de reserva é nula de pleno direito.
+      - A cláusula de reserva é válida, se ambas as partes a aceitarem.
+      - Para a validade da cláusula de reserva, é necessária a chancela do sindicato de classe dos empregadores.
+      - A inserção da cláusula de reserva é possível, desde que prevista em acordo coletivo de trabalho.
+  - enunciado: |
+      Você advoga para o empregado, credor em uma reclamação trabalhista cuja decisão transitou em julgado.
+      A liquidação de sentença foi promovida e, após manifestações das partes, foi homologado o cálculo da parte ré. Você continua entendendo que há erro nos cálculos homologados e pretende continuar a discutir a matéria.
+      Diante disso, assinale a opção que apresenta a medida a ser adotada no interesse do seu cliente.
+    alternativas:
+      - Após a garantia da execução ou penhorados os bens, você poderá apresentar impugnação à sentença de liquidação em cinco dias.
+      - Deverá ser apresentado embargos à execução no prazo de cinco dias independentemente da garantia da execução ou da penhora.
+      - Não cabe qualquer medida, uma vez que se operou a preclusão, pois já houve manifestação sobre a conta de liquidação.
+      - Na sua manifestação, a ser feita em dez dias após a garantia do juízo, não há restrição de matéria, podendo ser discutido não só os cálculos, mas também a sentença de conhecimento.
+  - enunciado: |
+      Jeferson trabalhou em São Paulo de 2018 a 2023, quando foi dispensado sem justa causa e voltou para sua cidade de origem, Fortaleza/CE. Entendendo ter realizado sobrejornada sem receber, Jeferson contratou um advogado na sua cidade que ajuizou reclamação trabalhista distribuída a uma das Varas de Fortaleza/CE requerendo o pagamento de horas extras.
+      A ex-empregadora foi citada para a audiência, que ocorrerá em quatro meses, mas pretende deslocar o feito para São Paulo, pois foi o único local da prestação de serviços e onde o autor foi contratado. Para tanto, a ex-empregadora o(a) contratou como advogado(a).
+      Na qualidade de advogado(a) da sociedade empresária, considerando os fatos e o que dispõe a CLT, assinale a afirmativa correta.
+    alternativas:
+      - A sociedade empresária deverá apresentar a exceção de incompetência territorial em cinco dias úteis, contados da citação.
+      - A sociedade empresária poderá apresentar a exceção de incompetência territorial até a audiência.
+      - A sociedade empresária deve apresentar a exceção de incompetência territorial em até dez dias corridos, contados da citação.
+      - Não se poderá apresentar exceção de incompetência territorial, porque a ação pode ser ajuizada no domicílio do autor, ainda que não coincida com o local da prestação dos serviços.
+  - enunciado: |
+      Em determinada reclamação trabalhista, com a presença das partes e dos advogados, ocorreu a 1ª audiência apenas para a tentativa de conciliação, que não teve sucesso. Então, o juiz recebeu a defesa e deferiu as provas testemunhais e os depoimentos pessoais recíprocos, sob pena de confissão, designando a data da instrução.
+      Chegado o dia da audiência de instrução, as partes foram apregoadas e nenhuma delas estava presente, não havendo qualquer justificativa para as ausências.
+      Assinale a opção que indica o que deve ocorrer com esse processo.
+    alternativas:
+      - O magistrado julgará de acordo com a distribuição do ônus da prova.
+      - O juiz deverá designar nova audiência.
+      - O juiz deve aplicar a confissão somente em desfavor do autor.
+      - O processo será arquivado.
+  - enunciado: |
+      Você é advogado de um trabalhador em sede de reclamação trabalhista. Em que pese o direito de seu cliente ser constitucionalmente assegurado, pois se trata de férias não gozadas um ano após o período aquisitivo, que tampouco foram indenizadas, a sentença de primeiro grau considerou o pedido improcedente. Do mesmo modo o recurso pertinente contra essa decisão também teve o provimento negado.
+      Diante disso, considerando a decisão contrária ao dispositivo constitucional, você interpôs o recurso cabível, que não foi admitido sob a alegação de que não preenchia os pressupostos para tanto.
+      Diante disso, assinale a afirmativa que apresenta, corretamente, a medida a ser adotada no interesse do seu cliente, sendo certo que as decisões não contêm nenhum vício de dúvida, omissão, obscuridade ou contradição.
+    alternativas:
+      - Agravo de Instrumento.
+      - Recurso de Revista.
+      - Recurso Extraordinário.
+      - Agravo de Petição.
+  - enunciado: |
+      Em sede de reclamação trabalhista na qual você advoga para o empregado, foi celebrado acordo entre as partes ainda na fase de conhecimento, antes da prolação da sentença.
+      Na petição de lavra conjunta entre os advogados das partes nada constou acerca das custas processuais. Seu cliente é beneficiário da gratuidade de justiça, conforme decisão constante do processo desde o início.
+      Sobre as custas processuais, considerando o silêncio das partes e havendo acordo, segundo o texto da CLT, assinale a afirmativa correta.
+    alternativas:
+      - As custas deverão incidir em 2% sobre o valor do acordo e serão divididas em frações iguais pelas partes, sendo que, no caso de seu cliente, não haverá o pagamento por força da gratuidade de justiça.
+      - As custas deverão incidir em 10% sobre o valor do acordo e serão integralmente recolhidas pela parte ré.
+      - As custas deverão incidir em 2% sobre o valor do acordo e ficarão integralmente sob responsabilidade da parte autora que, na hipótese, está dispensada do recolhimento por força da gratuidade de justiça.
+      - As custas deverão incidir em 5% sobre o valor da causa, já que não houve prolação de sentença, e serão rateadas igualmente pelas partes, dispensado o autor do recolhimento pela gratuidade de justiça.
